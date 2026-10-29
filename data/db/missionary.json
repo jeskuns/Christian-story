@@ -2,7 +2,7 @@
   "category": "missionary",
   "label": "宣教士故事",
   "count": 11,
-  "updated_at": "2026-10-29T15:57:54.056351+08:00",
+  "updated_at": "2026-10-29T16:30:53.350036+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -26,7 +26,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:55:13.961079",
+      "fetched_at": "2026-10-29T08:29:46.619631",
       "extra": {
         "feed_type": "rss20"
       }
@@ -53,7 +53,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:55:14.048886",
+      "fetched_at": "2026-10-29T08:29:46.809908",
       "extra": {
         "feed_type": "rss20"
       }
@@ -80,7 +80,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:55:14.344592",
+      "fetched_at": "2026-10-29T08:29:47.282458",
       "extra": {
         "feed_type": "rss20"
       }
@@ -107,7 +107,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:55:14.597163",
+      "fetched_at": "2026-10-29T08:29:47.855138",
       "extra": {
         "feed_type": "rss20"
       }
@@ -134,7 +134,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:55:14.744194",
+      "fetched_at": "2026-10-29T08:29:48.240059",
       "extra": {
         "feed_type": "rss20"
       }
@@ -162,7 +162,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:55:14.905854",
+      "fetched_at": "2026-10-29T08:29:48.465701",
       "extra": {
         "feed_type": "rss20"
       }
@@ -192,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:55:15.196670",
+      "fetched_at": "2026-10-29T08:29:48.786205",
       "extra": {
         "feed_type": "rss20"
       }
@@ -224,7 +224,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:55:15.387446",
+      "fetched_at": "2026-10-29T08:29:49.011793",
       "extra": {
         "feed_type": "rss20"
       }
@@ -257,7 +257,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:55:15.547330",
+      "fetched_at": "2026-10-29T08:29:49.627804",
       "extra": {
         "feed_type": "rss20"
       }
@@ -290,7 +290,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:55:15.721873",
+      "fetched_at": "2026-10-29T08:29:49.948827",
       "extra": {
         "feed_type": "rss20"
       }
@@ -315,7 +315,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:55:16.412900",
+      "fetched_at": "2026-10-29T08:29:48.684370",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
