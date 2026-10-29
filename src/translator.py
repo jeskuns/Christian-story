@@ -95,17 +95,19 @@ class Translator:
             return self.cache[key]
 
         result = ""
-        for provider in ("mymemory", "google"):
-            try:
-                result = getattr(self, f"_{provider}")(text, src)
-            except Exception as e:
-                logger.debug(f"翻译源 {provider} 失败: {e}")
-                result = ""
-            if result:
-                break
-            time.sleep(self.delay)
+        # 长文本（正文摘抄）直走本地离线翻译，避免云端接口 500 字符限制与配额
+        if len(text) <= 450:
+            for provider in ("mymemory", "google"):
+                try:
+                    result = getattr(self, f"_{provider}")(text, src)
+                except Exception as e:
+                    logger.debug(f"翻译源 {provider} 失败: {e}")
+                    result = ""
+                if result:
+                    break
+                time.sleep(self.delay)
 
-        # 云端配额用尽或失败时，回退本地离线翻译（不限量、无密钥）
+        # 云端失败或长文本，回退本地离线翻译（不限量、无配额）
         if not result and self.use_offline:
             result = self._argos_translate(text, src)
 
@@ -222,9 +224,24 @@ class Translator:
                 sdone += 1
             time.sleep(self.delay)
 
+        # 正文摘抄翻译（离线 argos，长文本直走本地、无配额限制）
+        ctext = [
+            a for a in articles
+            if (a.language or "").lower().startswith("en")
+            and a.content and not (a.content_zh or "")
+        ]
+        clist = ctext if max_items is None else ctext[:max_items]
+        cdone = 0
+        for a in clist:
+            zh = self.translate(a.content[:2200], "en")
+            if zh:
+                a.content_zh = zh
+                cdone += 1
+            time.sleep(self.delay)
+
         self.save_cache()
         logger.info(
-            f"翻译完成: 标题 {done}/{len(title_pending)} 条、摘要 {sdone}/{len(summary_pending)} 条"
-            f"已转为中文（缓存共 {len(self.cache)} 条）"
+            f"翻译完成: 标题 {done}/{len(title_pending)} 条、摘要 {sdone}/{len(summary_pending)} 条、"
+            f"正文 {cdone}/{len(ctext)} 条已转为中文（缓存共 {len(self.cache)} 条）"
         )
         return done

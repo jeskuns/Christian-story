@@ -2,7 +2,7 @@
 <article class="story-card cat-{{ article.category }}" data-source="{{ article.source }}">
   {% if article.image %}
   <a class="cover-link" href="{{ article.url }}" target="_blank" rel="noopener">
-    <img class="cover" src="{{ article.image }}" alt="" loading="lazy">
+    <img class="cover" src="{{ article.image }}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">
   </a>
   {% endif %}
   <div class="body">
@@ -13,8 +13,8 @@
     </div>
     <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title_zh or article.title }}</a></h3>
     {% if article.title_zh %}<div class="title-original">{{ article.title }}</div>{% endif %}
-    {% if article.content %}
-    <div class="story-text">{{ article.content[:1500] }}</div>
+    {% if article.content_zh or article.content %}
+    <div class="story-text">{{ (article.content_zh or article.content)[:1500] }}</div>
     {% elif article.summary_zh or article.summary %}
     <p class="story-excerpt">{{ article.summary_zh or article.summary }}</p>
     {% endif %}

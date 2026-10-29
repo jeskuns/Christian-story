@@ -156,7 +156,10 @@ a:hover { color: var(--accent-dark); }
 .read-more:hover { text-decoration: underline; }
 
 /* ---------- 侧栏 ---------- */
-.sidebar { display: flex; flex-direction: column; gap: 18px; }
+.sidebar {
+  display: flex; flex-direction: column; gap: 18px;
+  position: sticky; top: 80px; align-self: start;
+}
 .widget {
   background: var(--surface); border: 1px solid var(--border);
   border-radius: 14px; padding: 16px 18px; box-shadow: var(--shadow);

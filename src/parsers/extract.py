@@ -9,6 +9,7 @@
 import logging
 import requests
 from bs4 import BeautifulSoup
+from ..utils import abs_url
 
 logger = logging.getLogger(__name__)
 
@@ -73,13 +74,18 @@ def _image_from_html(html: str, base_url: str = "") -> str:
     for prop in ("og:image", "og:image:url", "og:image:secure_url"):
         tag = soup.find("meta", property=prop) or soup.find("meta", attrs={"name": prop})
         if tag and tag.get("content"):
-            return tag["content"]
+            return abs_url(base_url, tag["content"])
     tag = soup.find("meta", attrs={"name": "twitter:image"})
     if tag and tag.get("content"):
-        return tag["content"]
+        return abs_url(base_url, tag["content"])
     img = soup.find("img", src=True)
-    if img and str(img["src"]).startswith("http"):
-        return img["src"]
+    if img and img.get("src"):
+        src = img["src"]
+        if src.startswith("//"):
+            src = "https:" + src
+        if src.startswith("http"):
+            return src
+        return abs_url(base_url, src)
     return ""
 
 
