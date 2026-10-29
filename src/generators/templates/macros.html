@@ -1,0 +1,24 @@
+{% macro story_card(article, category_labels) %}
+<article class="story-card cat-{{ article.category }}" data-source="{{ article.source }}">
+  {% if article.image %}
+  <a class="cover-link" href="{{ article.url }}" target="_blank" rel="noopener">
+    <img class="cover" src="{{ article.image }}" alt="" loading="lazy">
+  </a>
+  {% endif %}
+  <div class="body">
+    <div class="story-meta">
+      <span class="category-tag cat-{{ article.category }}">{{ category_labels.get(article.category, article.category) }}</span>
+      <span class="source">{{ article.source }}</span>
+      {% if article.published %}<span class="date">{{ article.published }}</span>{% endif %}
+    </div>
+    <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title_zh or article.title }}</a></h3>
+    {% if article.title_zh %}<div class="title-original">{{ article.title }}</div>{% endif %}
+    {% if article.content %}
+    <div class="story-text">{{ article.content[:1500] }}</div>
+    {% elif article.summary_zh or article.summary %}
+    <p class="story-excerpt">{{ article.summary_zh or article.summary }}</p>
+    {% endif %}
+    <a class="read-more" href="{{ article.url }}" target="_blank" rel="noopener">阅读全文 →</a>
+  </div>
+</article>
+{% endmacro %}

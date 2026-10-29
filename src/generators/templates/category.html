@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% from "macros.html" import story_card %}
+{% block title %}{{ label }} - 基督教世界故事{% endblock %}
+{% block content %}
+<section class="hero hero--compact">
+  <div class="hero-main">
+    <h1>{{ icon }} {{ label }}</h1>
+    <p class="hero-sub">精选 {{ count }} 篇 / 共 {{ total }} 篇，来自 {{ sources|length }} 个信息源。</p>
+  </div>
+  <div class="hero-tools">
+    <a class="link-pill" href="../all.html">查看全部 {{ total }} 篇</a>
+  </div>
+</section>
+
+<section class="filters">
+  <input type="text" id="filter-input" placeholder="搜索标题或正文…">
+  <select id="source-filter">
+    <option value="">全部来源</option>
+    {% for s in sources %}
+    <option value="{{ s }}">{{ s }}</option>
+    {% endfor %}
+  </select>
+</section>
+
+<section class="story-list" id="story-list">
+  {% for article in articles %}
+  {{ story_card(article, category_labels) }}
+  {% endfor %}
+</section>
+{% endblock %}

@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% from "macros.html" import story_card %}
+{% block title %}基督教世界故事 - 首页{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="hero-main">
+    <h1>基督教世界故事</h1>
+    <p class="hero-sub">每日采集全球宣教士、属灵伟人与平信徒的属灵小故事 · 精选 {{ featured_count }} 篇 / 共 {{ total }} 篇，可作灵修与讲道参考</p>
+  </div>
+  <div class="hero-tools">
+    <span class="updated-pill">更新于 {{ updated_at }}</span>
+    <a class="link-pill" href="all.html">查看全部 {{ total }} 篇</a>
+  </div>
+</section>
+
+<section class="cat-cards">
+  {% for key, c in categories.items() %}
+  <a class="cat-card cat-{{ key }}" href="categories/{{ key }}.html">
+    <span class="cat-icon">{{ c.icon }}</span>
+    <span class="cat-name">{{ c.label }}</span>
+    <span class="cat-count">{{ c.count }} 篇</span>
+  </a>
+  {% endfor %}
+</section>
+
+<div class="home-layout">
+  <div class="main-col">
+    <section class="timeline">
+      {% for date, items in date_groups.items() %}
+      <div class="date-section" id="date-{{ date }}">
+        <div class="date-header">
+          <h2>
+            <span class="date-badge">{{ date }}</span>
+            <span class="date-label">{{ date_weekday[date] }}</span>
+          </h2>
+          <span class="date-count">{{ items|length }} 篇</span>
+        </div>
+        <div class="story-list">
+          {% for article in items %}
+          {{ story_card(article, category_labels) }}
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+    </section>
+  </div>
+
+  <aside class="sidebar">
+    <div class="widget">
+      <h3>按分类浏览</h3>
+      <div class="cat-nav">
+        {% for key, c in categories.items() %}
+        <a class="cat-link cat-{{ key }}" href="categories/{{ key }}.html">{{ c.icon }} {{ c.label }} <span>{{ c.count }}</span></a>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="widget note-widget">
+      <h3>使用说明</h3>
+      <p>故事正文由系统自动采集并摘抄，标题与摘要已译为中文；原文链接置于「阅读全文」。</p>
+      <p>内容版权归原作者与来源所有，仅供个人灵修与讲道参考，请以官方来源为准。</p>
+    </div>
+  </aside>
+</div>
+{% endblock %}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#9c4a2e">
+  <title>{% block title %}基督教世界故事{% endblock %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.cn">
+  <link rel="preconnect" href="https://fonts.gstatic.cn" crossorigin>
+  <link href="https://fonts.googleapis.cn/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ root }}assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="{{ root }}index.html" class="logo">
+        <span class="logo-mark">✚</span>
+        <span class="logo-text">基督教<em>世界故事</em></span>
+      </a>
+      <nav class="main-nav">
+        <a href="{{ root }}index.html">首页</a>
+        <a href="{{ root }}categories/missionary.html">宣教士</a>
+        <a href="{{ root }}categories/giant.html">属灵伟人</a>
+        <a href="{{ root }}categories/lay.html">平信徒</a>
+        <a href="{{ root }}categories/devotional.html">灵修小品</a>
+        <a href="{{ root }}sources.html">信息源</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>基督教世界故事 · 每日自动采集全球属灵小故事 · 共 {{ total }} 篇资料</p>
+      <p class="disclaimer">本站为静态聚合示例，故事正文版权归原始来源所有；内容仅供个人灵修与讲道参考，请以官方来源为准。</p>
+    </div>
+  </footer>
+  <script src="{{ root }}assets/js/main.js"></script>
+</body>
+</html>

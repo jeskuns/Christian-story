@@ -1,0 +1,193 @@
+# 基督教世界故事 · 信息源配置
+# category 取值: missionary(宣教士故事), giant(属灵伟人), lay(平信徒见证), devotional(灵修小品)
+# parser 取值: rss(优先，含正文与配图，直接摘抄), news_search(关键词发现，以链接+摘要呈现)
+#
+# 说明：
+#   - 故事站以「直接摘抄正文 + 配图」为核心。真实 RSS 源（Desiring God、TGC、Our Daily Bread、
+#     Banner of Truth、Challies、5 Minutes、MNN 等）多数在订阅中带有完整正文，采集时会一并抽取，
+#     无需跳转即可在站内阅读。
+#   - 少数 news_search 源用于全球范围「发现」新故事（Google News / GDELT），以链接形式呈现，
+#     其中 GDELT 直链会尝试抓取正文。
+#   - 可按需启用/禁用、增删源或调整关键词。
+
+sources:
+  # ==================== 灵修小品（每日可读的短篇灵修/讲道素材） ====================
+  - name: Desiring God
+    url: https://www.desiringgod.org/feed
+    category: devotional
+    parser: rss
+    language: en
+    country: US
+    max_items: 15
+
+  - name: The Gospel Coalition
+    url: https://www.thegospelcoalition.org/feed/
+    category: devotional
+    parser: rss
+    language: en
+    country: US
+    max_items: 15
+
+  - name: Crossway
+    url: https://www.crossway.org/feed/
+    category: devotional
+    parser: rss
+    language: en
+    country: US
+    max_items: 12
+
+  - name: Our Daily Bread (English)
+    url: https://odb.org/feed/
+    category: devotional
+    parser: rss
+    language: en
+    country: US
+    max_items: 12
+
+  - name: 每日灵粮 (Our Daily Bread 中文)
+    url: https://odb.org/zh-hant/feed/
+    category: devotional
+    parser: rss
+    language: zh
+    country: TW
+    max_items: 12
+
+  # ==================== 属灵伟人（圣徒传记 / 教会历史 / 神学家） ====================
+  - name: Desiring God Biographies
+    url: https://www.desiringgod.org/topics/biography/feed/
+    category: giant
+    parser: rss
+    language: en
+    country: US
+    max_items: 12
+
+  - name: The Gospel Coalition Biographies
+    url: https://www.thegospelcoalition.org/topics/biography/feed/
+    category: giant
+    parser: rss
+    language: en
+    country: US
+    max_items: 12
+
+  - name: Banner of Truth
+    url: https://www.banneroftruth.org/us/feed/
+    category: giant
+    parser: rss
+    language: en
+    country: GB
+    max_items: 12
+
+  - name: Tim Challies
+    url: https://www.challies.com/feed/
+    category: giant
+    parser: rss
+    language: en
+    country: CA
+    max_items: 12
+
+  - name: 5 Minutes in Church History
+    url: https://5minutesinchurchhistory.com/feed/
+    category: giant
+    parser: rss
+    language: en
+    country: US
+    max_items: 10
+
+  - name: Monergism
+    url: https://www.monergism.com/blog/feed
+    category: giant
+    parser: rss
+    language: en
+    country: US
+    max_items: 10
+
+  - name: Ligonier Ministries
+    url: https://www.ligonier.org/feed
+    category: giant
+    parser: rss
+    language: en
+    country: US
+    max_items: 10
+
+  # ==================== 宣教士故事（宣教运动 / 跨文化见证） ====================
+  - name: Mission Network News
+    url: https://www.mnnonline.org/feed/
+    category: missionary
+    parser: rss
+    language: en
+    country: US
+    max_items: 15
+
+  - name: The Gospel Coalition Missions
+    url: https://www.thegospelcoalition.org/topics/missions/feed/
+    category: missionary
+    parser: rss
+    language: en
+    country: US
+    max_items: 12
+
+  - name: Desiring God Missions
+    url: https://www.desiringgod.org/topics/missions/feed/
+    category: missionary
+    parser: rss
+    language: en
+    country: US
+    max_items: 12
+
+  - name: 宣教士故事（全球发现）
+    url: https://news.google.com/rss/search
+    category: missionary
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Christian missionary biography story testimony"
+
+  # ==================== 平信徒见证（普通信徒的生命故事） ====================
+  - name: Revive Our Hearts
+    url: https://reviveourhearts.com/feed/
+    category: lay
+    parser: rss
+    language: en
+    country: US
+    max_items: 12
+
+  - name: I Am Second
+    url: https://iamsecond.com/feed/
+    category: lay
+    parser: rss
+    language: en
+    country: US
+    max_items: 12
+
+  - name: Relevant Magazine
+    url: https://relevantmagazine.com/feed/
+    category: lay
+    parser: rss
+    language: en
+    country: US
+    max_items: 12
+
+  - name: 平信徒见证（全球发现）
+    url: https://news.google.com/rss/search
+    category: lay
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Christian conversion testimony personal story faith"
+
+  - name: 属灵伟人（全球发现）
+    url: https://news.google.com/rss/search
+    category: giant
+    parser: news_search
+    language: en
+    country: US
+    max_items: 10
+    extra:
+      provider: google
+      query: "Christian historical biography saint church history"
