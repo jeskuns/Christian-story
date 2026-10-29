@@ -1,8 +1,8 @@
 {
   "category": "lay",
   "label": "平信徒见证",
-  "count": 12,
-  "updated_at": "2026-10-29T15:43:52.882034+08:00",
+  "count": 15,
+  "updated_at": "2026-10-29T15:57:54.058762+08:00",
   "articles": [
     {
       "title": "Yes, You Need to Watch Kirk Franklin Dance Through Jennifer Hudson’s Spirit Tunnel",
@@ -412,6 +412,87 @@
       "fetched_at": "2026-10-29T07:38:41.114598",
       "extra": {
         "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "Ex-Muslim violently attacked for following Jesus urges Christians to share the Gospel",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkl4OXZEUWUzNHdaMjVLWDd3bnpXeGFSYmhuamlzaFhsRHBFekoxTTNBS2k2Zk0tME5rUXJoRU43dXF4bUxMdnQtZV9teG90bDNlZ2loZkJmTEdhTnR1OThQazZhMzJsUnYzV1hBZnktWVVQX1lYWmtfR2NJSzd5bGotaFQ5OGhEa1J1SGZTN256UExUTEJLMXJJX19OWk5PVnc?oc=5",
+      "category": "lay",
+      "source": "平信徒见证（全球发现）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-12",
+      "summary": "Ex-Muslim violently attacked for following Jesus urges Christians to share the Gospel Christian Post",
+      "summary_zh": "前穆斯林因跟随耶稣而受到暴力攻击，敦促基督徒分享福音基督邮报",
+      "title_zh": "前穆斯林因跟随耶稣而受到暴力攻击，敦促基督徒分享福音",
+      "content": "",
+      "image": "",
+      "author": "Christian Post",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T07:55:17.740912",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian conversion testimony personal story faith",
+        "publisher": "Christian Post"
+      }
+    },
+    {
+      "title": "Jessica Simpson Celebrates Christian Testimony in New For King & Country Song",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnJOa0xUbUNRNTlPVzdQY2I2eU15V0MwbkhWOFNRSkQ3bk1rMUo1ekdGczYzc2tHbmJZVXQtTjJRYXl2ZWIxQ2VpYWdsaU11aGJFVDVvRG9UMHlhQVBaLUl4ZHNOZEJKaDBtOVJTMFRqTjlSN1pZRThHcWF5aGsxVGJXSmxrX0JTbWhqVUIyeUV0ZldOeERXOHdZNndmTlQtWVJ0RWZaNGZsaHVsc09aYmZUUlpWSHA2NHFrTjlEOEVWd2xIRjVFOTR2X21YSi1WYnYwSl9jeDdsZmIyVVNKcw?oc=5",
+      "category": "lay",
+      "source": "平信徒见证（全球发现）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-24",
+      "summary": "Jessica Simpson Celebrates Christian Testimony in New For King & Country Song Crosswalk.com",
+      "summary_zh": "杰西卡·辛普森（ Jessica Simpson ）在国王和乡村歌曲Crosswalk.com的新版中庆祝基督教见证",
+      "title_zh": "杰西卡·辛普森（ Jessica Simpson ）在国王和乡村歌曲中庆祝基督教见证",
+      "content": "",
+      "image": "",
+      "author": "Crosswalk.com",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T07:55:17.741417",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian conversion testimony personal story faith",
+        "publisher": "Crosswalk.com"
+      }
+    },
+    {
+      "title": "This Archbishop’s “Conversion Story” Has the Internet Laughing",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYS1qdWc2SWE3ZzdndHdySTIta3AzRUQwalA0N1VrVEY4VjdmU0oyT09NMW1fcGdIWmY5RFlnVHVtUkl5eU9SZzhYNldmdlpQVnc2U3hKSDZfanBJWVVtLWRTX2QzZmxBWlhWTUg3V09fMXFZTjlTV09kVWRSSXVVWGMwNmMyMVEyQVJ1RnExOA?oc=5",
+      "category": "lay",
+      "source": "平信徒见证（全球发现）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-26",
+      "summary": "This Archbishop’s “Conversion Story” Has the Internet Laughing ChurchPOP",
+      "summary_zh": "这位大主教的“皈依故事”有互联网笑声教会POP",
+      "title_zh": "这位大主教的“皈依故事”让互联网大笑",
+      "content": "",
+      "image": "",
+      "author": "ChurchPOP",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-29T07:55:17.741087",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian conversion testimony personal story faith",
+        "publisher": "ChurchPOP"
       }
     }
   ]

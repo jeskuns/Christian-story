@@ -2,7 +2,7 @@
   "category": "devotional",
   "label": "灵修小品",
   "count": 27,
-  "updated_at": "2026-10-29T15:43:52.878462+08:00",
+  "updated_at": "2026-10-29T15:57:54.055204+08:00",
   "articles": [
     {
       "title": "The Dangers of Getting Advice from the Internet",
@@ -30,7 +30,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.411529",
+      "fetched_at": "2026-10-29T07:55:13.151562",
       "extra": {
         "feed_type": "rss20"
       }
@@ -62,7 +62,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.413116",
+      "fetched_at": "2026-10-29T07:55:13.152813",
       "extra": {
         "feed_type": "rss20"
       }
@@ -94,7 +94,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.414236",
+      "fetched_at": "2026-10-29T07:55:13.154901",
       "extra": {
         "feed_type": "rss20"
       }
@@ -123,7 +123,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.446270",
+      "fetched_at": "2026-10-29T07:55:13.183650",
       "extra": {
         "feed_type": "rss20"
       }
@@ -157,7 +157,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.447217",
+      "fetched_at": "2026-10-29T07:55:13.184434",
       "extra": {
         "feed_type": "rss20"
       }
@@ -186,7 +186,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.448417",
+      "fetched_at": "2026-10-29T07:55:13.186685",
       "extra": {
         "feed_type": "rss20"
       }
@@ -216,7 +216,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.449409",
+      "fetched_at": "2026-10-29T07:55:13.187670",
       "extra": {
         "feed_type": "rss20"
       }
@@ -244,7 +244,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.451411",
+      "fetched_at": "2026-10-29T07:55:13.189025",
       "extra": {
         "feed_type": "rss20"
       }
@@ -273,7 +273,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.452365",
+      "fetched_at": "2026-10-29T07:55:13.189833",
       "extra": {
         "feed_type": "rss20"
       }
@@ -306,7 +306,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.453315",
+      "fetched_at": "2026-10-29T07:55:13.190610",
       "extra": {
         "feed_type": "rss20"
       }
@@ -336,7 +336,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.454391",
+      "fetched_at": "2026-10-29T07:55:13.192046",
       "extra": {
         "feed_type": "rss20"
       }
@@ -365,7 +365,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.455409",
+      "fetched_at": "2026-10-29T07:55:13.192828",
       "extra": {
         "feed_type": "rss20"
       }
@@ -395,7 +395,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.456254",
+      "fetched_at": "2026-10-29T07:55:13.193556",
       "extra": {
         "feed_type": "rss20"
       }
@@ -427,7 +427,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.457995",
+      "fetched_at": "2026-10-29T07:55:13.194956",
       "extra": {
         "feed_type": "rss20"
       }
@@ -458,7 +458,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.459228",
+      "fetched_at": "2026-10-29T07:55:13.195978",
       "extra": {
         "feed_type": "rss20"
       }
@@ -471,7 +471,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "In a film about a vigilante crime-fighting hero, the protagonist seems to be waging an impossible war. Not only is his city overrun with violence and theft, but he also discovers that the police force, court system, and public officials are corrupt. He’s repeatedly tempted to give up on the city and leave.",
-      "summary_zh": "",
+      "summary_zh": "在一部关于义警打击犯罪英雄的电影中，主角似乎正在发动一场不可能的战争。他的城市不仅充斥着暴力和盗窃，而且他还发现警察部队、法院系统和公职人员腐败。他一再想放弃这座城市而离开。",
       "title_zh": "英雄的希望",
       "content": "In a film about a vigilante crime-fighting hero, the protagonist seems to be waging an impossible war. Not only is his city overrun with violence and theft, but he also discovers that the police force, court system, and public officials are corrupt. He’s repeatedly tempted to give up on the city and leave.",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -483,7 +483,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:30.974562",
+      "fetched_at": "2026-10-29T07:55:14.480424",
       "extra": {
         "feed_type": "rss20"
       }
@@ -496,7 +496,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "Six-year-old Tiana clasped her hands. She prayed as she scanned the crowd, glancing toward the front door of the church. Her classmates waved at guests settling in for the Father’s Day concert.",
-      "summary_zh": "",
+      "summary_zh": "六岁的蒂安娜紧握双手。她一边祈祷，一边扫视人群，朝教堂前门瞥了一眼。她的同学向准备参加父亲节音乐会的客人挥手示意。",
       "title_zh": "因为上帝！",
       "content": "Our Daily Bread Devotionals",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -508,7 +508,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:31.555384",
+      "fetched_at": "2026-10-29T07:55:14.919630",
       "extra": {
         "feed_type": "rss20"
       }
@@ -521,7 +521,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "In a letter dated September 13, 1943—five months after his imprisonment for opposing the Nazi regime—Dietrich Bonhoeffer wrote his parents. He asked for books and paper. He thanked them for the ways they’d helped him, and said, “It’s a strange feeling to be so completely dependent on other people; but at least it teaches one to be grateful, and I hope I shall never forget that.",
-      "summary_zh": "",
+      "summary_zh": "在他因反对纳粹政权而被监禁五个月后的1943年9月13日的一封信中，迪特里希·朋霍费尔写信给他的父母。他要书和纸。他感谢他们帮助他的方式，并说： “完全依赖他人是一种奇怪的感觉；但至少它教会了我要感恩，我希望我永远不会忘记这一点。",
       "title_zh": "丰富的感恩生活",
       "content": "In a letter dated September 13, 1943—five months after his imprisonment for opposing the Nazi regime—Dietrich Bonhoeffer wrote his parents. He asked for books and paper. He thanked them for the ways they’d helped him, and said, “It’s a strange feeling to be so completely dependent on other people; but at least it teaches one to be grateful, and I hope I shall never forget that.",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -533,7 +533,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:32.100489",
+      "fetched_at": "2026-10-29T07:55:15.514871",
       "extra": {
         "feed_type": "rss20"
       }
@@ -546,7 +546,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "One particularly catchy book promotion featured the auctioning of the chance for readers to have their name in print. Willing participants could pay to have their names used for a character in a bestselling author’s upcoming novel. The highest bidder in the auction won a chance to select a name to be used in the book.",
-      "summary_zh": "",
+      "summary_zh": "一个特别引人注目的书籍促销活动是拍卖读者印刷自己的名字的机会。愿意的参与者可以付费让自己的名字用于畅销书作者即将出版的小说中的角色。拍卖中出价最高的人有机会选择要在书中使用的名称。",
       "title_zh": "神知道你的名字",
       "content": "One particularly catchy book promotion featured the auctioning of the chance for readers to have their name in print. Willing participants could pay to have their names used for a character in a bestselling author’s upcoming novel. The highest bidder in the auction won a chance to select a name to be used in the book.",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -558,7 +558,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:32.816641",
+      "fetched_at": "2026-10-29T07:55:15.889864",
       "extra": {
         "feed_type": "rss20"
       }
@@ -571,7 +571,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "The British TV reality show Portrait Artist of the Year pits nine amateur painters against each other in creating portraits of a local celebrity. The images have to be completed in just four hours, which is condensed into the one-hour program. It’s fascinating to watch the cameras capture each artist’s creation slowly emerging from a blank canvas.",
-      "summary_zh": "",
+      "summary_zh": "这位英国电视真人秀年度肖像艺术家让九位业余画家互相对立，为当地名人创作肖像。这些图像必须在短短四个小时内完成，并浓缩成一小时的节目。观看相机捕捉每位艺术家从空白画布上慢慢浮现的创作，令人着迷。",
       "title_zh": "上帝的肖像",
       "content": "The British TV reality show Portrait Artist of the Year pits nine amateur painters against each other in creating portraits of a local celebrity. The images have to be completed in just four hours, which is condensed into the one-hour program. It’s fascinating to watch the cameras capture each artist’s creation slowly emerging from a blank canvas.",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -583,7 +583,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:33.237741",
+      "fetched_at": "2026-10-29T07:55:16.672460",
       "extra": {
         "feed_type": "rss20"
       }
@@ -596,7 +596,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "At a large university, an artist painted ten stunning portraits of the men and women who keep the university running: those working in maintenance, food service, groundskeeping, and security. Moore said he wanted to paint them “in a position of power.” And that’s exactly what he did.",
-      "summary_zh": "",
+      "summary_zh": "在一所大型大学，一位艺术家绘制了十幅令人惊叹的肖像，描绘了维持大学运转的男女：那些从事维护、食品服务、场地管理和安全工作的男女。摩尔说，他想把他们画成“有权势的人”。“这正是他所做的。",
       "title_zh": "安静地忠于基督",
       "content": "At a large university, an artist painted ten stunning portraits of the men and women who keep the university running: those working in maintenance, food service, groundskeeping, and security. Moore said he wanted to paint them “in a position of power.” And that’s exactly what he did.",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -608,7 +608,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:33.756545",
+      "fetched_at": "2026-10-29T07:55:17.215793",
       "extra": {
         "feed_type": "rss20"
       }
@@ -621,7 +621,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "Lillie Cunningham is 110 years old, yet she isn’t reliant on a cane or walker. She does rely on Scripture, however, which she reads every morning and night—and attends church every Sunday. When she considers her life, she states, “I just always had faith and trust in God that he was going to carry us through.”",
-      "summary_zh": "",
+      "summary_zh": "Lillie Cunningham已经110岁了，但她并不依赖拐杖或助行器。然而，她确实依靠每天早上和晚上读的经文，并且每个星期天都去教堂。当她考虑自己的生活时，她说： “我一直对上帝有信心和信任，相信他会带领我们度过难关。”",
       "title_zh": "结转",
       "content": "Lillie Cunningham is 110 years old, yet she isn’t reliant on a cane or walker. She does rely on Scripture, however, which she reads every morning and night—and attends church every Sunday. When she considers her life, she states, “I just always had faith and trust in God that he was going to carry us through.”",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -633,7 +633,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:34.177024",
+      "fetched_at": "2026-10-29T07:55:17.526123",
       "extra": {
         "feed_type": "rss20"
       }
@@ -646,7 +646,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "Can you imagine sprinting as hard as you can possibly run . . . without being able to see? That’s what happens in Paralympic guide running. Blind runners compete with a guide, someone who runs alongside them step by step, connected by a short tether.",
-      "summary_zh": "",
+      "summary_zh": "你能想象在看不到的情况下尽你所能地跑步吗？这就是残奥会向导跑步的方式。盲人跑步者与向导竞争，向导通过短绳一步一步地与他们并肩奔跑。",
       "title_zh": "与神同步",
       "content": "Our Daily Bread Devotionals",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -658,7 +658,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:34.532009",
+      "fetched_at": "2026-10-29T07:55:17.874478",
       "extra": {
         "feed_type": "rss20"
       }
@@ -671,7 +671,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "The world watched the news in horror as the sightseeing helicopter flying over the river tore into pieces. As the main rotor and tail broke off, the cabin plunged into the waters below, with the pilot and a family of five trapped inside. Just days after the tragedy that had taken the lives of his sister, brother-in-law, niece, and two nephews, the brother was at the site honoring his loved ones.",
-      "summary_zh": "",
+      "summary_zh": "世界惊恐地看着这条消息，观光直升机飞过河面撕成碎片。随着主旋翼和尾翼脱落，机舱陷入了下面的水域，飞行员和一个五口之家被困在里面。在夺走他姐姐、姐夫、侄女和两个侄子生命的悲剧发生几天后，这位兄弟就在现场纪念他的亲人。",
       "title_zh": "悲伤中的恩典",
       "content": "The world watched the news in horror as the sightseeing helicopter flying over the river tore into pieces. As the main rotor and tail broke off, the cabin plunged into the waters below, with the pilot and a family of five trapped inside. Just days after the tragedy that had taken the lives of his sister, brother-in-law, niece, and two nephews, the brother was at the site honoring his loved ones.",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -683,7 +683,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:35.029263",
+      "fetched_at": "2026-10-29T07:55:18.231124",
       "extra": {
         "feed_type": "rss20"
       }
@@ -696,7 +696,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "In September 1963, Welsh artist John Petts heard the news that a racially motivated bombing of 16th Street Baptist Church in Birmingham, Alabama, had killed four African American girls. Wanting to help, he offered to replace the church’s shattered stained-glass window. The people of Wales soon raised the funds.",
-      "summary_zh": "",
+      "summary_zh": "1963年9月，威尔士艺术家约翰·佩茨（ John Petts ）听说阿拉巴马州伯明翰第16街浸信会教堂的种族动机爆炸事件造成四名非洲裔美国女孩死亡。他想帮忙，提出更换教堂破碎的彩色玻璃窗。威尔士人民很快就筹集到了资金。",
       "title_zh": "你这样对我",
       "content": "In September 1963, Welsh artist John Petts heard the news that a racially motivated bombing of 16th Street Baptist Church in Birmingham, Alabama, had killed four African American girls. Wanting to help, he offered to replace the church’s shattered stained-glass window. The people of Wales soon raised the funds.",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -708,7 +708,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:35.467848",
+      "fetched_at": "2026-10-29T07:55:18.717592",
       "extra": {
         "feed_type": "rss20"
       }
@@ -721,7 +721,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "“You have to be careful about the snakes, insects, jaguars and everything else,” said archaeologist Ivan Šprajc. Wielding chainsaws and machetes, he and his team slashed through thick jungle to try to reach the lost city of Ocumtún.",
-      "summary_zh": "",
+      "summary_zh": "考古学家Ivan Šprajc说： “你必须小心蛇、昆虫、美洲虎和其他一切。”他和他的团队挥舞着电锯和大砍刀，穿过茂密的丛林，试图到达失落的城市奥库姆通。",
       "title_zh": "废墟中的教训",
       "content": "Our Daily Bread Devotionals",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -733,7 +733,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:35.900409",
+      "fetched_at": "2026-10-29T07:55:19.082954",
       "extra": {
         "feed_type": "rss20"
       }
@@ -746,7 +746,7 @@
       "source_url": "https://odb.org/feed/",
       "published": "2026-10-29",
       "summary": "It was one of those videos that makes you stop and do a double take—Yemeni fishermen frantically rescuing hundreds of sheep from the Red Sea. A ship carrying thousands of sheep had run aground off the coast of Ras Al-Ara, Yemen. The vessel was headed for Djibouti when it capsized, leading to the drowning of more than 160 sheep.",
-      "summary_zh": "",
+      "summary_zh": "这是一段让你停下来拍摄双重拍摄的视频之一--也门渔民疯狂地从红海中救出数百只羊。一艘载有数千只羊的船在也门Ras Al-Ara海岸搁浅。这艘船在吉布提倾覆时驶向吉布提，导致160多只羊溺水身亡。",
       "title_zh": "绵羊渔夫",
       "content": "It was one of those videos that makes you stop and do a double take—Yemeni fishermen frantically rescuing hundreds of sheep from the Red Sea. A ship carrying thousands of sheep had run aground off the coast of Ras Al-Ara, Yemen. The vessel was headed for Djibouti when it capsized, leading to the drowning of more than 160 sheep.",
       "image": "/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
@@ -758,7 +758,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T07:38:36.238653",
+      "fetched_at": "2026-10-29T07:55:19.379208",
       "extra": {
         "feed_type": "rss20"
       }
