@@ -223,6 +223,7 @@ class SiteGenerator:
                 articles=feat,
                 updated_at=updated_at,
                 total=len(articles),
+                category_labels={k: v["label"] for k, v in CATEGORY_META.items()},
                 stance_labels=STANCE_LABELS,
                 flagged_stances=FLAGGED_STANCES,
             )
