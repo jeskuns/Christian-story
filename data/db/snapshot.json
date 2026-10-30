@@ -1,24 +1,34 @@
 {
   "date": "2026-10-30",
-  "total": 122,
+  "total": 214,
   "categories": {
-    "devotional": 27,
-    "missionary": 20,
-    "giant": 54,
-    "lay": 21
+    "devotional": 67,
+    "missionary": 43,
+    "giant": 72,
+    "lay": 32
   },
   "sources": {
     "The Gospel Coalition": 15,
     "Mission Network News": 10,
     "宣教士故事（全球发现）": 10,
     "Monergism": 10,
-    "Our Daily Bread (English)": 12,
-    "平信徒见证（全球发现）": 9,
-    "属灵伟人（全球发现）": 10,
     "Banner of Truth": 12,
+    "平信徒见证（全球发现）": 10,
+    "属灵伟人（全球发现）": 10,
+    "Christianity Today": 10,
+    "Our Daily Bread (English)": 12,
+    "Reformation21": 10,
+    "CBMW": 8,
+    "Radical (David Platt)": 5,
     "Relevant Magazine": 12,
+    "The Aquila Report": 8,
+    "9Marks": 10,
+    "Mockingbird": 10,
     "Ligonier Ministries": 10,
-    "Tim Challies": 12
+    "IMB": 10,
+    "Wycliffe": 8,
+    "Tim Challies": 12,
+    "福音联盟中文": 12
   },
   "regions": {},
   "errors": []
