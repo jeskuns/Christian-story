@@ -46,6 +46,13 @@ class Article:
     def to_json(self, ensure_ascii: bool = False) -> str:
         return json.dumps(self.to_dict(), ensure_ascii=ensure_ascii, default=str)
 
+    @classmethod
+    def from_dict(cls, d: Dict[str, Any]) -> "Article":
+        """从字典构建（忽略未知字段，容忍缺失）"""
+        import dataclasses
+        fields = {f.name for f in dataclasses.fields(cls)}
+        return cls(**{k: v for k, v in d.items() if k in fields})
+
 
 @dataclass
 class SourceConfig:

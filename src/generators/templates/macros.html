@@ -16,7 +16,7 @@
     {% set _body = article.content_zh %}
     {% if _body %}
     <div class="story-text">
-      {% for _p in _body[:1500].split('\n\n') %}{% if _p.strip() %}
+      {% for _p in _body.split('\n\n') %}{% if _p.strip() %}
       <p>{{ _p }}</p>
       {% endif %}{% endfor %}
     </div>
