@@ -2,7 +2,7 @@
   "category": "missionary",
   "label": "宣教士故事",
   "count": 13,
-  "updated_at": "2026-10-30T11:52:25.111561+08:00",
+  "updated_at": "2026-10-30T13:25:00.188002+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -27,7 +27,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:08.975019",
+      "fetched_at": "2026-10-30T05:22:45.376643",
       "extra": {
         "feed_type": "rss20"
       }
@@ -55,7 +55,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.177289",
+      "fetched_at": "2026-10-30T05:22:46.176160",
       "extra": {
         "feed_type": "rss20"
       }
@@ -83,7 +83,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.563114",
+      "fetched_at": "2026-10-30T05:22:46.286703",
       "extra": {
         "feed_type": "rss20"
       }
@@ -111,7 +111,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.888069",
+      "fetched_at": "2026-10-30T05:22:46.417999",
       "extra": {
         "feed_type": "rss20"
       }
@@ -139,7 +139,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.213165",
+      "fetched_at": "2026-10-30T05:22:46.553666",
       "extra": {
         "feed_type": "rss20"
       }
@@ -168,7 +168,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.330105",
+      "fetched_at": "2026-10-30T05:22:46.724327",
       "extra": {
         "feed_type": "rss20"
       }
@@ -199,7 +199,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.472191",
+      "fetched_at": "2026-10-30T05:22:46.831357",
       "extra": {
         "feed_type": "rss20"
       }
@@ -232,7 +232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.007687",
+      "fetched_at": "2026-10-30T05:22:46.952734",
       "extra": {
         "feed_type": "rss20"
       }
@@ -266,7 +266,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.526487",
+      "fetched_at": "2026-10-30T05:22:47.078245",
       "extra": {
         "feed_type": "rss20"
       }
@@ -300,7 +300,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.753876",
+      "fetched_at": "2026-10-30T05:22:47.192729",
       "extra": {
         "feed_type": "rss20"
       }
@@ -326,7 +326,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.802602",
+      "fetched_at": "2026-10-30T05:22:47.679013",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
@@ -372,6 +372,7 @@
       "summary_zh": "理查德和瓦莱丽教导传教士和基督徒在属灵权威中行走在传教中服务",
       "title_zh": "理查德和瓦莱丽教导传教士和基督徒在属灵权威中行走",
       "content": "",
+      "content_zh": "",
       "image": "",
       "author": "Serving in Mission",
       "tags": [],
@@ -381,7 +382,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T08:29:48.684370",
+      "fetched_at": "2026-10-30T05:22:47.679203",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",

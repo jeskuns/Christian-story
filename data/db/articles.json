@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30T11:52:25.098742+08:00",
-  "total": 110,
-  "featured_count": 110,
+  "updated_at": "2026-10-30T13:25:00.172021+08:00",
+  "total": 113,
+  "featured_count": 113,
   "categories": {
     "devotional": 28,
     "missionary": 13,
-    "giant": 49,
+    "giant": 52,
     "lay": 20
   },
   "regions": {},
@@ -14,10 +14,10 @@
     "Mission Network News": 10,
     "Monergism": 10,
     "Our Daily Bread (English)": 13,
-    "Ligonier Ministries": 11,
+    "Ligonier Ministries": 12,
     "Banner of Truth": 12,
     "Relevant Magazine": 17,
-    "Tim Challies": 12,
+    "Tim Challies": 14,
     "宣教士故事（全球发现）": 3,
     "属灵伟人（全球发现）": 4,
     "平信徒见证（全球发现）": 3
@@ -50,7 +50,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.412176",
+      "fetched_at": "2026-10-30T05:22:44.325065",
       "extra": {
         "feed_type": "rss20"
       }
@@ -83,7 +83,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.420595",
+      "fetched_at": "2026-10-30T05:22:44.332505",
       "extra": {
         "feed_type": "rss20"
       }
@@ -116,7 +116,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.422415",
+      "fetched_at": "2026-10-30T05:22:44.334592",
       "extra": {
         "feed_type": "rss20"
       }
@@ -146,7 +146,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.439997",
+      "fetched_at": "2026-10-30T05:22:44.352236",
       "extra": {
         "feed_type": "rss20"
       }
@@ -181,7 +181,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.441494",
+      "fetched_at": "2026-10-30T05:22:44.353987",
       "extra": {
         "feed_type": "rss20"
       }
@@ -211,7 +211,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.443635",
+      "fetched_at": "2026-10-30T05:22:44.357179",
       "extra": {
         "feed_type": "rss20"
       }
@@ -242,7 +242,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.445815",
+      "fetched_at": "2026-10-30T05:22:44.358902",
       "extra": {
         "feed_type": "rss20"
       }
@@ -271,7 +271,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.448753",
+      "fetched_at": "2026-10-30T05:22:44.361919",
       "extra": {
         "feed_type": "rss20"
       }
@@ -301,7 +301,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.449932",
+      "fetched_at": "2026-10-30T05:22:44.363059",
       "extra": {
         "feed_type": "rss20"
       }
@@ -335,7 +335,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.461630",
+      "fetched_at": "2026-10-30T05:22:44.364689",
       "extra": {
         "feed_type": "rss20"
       }
@@ -366,7 +366,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.463562",
+      "fetched_at": "2026-10-30T05:22:44.366675",
       "extra": {
         "feed_type": "rss20"
       }
@@ -396,7 +396,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.471033",
+      "fetched_at": "2026-10-30T05:22:44.373653",
       "extra": {
         "feed_type": "rss20"
       }
@@ -427,7 +427,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.472587",
+      "fetched_at": "2026-10-30T05:22:44.375193",
       "extra": {
         "feed_type": "rss20"
       }
@@ -460,7 +460,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.475624",
+      "fetched_at": "2026-10-30T05:22:44.383386",
       "extra": {
         "feed_type": "rss20"
       }
@@ -492,7 +492,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.483087",
+      "fetched_at": "2026-10-30T05:22:44.385663",
       "extra": {
         "feed_type": "rss20"
       }
@@ -520,7 +520,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:08.975019",
+      "fetched_at": "2026-10-30T05:22:45.376643",
       "extra": {
         "feed_type": "rss20"
       }
@@ -548,7 +548,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.177289",
+      "fetched_at": "2026-10-30T05:22:46.176160",
       "extra": {
         "feed_type": "rss20"
       }
@@ -576,7 +576,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.563114",
+      "fetched_at": "2026-10-30T05:22:46.286703",
       "extra": {
         "feed_type": "rss20"
       }
@@ -604,7 +604,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.888069",
+      "fetched_at": "2026-10-30T05:22:46.417999",
       "extra": {
         "feed_type": "rss20"
       }
@@ -632,7 +632,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.213165",
+      "fetched_at": "2026-10-30T05:22:46.553666",
       "extra": {
         "feed_type": "rss20"
       }
@@ -661,7 +661,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.330105",
+      "fetched_at": "2026-10-30T05:22:46.724327",
       "extra": {
         "feed_type": "rss20"
       }
@@ -692,7 +692,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.472191",
+      "fetched_at": "2026-10-30T05:22:46.831357",
       "extra": {
         "feed_type": "rss20"
       }
@@ -725,7 +725,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.007687",
+      "fetched_at": "2026-10-30T05:22:46.952734",
       "extra": {
         "feed_type": "rss20"
       }
@@ -759,7 +759,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.526487",
+      "fetched_at": "2026-10-30T05:22:47.078245",
       "extra": {
         "feed_type": "rss20"
       }
@@ -793,7 +793,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.753876",
+      "fetched_at": "2026-10-30T05:22:47.192729",
       "extra": {
         "feed_type": "rss20"
       }
@@ -819,7 +819,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:08.759872",
+      "fetched_at": "2026-10-30T05:22:45.701020",
       "extra": {
         "feed_type": "rss20"
       }
@@ -845,7 +845,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.512525",
+      "fetched_at": "2026-10-30T05:22:48.583861",
       "extra": {
         "feed_type": "rss20"
       }
@@ -871,7 +871,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.147484",
+      "fetched_at": "2026-10-30T05:22:49.152237",
       "extra": {
         "feed_type": "rss20"
       }
@@ -897,7 +897,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.856457",
+      "fetched_at": "2026-10-30T05:22:49.652798",
       "extra": {
         "feed_type": "rss20"
       }
@@ -923,7 +923,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.487087",
+      "fetched_at": "2026-10-30T05:22:50.654327",
       "extra": {
         "feed_type": "rss20"
       }
@@ -949,7 +949,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.024000",
+      "fetched_at": "2026-10-30T05:22:51.328134",
       "extra": {
         "feed_type": "rss20"
       }
@@ -975,7 +975,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.560296",
+      "fetched_at": "2026-10-30T05:22:52.128621",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1001,7 +1001,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:13.199168",
+      "fetched_at": "2026-10-30T05:22:52.669595",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1027,7 +1027,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.078690",
+      "fetched_at": "2026-10-30T05:22:53.021298",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1053,7 +1053,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.660621",
+      "fetched_at": "2026-10-30T05:22:53.913456",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1079,7 +1079,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.071642",
+      "fetched_at": "2026-10-30T05:22:46.145982",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1105,7 +1105,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.679503",
+      "fetched_at": "2026-10-30T05:22:46.585988",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1131,7 +1131,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.234282",
+      "fetched_at": "2026-10-30T05:22:46.880621",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1157,7 +1157,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.042880",
+      "fetched_at": "2026-10-30T05:22:47.261985",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1183,7 +1183,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.075816",
+      "fetched_at": "2026-10-30T05:22:47.842580",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1209,7 +1209,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.602362",
+      "fetched_at": "2026-10-30T05:22:48.180830",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1235,7 +1235,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:13.253059",
+      "fetched_at": "2026-10-30T05:22:48.833532",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1261,7 +1261,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.331618",
+      "fetched_at": "2026-10-30T05:22:49.403523",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1287,7 +1287,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.921216",
+      "fetched_at": "2026-10-30T05:22:49.797251",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1313,7 +1313,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.296285",
+      "fetched_at": "2026-10-30T05:22:50.817347",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1339,7 +1339,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.618736",
+      "fetched_at": "2026-10-30T05:22:51.069240",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1367,7 +1367,7 @@
         "创造与进化"
       ],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.145236",
+      "fetched_at": "2026-10-30T05:22:50.158235",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1393,7 +1393,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.272831",
+      "fetched_at": "2026-10-30T05:22:51.873606",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1419,7 +1419,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:13.839447",
+      "fetched_at": "2026-10-30T05:22:53.530248",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1445,7 +1445,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.106370",
+      "fetched_at": "2026-10-30T05:22:54.976690",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1471,7 +1471,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.038248",
+      "fetched_at": "2026-10-30T05:22:56.050019",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1497,7 +1497,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.024011",
+      "fetched_at": "2026-10-30T05:22:57.139752",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1523,7 +1523,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.935974",
+      "fetched_at": "2026-10-30T05:22:58.488799",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1549,7 +1549,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:18.767379",
+      "fetched_at": "2026-10-30T05:22:59.602179",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1610,7 +1610,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.038180",
+      "fetched_at": "2026-10-30T05:22:46.117812",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1638,7 +1638,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.636111",
+      "fetched_at": "2026-10-30T05:22:46.452619",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1666,7 +1666,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.925628",
+      "fetched_at": "2026-10-30T05:22:47.709083",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1694,7 +1694,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.243045",
+      "fetched_at": "2026-10-30T05:22:47.809230",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1722,7 +1722,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.196674",
+      "fetched_at": "2026-10-30T05:22:48.632350",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1750,7 +1750,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.624561",
+      "fetched_at": "2026-10-30T05:22:49.200375",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1778,7 +1778,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.122587",
+      "fetched_at": "2026-10-30T05:22:50.292660",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1806,7 +1806,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.127519",
+      "fetched_at": "2026-10-30T05:22:51.620012",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1834,7 +1834,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.953803",
+      "fetched_at": "2026-10-30T05:22:52.384651",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1862,7 +1862,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.288255",
+      "fetched_at": "2026-10-30T05:22:52.722030",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1890,7 +1890,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.511219",
+      "fetched_at": "2026-10-30T05:22:53.259806",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1918,7 +1918,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.436441",
+      "fetched_at": "2026-10-30T05:22:54.165933",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1953,7 +1953,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.169743",
+      "fetched_at": "2026-10-30T05:22:54.395834",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1989,7 +1989,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.425185",
+      "fetched_at": "2026-10-30T05:22:54.695322",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2025,7 +2025,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.707209",
+      "fetched_at": "2026-10-30T05:22:54.941771",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2059,7 +2059,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.952810",
+      "fetched_at": "2026-10-30T05:22:55.210944",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2093,7 +2093,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.185627",
+      "fetched_at": "2026-10-30T05:22:55.440781",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2129,7 +2129,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.404188",
+      "fetched_at": "2026-10-30T05:22:55.682509",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2164,7 +2164,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.706358",
+      "fetched_at": "2026-10-30T05:22:55.987425",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2228,7 +2228,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:08.930942",
+      "fetched_at": "2026-10-30T05:22:49.714937",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2256,7 +2256,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.677407",
+      "fetched_at": "2026-10-30T05:22:51.808621",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2284,7 +2284,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.770903",
+      "fetched_at": "2026-10-30T05:22:53.966310",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2296,8 +2296,8 @@
       "source": "Tim Challies",
       "source_url": "https://www.challies.com/feed/",
       "published": "2026-10-30",
-      "summary": "This week brings a substantial new commentary on the Westminster Confession of Faith from a whole team of Reformed scholars, an updated edition of a well-known apologetics book, a couple of books for kids, and a new edition of the ESV.  See Also Best Commentaries on Leviticus Best Commentaries on 1 Corinthians Lights Out",
-      "summary_zh": "本周带来了整个改革宗学者团队对威斯敏斯特信仰告白的实质性新评论，一本著名护教书籍的更新版本，几本儿童书籍和新版ESV。另请参阅《利未记》最佳评论《哥林多前书熄灯记》最佳评论",
+      "summary": "This week brings a substantial new commentary on the Westminster Confession of Faith from a whole team of Reformed scholars, an updated edition of a well-known apologetics book, a couple of books for kids, and a new edition of the ESV.  See Also New and Notable Christian Books for October 2026 (Plus a Preview of November) Best Commentaries on Leviticus Lights Out",
+      "summary_zh": "本周带来了整个改革宗学者团队对威斯敏斯特信仰告白的实质性新评论，一本著名护教书籍的更新版本，几本儿童书籍和新版ESV。另请参阅2026年10月新的和著名的基督教书籍（加上11月的预览）对利未记熄灯的最佳评论",
       "title_zh": "本周基督教书籍（ 2026年10月27日）",
       "content": "Tuesday is the day most publishers release their new books, so each week I let you know what has just come our way from the publishers I follow most closely. This week brings a substantial new commentary on the Westminster Confession of Faith from a whole team of Reformed scholars, an updated edition of a well-known apologetics book, a couple of books for kids, and a new edition of the ESV. In each case, I’ve included the publisher’s description.\n(This is a new feature I trialed last week. The response was positive, so I’m going to keep it going. I have tried to improve the format and layout to make it easier to read.)\nBooks for Everyone\nCrossway\nThe Westminster Confession of Faith\nA Comprehensive Commentary on Its History, Theology, and Application\nEdited by J. V. Fesko, John R. Muether, and D. Blair Smith\nEndorsed by:\nJoel R. Beeke, Michael Horton, Keith A. Mathison, Robert Letham, and Jonathan L. Master\nPublisher’s description\nWhat is Reformed theology? In 1646, a group of theologians composed what is arguably the most comprehensive statement of faith, the Westminster Confession. Their efforts to preserve Protestant theology against opposing beliefs endured. Today, amid growing interest in Reformed Christianity, the Westminster Confession remains an indispensable guide for living out doctrine, worship, and church governance sola Scriptura, “by Scripture alone.” This essential collection of essays presents an accessible guide to the Westminster Confession of Faith for 21st-century readers. Each chapter is devoted to a section of the historic document, carefully studying its context, its significance to the faith, and its application, as well as any controversies. Clear, thorough explanations of principles, including the Trinity, creation, providence, baptism, last judgment, and more, make this the definitive guide on Reformed Christian doctrine. The essays are written by faculty from Reformed Theological Seminary in their areas of expertise, ensuring a trustworthy and high-quality text for church leaders, teachers and students of theology, and laypeople.\nBuy it at\nAmazon\nor\nWestminster Books\n.\nCrossway\nI Don’t Have Enough Faith to Be an Atheist\nUpdated Edition\nNorman L. Geisler and Frank Turek\nEndorsed by:\nGavin Ortlund, Sean McDowell, Gregory Koukl, Alisa Childers, and Josh Howerton\nPublisher’s description\nTo some, the concept of having faith in a higher power or a set of religious beliefs is nonsensical. Indeed, many view religion in general, and Christianity in particular, as unfounded and unreasonable. Frank Turek and Norman Geisler argue, however, that Christianity is not only more reasonable than all other belief systems but is indeed more rational than unbelief itself. With conviction and clear thinking, Turek and Geisler guide readers through some of the traditional, tested arguments for the existence of a creator God. They move into an examination of the source of morality and the reliability of the New Testament accounts concerning Jesus. The final section of the book deals with a detailed investigation of the claims of Christ. This updated volume with fresh arguments will be an interesting read for those skeptical about Christianity, as well as a helpful resource for Christians seeking to articulate a more sophisticated defense of their faith.\nBuy it at\nAmazon\n.\nBaker Books\nGiver of All Good\nGod as the Beginning and End of Ethics\nChase R. Kuhn\nPublisher’s description\nWhere do our ethics come from? Are they based on unchanging realities or subject to revision as human culture develops and changes? What distinguishes Christian ethics from other moral claims? And how can Christians engage these questions with clarity and confidence—without either abandoning their convictions or abandoning the conversation? In\nGiver of All Good\n, Chase R. Kuhn argues that the answer begins not with ourselves—our feelings, our culture, our moral intuitions—but with God. What we believe about God shapes how we live. Our theology guides ",
       "content_zh": "",
@@ -2312,7 +2312,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.212087",
+      "fetched_at": "2026-10-30T05:22:54.233938",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2340,7 +2340,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.592203",
+      "fetched_at": "2026-10-30T05:22:54.463927",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2368,7 +2368,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.874503",
+      "fetched_at": "2026-10-30T05:22:57.013884",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2396,7 +2396,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:18.485788",
+      "fetched_at": "2026-10-30T05:22:59.659615",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2424,7 +2424,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:20.876926",
+      "fetched_at": "2026-10-30T05:23:02.443783",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2452,7 +2452,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:23.271868",
+      "fetched_at": "2026-10-30T05:23:05.245403",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2480,7 +2480,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:24.655209",
+      "fetched_at": "2026-10-30T05:23:08.039219",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2562,7 +2562,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:08.309009",
+      "fetched_at": "2026-10-30T05:22:45.308204",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2595,7 +2595,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.298459",
+      "fetched_at": "2026-10-30T05:22:51.583502",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2630,7 +2630,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.060518",
+      "fetched_at": "2026-10-30T05:22:52.310555",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2664,7 +2664,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.514047",
+      "fetched_at": "2026-10-30T05:22:53.433199",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2702,7 +2702,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.816531",
+      "fetched_at": "2026-10-30T05:22:54.110250",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2728,7 +2728,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.729729",
+      "fetched_at": "2026-10-30T05:22:48.669430",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2763,7 +2763,89 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:13.430881",
+      "fetched_at": "2026-10-30T05:22:50.789856",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "Who Was Martin Luther?",
+      "url": "https://feeds.ligonier.org/~/926995124/0/ligonierministriesblog",
+      "category": "giant",
+      "source": "Ligonier Ministries",
+      "source_url": "https://www.ligonier.org/feed",
+      "published": "2026-10-30",
+      "summary": "As a doctoral student, Martin Luther finally had access to the university library. Here, for the first time in his life, he held a complete Bible in his hands. The Bible was venerated in the medieval church, and portions of it were read from the lectionary used in worship services. But Bibles had to be copied by hand, so they were very expensive. Many churches did not even own one. And if they did, most people were illiterate, so they could not read it anyway. No wonder the church had drifted fr",
+      "summary_zh": "",
+      "title_zh": "马丁·路德是谁？",
+      "content": "As a doctoral student, Martin Luther finally had access to the university library. Here, for the first time in his life, he held a complete Bible in his hands.\nThe Bible was venerated in the medieval church, and portions of it were read from the lectionary used in worship services. But Bibles had to be copied by hand, so they were very expensive. Many churches did not even own one. And if they did, most people were illiterate, so they could not read it anyway.\nNo wonder the church had drifted from the Word of God. Yes, the medieval church taught that Jesus died for our sins, a salvation applied at baptism. But if you sinned after that, you had to pay. Each sin that you confessed before a priest could be forgiven, as long as you performed some kind of penance. Even forgiven sins, though, required a temporal punishment, if not in this life, then in purgatory. In the meantime, to be saved, a Christian needed to accumulate enough merit through good works and acts of devotion in order to deserve God’s grace and to earn a place in heaven.\nYoung Luther was no rebel. He took the church’s teaching seriously. Church vocations, with their vows of celibacy and other ascetic disciplines, were thought to be more spiritual and more likely to lead to heaven than the worldly lives of the laity. So Luther became a monk, then a priest. Still, he would agonize over his sins. Once he had access to a Bible, he read it voraciously, and a new picture of God, of Christ, and of salvation started to become clear.\nThe University of Wittenberg was one of the new Renaissance schools that stressed going back to the original sources. The medieval universities taught theology through the method known as\nscholasticism\n, using authoritative textbooks and rationalistic disputations. But the original source for Christianity is the Bible. And since Renaissance-style, classical education also taught Greek and Hebrew, it became possible to study the Bible in its original languages, whereas previously it had only been available in a Latin translation. When Luther earned his doctorate, the university put him on faculty and gave him the responsibility of teaching the Bible.\nIn preparing a lecture on the book of Romans, Luther struggled to understand this passage: “The righteous shall live by faith” (Rom. 1:17). Suddenly it hit him: We are justified by grace through faith in the atoning work of Jesus Christ! Luther said, “Here I felt that I was altogether born again and had entered paradise itself through open gates.”\nMeanwhile, it became clearer that the medieval church thought otherwise. It was sponsoring a sale, promising to release Christians from purgatory if they would buy a certificate called an\nindulgence\n. People had been taught that they would suffer in penitential fire for seven years for every sin they committed, including those that had been forgiven. Christians were expecting to be in purgatory for\nthousands\nof years before they could enter heaven. Of course, they gladly bought indulgences.\nFor Luther, not only was this a cynical scam that exploited the poor (an indulgence cost workers about a week’s wages), it was a monstrous violation of God’s saving Word.\nOn October 31, 1517, Luther nailed to the church door a list of Ninety-Five Theses against the sale of indulgences, which he was willing to debate. Someone, using the newly invented printing press, printed hundreds of copies. Someone else translated them from scholarly Latin into popular German, selling thousands. They soon spread through all of Germany. They were then translated into French, Italian, and English. The Ninety-Five Theses, as we would say today, went viral.\nThe Vatican responded with treatises of its own, which Luther answered. The controversy escalated into other issues. Luther said that the Bible gives no support for indulgences. The Vatican replied that they are authorized by the pope. Luther responded that the Bible is a higher authority than the pope. The Vatican asked Luther how pe",
+      "content_zh": "",
+      "image": "https://images.ctfassets.net/ukqj0ybhazqg/31HjNaN2b74xoPwogi5vIr/3884b8832b2a45a4018777a093ea9b32/Who-Was-Martin-Luther-02_1920.jpg?w=1200&q=85&fm=webp",
+      "author": "Gene Edward Veith",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:22:47.325336",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "New and Notable Christian Books for October 2026 (Plus a Preview of November)",
+      "url": "https://www.challies.com/resources/new-and-notable-christian-books-for-october-2026-plus-a-preview-of-november/",
+      "category": "giant",
+      "source": "Tim Challies",
+      "source_url": "https://www.challies.com/feed/",
+      "published": "2026-10-30",
+      "summary": "Of all the books that came our way in October, here are the ones that most stood out to me, arranged in what I think is a nice new format. As always, I've included the publisher's editorial description for each. See Also Best Commentaries on 2 Corinthians Best Commentaries on James Best Commentaries on Esther",
+      "summary_zh": "在10月份我们收到的所有书籍中，以下是最让我印象深刻的，以我认为不错的新格式排列。一如既往，我已经包括了出版商对每个项目的编辑描述。另请参阅对哥林多后书的最佳评论对雅各的最佳评论对以斯帖的最佳评论",
+      "title_zh": "2026年10月新的著名基督教书籍（加上11月的预览）",
+      "content": "October was a strong month for new Christian books. I tried to keep you in the loop week by week, but I also wanted to provide a roundup for the end of the month. Of all the books that came our way in October, here are the ones that most stood out to me, arranged in what I think is a nice new format. As always, I’ve included the publisher’s editorial description for each.\nBook of the Month\nCrossway · Hardcover · 736 pages\nThe Westminster Confession of Faith: A Comprehensive Commentary on Its History, Theology, and Application\nEdited by J. V. Fesko, John R. Muether, and D. Blair Smith\nIf I had to put one book on the top of the stack this month, it would probably be this commentary on the Westminster Confession of Faith—and I say that as a Baptist who respects, but does not hold to, the WCF. The contributors include Sinclair Ferguson, Chad Van Dixhoorn, and Kevin DeYoung. This is a reference work that pastors and serious readers will want to add to their libraries.\n“This essential collection of essays presents an accessible guide to the Westminster Confession of Faith for 21st-century readers. Each chapter is devoted to a section of the historic document, carefully studying its context, its significance to the faith, and its application, as well as any controversies.”\nBuy it at\nAmazon\n·\nWestminster Books\nFor Your Own Soul\nBooks for any thoughtful Christian reader.\nCrossway · Hardcover · 264 pages\nFinally Home: The Christian Hope of Heaven\nDane Ortlund\nIn this book, Dane Ortlund (\nGentle and Lowly\n) turns his attention to heaven. He draws on Scripture, of course, and also on writers like Thomas Goodwin, Jonathan Edwards, and C. S. Lewis.\n“If we are not in Christ, this life is the best we will ever experience. If we are in Christ, this life is the worst we will ever experience. … In\nFinally Home\n, Dane Ortlund plunges into the word of God and the wisdom of the saints to help us rightly think about heaven, and to draw strength from our coming future more deeply than we ever have before.”\nBuy it at\nAmazon\n·\nWestminster Books\nIVP · Paperback · 192 pages\nEveryday Discipleship: How Faith Shapes the Most Practical Areas of Life\nJeremy Treat\nThis is a practical book that teaches how following Jesus extends into every part of life, including those that are very ordinary, like meals, work, rest, and technology. It includes a discussion guide for groups.\n“Pastor Jeremy Treat understands this disconnect. In\nEveryday Discipleship\n, he dismantles the harmful sacred-secular divide that leaves many Christians feeling spiritually compartmentalized, uncertain about how faith applies to ordinary life, and unable to fully enjoy Christ in the entirety of our lives.”\nBuy it at\nAmazon\nBanner of Truth · Clothbound · 248 pages\nGod Is Our Refuge and Strength: 150 Devotionals Through the Psalms\nWilliam Boekestein & Rob Ventura\nEvery Banner of Truth release is noteworthy, isn’t it? This one offers a short devotional reading to accompany each of the 150 psalms.\n“You need the Psalms. The Psalms are the Bible’s devotional heart. … Through brief, practical expositions of all 150 psalms, this volume proclaims, explains, and applies each one in light of the New Testament and the finished work of Jesus Christ the Lord.”\nBuy it at\nAmazon\n·\nWestminster Books\nCounseling & Care\nResources to care for Christians.\nOne Measure Ministries · Redemption Press · Paperback workbooks\nSoulCare Groups™ Workbooks: Anxiety, Grief, and Sexual Integrity\nGary & Linda Baer\nI am excited about the SoulCare Groups™ workbooks, which came out this month. Each is a twelve-week group study meant to be used alongside a few trusted biblical counseling books. The first three volumes cover anxiety, grief, and sexual integrity.\n“SoulCare Groups™, a biblical counseling workbook series from One Measure Ministries, equips churches to offer groups-based care through structured twelve-week topical studies.”\nBuy them at Amazon:\nAnxiety\n·\nGrief\n·\nSexual Integrity\nFor the Church and Its History\nBooks to u",
+      "content_zh": "",
+      "image": "https://www.challies.com/media/2026/10/New-Notable-2026-Templates-1.jpg",
+      "author": "Tim Challies",
+      "tags": [
+        "Resources"
+      ],
+      "language": "en",
+      "country": "CA",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:22:46.085449",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "A La Carte (October 30)",
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-october-30-2026/",
+      "category": "giant",
+      "source": "Tim Challies",
+      "source_url": "https://www.challies.com/feed/",
+      "published": "2026-10-30",
+      "summary": "When you trick-or-treat, nod to Martin Luther / Time flies—and death comes speedily / Was Piper unprepared? / 17 Exhortations for Christian citizens / God’s left hand / The engineering behind every heartbeat / Kindle deals, and more See Also Weekend A La Carte (October 4) A La Carte (November 20) A La Carte (October 1)",
+      "summary_zh": "当您捣蛋时，向马丁·路德点头/时间飞逝，死亡很快到来/派珀没有准备好吗？/17基督徒公民的劝诫/上帝的左手/每次心跳/Kindle交易背后的工程，以及更多参见周末点菜（ 10月4日）点菜（ 11月20日）点菜（ 10月1日）",
+      "title_zh": "点菜（ 10月30日）",
+      "content": "Good morning. I am making my way home from Colorado today after a productive series of meetings and video shoots. I’ll look forward to a more normal week next week! In the meantime, be sure to check in tomorrow for Weekend A La Carte and on Sunday for a favorite feature, Works & Wonders.\nSales & Deals\nToday’s\nKindle deals\ninclude lots of interesting books like an exposition of the London Baptist Confession, some brief biographies of Christians you should know, and Thaddeus Williams’s book on reverence.\nSome of my books are 50% off at ChurchSource in their print editions:\nVisual Theology\n,\nA Visual Theology Guide to the Bible\n, and\nPilgrim Prayers\n.\nRecommended Reading\nTime Flies—and Death Comes Speedily.\nThe older you get, the more you come to understand that time flies and death comes speedily. “As teenagers, my friends and I were awash with youthful pride, poking fun at weighty things we knew little about—completely ignorant that our life here below is ‘a mist that appears for a little time and then vanishes.’ The dew was still afresh upon our heads; the road of life unfurling in a great spool before our feet, disappearing into the far-off horizon. We could quote you verses here and there from the Scriptures, all the while being completely unversed in this point: “It is better to go to the house of mourning than to go to the house of feasting, for this is the end of all mankind, and the living will lay it to heart.” In our minds, we could afford to mock death because we were, at the time, so far removed from it.”\nWas Piper Unprepared?\nA little while ago, John Piper indicated that he may have been unprepared for pastoral ministry when he began it. In this episode of\nAsk Pastor John\n, he is asked to explain what he meant by that.\nTake Your Faith Deeper with Ligonier’s\nGrow\nApp.\nDuring a time of spiritual decline, God used the Protestant Reformation to bring renewal to His church through the recovery of the biblical gospel. This Reformation Day, explore the truths that fueled renewed devotion to God and His Word in the\nGrow\napp from Ligonier. Discover hundreds of Reformation-themed articles, video teaching series, and conference messages to help strengthen your faith and deepen your walk with Christ. Download the\nGrow\napp today. (Sponsored)\nThe Engineering Behind Every Heartbeat.\nThis is a celebration of the engineering of the human heart. “The human heart does not beat like a perfect clock. The time between beats changes as the body breathes, moves, rests, and reacts to the world around it. New research shows that these changes are part of a feedback system linking the heart, brain, and nerves. The heart keeps a steady rhythm while remaining flexible when needed, much like a well-built control system.”\nWhen You Trick-or-Treat, Nod to Martin Luther.\nDaniel Hyde writes in a local paper to explain to its readers the Protestant contribution to Halloween. “So, by all means, dress up and hand out the candy. When the doorbell rings, remember: The principle that no authority may command conscience protects the civil liberty of the religious\nand\nnonreligious alike.”\nGod’s Left Hand.\nBryce Waller: “The most difficult part about politics is what happens\nafter\nthe elections. In Romans 13:1, God calls us to\nbe subject to\nthese governing authorities—to obey the laws they pass, to show them honor and respect, to give them our hard-earned money by paying taxes. Voting is one thing, but submitting my life to a politician, showing respect to\nthat guy\n, paying taxes to\nthose people\n—even the people I didn’t choose? That’s not so easy.” These are good things to work out before an election since it will shape your response, whether you are happy with the results or dismayed.\n17 Exhortations For Christian Citizens.\nOn a somewhat related note, here are 17 exhortations for Christian citizens. “Bad government and national decline grieve those who love their country and bring a kind of chaos—a hard providence for Christian citizens. Yet even worse form",
+      "content_zh": "",
+      "image": "https://www.challies.com/media/2026/05/Friday-5.jpg",
+      "author": "Tim Challies",
+      "tags": [
+        "A La Carte"
+      ],
+      "language": "en",
+      "country": "CA",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:22:49.259986",
       "extra": {
         "feed_type": "rss20"
       }
@@ -2975,7 +3057,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.802602",
+      "fetched_at": "2026-10-30T05:22:47.679013",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
@@ -3087,7 +3169,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.382175",
+      "fetched_at": "2026-10-30T05:22:49.427043",
       "extra": {
         "provider": "google_news",
         "query": "Christian historical biography saint church history",
@@ -3115,7 +3197,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.381981",
+      "fetched_at": "2026-10-30T05:22:49.426849",
       "extra": {
         "provider": "google_news",
         "query": "Christian historical biography saint church history",
@@ -3133,6 +3215,7 @@
       "summary_zh": "理查德和瓦莱丽教导传教士和基督徒在属灵权威中行走在传教中服务",
       "title_zh": "理查德和瓦莱丽教导传教士和基督徒在属灵权威中行走",
       "content": "",
+      "content_zh": "",
       "image": "",
       "author": "Serving in Mission",
       "tags": [],
@@ -3142,7 +3225,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T08:29:48.684370",
+      "fetched_at": "2026-10-30T05:22:47.679203",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
@@ -3198,7 +3281,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.382882",
+      "fetched_at": "2026-10-30T05:22:49.427864",
       "extra": {
         "provider": "google_news",
         "query": "Christian historical biography saint church history",
@@ -3262,7 +3345,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.412176",
+      "fetched_at": "2026-10-30T05:22:44.325065",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3295,7 +3378,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.420595",
+      "fetched_at": "2026-10-30T05:22:44.332505",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3328,7 +3411,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.422415",
+      "fetched_at": "2026-10-30T05:22:44.334592",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3358,7 +3441,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.439997",
+      "fetched_at": "2026-10-30T05:22:44.352236",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3393,7 +3476,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.441494",
+      "fetched_at": "2026-10-30T05:22:44.353987",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3423,7 +3506,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.443635",
+      "fetched_at": "2026-10-30T05:22:44.357179",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3454,7 +3537,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.445815",
+      "fetched_at": "2026-10-30T05:22:44.358902",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3483,7 +3566,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.448753",
+      "fetched_at": "2026-10-30T05:22:44.361919",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3513,7 +3596,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.449932",
+      "fetched_at": "2026-10-30T05:22:44.363059",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3547,7 +3630,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.461630",
+      "fetched_at": "2026-10-30T05:22:44.364689",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3578,7 +3661,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.463562",
+      "fetched_at": "2026-10-30T05:22:44.366675",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3608,7 +3691,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.471033",
+      "fetched_at": "2026-10-30T05:22:44.373653",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3639,7 +3722,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.472587",
+      "fetched_at": "2026-10-30T05:22:44.375193",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3672,7 +3755,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.475624",
+      "fetched_at": "2026-10-30T05:22:44.383386",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3704,7 +3787,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:07.483087",
+      "fetched_at": "2026-10-30T05:22:44.385663",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3730,7 +3813,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.071642",
+      "fetched_at": "2026-10-30T05:22:46.145982",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3756,7 +3839,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.679503",
+      "fetched_at": "2026-10-30T05:22:46.585988",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3782,7 +3865,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.234282",
+      "fetched_at": "2026-10-30T05:22:46.880621",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3808,7 +3891,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.042880",
+      "fetched_at": "2026-10-30T05:22:47.261985",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3834,7 +3917,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.075816",
+      "fetched_at": "2026-10-30T05:22:47.842580",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3860,7 +3943,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.602362",
+      "fetched_at": "2026-10-30T05:22:48.180830",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3886,7 +3969,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:13.253059",
+      "fetched_at": "2026-10-30T05:22:48.833532",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3912,7 +3995,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.331618",
+      "fetched_at": "2026-10-30T05:22:49.403523",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3938,7 +4021,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.921216",
+      "fetched_at": "2026-10-30T05:22:49.797251",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3964,7 +4047,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.296285",
+      "fetched_at": "2026-10-30T05:22:50.817347",
       "extra": {
         "feed_type": "rss20"
       }
@@ -3990,7 +4073,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.618736",
+      "fetched_at": "2026-10-30T05:22:51.069240",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4016,7 +4099,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:08.309009",
+      "fetched_at": "2026-10-30T05:22:45.308204",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4069,7 +4152,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:08.975019",
+      "fetched_at": "2026-10-30T05:22:45.376643",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4097,7 +4180,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.177289",
+      "fetched_at": "2026-10-30T05:22:46.176160",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4125,7 +4208,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.563114",
+      "fetched_at": "2026-10-30T05:22:46.286703",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4153,7 +4236,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.888069",
+      "fetched_at": "2026-10-30T05:22:46.417999",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4181,7 +4264,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.213165",
+      "fetched_at": "2026-10-30T05:22:46.553666",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4210,7 +4293,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.330105",
+      "fetched_at": "2026-10-30T05:22:46.724327",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4241,7 +4324,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.472191",
+      "fetched_at": "2026-10-30T05:22:46.831357",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4274,7 +4357,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.007687",
+      "fetched_at": "2026-10-30T05:22:46.952734",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4308,7 +4391,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.526487",
+      "fetched_at": "2026-10-30T05:22:47.078245",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4342,7 +4425,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.753876",
+      "fetched_at": "2026-10-30T05:22:47.192729",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4368,7 +4451,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.802602",
+      "fetched_at": "2026-10-30T05:22:47.679013",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
@@ -4414,6 +4497,7 @@
       "summary_zh": "理查德和瓦莱丽教导传教士和基督徒在属灵权威中行走在传教中服务",
       "title_zh": "理查德和瓦莱丽教导传教士和基督徒在属灵权威中行走",
       "content": "",
+      "content_zh": "",
       "image": "",
       "author": "Serving in Mission",
       "tags": [],
@@ -4423,7 +4507,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T08:29:48.684370",
+      "fetched_at": "2026-10-30T05:22:47.679203",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
@@ -4451,7 +4535,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:08.759872",
+      "fetched_at": "2026-10-30T05:22:45.701020",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4477,7 +4561,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.512525",
+      "fetched_at": "2026-10-30T05:22:48.583861",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4503,7 +4587,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.147484",
+      "fetched_at": "2026-10-30T05:22:49.152237",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4529,7 +4613,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.856457",
+      "fetched_at": "2026-10-30T05:22:49.652798",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4555,7 +4639,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.487087",
+      "fetched_at": "2026-10-30T05:22:50.654327",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4581,7 +4665,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.024000",
+      "fetched_at": "2026-10-30T05:22:51.328134",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4607,7 +4691,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.560296",
+      "fetched_at": "2026-10-30T05:22:52.128621",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4633,7 +4717,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:13.199168",
+      "fetched_at": "2026-10-30T05:22:52.669595",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4659,7 +4743,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.078690",
+      "fetched_at": "2026-10-30T05:22:53.021298",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4685,7 +4769,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.660621",
+      "fetched_at": "2026-10-30T05:22:53.913456",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4713,7 +4797,7 @@
         "创造与进化"
       ],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.145236",
+      "fetched_at": "2026-10-30T05:22:50.158235",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4739,7 +4823,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.272831",
+      "fetched_at": "2026-10-30T05:22:51.873606",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4765,7 +4849,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:13.839447",
+      "fetched_at": "2026-10-30T05:22:53.530248",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4791,7 +4875,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.106370",
+      "fetched_at": "2026-10-30T05:22:54.976690",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4817,7 +4901,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.038248",
+      "fetched_at": "2026-10-30T05:22:56.050019",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4843,7 +4927,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.024011",
+      "fetched_at": "2026-10-30T05:22:57.139752",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4869,7 +4953,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.935974",
+      "fetched_at": "2026-10-30T05:22:58.488799",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4895,7 +4979,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:18.767379",
+      "fetched_at": "2026-10-30T05:22:59.602179",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4956,7 +5040,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.038180",
+      "fetched_at": "2026-10-30T05:22:46.117812",
       "extra": {
         "feed_type": "rss20"
       }
@@ -4984,7 +5068,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.636111",
+      "fetched_at": "2026-10-30T05:22:46.452619",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5012,7 +5096,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:10.925628",
+      "fetched_at": "2026-10-30T05:22:47.709083",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5040,7 +5124,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.243045",
+      "fetched_at": "2026-10-30T05:22:47.809230",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5068,7 +5152,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.196674",
+      "fetched_at": "2026-10-30T05:22:48.632350",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5096,7 +5180,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.624561",
+      "fetched_at": "2026-10-30T05:22:49.200375",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5124,7 +5208,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.122587",
+      "fetched_at": "2026-10-30T05:22:50.292660",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5152,7 +5236,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.127519",
+      "fetched_at": "2026-10-30T05:22:51.620012",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5180,7 +5264,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.953803",
+      "fetched_at": "2026-10-30T05:22:52.384651",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5208,7 +5292,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.288255",
+      "fetched_at": "2026-10-30T05:22:52.722030",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5236,7 +5320,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.511219",
+      "fetched_at": "2026-10-30T05:22:53.259806",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5264,7 +5348,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.436441",
+      "fetched_at": "2026-10-30T05:22:54.165933",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5292,7 +5376,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:08.930942",
+      "fetched_at": "2026-10-30T05:22:49.714937",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5320,7 +5404,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:11.677407",
+      "fetched_at": "2026-10-30T05:22:51.808621",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5348,7 +5432,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.770903",
+      "fetched_at": "2026-10-30T05:22:53.966310",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5360,8 +5444,8 @@
       "source": "Tim Challies",
       "source_url": "https://www.challies.com/feed/",
       "published": "2026-10-30",
-      "summary": "This week brings a substantial new commentary on the Westminster Confession of Faith from a whole team of Reformed scholars, an updated edition of a well-known apologetics book, a couple of books for kids, and a new edition of the ESV.  See Also Best Commentaries on Leviticus Best Commentaries on 1 Corinthians Lights Out",
-      "summary_zh": "本周带来了整个改革宗学者团队对威斯敏斯特信仰告白的实质性新评论，一本著名护教书籍的更新版本，几本儿童书籍和新版ESV。另请参阅《利未记》最佳评论《哥林多前书熄灯记》最佳评论",
+      "summary": "This week brings a substantial new commentary on the Westminster Confession of Faith from a whole team of Reformed scholars, an updated edition of a well-known apologetics book, a couple of books for kids, and a new edition of the ESV.  See Also New and Notable Christian Books for October 2026 (Plus a Preview of November) Best Commentaries on Leviticus Lights Out",
+      "summary_zh": "本周带来了整个改革宗学者团队对威斯敏斯特信仰告白的实质性新评论，一本著名护教书籍的更新版本，几本儿童书籍和新版ESV。另请参阅2026年10月新的和著名的基督教书籍（加上11月的预览）对利未记熄灯的最佳评论",
       "title_zh": "本周基督教书籍（ 2026年10月27日）",
       "content": "Tuesday is the day most publishers release their new books, so each week I let you know what has just come our way from the publishers I follow most closely. This week brings a substantial new commentary on the Westminster Confession of Faith from a whole team of Reformed scholars, an updated edition of a well-known apologetics book, a couple of books for kids, and a new edition of the ESV. In each case, I’ve included the publisher’s description.\n(This is a new feature I trialed last week. The response was positive, so I’m going to keep it going. I have tried to improve the format and layout to make it easier to read.)\nBooks for Everyone\nCrossway\nThe Westminster Confession of Faith\nA Comprehensive Commentary on Its History, Theology, and Application\nEdited by J. V. Fesko, John R. Muether, and D. Blair Smith\nEndorsed by:\nJoel R. Beeke, Michael Horton, Keith A. Mathison, Robert Letham, and Jonathan L. Master\nPublisher’s description\nWhat is Reformed theology? In 1646, a group of theologians composed what is arguably the most comprehensive statement of faith, the Westminster Confession. Their efforts to preserve Protestant theology against opposing beliefs endured. Today, amid growing interest in Reformed Christianity, the Westminster Confession remains an indispensable guide for living out doctrine, worship, and church governance sola Scriptura, “by Scripture alone.” This essential collection of essays presents an accessible guide to the Westminster Confession of Faith for 21st-century readers. Each chapter is devoted to a section of the historic document, carefully studying its context, its significance to the faith, and its application, as well as any controversies. Clear, thorough explanations of principles, including the Trinity, creation, providence, baptism, last judgment, and more, make this the definitive guide on Reformed Christian doctrine. The essays are written by faculty from Reformed Theological Seminary in their areas of expertise, ensuring a trustworthy and high-quality text for church leaders, teachers and students of theology, and laypeople.\nBuy it at\nAmazon\nor\nWestminster Books\n.\nCrossway\nI Don’t Have Enough Faith to Be an Atheist\nUpdated Edition\nNorman L. Geisler and Frank Turek\nEndorsed by:\nGavin Ortlund, Sean McDowell, Gregory Koukl, Alisa Childers, and Josh Howerton\nPublisher’s description\nTo some, the concept of having faith in a higher power or a set of religious beliefs is nonsensical. Indeed, many view religion in general, and Christianity in particular, as unfounded and unreasonable. Frank Turek and Norman Geisler argue, however, that Christianity is not only more reasonable than all other belief systems but is indeed more rational than unbelief itself. With conviction and clear thinking, Turek and Geisler guide readers through some of the traditional, tested arguments for the existence of a creator God. They move into an examination of the source of morality and the reliability of the New Testament accounts concerning Jesus. The final section of the book deals with a detailed investigation of the claims of Christ. This updated volume with fresh arguments will be an interesting read for those skeptical about Christianity, as well as a helpful resource for Christians seeking to articulate a more sophisticated defense of their faith.\nBuy it at\nAmazon\n.\nBaker Books\nGiver of All Good\nGod as the Beginning and End of Ethics\nChase R. Kuhn\nPublisher’s description\nWhere do our ethics come from? Are they based on unchanging realities or subject to revision as human culture develops and changes? What distinguishes Christian ethics from other moral claims? And how can Christians engage these questions with clarity and confidence—without either abandoning their convictions or abandoning the conversation? In\nGiver of All Good\n, Chase R. Kuhn argues that the answer begins not with ourselves—our feelings, our culture, our moral intuitions—but with God. What we believe about God shapes how we live. Our theology guides ",
       "content_zh": "",
@@ -5376,7 +5460,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.212087",
+      "fetched_at": "2026-10-30T05:22:54.233938",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5404,7 +5488,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.592203",
+      "fetched_at": "2026-10-30T05:22:54.463927",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5432,7 +5516,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.874503",
+      "fetched_at": "2026-10-30T05:22:57.013884",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5460,7 +5544,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:18.485788",
+      "fetched_at": "2026-10-30T05:22:59.659615",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5488,7 +5572,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:20.876926",
+      "fetched_at": "2026-10-30T05:23:02.443783",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5516,7 +5600,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:23.271868",
+      "fetched_at": "2026-10-30T05:23:05.245403",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5544,7 +5628,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:24.655209",
+      "fetched_at": "2026-10-30T05:23:08.039219",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5626,7 +5710,89 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:09.729729",
+      "fetched_at": "2026-10-30T05:22:48.669430",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "Who Was Martin Luther?",
+      "url": "https://feeds.ligonier.org/~/926995124/0/ligonierministriesblog",
+      "category": "giant",
+      "source": "Ligonier Ministries",
+      "source_url": "https://www.ligonier.org/feed",
+      "published": "2026-10-30",
+      "summary": "As a doctoral student, Martin Luther finally had access to the university library. Here, for the first time in his life, he held a complete Bible in his hands. The Bible was venerated in the medieval church, and portions of it were read from the lectionary used in worship services. But Bibles had to be copied by hand, so they were very expensive. Many churches did not even own one. And if they did, most people were illiterate, so they could not read it anyway. No wonder the church had drifted fr",
+      "summary_zh": "",
+      "title_zh": "马丁·路德是谁？",
+      "content": "As a doctoral student, Martin Luther finally had access to the university library. Here, for the first time in his life, he held a complete Bible in his hands.\nThe Bible was venerated in the medieval church, and portions of it were read from the lectionary used in worship services. But Bibles had to be copied by hand, so they were very expensive. Many churches did not even own one. And if they did, most people were illiterate, so they could not read it anyway.\nNo wonder the church had drifted from the Word of God. Yes, the medieval church taught that Jesus died for our sins, a salvation applied at baptism. But if you sinned after that, you had to pay. Each sin that you confessed before a priest could be forgiven, as long as you performed some kind of penance. Even forgiven sins, though, required a temporal punishment, if not in this life, then in purgatory. In the meantime, to be saved, a Christian needed to accumulate enough merit through good works and acts of devotion in order to deserve God’s grace and to earn a place in heaven.\nYoung Luther was no rebel. He took the church’s teaching seriously. Church vocations, with their vows of celibacy and other ascetic disciplines, were thought to be more spiritual and more likely to lead to heaven than the worldly lives of the laity. So Luther became a monk, then a priest. Still, he would agonize over his sins. Once he had access to a Bible, he read it voraciously, and a new picture of God, of Christ, and of salvation started to become clear.\nThe University of Wittenberg was one of the new Renaissance schools that stressed going back to the original sources. The medieval universities taught theology through the method known as\nscholasticism\n, using authoritative textbooks and rationalistic disputations. But the original source for Christianity is the Bible. And since Renaissance-style, classical education also taught Greek and Hebrew, it became possible to study the Bible in its original languages, whereas previously it had only been available in a Latin translation. When Luther earned his doctorate, the university put him on faculty and gave him the responsibility of teaching the Bible.\nIn preparing a lecture on the book of Romans, Luther struggled to understand this passage: “The righteous shall live by faith” (Rom. 1:17). Suddenly it hit him: We are justified by grace through faith in the atoning work of Jesus Christ! Luther said, “Here I felt that I was altogether born again and had entered paradise itself through open gates.”\nMeanwhile, it became clearer that the medieval church thought otherwise. It was sponsoring a sale, promising to release Christians from purgatory if they would buy a certificate called an\nindulgence\n. People had been taught that they would suffer in penitential fire for seven years for every sin they committed, including those that had been forgiven. Christians were expecting to be in purgatory for\nthousands\nof years before they could enter heaven. Of course, they gladly bought indulgences.\nFor Luther, not only was this a cynical scam that exploited the poor (an indulgence cost workers about a week’s wages), it was a monstrous violation of God’s saving Word.\nOn October 31, 1517, Luther nailed to the church door a list of Ninety-Five Theses against the sale of indulgences, which he was willing to debate. Someone, using the newly invented printing press, printed hundreds of copies. Someone else translated them from scholarly Latin into popular German, selling thousands. They soon spread through all of Germany. They were then translated into French, Italian, and English. The Ninety-Five Theses, as we would say today, went viral.\nThe Vatican responded with treatises of its own, which Luther answered. The controversy escalated into other issues. Luther said that the Bible gives no support for indulgences. The Vatican replied that they are authorized by the pope. Luther responded that the Bible is a higher authority than the pope. The Vatican asked Luther how pe",
+      "content_zh": "",
+      "image": "https://images.ctfassets.net/ukqj0ybhazqg/31HjNaN2b74xoPwogi5vIr/3884b8832b2a45a4018777a093ea9b32/Who-Was-Martin-Luther-02_1920.jpg?w=1200&q=85&fm=webp",
+      "author": "Gene Edward Veith",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:22:47.325336",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "New and Notable Christian Books for October 2026 (Plus a Preview of November)",
+      "url": "https://www.challies.com/resources/new-and-notable-christian-books-for-october-2026-plus-a-preview-of-november/",
+      "category": "giant",
+      "source": "Tim Challies",
+      "source_url": "https://www.challies.com/feed/",
+      "published": "2026-10-30",
+      "summary": "Of all the books that came our way in October, here are the ones that most stood out to me, arranged in what I think is a nice new format. As always, I've included the publisher's editorial description for each. See Also Best Commentaries on 2 Corinthians Best Commentaries on James Best Commentaries on Esther",
+      "summary_zh": "在10月份我们收到的所有书籍中，以下是最让我印象深刻的，以我认为不错的新格式排列。一如既往，我已经包括了出版商对每个项目的编辑描述。另请参阅对哥林多后书的最佳评论对雅各的最佳评论对以斯帖的最佳评论",
+      "title_zh": "2026年10月新的著名基督教书籍（加上11月的预览）",
+      "content": "October was a strong month for new Christian books. I tried to keep you in the loop week by week, but I also wanted to provide a roundup for the end of the month. Of all the books that came our way in October, here are the ones that most stood out to me, arranged in what I think is a nice new format. As always, I’ve included the publisher’s editorial description for each.\nBook of the Month\nCrossway · Hardcover · 736 pages\nThe Westminster Confession of Faith: A Comprehensive Commentary on Its History, Theology, and Application\nEdited by J. V. Fesko, John R. Muether, and D. Blair Smith\nIf I had to put one book on the top of the stack this month, it would probably be this commentary on the Westminster Confession of Faith—and I say that as a Baptist who respects, but does not hold to, the WCF. The contributors include Sinclair Ferguson, Chad Van Dixhoorn, and Kevin DeYoung. This is a reference work that pastors and serious readers will want to add to their libraries.\n“This essential collection of essays presents an accessible guide to the Westminster Confession of Faith for 21st-century readers. Each chapter is devoted to a section of the historic document, carefully studying its context, its significance to the faith, and its application, as well as any controversies.”\nBuy it at\nAmazon\n·\nWestminster Books\nFor Your Own Soul\nBooks for any thoughtful Christian reader.\nCrossway · Hardcover · 264 pages\nFinally Home: The Christian Hope of Heaven\nDane Ortlund\nIn this book, Dane Ortlund (\nGentle and Lowly\n) turns his attention to heaven. He draws on Scripture, of course, and also on writers like Thomas Goodwin, Jonathan Edwards, and C. S. Lewis.\n“If we are not in Christ, this life is the best we will ever experience. If we are in Christ, this life is the worst we will ever experience. … In\nFinally Home\n, Dane Ortlund plunges into the word of God and the wisdom of the saints to help us rightly think about heaven, and to draw strength from our coming future more deeply than we ever have before.”\nBuy it at\nAmazon\n·\nWestminster Books\nIVP · Paperback · 192 pages\nEveryday Discipleship: How Faith Shapes the Most Practical Areas of Life\nJeremy Treat\nThis is a practical book that teaches how following Jesus extends into every part of life, including those that are very ordinary, like meals, work, rest, and technology. It includes a discussion guide for groups.\n“Pastor Jeremy Treat understands this disconnect. In\nEveryday Discipleship\n, he dismantles the harmful sacred-secular divide that leaves many Christians feeling spiritually compartmentalized, uncertain about how faith applies to ordinary life, and unable to fully enjoy Christ in the entirety of our lives.”\nBuy it at\nAmazon\nBanner of Truth · Clothbound · 248 pages\nGod Is Our Refuge and Strength: 150 Devotionals Through the Psalms\nWilliam Boekestein & Rob Ventura\nEvery Banner of Truth release is noteworthy, isn’t it? This one offers a short devotional reading to accompany each of the 150 psalms.\n“You need the Psalms. The Psalms are the Bible’s devotional heart. … Through brief, practical expositions of all 150 psalms, this volume proclaims, explains, and applies each one in light of the New Testament and the finished work of Jesus Christ the Lord.”\nBuy it at\nAmazon\n·\nWestminster Books\nCounseling & Care\nResources to care for Christians.\nOne Measure Ministries · Redemption Press · Paperback workbooks\nSoulCare Groups™ Workbooks: Anxiety, Grief, and Sexual Integrity\nGary & Linda Baer\nI am excited about the SoulCare Groups™ workbooks, which came out this month. Each is a twelve-week group study meant to be used alongside a few trusted biblical counseling books. The first three volumes cover anxiety, grief, and sexual integrity.\n“SoulCare Groups™, a biblical counseling workbook series from One Measure Ministries, equips churches to offer groups-based care through structured twelve-week topical studies.”\nBuy them at Amazon:\nAnxiety\n·\nGrief\n·\nSexual Integrity\nFor the Church and Its History\nBooks to u",
+      "content_zh": "",
+      "image": "https://www.challies.com/media/2026/10/New-Notable-2026-Templates-1.jpg",
+      "author": "Tim Challies",
+      "tags": [
+        "Resources"
+      ],
+      "language": "en",
+      "country": "CA",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:22:46.085449",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "A La Carte (October 30)",
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-october-30-2026/",
+      "category": "giant",
+      "source": "Tim Challies",
+      "source_url": "https://www.challies.com/feed/",
+      "published": "2026-10-30",
+      "summary": "When you trick-or-treat, nod to Martin Luther / Time flies—and death comes speedily / Was Piper unprepared? / 17 Exhortations for Christian citizens / God’s left hand / The engineering behind every heartbeat / Kindle deals, and more See Also Weekend A La Carte (October 4) A La Carte (November 20) A La Carte (October 1)",
+      "summary_zh": "当您捣蛋时，向马丁·路德点头/时间飞逝，死亡很快到来/派珀没有准备好吗？/17基督徒公民的劝诫/上帝的左手/每次心跳/Kindle交易背后的工程，以及更多参见周末点菜（ 10月4日）点菜（ 11月20日）点菜（ 10月1日）",
+      "title_zh": "点菜（ 10月30日）",
+      "content": "Good morning. I am making my way home from Colorado today after a productive series of meetings and video shoots. I’ll look forward to a more normal week next week! In the meantime, be sure to check in tomorrow for Weekend A La Carte and on Sunday for a favorite feature, Works & Wonders.\nSales & Deals\nToday’s\nKindle deals\ninclude lots of interesting books like an exposition of the London Baptist Confession, some brief biographies of Christians you should know, and Thaddeus Williams’s book on reverence.\nSome of my books are 50% off at ChurchSource in their print editions:\nVisual Theology\n,\nA Visual Theology Guide to the Bible\n, and\nPilgrim Prayers\n.\nRecommended Reading\nTime Flies—and Death Comes Speedily.\nThe older you get, the more you come to understand that time flies and death comes speedily. “As teenagers, my friends and I were awash with youthful pride, poking fun at weighty things we knew little about—completely ignorant that our life here below is ‘a mist that appears for a little time and then vanishes.’ The dew was still afresh upon our heads; the road of life unfurling in a great spool before our feet, disappearing into the far-off horizon. We could quote you verses here and there from the Scriptures, all the while being completely unversed in this point: “It is better to go to the house of mourning than to go to the house of feasting, for this is the end of all mankind, and the living will lay it to heart.” In our minds, we could afford to mock death because we were, at the time, so far removed from it.”\nWas Piper Unprepared?\nA little while ago, John Piper indicated that he may have been unprepared for pastoral ministry when he began it. In this episode of\nAsk Pastor John\n, he is asked to explain what he meant by that.\nTake Your Faith Deeper with Ligonier’s\nGrow\nApp.\nDuring a time of spiritual decline, God used the Protestant Reformation to bring renewal to His church through the recovery of the biblical gospel. This Reformation Day, explore the truths that fueled renewed devotion to God and His Word in the\nGrow\napp from Ligonier. Discover hundreds of Reformation-themed articles, video teaching series, and conference messages to help strengthen your faith and deepen your walk with Christ. Download the\nGrow\napp today. (Sponsored)\nThe Engineering Behind Every Heartbeat.\nThis is a celebration of the engineering of the human heart. “The human heart does not beat like a perfect clock. The time between beats changes as the body breathes, moves, rests, and reacts to the world around it. New research shows that these changes are part of a feedback system linking the heart, brain, and nerves. The heart keeps a steady rhythm while remaining flexible when needed, much like a well-built control system.”\nWhen You Trick-or-Treat, Nod to Martin Luther.\nDaniel Hyde writes in a local paper to explain to its readers the Protestant contribution to Halloween. “So, by all means, dress up and hand out the candy. When the doorbell rings, remember: The principle that no authority may command conscience protects the civil liberty of the religious\nand\nnonreligious alike.”\nGod’s Left Hand.\nBryce Waller: “The most difficult part about politics is what happens\nafter\nthe elections. In Romans 13:1, God calls us to\nbe subject to\nthese governing authorities—to obey the laws they pass, to show them honor and respect, to give them our hard-earned money by paying taxes. Voting is one thing, but submitting my life to a politician, showing respect to\nthat guy\n, paying taxes to\nthose people\n—even the people I didn’t choose? That’s not so easy.” These are good things to work out before an election since it will shape your response, whether you are happy with the results or dismayed.\n17 Exhortations For Christian Citizens.\nOn a somewhat related note, here are 17 exhortations for Christian citizens. “Bad government and national decline grieve those who love their country and bring a kind of chaos—a hard providence for Christian citizens. Yet even worse form",
+      "content_zh": "",
+      "image": "https://www.challies.com/media/2026/05/Friday-5.jpg",
+      "author": "Tim Challies",
+      "tags": [
+        "A La Carte"
+      ],
+      "language": "en",
+      "country": "CA",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T05:22:49.259986",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5705,7 +5871,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.382175",
+      "fetched_at": "2026-10-30T05:22:49.427043",
       "extra": {
         "provider": "google_news",
         "query": "Christian historical biography saint church history",
@@ -5733,7 +5899,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.381981",
+      "fetched_at": "2026-10-30T05:22:49.426849",
       "extra": {
         "provider": "google_news",
         "query": "Christian historical biography saint church history",
@@ -5761,7 +5927,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:12.382882",
+      "fetched_at": "2026-10-30T05:22:49.427864",
       "extra": {
         "provider": "google_news",
         "query": "Christian historical biography saint church history",
@@ -5798,7 +5964,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.169743",
+      "fetched_at": "2026-10-30T05:22:54.395834",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5834,7 +6000,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.425185",
+      "fetched_at": "2026-10-30T05:22:54.695322",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5870,7 +6036,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.707209",
+      "fetched_at": "2026-10-30T05:22:54.941771",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5904,7 +6070,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:16.952810",
+      "fetched_at": "2026-10-30T05:22:55.210944",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5938,7 +6104,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.185627",
+      "fetched_at": "2026-10-30T05:22:55.440781",
       "extra": {
         "feed_type": "rss20"
       }
@@ -5974,7 +6140,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.404188",
+      "fetched_at": "2026-10-30T05:22:55.682509",
       "extra": {
         "feed_type": "rss20"
       }
@@ -6009,7 +6175,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:17.706358",
+      "fetched_at": "2026-10-30T05:22:55.987425",
       "extra": {
         "feed_type": "rss20"
       }
@@ -6078,7 +6244,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:14.298459",
+      "fetched_at": "2026-10-30T05:22:51.583502",
       "extra": {
         "feed_type": "rss20"
       }
@@ -6113,7 +6279,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.060518",
+      "fetched_at": "2026-10-30T05:22:52.310555",
       "extra": {
         "feed_type": "rss20"
       }
@@ -6147,7 +6313,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.514047",
+      "fetched_at": "2026-10-30T05:22:53.433199",
       "extra": {
         "feed_type": "rss20"
       }
@@ -6185,7 +6351,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:15.816531",
+      "fetched_at": "2026-10-30T05:22:54.110250",
       "extra": {
         "feed_type": "rss20"
       }
@@ -6220,7 +6386,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T03:50:13.430881",
+      "fetched_at": "2026-10-30T05:22:50.789856",
       "extra": {
         "feed_type": "rss20"
       }
