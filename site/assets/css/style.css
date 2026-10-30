@@ -194,6 +194,9 @@ img{max-width:100%;display:block}
   .main-nav.open{display:flex}
   .main-nav a{padding:13px 14px;border-radius:11px;font-size:15.5px}
   .hero{padding:34px 0 20px}
+  .hero-main{flex:1 1 100%}
+  .hero-tools{width:100%;align-items:flex-start}
+  .updated-pill{white-space:normal}
   .hero h1{font-size:28px}
   .hero-sub{font-size:14px}
   .cat-cards{grid-template-columns:repeat(2,1fr);gap:12px;padding:20px 0 6px}
