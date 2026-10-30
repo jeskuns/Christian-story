@@ -2,7 +2,7 @@
   "category": "devotional",
   "label": "灵修小品",
   "count": 28,
-  "updated_at": "2026-10-30T13:33:26.536985+08:00",
+  "updated_at": "2026-10-30T13:48:06.211767+08:00",
   "articles": [
     {
       "title": "The Dangers of Getting Advice from the Internet",
@@ -31,7 +31,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.599687",
+      "fetched_at": "2026-10-30T05:46:12.525665",
       "extra": {
         "feed_type": "rss20"
       }
@@ -64,7 +64,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.607291",
+      "fetched_at": "2026-10-30T05:46:12.527060",
       "extra": {
         "feed_type": "rss20"
       }
@@ -97,7 +97,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.609396",
+      "fetched_at": "2026-10-30T05:46:12.528348",
       "extra": {
         "feed_type": "rss20"
       }
@@ -127,7 +127,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.632179",
+      "fetched_at": "2026-10-30T05:46:12.561881",
       "extra": {
         "feed_type": "rss20"
       }
@@ -162,7 +162,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.633764",
+      "fetched_at": "2026-10-30T05:46:12.562821",
       "extra": {
         "feed_type": "rss20"
       }
@@ -192,7 +192,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.636276",
+      "fetched_at": "2026-10-30T05:46:12.564028",
       "extra": {
         "feed_type": "rss20"
       }
@@ -223,7 +223,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.638089",
+      "fetched_at": "2026-10-30T05:46:12.565064",
       "extra": {
         "feed_type": "rss20"
       }
@@ -252,7 +252,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.648242",
+      "fetched_at": "2026-10-30T05:46:12.566700",
       "extra": {
         "feed_type": "rss20"
       }
@@ -282,7 +282,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.649533",
+      "fetched_at": "2026-10-30T05:46:12.567631",
       "extra": {
         "feed_type": "rss20"
       }
@@ -316,7 +316,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.651300",
+      "fetched_at": "2026-10-30T05:46:12.568598",
       "extra": {
         "feed_type": "rss20"
       }
@@ -347,7 +347,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.653405",
+      "fetched_at": "2026-10-30T05:46:12.569701",
       "extra": {
         "feed_type": "rss20"
       }
@@ -377,7 +377,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.655062",
+      "fetched_at": "2026-10-30T05:46:12.570763",
       "extra": {
         "feed_type": "rss20"
       }
@@ -408,7 +408,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.656893",
+      "fetched_at": "2026-10-30T05:46:12.571619",
       "extra": {
         "feed_type": "rss20"
       }
@@ -441,7 +441,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.666519",
+      "fetched_at": "2026-10-30T05:46:12.573385",
       "extra": {
         "feed_type": "rss20"
       }
@@ -473,7 +473,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:26.668962",
+      "fetched_at": "2026-10-30T05:46:12.574636",
       "extra": {
         "feed_type": "rss20"
       }
@@ -490,7 +490,7 @@
       "title_zh": "英雄的希望",
       "content": "In a film about a vigilante crime-fighting hero, the protagonist seems to be waging an impossible war. Not only is his city overrun with violence and theft, but he also discovers that the police force, court system, and public officials are corrupt. He’s repeatedly tempted to give up on the city and leave.",
       "content_zh": "在一部关于义警打击犯罪英雄的电影中，主角似乎正在发动一场不可能的战争。他的城市不仅充斥着暴力和盗窃，而且他还发现警察部队、法院系统和公职人员腐败。他一再想放弃这座城市而离开。",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "image": "",
       "author": "Karen Pimpo",
       "tags": [],
       "language": "en",
@@ -499,7 +499,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:28.222297",
+      "fetched_at": "2026-10-30T05:46:15.524935",
       "extra": {
         "feed_type": "rss20"
       }
@@ -514,9 +514,9 @@
       "summary": "Six-year-old Tiana clasped her hands. She prayed as she scanned the crowd, glancing toward the front door of the church. Her classmates waved at guests settling in for the Father’s Day concert.",
       "summary_zh": "六岁的蒂安娜紧握双手。她一边祈祷，一边扫视人群，朝教堂前门瞥了一眼。她的同学向准备参加父亲节音乐会的客人挥手示意。",
       "title_zh": "因为上帝！",
-      "content": "Our Daily Bread Devotionals",
-      "content_zh": "我们的每日面包祈祷会",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "content": "",
+      "content_zh": "",
+      "image": "",
       "author": "Xochitl Dixon",
       "tags": [],
       "language": "en",
@@ -525,7 +525,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:29.148166",
+      "fetched_at": "2026-10-30T05:46:15.804777",
       "extra": {
         "feed_type": "rss20"
       }
@@ -542,7 +542,7 @@
       "title_zh": "丰富的感恩生活",
       "content": "In a letter dated September 13, 1943—five months after his imprisonment for opposing the Nazi regime—Dietrich Bonhoeffer wrote his parents. He asked for books and paper. He thanked them for the ways they’d helped him, and said, “It’s a strange feeling to be so completely dependent on other people; but at least it teaches one to be grateful, and I hope I shall never forget that.",
       "content_zh": "在他因反对纳粹政权而被监禁五个月后的1943年9月13日的一封信中，迪特里希·朋霍费尔写信给他的父母。他要书和纸。他感谢他们帮助他的方式，并说： “完全依赖他人是一种奇怪的感觉；但至少它教会了我要感恩，我希望我永远不会忘记这一点。",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "image": "",
       "author": "Monica La Rose",
       "tags": [],
       "language": "en",
@@ -551,7 +551,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:29.774225",
+      "fetched_at": "2026-10-30T05:46:16.085299",
       "extra": {
         "feed_type": "rss20"
       }
@@ -568,7 +568,7 @@
       "title_zh": "神知道你的名字",
       "content": "One particularly catchy book promotion featured the auctioning of the chance for readers to have their name in print. Willing participants could pay to have their names used for a character in a bestselling author’s upcoming novel. The highest bidder in the auction won a chance to select a name to be used in the book.",
       "content_zh": "一个特别引人注目的书籍促销活动是拍卖读者印刷自己的名字的机会。愿意的参与者可以付费让自己的名字用于畅销书作者即将出版的小说中的角色。拍卖中出价最高的人有机会选择要在书中使用的名称。",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "image": "",
       "author": "Katara Patton",
       "tags": [],
       "language": "en",
@@ -577,7 +577,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:30.306399",
+      "fetched_at": "2026-10-30T05:46:16.339314",
       "extra": {
         "feed_type": "rss20"
       }
@@ -594,7 +594,7 @@
       "title_zh": "上帝的肖像",
       "content": "The British TV reality show Portrait Artist of the Year pits nine amateur painters against each other in creating portraits of a local celebrity. The images have to be completed in just four hours, which is condensed into the one-hour program. It’s fascinating to watch the cameras capture each artist’s creation slowly emerging from a blank canvas.",
       "content_zh": "这位英国电视真人秀年度肖像艺术家让九位业余画家互相对立，为当地名人创作肖像。这些图像必须在短短四个小时内完成，并浓缩成一小时的节目。观看相机捕捉每位艺术家从空白画布上慢慢浮现的创作，令人着迷。",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "image": "",
       "author": "Kenneth Petersen",
       "tags": [],
       "language": "en",
@@ -603,7 +603,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:31.087330",
+      "fetched_at": "2026-10-30T05:46:16.584922",
       "extra": {
         "feed_type": "rss20"
       }
@@ -620,7 +620,7 @@
       "title_zh": "安静地忠于基督",
       "content": "At a large university, an artist painted ten stunning portraits of the men and women who keep the university running: those working in maintenance, food service, groundskeeping, and security. Moore said he wanted to paint them “in a position of power.” And that’s exactly what he did.",
       "content_zh": "在一所大型大学，一位艺术家绘制了十幅令人惊叹的肖像，描绘了维持大学运转的男女：那些从事维护、食品服务、场地管理和安全工作的男女。摩尔说，他想把他们画成“有权势的人”。“这正是他所做的。",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "image": "",
       "author": "Marvin Williams",
       "tags": [],
       "language": "en",
@@ -629,7 +629,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:31.722276",
+      "fetched_at": "2026-10-30T05:46:16.823822",
       "extra": {
         "feed_type": "rss20"
       }
@@ -646,7 +646,7 @@
       "title_zh": "结转",
       "content": "Lillie Cunningham is 110 years old, yet she isn’t reliant on a cane or walker. She does rely on Scripture, however, which she reads every morning and night—and attends church every Sunday. When she considers her life, she states, “I just always had faith and trust in God that he was going to carry us through.”",
       "content_zh": "Lillie Cunningham已经110岁了，但她并不依赖拐杖或助行器。然而，她确实依靠每天早上和晚上读的经文，并且每个星期天都去教堂。当她考虑自己的生活时，她说： “我一直对上帝有信心和信任，相信他会带领我们度过难关。”",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "image": "",
       "author": "Alyson Kieda",
       "tags": [],
       "language": "en",
@@ -655,7 +655,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:32.896267",
+      "fetched_at": "2026-10-30T05:46:17.128296",
       "extra": {
         "feed_type": "rss20"
       }
@@ -670,9 +670,9 @@
       "summary": "Can you imagine sprinting as hard as you can possibly run . . . without being able to see? That’s what happens in Paralympic guide running. Blind runners compete with a guide, someone who runs alongside them step by step, connected by a short tether.",
       "summary_zh": "你能想象在看不到的情况下尽你所能地跑步吗？这就是残奥会向导跑步的方式。盲人跑步者与向导竞争，向导通过短绳一步一步地与他们并肩奔跑。",
       "title_zh": "与神同步",
-      "content": "Our Daily Bread Devotionals",
-      "content_zh": "我们的每日面包祈祷会",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "content": "",
+      "content_zh": "",
+      "image": "",
       "author": "Adam R. Holz",
       "tags": [],
       "language": "en",
@@ -681,7 +681,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:34.014473",
+      "fetched_at": "2026-10-30T05:46:17.459030",
       "extra": {
         "feed_type": "rss20"
       }
@@ -698,7 +698,7 @@
       "title_zh": "悲伤中的恩典",
       "content": "The world watched the news in horror as the sightseeing helicopter flying over the river tore into pieces. As the main rotor and tail broke off, the cabin plunged into the waters below, with the pilot and a family of five trapped inside. Just days after the tragedy that had taken the lives of his sister, brother-in-law, niece, and two nephews, the brother was at the site honoring his loved ones.",
       "content_zh": "世界惊恐地看着这条消息，观光直升机飞过河面撕成碎片。随着主旋翼和尾翼脱落，机舱陷入了下面的水域，飞行员和一个五口之家被困在里面。在夺走他姐姐、姐夫、侄女和两个侄子生命的悲剧发生几天后，这位兄弟就在现场纪念他的亲人。",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "image": "",
       "author": "Nancy Gavilanes",
       "tags": [],
       "language": "en",
@@ -707,7 +707,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:35.173173",
+      "fetched_at": "2026-10-30T05:46:17.698882",
       "extra": {
         "feed_type": "rss20"
       }
@@ -724,7 +724,7 @@
       "title_zh": "你这样对我",
       "content": "In September 1963, Welsh artist John Petts heard the news that a racially motivated bombing of 16th Street Baptist Church in Birmingham, Alabama, had killed four African American girls. Wanting to help, he offered to replace the church’s shattered stained-glass window. The people of Wales soon raised the funds.",
       "content_zh": "1963年9月，威尔士艺术家约翰·佩茨（ John Petts ）听说阿拉巴马州伯明翰第16街浸信会教堂的种族动机爆炸事件造成四名非洲裔美国女孩死亡。他想帮忙，提出更换教堂破碎的彩色玻璃窗。威尔士人民很快就筹集到了资金。",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "image": "",
       "author": "Sheridan Voysey",
       "tags": [],
       "language": "en",
@@ -733,7 +733,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:36.250500",
+      "fetched_at": "2026-10-30T05:46:17.963512",
       "extra": {
         "feed_type": "rss20"
       }
@@ -748,9 +748,9 @@
       "summary": "“You have to be careful about the snakes, insects, jaguars and everything else,” said archaeologist Ivan Šprajc. Wielding chainsaws and machetes, he and his team slashed through thick jungle to try to reach the lost city of Ocumtún.",
       "summary_zh": "考古学家Ivan Šprajc说： “你必须小心蛇、昆虫、美洲虎和其他一切。”他和他的团队挥舞着电锯和大砍刀，穿过茂密的丛林，试图到达失落的城市奥库姆通。",
       "title_zh": "废墟中的教训",
-      "content": "Our Daily Bread Devotionals",
-      "content_zh": "我们的每日面包祈祷会",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "content": "",
+      "content_zh": "",
+      "image": "",
       "author": "Tim Gustafson",
       "tags": [],
       "language": "en",
@@ -759,7 +759,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:36.535655",
+      "fetched_at": "2026-10-30T05:46:18.204227",
       "extra": {
         "feed_type": "rss20"
       }
@@ -774,9 +774,9 @@
       "summary": "It was raining, bringing the temperature down even more. We were on a multiday hike in Nepal, and leaving the warm mountain lodge to venture into the freezing weather was getting harder each morning. “Let’s go,”",
       "summary_zh": "下雨了，温度更低了。我们在尼泊尔进行了多日徒步旅行，每天早上离开温暖的山间小屋冒险进入寒冷的天气变得越来越困难。“走吧。”",
       "title_zh": "与神同行",
-      "content": "Our Daily Bread Devotionals",
-      "content_zh": "我们的每日面包祈祷会",
-      "image": "https://odb.org/globalassets/global/logos/parent-logos/odb_parentbrand_logo_8-9-24_fullclr_icon.png?width=1200&height=680&rmode=max",
+      "content": "",
+      "content_zh": "",
+      "image": "",
       "author": "Leslie Koh",
       "tags": [],
       "language": "en",
@@ -785,7 +785,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:31:27.638325",
+      "fetched_at": "2026-10-30T05:46:15.073578",
       "extra": {
         "feed_type": "rss20"
       }
