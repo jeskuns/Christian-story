@@ -13,16 +13,6 @@
   </div>
 </section>
 
-<section class="cat-cards">
-  {% for key, c in categories.items() %}
-  <a class="cat-card cat-{{ key }}" href="categories/{{ key }}.html">
-    <span class="cat-icon">{{ c.icon }}</span>
-    <span class="cat-name">{{ c.label }}</span>
-    <span class="cat-count">{{ c.count }} 篇</span>
-  </a>
-  {% endfor %}
-</section>
-
 <div class="home-layout">
   <div class="main-col">
     <section class="classic-section">

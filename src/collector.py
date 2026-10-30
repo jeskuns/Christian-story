@@ -252,6 +252,17 @@ class Collector:
         kept.sort(key=lambda a: ((a.get("published") or a.get("fetched_at") or "")[:10]), reverse=True)
         kept = kept[:max_articles]
 
+        # 回填翻译：历史库中可能残留旧管线的英文条目，统一补全中文（已译条目会被跳过）
+        try:
+            translator = Translator(os.path.join(os.path.dirname(self.db_dir), "translation_cache.json"))
+            objs = [Article.from_dict(a) for a in kept]
+            translator.translate_articles(objs)
+            for i, o in enumerate(objs):
+                kept[i] = o.to_dict()
+            logger.info("历史库回填翻译完成")
+        except Exception as e:
+            logger.warning(f"历史库回填翻译失败（不影响发布）: {e}")
+
         # 精选：按「优先级 + 新鲜度 + 分类均衡」筛选 limit 条，供首页/分类页展示
         featured = self._select_featured(kept, limit=250)
 
