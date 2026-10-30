@@ -1,8 +1,8 @@
 {
   "category": "missionary",
   "label": "宣教士故事",
-  "count": 12,
-  "updated_at": "2026-10-30T09:35:36.009542+08:00",
+  "count": 13,
+  "updated_at": "2026-10-30T11:33:27.526149+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -27,7 +27,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:46.594986",
+      "fetched_at": "2026-10-30T03:30:47.770097",
       "extra": {
         "feed_type": "rss20"
       }
@@ -55,7 +55,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:47.022857",
+      "fetched_at": "2026-10-30T03:30:48.023188",
       "extra": {
         "feed_type": "rss20"
       }
@@ -83,7 +83,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:47.252263",
+      "fetched_at": "2026-10-30T03:30:48.171312",
       "extra": {
         "feed_type": "rss20"
       }
@@ -111,7 +111,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:47.547729",
+      "fetched_at": "2026-10-30T03:30:48.371664",
       "extra": {
         "feed_type": "rss20"
       }
@@ -139,7 +139,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:47.829658",
+      "fetched_at": "2026-10-30T03:30:48.490703",
       "extra": {
         "feed_type": "rss20"
       }
@@ -168,7 +168,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:48.190587",
+      "fetched_at": "2026-10-30T03:30:48.755509",
       "extra": {
         "feed_type": "rss20"
       }
@@ -199,7 +199,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:48.565315",
+      "fetched_at": "2026-10-30T03:30:48.861039",
       "extra": {
         "feed_type": "rss20"
       }
@@ -232,7 +232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:49.021746",
+      "fetched_at": "2026-10-30T03:30:48.973722",
       "extra": {
         "feed_type": "rss20"
       }
@@ -266,7 +266,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:49.528076",
+      "fetched_at": "2026-10-30T03:30:49.213942",
       "extra": {
         "feed_type": "rss20"
       }
@@ -300,7 +300,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:49.782520",
+      "fetched_at": "2026-10-30T03:30:49.352053",
       "extra": {
         "feed_type": "rss20"
       }
@@ -326,11 +326,39 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:48.092218",
+      "fetched_at": "2026-10-30T03:30:50.284061",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
         "publisher": "LDS Living"
+      }
+    },
+    {
+      "title": "God called Rania through music in North Africa",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtbzdzZ296Q3YxX2hpZFktRkdyaGFJbmVtbnpMR1JHVXFwTHdEeFFtdGxjQi1zdTY0bTJXUUtUMVNmR1YtVklnU19wNFZLbXhXVzBiN3V0VWJ3RnFtdDc0VnljbGY?oc=5",
+      "category": "missionary",
+      "source": "宣教士故事（全球发现）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-20",
+      "summary": "God called Rania through music in North Africa Serving in Mission",
+      "summary_zh": "神在北非通过音乐呼召拉尼娅在传教中服侍",
+      "title_zh": "上帝在北非通过音乐呼唤拉尼娅",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Serving in Mission",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T03:30:50.284171",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian missionary biography story testimony",
+        "publisher": "Serving in Mission"
       }
     },
     {

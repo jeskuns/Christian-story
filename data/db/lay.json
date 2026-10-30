@@ -1,8 +1,8 @@
 {
   "category": "lay",
   "label": "平信徒见证",
-  "count": 19,
-  "updated_at": "2026-10-30T09:35:36.014762+08:00",
+  "count": 20,
+  "updated_at": "2026-10-30T11:33:27.528447+08:00",
   "articles": [
     {
       "title": "Yes, You Need to Watch Kirk Franklin Dance Through Jennifer Hudson’s Spirit Tunnel",
@@ -34,7 +34,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:54.095898",
+      "fetched_at": "2026-10-30T03:30:54.746310",
       "extra": {
         "feed_type": "rss20"
       }
@@ -70,7 +70,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:54.385961",
+      "fetched_at": "2026-10-30T03:30:55.053732",
       "extra": {
         "feed_type": "rss20"
       }
@@ -106,7 +106,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:54.762298",
+      "fetched_at": "2026-10-30T03:30:55.408438",
       "extra": {
         "feed_type": "rss20"
       }
@@ -140,7 +140,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:55.117545",
+      "fetched_at": "2026-10-30T03:30:55.649820",
       "extra": {
         "feed_type": "rss20"
       }
@@ -174,7 +174,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:55.428783",
+      "fetched_at": "2026-10-30T03:30:55.925410",
       "extra": {
         "feed_type": "rss20"
       }
@@ -210,7 +210,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:55.728800",
+      "fetched_at": "2026-10-30T03:30:56.184167",
       "extra": {
         "feed_type": "rss20"
       }
@@ -245,7 +245,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:56.114911",
+      "fetched_at": "2026-10-30T03:30:56.665035",
       "extra": {
         "feed_type": "rss20"
       }
@@ -314,7 +314,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:52.454562",
+      "fetched_at": "2026-10-30T03:30:53.276058",
       "extra": {
         "feed_type": "rss20"
       }
@@ -349,7 +349,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:52.962525",
+      "fetched_at": "2026-10-30T03:30:53.686548",
       "extra": {
         "feed_type": "rss20"
       }
@@ -383,7 +383,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:53.335921",
+      "fetched_at": "2026-10-30T03:30:53.995447",
       "extra": {
         "feed_type": "rss20"
       }
@@ -421,7 +421,42 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T01:32:53.765938",
+      "fetched_at": "2026-10-30T03:30:54.420377",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "The Most-Searched Thing in the Bible App This Year Was Psalm 91. ‘Anxiety,’ ‘Hope’ and ‘Healing’ Weren’t Far Behind.",
+      "url": "https://relevantmagazine.com/faith/the-most-searched-thing-in-the-bible-app-this-year-was-psalm-91-anxiety-hope-and-healing-werent-far-behind/",
+      "category": "lay",
+      "source": "Relevant Magazine",
+      "source_url": "https://relevantmagazine.com/feed/",
+      "published": "2026-10-30",
+      "summary": "The search bar in a Bible app works like any other, which means it shows what people are worried about before they’ve said it out loud to anyone. YouVersion says “Psalm 91” was the single most-searched term in the app this year. In its newest release, the company also says “anxiety,” “hope” and “healing” were…",
+      "summary_zh": "圣经应用程序中的搜索栏与其他应用程序一样，这意味着它可以显示人们在向任何人大声说出来之前所担心的事情。YouVersion表示， “Psalm 91”是今年该应用程序中搜索量最大的术语。在其最新版本中，该公司还表示“焦虑”、“希望”和“治愈”是……",
+      "title_zh": "今年圣经应用程序中搜索次数最多的是诗篇91篇。“焦虑”、“希望”和“治愈”并不落后。",
+      "content": "The search bar in a Bible app works like any other, which means it shows what people are worried about before they’ve said it out loud to anyone.\nYouVersion says “Psalm 91” was the single most-searched term in the app this year. In its\nnewest release\n, the company also says “anxiety,” “hope” and “healing” were among the year’s most searched terms. YouVersion describes Psalm 91 as a psalm that encourages readers to turn to God for refuge and comfort in difficult times. The psalm runs 16 verses. Together, YouVersion says, the searches offer a glimpse into the personal questions and hopes people are bringing to Scripture.\nDaily use of the Bible App grew by more than 13% compared with 2025, reaching 18.5 million people a day. It also says it added more than 160 million new installs across its family of apps in 2026, after celebrating one billion installs last November. Daily engagement grew faster than installs, which the company reads as a sign that people are returning to the app and not only downloading it.\nSome of the highest engagement is outside the U.S. YouVersion says it sees some of the highest levels of Bible App engagement in Sub-Saharan Africa, the Middle East and Southeast Asia, and it is building regional hubs in places including the United Kingdom, Brazil, Kenya and Mexico. Its apps offer 3,800 versions of the Bible in 2,400 languages, and it works with a network of more than 45,000 churches and partners.\nBobby Gruenewald, YouVersion’s founder and CEO, said in the release that the company has been encouraged by “how many people are turning to Scripture for answers to their questions.”",
+      "content_zh": "",
+      "image": "https://relevantmagazine.com/wp-content/uploads/2026/10/bible.jpg",
+      "author": "RELEVANT Staff",
+      "tags": [
+        "Faith",
+        "bible",
+        "Bible App",
+        "Culture",
+        "faith",
+        "Psalm 91",
+        "Slices",
+        "youversion"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T03:30:52.990125",
       "extra": {
         "feed_type": "rss20"
       }
@@ -573,6 +608,7 @@
       "summary_zh": "前穆斯林因跟随耶稣而受到暴力攻击，敦促基督徒分享福音基督邮报",
       "title_zh": "前穆斯林因跟随耶稣而受到暴力攻击，敦促基督徒分享福音",
       "content": "",
+      "content_zh": "",
       "image": "",
       "author": "Christian Post",
       "tags": [],
@@ -582,7 +618,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T08:29:51.022247",
+      "fetched_at": "2026-10-30T03:30:51.988672",
       "extra": {
         "provider": "google_news",
         "query": "Christian conversion testimony personal story faith",
@@ -600,6 +636,7 @@
       "summary_zh": "杰西卡·辛普森（ Jessica Simpson ）在国王和乡村歌曲Crosswalk.com的新版中庆祝基督教见证",
       "title_zh": "杰西卡·辛普森（ Jessica Simpson ）在国王和乡村歌曲中庆祝基督教见证",
       "content": "",
+      "content_zh": "",
       "image": "",
       "author": "Crosswalk.com",
       "tags": [],
@@ -609,7 +646,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T08:29:51.025025",
+      "fetched_at": "2026-10-30T03:30:51.989153",
       "extra": {
         "provider": "google_news",
         "query": "Christian conversion testimony personal story faith",
@@ -627,6 +664,7 @@
       "summary_zh": "这位大主教的“皈依故事”有互联网笑声教会POP",
       "title_zh": "这位大主教的“皈依故事”让互联网大笑",
       "content": "",
+      "content_zh": "",
       "image": "",
       "author": "ChurchPOP",
       "tags": [],
@@ -636,7 +674,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-29T08:29:51.022587",
+      "fetched_at": "2026-10-30T03:30:51.988876",
       "extra": {
         "provider": "google_news",
         "query": "Christian conversion testimony personal story faith",
