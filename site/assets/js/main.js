@@ -1,3 +1,20 @@
+// 移动端汉堡菜单
+(function () {
+  var navToggle = document.getElementById("navToggle");
+  var mainNav = document.getElementById("mainNav");
+  if (!navToggle || !mainNav) return;
+  navToggle.addEventListener("click", function () {
+    var open = mainNav.classList.toggle("open");
+    navToggle.setAttribute("aria-expanded", open ? "true" : "false");
+  });
+  mainNav.addEventListener("click", function (e) {
+    if (e.target && e.target.tagName === "A") {
+      mainNav.classList.remove("open");
+      navToggle.setAttribute("aria-expanded", "false");
+    }
+  });
+})();
+
 // 基督教世界故事 · 轻量客户端筛选（分类页 / 全部页）
 document.addEventListener('DOMContentLoaded', function () {
   var input = document.getElementById('filter-input');

@@ -182,8 +182,14 @@ class SiteGenerator:
                 "count": categories_count.get(key, 0),
             }
 
+        # 经典故事专区：传记类（宣教士 / 属灵伟人）作为「特别经典」优先展示
+        classic_items = [a for a in articles if a.get("category") in ("missionary", "giant")]
+        classic_items.sort(key=lambda x: self._article_date(x), reverse=True)
+        classic_items = classic_items[:12]
+
         index_tpl = self.env.get_template("index.html")
-        date_groups = self._build_date_groups(featured)
+        # 首页展示全部故事（不再滚动/精选，所有故事长期保留）
+        date_groups = self._build_date_groups(articles, limit_days=9999)
         available_dates = sorted(date_groups.keys(), reverse=True)
         calendar_data = {
             "available_dates": available_dates,
@@ -202,15 +208,16 @@ class SiteGenerator:
             hot_topics=_count_groups(articles, TOPIC_KEYWORDS, 8),
             stance_labels=STANCE_LABELS,
             flagged_stances=FLAGGED_STANCES,
-            featured_count=self.db.get("featured_count", len(featured)),
+            featured_count=len(articles),
             updated_at=updated_at,
+            classic_items=classic_items,
         )
         with open(os.path.join(self.site_dir, "index.html"), "w", encoding="utf-8") as f:
             f.write(html)
 
         cat_tpl = self.env.get_template("category.html")
         for key, meta in CATEGORY_META.items():
-            feat = [a for a in featured if a.get("category") == key]
+            feat = [a for a in articles if a.get("category") == key]
             feat.sort(key=lambda x: self._article_date(x), reverse=True)
             sources = sorted({a.get("source", "") for a in feat})
             html = cat_tpl.render(

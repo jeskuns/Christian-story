@@ -5,7 +5,7 @@
 <section class="hero">
   <div class="hero-main">
     <h1>基督教世界故事</h1>
-    <p class="hero-sub">每日采集全球宣教士、属灵伟人与平信徒的属灵小故事 · 精选 {{ featured_count }} 篇 / 共 {{ total }} 篇，可作灵修与讲道参考</p>
+    <p class="hero-sub">每日采集全球宣教士、属灵伟人与平信徒的属灵小故事 · 共 {{ total }} 篇，长期保留、不作滚动替换，可作灵修与讲道参考</p>
   </div>
   <div class="hero-tools">
     <span class="updated-pill">更新于 {{ updated_at }}</span>
@@ -21,6 +21,18 @@
     <span class="cat-count">{{ c.count }} 篇</span>
   </a>
   {% endfor %}
+</section>
+
+<section class="classic-section">
+  <div class="section-head">
+    <h2>经典故事</h2>
+    <span class="sub">宣教士与属灵伟人的生平见证 · 特别经典</span>
+  </div>
+  <div class="story-list">
+    {% for article in classic_items %}
+    {{ story_card(article, category_labels) }}
+    {% endfor %}
+  </div>
 </section>
 
 <div class="home-layout">

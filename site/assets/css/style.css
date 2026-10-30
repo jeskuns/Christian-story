@@ -51,6 +51,30 @@ a:hover { color: var(--accent-dark); }
 .main-nav a { color: var(--muted); font-weight: 500; font-size: 14.5px; }
 .main-nav a:hover { color: var(--accent); }
 
+/* ---------- 移动端汉堡菜单 ---------- */
+.nav-toggle {
+  display: none; margin-left: auto; border: 1px solid var(--border);
+  background: #fff; color: var(--accent); width: 40px; height: 38px;
+  border-radius: 10px; font-size: 19px; cursor: pointer; line-height: 1;
+}
+@media (max-width: 820px) {
+  .header-inner { flex-wrap: nowrap; }
+  .nav-toggle { display: block; }
+  .main-nav {
+    display: none; position: absolute; top: 100%; left: 0; right: 0;
+    flex-direction: column; align-items: stretch; gap: 0;
+    background: #fff; border-bottom: 1px solid var(--border);
+    box-shadow: 0 8px 24px rgba(0,0,0,.08); padding: 6px 10px 12px; z-index: 30;
+  }
+  .main-nav.open { display: flex; }
+  .main-nav a { padding: 11px 12px; border-radius: 10px; font-size: 15px; }
+}
+/* ---------- 经典故事专区 ---------- */
+.classic-section { margin: 30px 0 8px; }
+.classic-section .section-head { margin-bottom: 12px; }
+.classic-section h2 { font-family: "Noto Serif SC", Georgia, serif; color: var(--accent-dark); font-size: 22px; margin: 0 0 2px; }
+.classic-section .sub { color: var(--muted); font-size: 13px; }
+
 /* ---------- Hero ---------- */
 .hero {
   display: flex; align-items: flex-end; justify-content: space-between;
