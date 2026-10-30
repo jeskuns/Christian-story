@@ -14,7 +14,7 @@ from typing import Dict, List
 import requests
 
 from .models import Article
-from .utils import ensure_dir
+from .utils import ensure_dir, make_summary
 
 logger = logging.getLogger(__name__)
 
