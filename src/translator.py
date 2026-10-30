@@ -233,10 +233,13 @@ class Translator:
         clist = ctext if max_items is None else ctext[:max_items]
         cdone = 0
         for a in clist:
-            zh = self.translate(a.content[:2200], "en")
+            zh = self.translate(a.content, "en")  # 离线 argos 全量翻译，不再截断前 2200 字
             if zh:
                 a.content_zh = zh
                 cdone += 1
+                # 摘要缺失时，用译文前两句自动生成中文导读
+                if not (a.summary_zh or ""):
+                    a.summary_zh = make_summary(zh, 2)
             time.sleep(self.delay)
 
         self.save_cache()

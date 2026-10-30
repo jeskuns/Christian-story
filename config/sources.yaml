@@ -191,3 +191,100 @@ sources:
     extra:
       provider: google
       query: "Christian historical biography saint church history"
+
+  # ==================== 新增：更多权威来源（扩充信息源，提升量与质） ====================
+  - name: Christianity Today
+    url: https://www.christianitytoday.com/feed/
+    category: devotional
+    parser: rss
+    language: en
+    country: US
+    max_items: 12
+
+  - name: 9Marks
+    url: https://9marks.org/feed/
+    category: devotional
+    parser: rss
+    language: en
+    country: US
+    max_items: 10
+
+  - name: CBMW
+    url: https://cbmw.org/feed/
+    category: devotional
+    parser: rss
+    language: en
+    country: US
+    max_items: 8
+
+  - name: 福音联盟中文
+    url: https://cn.thegospelcoalition.org/feed/
+    category: devotional
+    parser: rss
+    language: zh
+    country: CN
+    max_items: 12
+
+  - name: Reformation21
+    url: https://reformation21.org/feed
+    category: giant
+    parser: rss
+    language: en
+    country: US
+    max_items: 10
+
+  - name: Christian History (CT)
+    url: https://www.christianitytoday.com/history/feed/
+    category: giant
+    parser: rss
+    language: en
+    country: US
+    max_items: 8
+
+  - name: Servants of Grace
+    url: https://servantsofgr.net/feed/
+    category: giant
+    parser: rss
+    language: en
+    country: US
+    max_items: 8
+
+  - name: The Aquila Report
+    url: https://theaquilareport.com/feed/
+    category: giant
+    parser: rss
+    language: en
+    country: US
+    max_items: 8
+
+  - name: Mockingbird
+    url: https://mbird.com/feed/
+    category: lay
+    parser: rss
+    language: en
+    country: US
+    max_items: 10
+
+  - name: Radical (David Platt)
+    url: https://radical.net/feed/
+    category: missionary
+    parser: rss
+    language: en
+    country: US
+    max_items: 8
+
+  - name: IMB
+    url: https://www.imb.org/feed/
+    category: missionary
+    parser: rss
+    language: en
+    country: US
+    max_items: 10
+
+  - name: Wycliffe
+    url: https://www.wycliffe.net/feed/
+    category: missionary
+    parser: rss
+    language: en
+    country: US
+    max_items: 8

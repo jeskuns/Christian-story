@@ -9,7 +9,7 @@
 import logging
 import requests
 from bs4 import BeautifulSoup
-from ..utils import abs_url
+from ..utils import abs_url, normalize_content
 
 logger = logging.getLogger(__name__)
 
@@ -44,7 +44,7 @@ def _content_from_html(html: str, url: str = "") -> str:
                 include_comments=False, favor_precision=True,
             )
             if txt and len(txt.strip()) > 120:
-                return txt.strip()
+                return normalize_content(txt)
         except Exception as e:
             logger.debug(f"trafilatura 抽取失败: {e}")
     # 兜底：readability（若已安装）
@@ -54,7 +54,7 @@ def _content_from_html(html: str, url: str = "") -> str:
         soup = BeautifulSoup(doc.summary(), "html.parser")
         txt = soup.get_text("\n", strip=True)
         if len(txt) > 120:
-            return txt
+            return normalize_content(txt)
     except Exception:
         pass
     # 最后兜底：去脚本/样式后取正文
@@ -62,7 +62,7 @@ def _content_from_html(html: str, url: str = "") -> str:
         soup = BeautifulSoup(html, "html.parser")
         for t in soup(["script", "style", "noscript"]):
             t.decompose()
-        return soup.get_text("\n", strip=True)
+        return normalize_content(soup.get_text("\n", strip=True))
     except Exception:
         return ""
 

@@ -13,8 +13,13 @@
     </div>
     <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title_zh or article.title }}</a></h3>
     {% if article.title_zh %}<div class="title-original">{{ article.title }}</div>{% endif %}
-    {% if article.content_zh or article.content %}
-    <div class="story-text">{{ (article.content_zh or article.content)[:1500] }}</div>
+    {% set _body = (article.content_zh or article.content) %}
+    {% if _body %}
+    <div class="story-text">
+      {% for _p in _body[:1500].split('\n\n') %}{% if _p.strip() %}
+      <p>{{ _p }}</p>
+      {% endif %}{% endfor %}
+    </div>
     {% elif article.summary_zh or article.summary %}
     <p class="story-excerpt">{{ article.summary_zh or article.summary }}</p>
     {% endif %}

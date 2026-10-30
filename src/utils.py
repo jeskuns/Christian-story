@@ -62,6 +62,55 @@ def clean_text(text: str) -> str:
     return text.strip()
 
 
+# 疑似页脚/导流/格式残渣的文本（短行直接丢弃）
+_JUNK_HINTS = [
+    "subscribe to", "sign up", "newsletter", "all rights reserved",
+    "privacy policy", "cookie", "terms of use", "terms of service",
+    "follow us", "share this", "related posts", "you may also like",
+    "leave a comment", "previous post", "next post", "download pdf",
+    "print this", "in epub", "epub", "mobi", "kindle edition",
+    "advertisement", "sponsored", "we use cookies", "©", "(c) ",
+]
+
+
+def normalize_content(text: str) -> str:
+    """把抓取到的杂乱正文整理成干净的段落文本。
+
+    解决「逐词断行」（In / ePub / , / mobi 每行一词）：
+    按空行分段，段内所有换行合并为空格，从而把被逐行拆开的词重新拼回成句。
+    """
+    if not text:
+        return ""
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    # 去掉控制字符，仅保留可见字符与换行
+    text = "".join(ch for ch in text if ch == "\n" or ch >= " ")
+    blocks = re.split(r"\n{2,}", text)
+    out = []
+    for blk in blocks:
+        lines = [ln.strip() for ln in blk.split("\n")]
+        lines = [ln for ln in lines if ln]
+        if not lines:
+            continue
+        para = re.sub(r"[ \t]+", " ", " ".join(lines)).strip()
+        if len(para) < 2:
+            continue
+        low = para.lower()
+        # 整段疑似页脚/格式说明且较短 → 丢弃
+        if any(j in low for j in _JUNK_HINTS) and len(para) < 200:
+            continue
+        out.append(para)
+    return "\n\n".join(out)
+
+
+def make_summary(text: str, n: int = 2) -> str:
+    """取正文前 n 个句末标点分割的句子，作为中文导读。"""
+    if not text:
+        return ""
+    parts = re.split(r"(?<=[。！？!?；;\.\n])", text)
+    parts = [p.strip() for p in parts if p.strip()]
+    return " ".join(parts[:n]).strip()
+
+
 def abs_url(base: str, link: str) -> str:
     """补全相对链接"""
     if not link:

@@ -8,7 +8,7 @@ import feedparser
 from bs4 import BeautifulSoup
 
 from ..models import Article, SourceConfig
-from ..utils import clean_text, normalize_date, abs_url
+from ..utils import clean_text, normalize_date, abs_url, normalize_content
 from .extract import extract_article, _image_from_html
 
 logger = logging.getLogger(__name__)
@@ -63,7 +63,7 @@ def parse_feed(config: SourceConfig) -> List[Article]:
             if feed_html:
                 txt = BeautifulSoup(feed_html, "html.parser").get_text("\n", strip=True)
                 if len(txt) > 250:
-                    content = txt[:4000]
+                    content = normalize_content(txt)[:4000]
 
             # 配图：优先 RSS enclosure / media
             image = _image_from_entry(entry)
@@ -72,7 +72,7 @@ def parse_feed(config: SourceConfig) -> List[Article]:
             if (len(content) < 250 or not image) and link:
                 page_content, page_image = extract_article(link)
                 if len(content) < 250 and page_content:
-                    content = page_content
+                    content = normalize_content(page_content)[:4000]
                 if not image and page_image:
                     image = page_image
 

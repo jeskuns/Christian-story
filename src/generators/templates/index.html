@@ -23,20 +23,20 @@
   {% endfor %}
 </section>
 
-<section class="classic-section">
-  <div class="section-head">
-    <h2>经典故事</h2>
-    <span class="sub">宣教士与属灵伟人的生平见证 · 特别经典</span>
-  </div>
-  <div class="story-list">
-    {% for article in classic_items %}
-    {{ story_card(article, category_labels) }}
-    {% endfor %}
-  </div>
-</section>
-
 <div class="home-layout">
   <div class="main-col">
+    <section class="classic-section">
+      <div class="section-head">
+        <h2>经典故事</h2>
+        <span class="sub">宣教士与属灵伟人的生平见证 · 特别经典</span>
+      </div>
+      <div class="story-list">
+        {% for article in classic_items %}
+        {{ story_card(article, category_labels) }}
+        {% endfor %}
+      </div>
+    </section>
+
     <section class="timeline">
       {% for date, items in date_groups.items() %}
       <div class="date-section" id="date-{{ date }}">
@@ -62,6 +62,24 @@
       <h3>使用说明</h3>
       <p>故事正文由系统自动采集并摘抄，标题、摘要与正文均已译为中文；原文链接置于「阅读全文」。</p>
       <p>内容版权归原作者与来源所有，仅供个人灵修与讲道参考，请以官方来源为准。</p>
+    </div>
+
+    <div class="widget">
+      <h3>热门地区</h3>
+      <div class="chip-cloud">
+        {% for r in hot_regions %}
+        <a class="chip" href="all.html">{{ r.name }}<span>{{ r.count }}</span></a>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="widget">
+      <h3>热门主题</h3>
+      <div class="chip-cloud">
+        {% for t in hot_topics %}
+        <a class="chip" href="all.html">{{ t.name }}<span>{{ t.count }}</span></a>
+        {% endfor %}
+      </div>
     </div>
   </aside>
 </div>

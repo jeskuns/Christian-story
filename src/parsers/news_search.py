@@ -16,7 +16,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from ..models import Article, SourceConfig
-from ..utils import clean_text, normalize_date
+from ..utils import clean_text, normalize_date, normalize_content
 from .extract import extract_article
 
 logger = logging.getLogger(__name__)
