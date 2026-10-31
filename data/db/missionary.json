@@ -1,8 +1,8 @@
 {
   "category": "missionary",
   "label": "宣教士故事",
-  "count": 36,
-  "updated_at": "2026-10-30T16:28:46.662289+08:00",
+  "count": 38,
+  "updated_at": "2026-10-31T11:19:44.085733+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -10,7 +10,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "With Lebanon currently being impacted by war, a refugee crisis, and more, stories of beauty can be hard to come across. For ministries active in Lebanon, meeting the spiritual, physical...",
       "summary_zh": "由于黎巴嫩目前受到战争、难民危机等的影响，美丽的故事可能很难被理解。对于在黎巴嫩活跃的事工，满足精神，物质...",
       "title_zh": "黎巴嫩的艺术项目将美丽带入危机",
@@ -27,7 +27,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:27.136715",
+      "fetched_at": "2026-10-31T03:15:37.914656",
       "extra": {
         "feed_type": "rss20"
       }
@@ -38,7 +38,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "This incident took place over 15 years ago, and yet, I remember it clearly. In the buzz of daily life, it is easy to get caught up in the carelessness...",
       "summary_zh": "这件事发生在15年前，但我记得很清楚。在日常生活的嗡嗡声中，很容易陷入粗心大意……",
       "title_zh": "v.容忍",
@@ -55,7 +55,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:27.494593",
+      "fetched_at": "2026-10-31T03:15:38.128148",
       "extra": {
         "feed_type": "rss20"
       }
@@ -66,7 +66,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Koinonia (Koy-no-nee’-ah) is a Greek word, occurring 20 times in the Bible, which means “fellowship” or “brotherly love.” It carries with it the meaning of a committed, trustworthy, and dependable...",
       "summary_zh": "Koinonia （ Koy-no-nee '-ah ）是一个希腊语单词，在圣经中出现了20次，意思是“团契”或“兄弟之爱”。“它带有忠诚、值得信赖和可靠的意义……",
       "title_zh": "Koinonia",
@@ -83,7 +83,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:28.114951",
+      "fetched_at": "2026-10-31T03:15:38.410388",
       "extra": {
         "feed_type": "rss20"
       }
@@ -94,7 +94,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Isaiah 54:10 Though the mountains be shaken and the hills be removed, yet my unfailing love for you will not be shaken nor my covenant of peace be removed,” says...",
       "summary_zh": "Isaiah 54:10大山虽摇动，小山虽迁移，我对你们永不止息的爱却不摇动，我平安的约也不迁移。”",
       "title_zh": "契  约",
@@ -111,7 +111,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:28.887802",
+      "fetched_at": "2026-10-31T03:15:38.963543",
       "extra": {
         "feed_type": "rss20"
       }
@@ -122,7 +122,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "The Scriptures Ephesians 6:10-18 (NIV) 10 Finally, be strong in the Lord and in his mighty power. 11 Put on the full armor of God, so that you can take...",
       "summary_zh": "以弗所书6:10 -18 （ NIV ） 10最后，靠着主和祂的大能要坚强。11穿上神的全副军装，这样你就可以……",
       "title_zh": "Innocent As Doves",
@@ -139,7 +139,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:29.632082",
+      "fetched_at": "2026-10-31T03:15:39.448498",
       "extra": {
         "feed_type": "rss20"
       }
@@ -150,7 +150,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Genesis 13 So Abram left Egypt and traveled north into the Negev, along with his wife and Lot and all that they owned. 2 (Abram was very rich in livestock,...",
       "summary_zh": "创世记第13章于是亚伯兰离开埃及，带着他的妻子和罗得以及他们所拥有的一切，向北进入内盖夫。2 （亚伯兰的牲畜非常丰富， ……",
       "title_zh": "亚伯拉罕和洛特",
@@ -168,7 +168,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:30.336978",
+      "fetched_at": "2026-10-31T03:15:39.677590",
       "extra": {
         "feed_type": "rss20"
       }
@@ -179,7 +179,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "My family still wrestles with what feels like very fresh grief over my dad’s passing last September. There are moments where things hit us and we feel this ache of...",
       "summary_zh": "我的家人仍然在为父亲去年9月的逝世感到非常新鲜的悲伤而挣扎。在某些时刻，事情触动了我们，我们感到这种痛苦......",
       "title_zh": "神的安慰",
@@ -199,7 +199,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:30.668435",
+      "fetched_at": "2026-10-31T03:15:40.025971",
       "extra": {
         "feed_type": "rss20"
       }
@@ -210,7 +210,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "You’ve probably heard someone say ‘There is no such thing as a coincidence’. Usually people nod their heads and murmur agreement, but the real question is “Do you believe it?“...",
       "summary_zh": "您可能听说过有人说“没有所谓的巧合”。通常人们会点头低语，但真正的问题是“你相信吗？” ……",
       "title_zh": "一相逢",
@@ -232,7 +232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:31.203962",
+      "fetched_at": "2026-10-31T03:15:40.336820",
       "extra": {
         "feed_type": "rss20"
       }
@@ -243,7 +243,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "One thing I am noticing here is how different the context of ministry is from country to country. You can sometimes THINK you understand the concept of the vehicle, like...",
       "summary_zh": "我在这里注意到的一件事是，不同国家的事工背景是多么的不同。有时您可能会认为自己了解车辆的概念，例如...",
       "title_zh": "先吃鸡还是先吃鸡蛋？",
@@ -266,7 +266,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:31.708940",
+      "fetched_at": "2026-10-31T03:15:41.177143",
       "extra": {
         "feed_type": "rss20"
       }
@@ -277,7 +277,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Last night, I attended a prayer meeting at a church in downtown Cairo, near Tahrir Square. The church was gathering to cry out to God in their distress over the...",
       "summary_zh": "昨晚，我在开罗市中心解放广场附近的一个教堂参加了一次祈祷会。教会聚集在一起，在他们的痛苦中向上帝呼求……",
       "title_zh": "释放祈祷的力量",
@@ -300,7 +300,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:32.719689",
+      "fetched_at": "2026-10-31T03:15:41.918833",
       "extra": {
         "feed_type": "rss20"
       }
@@ -311,7 +311,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Jamie Dean offers a prayer guide for persecuted Christians in Iran, China, North Korea, and other hard to reach nations.",
       "summary_zh": "杰米·迪恩（ Jamie Dean ）为伊朗、中国、朝鲜和其他难以抵达的国家的受迫害基督徒提供了祈祷指南。",
       "title_zh": "为受迫害的基督徒祈祷的五种方式",
@@ -326,7 +326,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:41.158462",
+      "fetched_at": "2026-10-31T03:15:50.862505",
       "extra": {
         "feed_type": "rss20"
       }
@@ -337,7 +337,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "David Platt shares a powerful story of forgiveness and challenges Christians to support persecuted believers through prayer.",
       "summary_zh": "大卫·普拉特（ David Platt ）分享了一个关于宽恕的强大故事，并挑战基督徒通过祈祷来支持受迫害的信徒。",
       "title_zh": "与我们看不到的兄弟姐妹站在一起",
@@ -352,7 +352,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:41.160056",
+      "fetched_at": "2026-10-31T03:15:50.864037",
       "extra": {
         "feed_type": "rss20"
       }
@@ -363,7 +363,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Brian Pate explains how missionaries can equip national churches to mature, reproduce, and plant healthy churches for generations.",
       "summary_zh": "布莱恩·佩特（ Brian Pate ）解释了传教士如何让国家教会成熟、繁殖和种植健康的教会。",
       "title_zh": "传教士应该如何在教会已经存在的地方服务",
@@ -378,7 +378,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:41.162399",
+      "fetched_at": "2026-10-31T03:15:50.866171",
       "extra": {
         "feed_type": "rss20"
       }
@@ -389,7 +389,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Salvador Blanco-Perello shows how everyday activities can become opportunities to help others follow Jesus.",
       "summary_zh": "Salvador Blanco-Perello展示了日常活动如何成为帮助他人跟随耶稣的机会。",
       "title_zh": "普通基督徒如何帮助他人跟随耶稣",
@@ -404,33 +404,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:41.164451",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "How God Used a Mafia-Man to Build His Church",
-      "url": "https://radical.net/article/god-used-mafia-man/",
-      "category": "missionary",
-      "source": "Radical (David Platt)",
-      "source_url": "https://radical.net/feed/",
-      "published": "2026-10-30",
-      "summary": "Hannah Hagarty tells how God used an unexpected friendship with a deaf mafia leader to establish the first church in a remote city.",
-      "summary_zh": "汉娜·哈加蒂（ Hannah Hagarty ）讲述了上帝如何利用与聋哑黑手党领导人的意外友谊，在一个偏远的城市建立了第一座教堂。",
-      "title_zh": "神如何使用黑手党人建立他的教会",
-      "content": "Greg and Julie Dye moved halfway around the world to an unreached language group . They may have expected the hurdles of learning a new language and culture, but they could not have predicted how God would establish the first church among a people who had never heard of him. Eager to learn the local language, Greg and Julie diligently worked to establish connections and build friendships in the community. As Americans living in a city near the Mongolian border, they were impossible to miss. But none of the people they met were glad to see Americans. The Cold War had just ended. Tensions were tight. Their new area of the world had only recently opened to outsiders. Greg and Julie were followed, spit on, and they encountered persistent hostility. Greg was often picked up, interrogated, and then left in the woods to find his way back home. But one man noticed them and was glad to engage in conversation . Dava was deaf. Between his ability to speak and write a little, and Greg’s perseverance in the local language, a friendship began. Because the deaf people in the country spoke a language no one else could understand, the government had been suspicious of them. During the Cold War, they were gathered and sent by train to a remote city far away from the capitol. Signing in public became an illegal activity. As outcasts, they gathered scraps from the garbage to sell and worked the worst jobs available—anything to try to live. Greg and Julie knew none of this when they arrived in their new city, but God knew. He sent them to Dava. Dava was eager to teach his language. Greg and Julie, facing incredible opposition learning the local spoken language, began also to learn sign language. Dava was eager to know all about Greg and Julie. Every morning, he showed up at their little apartment, bounced their toddler around on his shoulders, and worked to teach them his language. When Greg had a break from the job that allowed them to stay in the country, he began the meticulous work of putting the gospel narrative that he’d come to share into sign language. When Dava heard about the upcoming story nights, he was excited and promised he’d bring some friends. AN UNEXPECTED TWIST On the first story night, Greg and Julie’s two-room apartment was packed full of deaf people. Those same people filled the tiny apartment every story week, month after month, to watch the telling of the gospel narrative. It was a story they had never been told, beginning at creation and the fall, then moving through the Old Testament . Each story left them wondering who would come to save God’s people. One night, in the sixth month, when the Redeemer had been revealed, Dava stood up, and his larger-than-life presence filled the room. “ Okay!” he bellowed. “I believe now.” He gestured to the two rooms of people and said, “You don’t have to keep coming if you don’t want to!” Greg and Julie watched the scene, not understanding what was happening. No one moved an inch. Dava turned to them. “I’m part of the deaf mafia,” he confessed. “I only made a friendship with you so that I could rob you. But now, I believe in Jesus.” He told Greg and Julie how, for the past six months, he’d threatened to hurt each individual present if they did not come to his American friend’s house once a week to listen to their stories. Knowing he was a murderer and wanted by the police, the deaf people in the apartment had taken his threats seriously. The moment Dava believed in Christ, he freed them from his threat. Now, 30 years later, Julie tells the rest of the story with joyful but tearful eyes: “ The thing is, they didn’t leave. Nearly all of them came back. They became the seed of the first church in that city, a deaf church, that God built as only he could do.” Shortly after his conversion, Dava turned himself in to the police. He spent hard years in prison for his crimes. “It was a difficult thing for him,” Julie says, “ but he is back in the church and active today.” The story does not end t",
-      "content_zh": "Greg和Julie Dye 在世界的半个角落 搬到了一个没有联系的语言组 他们可能已经预见到学习新语言和文化的障碍,但他们无法预料上帝会怎样在从未听说过他的民族中建立第一个教堂. 为了学习当地语言,格雷格和朱莉勤奋地努力在社区中建立联系并建立起友谊. 由于美国人住在蒙古边境附近的一城市,他们不可能错过. 但是他们遇见的人没有一个见到美国人就很高兴. 冷战刚刚结束。 紧张气氛很紧张。 他们的世界新地区最近才对外开放。 格雷格和朱莉被跟踪,吐口水,他们遭遇了持续的敌意. 格雷格经常被接走,审问,然后被留在树林中寻找回家的路. 但有一个人注意到他们,并很高兴参与对话。 达瓦是聋子。 在他说话和写作的能力与格雷格在当地语言的坚韧不拔之间,开始了友谊. 因为国内的聋人会说别人无法理解的语言,所以政府一直怀疑他们. 在冷战期间,他们被集合并被用火车送往远离卡皮托尔的偏远城市. 公开签名是一种非法活动。 作为被排斥者,他们从垃圾中收集出垃圾来出售并从事最坏的工作——任何试图活下来的工作。 格雷格和朱莉到达新城时并不知道这些,但上帝知道. 他把他们送到了达瓦。 达瓦热衷于教授他的语言. 格雷格和朱莉面对不可思议的反对派学习当地口语,也开始学习手语. 达瓦急于了解格雷格和朱莉的一切. 每天早上,他都出现在他们的小公寓里,在肩膀上弹起他们的幼儿,并努力教他们自己的语言. Greg中断了让他们留在国内的工作后, 当达瓦听到即将到来的故事之夜, 一个无法想象的TWIST 在第一个故事之夜,格雷格和朱莉的两间公寓被装满了聋人. 那些人每个故事周、每个月都填满小公寓,看福音故事的讲述。 这是他们从未听到的故事, 从创造和倒下开始, 然后通过旧约。 每个故事都让他们怀疑谁会来拯救真主的人民。 一天晚上,在6个月里,当救世主被揭发时,达瓦站起身来,他比生还长的身影填满了房间。 “好! ”他高呼“好! ” “我现在相信了。” 他向两个房间的人示好, Greg和Julie看了场景 不明白发生了什么 没有人动一英寸。 达瓦转向他们。 “我是聋人黑手党的一部分,”他承认。 “我只为了抢劫而与你建立了友谊。 但现在,我相信耶稣。” 他告诉格雷格和朱莉,在过去六个月里,他曾威胁说,如果他们每周不来美国朋友家听他们的故事,就会伤害在场的每一个人。 明知他是一个杀人犯并被警察通缉,公寓里的聋子们已经认真对待他的威胁. 达瓦一相信基督,就让他们摆脱了威胁. 现在,30年后,朱莉用欢快但泪眼讲述了剩下的故事:\"事实是,他们没有离开. 他们几乎都回来了。 他们成为了该市第一个教堂 -- -- 一个聋子教堂 -- -- 的种子,这是上帝建造的,只有他才能做到。” 转会后不久,达瓦向警方自首. 他因犯罪入狱多年. Julie说:“这对他来说是件艰难的事,”但是他今天回到了教堂并活跃起来。 故事没有结束T",
-      "image": "https://cdn.radical.net/images/20261019054427/How-God-Used-a-Mafia-Man-to-Build-His-Church-featured-image.jpg",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-10-30T08:10:41.166800",
+      "fetched_at": "2026-10-31T03:15:50.868070",
       "extra": {
         "feed_type": "rss20"
       }
@@ -441,7 +415,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "When most Southern Baptists think of missionaries, they often picture church planters and evangelists. But leaders with the International Mission Board say some of the greatest needs today are for professionals whose work happens behind the scenes. IMB leaders report that critical roles such as teachers, healthcare workers, counselors, accountants, logistics specialists and member care personnel are helping advance the Great Commission in ways many churches never see. Doreen Baker, IMB director ",
       "summary_zh": "当大多数\"南方浸信会\"想到传教士时,他们常常会描绘出教会的植树人和福音派. 但国际使命委员会的领导人说,今天最需要的是那些在幕后工作的专业人员。 咨监委领导人报告说,教师、保健工作者、顾问、会计师、后勤专家和成员护理人员等关键角色正在帮助推进大委员会,许多教会从未看到过。 多琳·贝克,IMB导演",
       "title_zh": "IMB寻求教师、医护人员、商业专业人士担任传教士",
@@ -473,7 +447,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:43.359203",
+      "fetched_at": "2026-10-31T03:15:52.170977",
       "extra": {
         "feed_type": "rss20"
       }
@@ -484,7 +458,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Twenty minutes had passed already. The sun was going down, and they were looking everywhere, but they only saw men in the park. Sophia, an International Mission Board missionary, joined another IMB missionary and Maryam, a South Asian Christian. They went to the park to share the gospel, but approaching a man in their Muslim-majority city was out of the question. They kept walking and watching. Even if they went home without a single conversation, Sophia knew Maryam would want to try again. This",
       "summary_zh": "20分钟已经过去了。 太阳正在下山,他们到处找,但他们只在公园里看到男人. 索菲亚是一位国际传教委员会传教士,他加入了另一位IMB传教士和一位南亚基督徒玛丽安. 他们去公园分享福音,但是接近一个他们穆斯林占多数的城市里的人是不可能的. 他们不停地走着看。 即使他们一言不发地回家,索菲亚也知道玛丽安会想再试一次. 这个",
       "title_zh": "IMB传教士通过新信徒和当地教会看到神在工作",
@@ -519,7 +493,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:44.351004",
+      "fetched_at": "2026-10-31T03:15:53.080143",
       "extra": {
         "feed_type": "rss20"
       }
@@ -530,7 +504,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "In the city where Jason and Lizzy Davis serve, some steps have a lot of meaning. And the meaning is different for them than it is for the thousands who travel there to visit that site. “If you come to Rome, you can come to a place called the Holy Steps,” Jason said. “People go there, and they’ll crawl up on their knees and pray the rosary all the way up.” From the top of the steps, a mural depicting Jesus on the Cross looks down on those making the pilgrimage. For Jason and Lizzy, it’s a spiritu",
       "summary_zh": "在杰森和丽西·戴维斯所服务的城市中,一些台阶具有很多意义. 对他们来说,意义是不同的, 而对于前往那里的成千上万人来说,意义是不同的。 Jason说,“如果你来到罗马,你可以来到一个叫做神圣步骤的地方。” “人们会爬到那里, 从台阶上方取出一幅描绘十字架上耶稣的壁画来俯瞰做朝圣的人. 对Jason和Lizzy来说,",
       "title_zh": "神通过IMB在意大利的传教士保持忠诚",
@@ -563,7 +537,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:45.004600",
+      "fetched_at": "2026-10-31T03:15:53.938122",
       "extra": {
         "feed_type": "rss20"
       }
@@ -574,7 +548,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Rebeca Couto moved from one volcanic archipelago to another, leaving Portugal’s Azores islands to anchor her life in Japan. The percentage of evangelical Christians in the Azores and Japan is similar, with both populations under 1%. Couto is a fourth-generation Christian, a rarity on the small islands. She is one of few, if any, believers in the Azores with such a long spiritual lineage. This rich legacy shaped her and prepared her for ministry. “I’ve always understood the Great Commission as a ",
       "summary_zh": "Rebeca Couto从一个火山群岛迁移到另一个火山群岛,离开葡萄牙的亚速尔群岛将她的生命锚定在日本. 亚速尔和日本的福音派基督徒比例相近,两者的人口均低于1%. 库托是第四代基督徒,在小岛上非常罕见. 她是亚速尔群岛少数信仰者之一 有着如此长的精神血统 这个丰富的遗产塑造了她,并让她为部里做好准备. \" 我一直认为大委员会是一个",
       "title_zh": "全球传教士合作伙伴通过IMB团队扩展福音工作",
@@ -610,7 +584,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:45.756067",
+      "fetched_at": "2026-10-31T03:15:54.782811",
       "extra": {
         "feed_type": "rss20"
       }
@@ -621,7 +595,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Across Spain, people looking for connection and meaningful conversation turn to the internet to find groups where they can meet others. At a café by the river, Caleb and Carina Beaty engage in conversations about finding purpose, beauty and “what’s wrong with the world.” A website called Meetup allows people to search for groups to meet in person. The description of the Beatys’ group indicates that it discusses spiritual topics. People come expecting to talk about faith, so it’s not a surprise w",
       "summary_zh": "在西班牙各地, Caleb和Carina Beaty在河边的一家咖啡馆里, 一个名为\"Metup\"的网站允许人们亲自搜索团体. 对Beatys团体的描述表明,它讨论的是精神主题。 人们希望谈论信仰,",
       "title_zh": "IMB传教士使用家庭、咖啡馆、应用程序为西班牙的福音对话敞开大门",
@@ -648,7 +622,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:46.595474",
+      "fetched_at": "2026-10-31T03:15:55.599742",
       "extra": {
         "feed_type": "rss20"
       }
@@ -659,7 +633,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "NASHVILLE – As the books closed on the latest fiscal year, receipts for the two Southern Baptist national annual missions offerings underscored the value Southern Baptist churches place on reaching the world with the gospel. The Lottie Moon Christmas Offering® (LMCO) totaled $212.5 million to support International Mission Board (IMB) missionaries, and the Annie Armstrong Easter Offering® (AAEO) reached $73.6 million to support the North American Mission Board’s (NAMB) church planting, compassion",
       "summary_zh": "纳什维莱 — — 随着书籍在上个财政年度收尾,两个美南浸信会国家年度传教团的收据凸显出美南浸信会教堂对用福音传入世界的价值。 Lottie Moon Christmas Offering(LMCO)共提供2.125亿美元支持国际传教委员会(IMB)的传教士,Annie Armstrong Easter Offer Offering(AAEO)则提供7 360万美元支持北美传教委员会(NAMB)的教堂种植,同情心.",
       "title_zh": "AAEO、LMCO总计发出南方浸信会支持的信号，关注大使命",
@@ -701,7 +675,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:47.268809",
+      "fetched_at": "2026-10-31T03:15:56.344528",
       "extra": {
         "feed_type": "rss20"
       }
@@ -712,7 +686,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "The chapel at Council Road Baptist Church in Oklahoma City turned into a science lab on Oct. 5-6. Microscopes, beakers and test tubes weren’t in the room, but this Sending Church Lab drew nearly 40 people representing 12 Oklahoma Baptist churches committed to send and care for international missionaries well. The Sending Church Lab, facilitated by the International Mission Board, brought pastors, church leaders and missionaries together for two days of discussion, self-assessment and planning ce",
       "summary_zh": "俄克拉荷马城Constitute Road Baptist Church的小教堂于10月5-6日变成科学实验室. 但这个送信教会实验室吸引了近40人, 代表12个俄克拉何马浸会教会, 传教会实验室在国际传教委员会的协助下,召集牧师、教会领袖和传教士进行两天的讨论、自我评估和规划",
       "title_zh": "俄克拉荷马州浸信会加入派遣教会实验室，以加强传教士支持",
@@ -741,7 +715,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:47.828720",
+      "fetched_at": "2026-10-31T03:15:56.971495",
       "extra": {
         "feed_type": "rss20"
       }
@@ -752,7 +726,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Recently, an International Mission Board team in Southeast Asia asked a young woman if she had heard the story of Jesus. She replied that, yes, she had heard about Him through a video online! “Back in the day,” shared Amanda Clarkston, an IMB missionary who has served in Southeast Asia for 33 years, “when I first came on the field, you’d go somewhere and gather all the people together in the village to watch the JESUS film.” Now, face-to-face conversations about Christ on the Southeast Asian isl",
       "summary_zh": "最近,东南亚国际使团委员会的一个小组询问一名年轻妇女是否听说过耶稣的故事。 她回答说,是的,她通过网络视频听到了他的消息! “回到今天 ” , 分享了IMB在东南亚服役了33年的传教士阿曼达·克拉克斯顿(Amanda Clarkston ) , “ 当我第一次来到现场时,你会去一个地方,把村里的所有人聚集在一起观看JESUS电影。 ” 现在,面对面的谈论基督 在东南亚是。",
       "title_zh": "数字化之门为东南亚岛民打开福音之门",
@@ -776,7 +750,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:48.398923",
+      "fetched_at": "2026-10-31T03:15:57.780239",
       "extra": {
         "feed_type": "rss20"
       }
@@ -787,7 +761,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Ask most people what comes to mind when they think of South Korea, and they’ll likely mention K-pop, skincare, cutting-edge technology, or bustling city streets filled with young professionals. Hun and Eunjoo Sol see those things too. But after more than a decade serving as International Mission Board missionaries in Seoul, they also see something many visitors never notice. “Many people think that Korea is exciting and successful,” Hun said. “They think about the K-pop, the K-culture, K-technol",
       "summary_zh": "他们可能会提到K-pop、护肤、尖端科技, 或是充满年轻专业人士的城市街道。 匈奴和恩朱·索尔也看到了那些东西. 但是,在担任国际使团委员会在首尔的传教士十多年后,他们也看到了许多游客从未注意到的事情. “许多人认为韩国是令人兴奋和成功的,”Hun说。 “他们想到的是K-流行、K-文化、K-科技。",
       "title_zh": "IMB传教士在服务之旅中分享首尔的愿景",
@@ -814,7 +788,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:49.172114",
+      "fetched_at": "2026-10-31T03:15:58.761527",
       "extra": {
         "feed_type": "rss20"
       }
@@ -825,7 +799,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Don Barger, director of innovation and artificial intelligence for the International Mission Board, received the 2026 Excelerate Award from Missio Nexus during the Mission Leaders Conference, Sept. 24 in Orlando, Florida. According to Missio Nexus, a network of mission-focused organizations and churches, the Excelerate Award recognizes individuals who demonstrate exceptional leadership and creativity in advancing missions through innovation. Barger has earned a reputation for identifying emergin",
       "summary_zh": "国际使命委员会创新和人工智能主任唐·巴格在9月24日于佛罗里达州奥兰多召开的使命领导人会议期间,获得了由Missio Nexus颁发的2026年快活奖. 根据以使命为重点的组织和教会网络Missio Nexus的说法,Excellate奖表彰那些通过创新在推进使命中表现出卓越领导力和创造力的个人. 巴格因确认埃默金而得名",
       "title_zh": "IMB的Barger因任务创新而获得2026 Excelerate奖",
@@ -852,7 +826,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:49.754158",
+      "fetched_at": "2026-10-31T03:15:59.591634",
       "extra": {
         "feed_type": "rss20"
       }
@@ -863,7 +837,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "In a time of global challenge and opportunity, the Wycliffe Global Alliance is searching for its next Executive Director.",
       "summary_zh": "在这个充满全球挑战和机遇的时代，威克理夫全球联盟正在寻找下一任执行董事。",
       "title_zh": "Alliance寻求下一任执行董事",
@@ -883,7 +857,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:44.634278",
+      "fetched_at": "2026-10-31T03:15:54.952861",
       "extra": {
         "feed_type": "rss20"
       }
@@ -894,12 +868,12 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Resources from the Alliance's global conversation about Power in Mission, including a Toolbox your organisation can use.",
       "summary_zh": "来自联盟关于任务中力量的全球对话的资源，包括您的组织可以使用的工具箱。",
       "title_zh": "全球咖啡聊天：使命中的力量",
-      "content": "Similar Posts - Video of our celebration event, plus Vision 2025 background and more - An interview with Evelyn Gan, a Bible translation consultant with Wycliffe Malaysia. - Training and resources for oral Bible translators are multiplying quickly. In this series of stories and a podcast, we take a closer look. - Biblical and pastoral training in the Land of the Bible - In the lead-up to the 2024 Global Gathering, a powerful wave of prayer has been sweeping across the globe. - The ultimate metric of success is no longer just the distribution of physical books, but measurable transformation of lives through deep, culturally authentic understanding.",
-      "content_zh": "类似文章 - 我们庆祝活动的视频,加上\"2025年愿景\"的背景和更多 - 专访马来西亚Wycliffe的圣经翻译顾问Evelyn Gan. - 口头翻译的培训和资源迅速增加。 在这一系列的故事和播客中,我们仔细看看。 -圣经之地的圣经和牧业训练 - 在2024年全球集会前,全球各地都涌出一股强烈的祈祷浪潮. 衡量成功与否的终极尺度不再仅仅是物理图书的发行,而是通过深刻,文化上真实的理解,对生活进行可测量的转变.",
+      "content": "Similar Posts - The ultimate metric of success is no longer just the distribution of physical books, but measurable transformation of lives through deep, culturally authentic understanding. - A course developed by the Wycliffe Global Alliance, called ‘Language and Translation in the Mission of God’, is capturing the imagination of church leaders worldwide. - An interview with Evelyn Gan, a Bible translation consultant with Wycliffe Malaysia. - 46 countries have 5 or more languages still needing Bible translation to begin. YWAM has people in every one of those countries. - How AI is expected to accelerate Bible translation for hundreds of sign languages - A tech observer outlines what AI will mean soon for workplaces and ministry",
+      "content_zh": "类似职位 衡量成功与否的终极尺度不再仅仅是物理图书的发行,而是通过深刻,文化上真实的理解,对生活进行可测量的转变. - Wycliffe全球联盟开发的名为“上帝使命中的语言和翻译”的课程正在捕捉全世界教会领袖的想象力。 - 说吧 专访马来西亚威克力夫的圣经翻译顾问伊芙琳·甘. - 46个国家有5个或更多的语言,仍然需要圣经翻译开始. YWAM在每一个这些国家都有人。 - AI如何加速数百种手语的圣经翻译。",
       "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
       "author": "Jim Killam",
       "tags": [
@@ -916,7 +890,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:45.884283",
+      "fetched_at": "2026-10-31T03:15:56.076581",
       "extra": {
         "feed_type": "rss20"
       }
@@ -927,7 +901,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
       "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
       "title_zh": "威克里夫全球联盟传播研讨会–非洲地区",
@@ -944,7 +918,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:47.208421",
+      "fetched_at": "2026-10-31T03:15:57.214924",
       "extra": {
         "feed_type": "rss20"
       }
@@ -955,7 +929,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
       "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
       "title_zh": "在东南亚培训口译员",
@@ -972,7 +946,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:48.306409",
+      "fetched_at": "2026-10-31T03:15:58.413306",
       "extra": {
         "feed_type": "rss20"
       }
@@ -983,7 +957,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
       "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
       "title_zh": "在印尼培训口译员",
@@ -1000,7 +974,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:49.507778",
+      "fetched_at": "2026-10-31T03:15:59.520566",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1011,7 +985,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "Questions or comments? Contact us at: Prayer@wycliffe.net",
       "summary_zh": "有问题或意见？联系我们： Prayer@wycliffe.net",
       "title_zh": "祈祷墙指南",
@@ -1028,7 +1002,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:50.590850",
+      "fetched_at": "2026-10-31T03:16:00.583520",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1039,7 +1013,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "The ultimate metric of success is no longer just the distribution of physical books, but measurable transformation of lives through deep, culturally authentic understanding.",
       "summary_zh": "衡量成功的最终标准不再仅仅是实体书籍的分发，而是通过深刻的文化真实理解对生活进行可衡量的转变。",
       "title_zh": "圣经翻译的未来是多元化的……和本地",
@@ -1065,7 +1039,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:51.711418",
+      "fetched_at": "2026-10-31T03:16:01.730969",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1076,7 +1050,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-10-30",
+      "published": "2026-10-31",
       "summary": "For both the African and global audiences at the Yaoundé gathering, panel members underscored a fundamental truth: Bible translation is not an isolated academic exercise.",
       "summary_zh": "在雅温得会议上，小组成员向非洲和全球观众强调了一个基本事实：圣经翻译并不是一项孤立的学术活动。",
       "title_zh": "神在非洲的使命： “还有很多事情要做”",
@@ -1101,7 +1075,59 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:52.820584",
+      "fetched_at": "2026-10-31T03:16:02.845507",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "Prison Didn’t Mean Paul Was Wrong",
+      "url": "https://radical.net/article/prison-didnt-mean-wrong/",
+      "category": "missionary",
+      "source": "Radical (David Platt)",
+      "source_url": "https://radical.net/feed/",
+      "published": "2026-10-31",
+      "summary": "Steven Morales explains why following Jesus is worth every sacrifice, even when faithfulness leads to suffering and imprisonment.",
+      "summary_zh": "史蒂文·莫拉莱斯（ Steven Morales ）解释了为什么即使忠诚导致痛苦和监禁，跟随耶稣也是值得的。",
+      "title_zh": "监狱并不意味着保罗错了",
+      "content": "“I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called.” (Eph. 4:1) Those are weighty words. And they’re weighty not because Paul is writing from a quiet study or a place of comfort, but because he is writing them from a prison cell. Paul isn’t sending this letter from a position of safety or success as the world defines it. He’s writing as a man in chains—arrested for preaching the gospel and planting churches. To his critics, he was a troublemaker. A dangerous agitator. To God, he was a faithful servant . That matters. Paul is suffering for the very message he’s urging the church in Ephesus to remember and live out. His words carry weight because his life backs them up. He’s not asking them to do anything he himself isn’t already doing—at great personal cost. And here’s the remarkable thing about Paul: there is no scenario in which he loses. Let him go free, and he’ll travel to the ends of the earth preaching Christ and starting churches. Lock him up, and he’ll become “a prisoner for the Lord,” turning his suffering into a living testimony of the worth of the gospel. Execute him? Fine. As he says elsewhere, “For to me to live is Christ, and to die is gain” (Phil. 1:21, ESV). There is no situation where Paul says, “The gospel isn’t enough anymore.” There is no moment where he concludes, “This just isn’t worth it.” Instead, Paul’s entire life—especially his suffering—testifies to this truth: no matter your circumstances, trusting in the gospel is never wasted. Paul wasn’t in prison because his ministry failed. He was in prison because he believed the message was worth suffering for. And that’s an important distinction. If a message isn’t worth suffering for, it’s probably not worth believing in. Christianity doesn’t promise a life without pain. What it promises is something better: a suffering that is not meaningless. A hope that suffering does not get the final word. That’s why Paul can say this in 2 Corinthians: “For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison, as we look not to the things that are seen but to the things that are unseen. For the things that are seen are transient, but the things that are unseen are eternal.” (2 Co. 4:17–18) The gospel gives us a framework for enduring temporary suffering because it anchors us in permanent promises. We can endure hardship now because we know it won’t last forever. Our pain has an expiration date . Why? Because Jesus has already suffered fully in our place. He took sin, death, and judgment upon himself—and walked out of the grave victorious. Because of him, not even death has the final say over us. So when Paul urges believers to “walk in a manner worthy of the calling,” he’s not laying a burden on their shoulders. He’s inviting them into a life shaped by hope—a life that knows that whatever it costs to follow Jesus, it will never be in vain. This article first appeared in The Commission , Radical’s biweekly newsletter featuring global gospel stories and encouragement from David Platt and others to help you follow Jesus and make him known. Subscribe today .",
+      "content_zh": "因此,我为主而遭俘虏,求你按照你们被召唤的礼仪而行走。 (第4:1页) 这些话很重 他们的体重不是因为保罗从安静的书房或舒适的地方写作,而是因为他从监狱牢房里写作。 保罗不会像世界所定义的那样, 他在写作时, 对他的批评者来说,他是一个麻烦制造者. 一个危险的煽动者。 对上帝来说,他是一个忠实的仆人。 这很重要。 他敦促以弗所的教会记住并活下来。 他的话很重,因为他的生活支持他们。 他并没有要求他们做他自己没有做的事, 保罗的惊人之处是:他没有失败的可能。 他将前往地底, 宣扬基督, 将他关起来,他将成为“主的俘虏”,将他的痛苦变成福音价值的活生生的见证。 处决他? 精细。 正如他在别处所说的那样,“对我来说,是基督,而死亡是利益”(Phil. 1:21,ESV)。 保罗说,“福音已经不够了。 ” 他没有一刻可以得出结论,“这不值得。 ” 相反,保罗的整个生活,特别是他的痛苦,证明了这一真理:无论你的情况如何,相信福音永远不会白白浪费。 保罗并未入狱, 他入狱是因为他认为这个消息值得忍受. 这是一个重要的区别。 如果信息不值得痛苦, 基督教不会保证没有痛苦的生活。 它所许诺的是更好的事情:没有意义的痛苦。 希望苦难得不到最终结果。 这就是为什么保罗可以在两个科林斯语中说:“由于这种短暂的灾难,我们准备了一种永恒的光荣之分,超越一切的比喻,因为我们不看所见的事物,而看所见的事物。 所见之物是短暂的,而所见之物是永恒的。” 福音为我们提供了一个忍受暂时痛苦的框架,因为它将我们置于永久的承诺中。 现在我们可以忍受苦难, 我们的疼痛有结束期 为什么? 因为耶稣已经在我们的位置上遭受了完全的痛苦。 他自受其害、死亡、判决。他从坟墓中走出, 因为他,连死亡都无法战胜我们 当保罗敦促信徒们“以值得召唤的方式行走”时, 他邀请他们过着充满希望的生活, 这篇文章首次刊登在委员会的双周通讯《激进》上, 今日订阅.",
+      "image": "https://cdn.radical.net/images/20261030060443/Prison-Didnt-Mean-Paul-Was-Wrong.png",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-31T03:15:50.859160",
+      "extra": {
+        "feed_type": "rss20"
+      }
+    },
+    {
+      "title": "How God Used a Mafia-Man to Build His Church",
+      "url": "https://radical.net/article/god-used-mafia-man/",
+      "category": "missionary",
+      "source": "Radical (David Platt)",
+      "source_url": "https://radical.net/feed/",
+      "published": "2026-10-30",
+      "summary": "Hannah Hagarty tells how God used an unexpected friendship with a deaf mafia leader to establish the first church in a remote city.",
+      "summary_zh": "汉娜·哈加蒂（ Hannah Hagarty ）讲述了上帝如何利用与聋哑黑手党领导人的意外友谊，在一个偏远的城市建立了第一座教堂。",
+      "title_zh": "神如何使用黑手党人建立他的教会",
+      "content": "Greg and Julie Dye moved halfway around the world to an unreached language group . They may have expected the hurdles of learning a new language and culture, but they could not have predicted how God would establish the first church among a people who had never heard of him. Eager to learn the local language, Greg and Julie diligently worked to establish connections and build friendships in the community. As Americans living in a city near the Mongolian border, they were impossible to miss. But none of the people they met were glad to see Americans. The Cold War had just ended. Tensions were tight. Their new area of the world had only recently opened to outsiders. Greg and Julie were followed, spit on, and they encountered persistent hostility. Greg was often picked up, interrogated, and then left in the woods to find his way back home. But one man noticed them and was glad to engage in conversation . Dava was deaf. Between his ability to speak and write a little, and Greg’s perseverance in the local language, a friendship began. Because the deaf people in the country spoke a language no one else could understand, the government had been suspicious of them. During the Cold War, they were gathered and sent by train to a remote city far away from the capitol. Signing in public became an illegal activity. As outcasts, they gathered scraps from the garbage to sell and worked the worst jobs available—anything to try to live. Greg and Julie knew none of this when they arrived in their new city, but God knew. He sent them to Dava. Dava was eager to teach his language. Greg and Julie, facing incredible opposition learning the local spoken language, began also to learn sign language. Dava was eager to know all about Greg and Julie. Every morning, he showed up at their little apartment, bounced their toddler around on his shoulders, and worked to teach them his language. When Greg had a break from the job that allowed them to stay in the country, he began the meticulous work of putting the gospel narrative that he’d come to share into sign language. When Dava heard about the upcoming story nights, he was excited and promised he’d bring some friends. AN UNEXPECTED TWIST On the first story night, Greg and Julie’s two-room apartment was packed full of deaf people. Those same people filled the tiny apartment every story week, month after month, to watch the telling of the gospel narrative. It was a story they had never been told, beginning at creation and the fall, then moving through the Old Testament . Each story left them wondering who would come to save God’s people. One night, in the sixth month, when the Redeemer had been revealed, Dava stood up, and his larger-than-life presence filled the room. “ Okay!” he bellowed. “I believe now.” He gestured to the two rooms of people and said, “You don’t have to keep coming if you don’t want to!” Greg and Julie watched the scene, not understanding what was happening. No one moved an inch. Dava turned to them. “I’m part of the deaf mafia,” he confessed. “I only made a friendship with you so that I could rob you. But now, I believe in Jesus.” He told Greg and Julie how, for the past six months, he’d threatened to hurt each individual present if they did not come to his American friend’s house once a week to listen to their stories. Knowing he was a murderer and wanted by the police, the deaf people in the apartment had taken his threats seriously. The moment Dava believed in Christ, he freed them from his threat. Now, 30 years later, Julie tells the rest of the story with joyful but tearful eyes: “ The thing is, they didn’t leave. Nearly all of them came back. They became the seed of the first church in that city, a deaf church, that God built as only he could do.” Shortly after his conversion, Dava turned himself in to the police. He spent hard years in prison for his crimes. “It was a difficult thing for him,” Julie says, “ but he is back in the church and active today.” The story does not end t",
+      "content_zh": "Greg和Julie Dye 在世界的半个角落 搬到了一个没有联系的语言组 他们可能已经预见到学习新语言和文化的障碍,但他们无法预料上帝会怎样在从未听说过他的民族中建立第一个教堂. 为了学习当地语言,格雷格和朱莉勤奋地努力在社区中建立联系并建立起友谊. 由于美国人住在蒙古边境附近的一城市,他们不可能错过. 但是他们遇见的人没有一个见到美国人就很高兴. 冷战刚刚结束。 紧张气氛很紧张。 他们的世界新地区最近才对外开放。 格雷格和朱莉被跟踪,吐口水,他们遭遇了持续的敌意. 格雷格经常被接走,审问,然后被留在树林中寻找回家的路. 但有一个人注意到他们,并很高兴参与对话。 达瓦是聋子。 在他说话和写作的能力与格雷格在当地语言的坚韧不拔之间,开始了友谊. 因为国内的聋人会说别人无法理解的语言,所以政府一直怀疑他们. 在冷战期间,他们被集合并被用火车送往远离卡皮托尔的偏远城市. 公开签名是一种非法活动。 作为被排斥者,他们从垃圾中收集出垃圾来出售并从事最坏的工作——任何试图活下来的工作。 格雷格和朱莉到达新城时并不知道这些,但上帝知道. 他把他们送到了达瓦。 达瓦热衷于教授他的语言. 格雷格和朱莉面对不可思议的反对派学习当地口语,也开始学习手语. 达瓦急于了解格雷格和朱莉的一切. 每天早上,他都出现在他们的小公寓里,在肩膀上弹起他们的幼儿,并努力教他们自己的语言. Greg中断了让他们留在国内的工作后, 当达瓦听到即将到来的故事之夜, 一个无法想象的TWIST 在第一个故事之夜,格雷格和朱莉的两间公寓被装满了聋人. 那些人每个故事周、每个月都填满小公寓,看福音故事的讲述。 这是他们从未听到的故事, 从创造和倒下开始, 然后通过旧约。 每个故事都让他们怀疑谁会来拯救真主的人民。 一天晚上,在6个月里,当救世主被揭发时,达瓦站起身来,他比生还长的身影填满了房间。 “好! ”他高呼“好! ” “我现在相信了。” 他向两个房间的人示好, Greg和Julie看了场景 不明白发生了什么 没有人动一英寸。 达瓦转向他们。 “我是聋人黑手党的一部分,”他承认。 “我只为了抢劫而与你建立了友谊。 但现在,我相信耶稣。” 他告诉格雷格和朱莉,在过去六个月里,他曾威胁说,如果他们每周不来美国朋友家听他们的故事,就会伤害在场的每一个人。 明知他是一个杀人犯并被警察通缉,公寓里的聋子们已经认真对待他的威胁. 达瓦一相信基督,就让他们摆脱了威胁. 现在,30年后,朱莉用欢快但泪眼讲述了剩下的故事:\"事实是,他们没有离开. 他们几乎都回来了。 他们成为了该市第一个教堂 -- -- 一个聋子教堂 -- -- 的种子,这是上帝建造的,只有他才能做到。” 转会后不久,达瓦向警方自首. 他因犯罪入狱多年. Julie说:“这对他来说是件艰难的事,”但是他今天回到了教堂并活跃起来。 故事没有结束T",
+      "image": "https://cdn.radical.net/images/20261019054427/How-God-Used-a-Mafia-Man-to-Build-His-Church-featured-image.jpg",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-30T08:10:41.166800",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1127,11 +1153,39 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T08:10:28.422055",
+      "fetched_at": "2026-10-31T03:15:41.029805",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
         "publisher": "LDS Living"
+      }
+    },
+    {
+      "title": "Barbara’s family life is a counter-cultural witness in North Africa",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2Z19haDRLZV93dWNEQW1zeHROekxjOFNndWhBdWQ4TkdfUnJnSS1WS0xXcFF5U1NoZGtyM2lzV004RkJnYlVTd0I3MkFoTVdPSDZWbWwwcloxZ2VyTjFGWjBqekpWVy1EcGc?oc=5",
+      "category": "missionary",
+      "source": "宣教士故事（全球发现）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-26",
+      "summary": "Barbara’s family life is a counter-cultural witness in North Africa Serving in Mission",
+      "summary_zh": "芭芭拉的家庭生活是北非的反文化见证",
+      "title_zh": "芭芭拉的家庭生活是北非的反文化见证",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Serving in Mission",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-10-31T03:15:41.030017",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian missionary biography story testimony",
+        "publisher": "Serving in Mission"
       }
     },
     {
