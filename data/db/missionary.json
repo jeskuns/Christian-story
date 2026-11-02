@@ -1,8 +1,8 @@
 {
   "category": "missionary",
   "label": "宣教士故事",
-  "count": 38,
-  "updated_at": "2026-11-01T11:16:02.485366+08:00",
+  "count": 40,
+  "updated_at": "2026-11-02T11:27:16.333290+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -10,7 +10,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "With Lebanon currently being impacted by war, a refugee crisis, and more, stories of beauty can be hard to come across. For ministries active in Lebanon, meeting the spiritual, physical...",
       "summary_zh": "由于黎巴嫩目前受到战争、难民危机等的影响，美丽的故事可能很难被理解。对于在黎巴嫩活跃的事工，满足精神，物质...",
       "title_zh": "黎巴嫩的艺术项目将美丽带入危机",
@@ -27,7 +27,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:12:52.157972",
+      "fetched_at": "2026-11-02T03:22:53.757430",
       "extra": {
         "feed_type": "rss20"
       }
@@ -38,7 +38,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "This incident took place over 15 years ago, and yet, I remember it clearly. In the buzz of daily life, it is easy to get caught up in the carelessness...",
       "summary_zh": "这件事发生在15年前，但我记得很清楚。在日常生活的嗡嗡声中，很容易陷入粗心大意……",
       "title_zh": "v.容忍",
@@ -55,7 +55,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:12:52.699310",
+      "fetched_at": "2026-11-02T03:22:54.371621",
       "extra": {
         "feed_type": "rss20"
       }
@@ -66,7 +66,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Koinonia (Koy-no-nee’-ah) is a Greek word, occurring 20 times in the Bible, which means “fellowship” or “brotherly love.” It carries with it the meaning of a committed, trustworthy, and dependable...",
       "summary_zh": "Koinonia （ Koy-no-nee '-ah ）是一个希腊语单词，在圣经中出现了20次，意思是“团契”或“兄弟之爱”。“它带有忠诚、值得信赖和可靠的意义……",
       "title_zh": "Koinonia",
@@ -83,7 +83,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:12:53.104928",
+      "fetched_at": "2026-11-02T03:22:54.616840",
       "extra": {
         "feed_type": "rss20"
       }
@@ -94,7 +94,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Isaiah 54:10 Though the mountains be shaken and the hills be removed, yet my unfailing love for you will not be shaken nor my covenant of peace be removed,” says...",
       "summary_zh": "Isaiah 54:10大山虽摇动，小山虽迁移，我对你们永不止息的爱却不摇动，我平安的约也不迁移。”",
       "title_zh": "契  约",
@@ -111,7 +111,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:12:53.819134",
+      "fetched_at": "2026-11-02T03:22:54.977198",
       "extra": {
         "feed_type": "rss20"
       }
@@ -122,7 +122,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "The Scriptures Ephesians 6:10-18 (NIV) 10 Finally, be strong in the Lord and in his mighty power. 11 Put on the full armor of God, so that you can take...",
       "summary_zh": "以弗所书6:10 -18 （ NIV ） 10最后，靠着主和祂的大能要坚强。11穿上神的全副军装，这样你就可以……",
       "title_zh": "Innocent As Doves",
@@ -139,7 +139,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:12:54.126770",
+      "fetched_at": "2026-11-02T03:22:55.192580",
       "extra": {
         "feed_type": "rss20"
       }
@@ -150,7 +150,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Genesis 13 So Abram left Egypt and traveled north into the Negev, along with his wife and Lot and all that they owned. 2 (Abram was very rich in livestock,...",
       "summary_zh": "创世记第13章于是亚伯兰离开埃及，带着他的妻子和罗得以及他们所拥有的一切，向北进入内盖夫。2 （亚伯兰的牲畜非常丰富， ……",
       "title_zh": "亚伯拉罕和洛特",
@@ -168,7 +168,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:12:54.540892",
+      "fetched_at": "2026-11-02T03:22:55.556239",
       "extra": {
         "feed_type": "rss20"
       }
@@ -179,7 +179,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "My family still wrestles with what feels like very fresh grief over my dad’s passing last September. There are moments where things hit us and we feel this ache of...",
       "summary_zh": "我的家人仍然在为父亲去年9月的逝世感到非常新鲜的悲伤而挣扎。在某些时刻，事情触动了我们，我们感到这种痛苦......",
       "title_zh": "神的安慰",
@@ -199,7 +199,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:12:54.690740",
+      "fetched_at": "2026-11-02T03:22:56.040001",
       "extra": {
         "feed_type": "rss20"
       }
@@ -210,7 +210,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "You’ve probably heard someone say ‘There is no such thing as a coincidence’. Usually people nod their heads and murmur agreement, but the real question is “Do you believe it?“...",
       "summary_zh": "您可能听说过有人说“没有所谓的巧合”。通常人们会点头低语，但真正的问题是“你相信吗？” ……",
       "title_zh": "一相逢",
@@ -232,7 +232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:12:55.139449",
+      "fetched_at": "2026-11-02T03:22:56.350974",
       "extra": {
         "feed_type": "rss20"
       }
@@ -243,7 +243,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "One thing I am noticing here is how different the context of ministry is from country to country. You can sometimes THINK you understand the concept of the vehicle, like...",
       "summary_zh": "我在这里注意到的一件事是，不同国家的事工背景是多么的不同。有时您可能会认为自己了解车辆的概念，例如...",
       "title_zh": "先吃鸡还是先吃鸡蛋？",
@@ -266,7 +266,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:12:55.776141",
+      "fetched_at": "2026-11-02T03:22:56.716336",
       "extra": {
         "feed_type": "rss20"
       }
@@ -277,7 +277,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Last night, I attended a prayer meeting at a church in downtown Cairo, near Tahrir Square. The church was gathering to cry out to God in their distress over the...",
       "summary_zh": "昨晚，我在开罗市中心解放广场附近的一个教堂参加了一次祈祷会。教会聚集在一起，在他们的痛苦中向上帝呼求……",
       "title_zh": "释放祈祷的力量",
@@ -300,7 +300,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:12:55.947954",
+      "fetched_at": "2026-11-02T03:22:57.149072",
       "extra": {
         "feed_type": "rss20"
       }
@@ -311,7 +311,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Jamie Dean offers a prayer guide for persecuted Christians in Iran, China, North Korea, and other hard to reach nations.",
       "summary_zh": "杰米·迪恩（ Jamie Dean ）为伊朗、中国、朝鲜和其他难以抵达的国家的受迫害基督徒提供了祈祷指南。",
       "title_zh": "为受迫害的基督徒祈祷的五种方式",
@@ -326,7 +326,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:03.819793",
+      "fetched_at": "2026-11-02T03:23:07.683825",
       "extra": {
         "feed_type": "rss20"
       }
@@ -337,7 +337,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "David Platt shares a powerful story of forgiveness and challenges Christians to support persecuted believers through prayer.",
       "summary_zh": "大卫·普拉特（ David Platt ）分享了一个关于宽恕的强大故事，并挑战基督徒通过祈祷来支持受迫害的信徒。",
       "title_zh": "与我们看不到的兄弟姐妹站在一起",
@@ -352,7 +352,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:03.821289",
+      "fetched_at": "2026-11-02T03:23:07.685475",
       "extra": {
         "feed_type": "rss20"
       }
@@ -363,7 +363,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Brian Pate explains how missionaries can equip national churches to mature, reproduce, and plant healthy churches for generations.",
       "summary_zh": "布莱恩·佩特（ Brian Pate ）解释了传教士如何让国家教会成熟、繁殖和种植健康的教会。",
       "title_zh": "传教士应该如何在教会已经存在的地方服务",
@@ -378,7 +378,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:03.823226",
+      "fetched_at": "2026-11-02T03:23:07.687382",
       "extra": {
         "feed_type": "rss20"
       }
@@ -389,12 +389,12 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Salvador Blanco-Perello shows how everyday activities can become opportunities to help others follow Jesus.",
       "summary_zh": "Salvador Blanco-Perello展示了日常活动如何成为帮助他人跟随耶稣的机会。",
       "title_zh": "普通基督徒如何帮助他人跟随耶稣",
       "content": "Ask a handful of Christians to define “discipling,” and you’ll probably get a handful of different answers . Some may mention meeting with another follower of Jesus for an hour each week. Another might say it means attending the weekly Sunday school class on discipleship. Someone else says it involves teaching another Christian how to make disciples who disciple others . But ultimately, discipling others means giving someone access to your life. That’s how Jesus did it. Jesus’ whole life was a teaching moment for his disciples. Not only the miraculous parts of his life, but the ordinary ones too. The times in between: walking, talking, eating. This approach is often inconvenient, but it was the key ingredient to Jesus’ discipleship plan. I want to propose a simple principle for discipling: bring someone with you. Sure, there’s more to discipling, but you won’t disciple anyone if you don’t bring anyone along to what you’re already doing as a follower of Jesus. Call it discipling as double-duty. Imagine what it could look like. By doing something as simple as sitting in worship with someone, you may learn how to serve your own family better. Perhaps you’ll see how a young father serves his wife by taking the baby out so his wife can focus on the sermon or prayers. Perhaps you’ll be able to model your own worship habits. Corporate worship is a form of discipling. In fact, it’s the center from which all discipling flows . We learn to worship Jesus privately as we learn from other Christians publicly. Don’t miss on what you can teach or learn by observing Christians around you before, during, and after worship services. Or perhaps you can bring someone along to a community group to sing, pray, bear each other’s burdens, and apply the sermon more deeply to their lives. By bringing a person you’re discipling or being discipled by, perhaps you both learn new forms of hospitality . Maybe you learn how to disagree more lovingly and patiently. You learn to rejoice with those who rejoice and weep with those who weep. You could also bring someone along as you evangelize . Often, Christians don’t know how to evangelize because they’ve simply never seen another Christian do it. Does the person you disciple have a chance to see how you might share the gospel with someone? Even if you do all these things, someone you’re discipling must be able to see your walk with Jesus in order to replicate what they see in everyday life. The disciples didn’t just see Jesus preach the Sermon on the Mount . They saw the moments in between. They saw not only how he taught, but what he did after he taught. Jesus did say: “Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever does them and teaches them will be called great in the kingdom of heaven” (Matt. 5:19). Discipling as double-duty will mean bringing someone along with you to the most ordinary moments of life. It will involve both teaching and doing what Christ commands. On the grocery run. The walk around the neighborhood. The car ride when you’d rather listen to music. As you bring other followers of Jesus with you into your existing rhythms of following Jesus, don’t underestimate what God might be teaching others. All of life following Jesus can be an opportunity to disciple others. Maybe the question shouldn’t be: “How can I make more time to disciple others?” But instead: “How can I use the time I have to disciple others?” Everybody does not have time for everybody, but everybody has time for somebody.",
-      "content_zh": "让少数基督徒定义“纪律”, 有些人可能提到每周会和另一个耶稣的追随者会面一小时. 另一种说法可能表示,这意味着参加每周一次的\"周日\"学校的门徒会. 有人说,这涉及到教另一个基督徒 如何使门徒谁门徒。 但归根结底,管教别人意味着 给别人进入你的生活。 耶稣就是这样做的。 耶稣一生都是他的门徒们的教诲时刻. 不仅是他生命中的奇迹 也是普通的 中间的时代:行走,说话,吃. 这种做法往往不方便,但它是耶稣的门徒计划的关键要素。 我想提出一个简单的纪律原则:带一个人来。 当然,还有更多的纪律约束,但如果你不把任何人带到你作为耶稣的追随者已经在做的事情上,你就不会门徒。 称其为\"纪律\"为\"双重义务\". 想象一下它会是什么样子。 通过做一些简单的事情, 和别人一起礼拜, 你可以学习如何更好地为自己的家庭服务。 可能你会看到年轻父亲如何为妻子服务, 或许你可以模仿自己的崇拜习惯。 企业崇拜是纪律约束的一种. 事实上,这是所有纪律都来自的中心。 我们在公开学习其他基督徒时,学会私下崇拜耶稣. 在礼拜活动之前、期间和之后, 或许你可以带一个人到一个社区团体去唱歌、祈祷、相互承担负担, 或许你们都学到了新的款待方式。 也许你学会了如何更亲切和耐心的 分歧。 汝等学取欢喜相与相与相与相与相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相相 你也可以带一个人一起来,当你的福音。 基督教徒通常不会传福音, 门徒们有没有机会 看看你如何和别人分享福音? 即使你做了这些事,你纪律严明的人 也必须能看到你和耶稣的行走, 以复制他们在日常生活中看到的。 门徒们不只看到耶稣在山上宣扬赛门教。 他们看到了中间的瞬间 他们不仅看到了他如何教书,还看到了他在教书后的所作所为. 耶稣确实说过:“因此,凡放松这些最最次要的诫命之一并教别人做同样的事情的人,在天国中称为最少的;凡这样做并教他们的人,在天国中称为伟大”(Matt. 5:19)。 分离为双重义务 将意味着带人 与你一起生活 最普通的时刻。 它既包括教学,也包括执行基督的命令。 在杂货跑。 绕行相邻. 你宁愿听音乐, 当你把其他的耶稣追随者带入你跟随耶稣的节奏时, 追随耶稣的所有生命都可以成为门徒他人的机会. 也许问题不应该是:我怎样才能让更多的时间给别人? 却取而代之:\"我如何能用我的时间去门徒? 每个人都没有时间为每个人, 但每个人都有时间为某人。",
+      "content_zh": "让少数基督徒定义“纪律”, 有些人可能提到每周会和另一个耶稣的追随者会面一小时. 另一种说法可能表示,这意味着参加每周一次的\"周日\"学校的门徒会. 有人说,这涉及到教另一个基督徒 如何使门徒谁门徒。\n但归根结底,管教别人意味着 给别人进入你的生活。 耶稣就是这样做的。 耶稣一生都是他的门徒们的教诲时刻. 不仅是他生命中的奇迹 也是普通的 中间的时代:行走,说话,吃. 这种做法往往不方便,但它是耶稣的门徒计划的关键要素。\n我想提出一个简单的纪律原则:带一个人来。 当然,还有更多的纪律约束,但如果你不把任何人带到你作为耶稣的追随者已经在做的事情上,你就不会门徒。 称其为\"纪律\"为\"双重义务\". 想象一下它会是什么样子。\n通过做一些简单的事情, 和别人一起礼拜, 你可以学习如何更好地为自己的家庭服务。 可能你会看到年轻父亲如何为妻子服务, 或许你可以模仿自己的崇拜习惯。 企业崇拜是纪律约束的一种. 事实上,这是所有纪律都来自的中心。\n我们在公开学习其他基督徒时,学会私下崇拜耶稣. 在礼拜活动之前、期间和之后, 或许你可以带一个人到一个社区团体去唱歌、祈祷、相互承担负担,\n基督教徒通常不会传福音, 门徒们有没有机会 看看你如何和别人分享福音? 即使你做了这些事,你纪律严明的人 也必须能看到你和耶稣的行走, 以复制他们在日常生活中看到的。\n门徒们不只看到耶稣在山上宣扬赛门教。 他们看到了中间的瞬间 他们不仅看到了他如何教书,还看到了他在教书后的所作所为.\n耶稣确实说过:“因此,凡放松这些最最次要的诫命之一并教别人做同样的事情的人,在天国中称为最少的;凡这样做并教他们的人,在天国中称为伟大”(Matt. 5:19)。 分离为双重义务 将意味着带人 与你一起生活 最普通的时刻。\n它既包括教学,也包括执行基督的命令。 在杂货跑。 绕行相邻. 你宁愿听音乐, 当你把其他的耶稣追随者带入你跟随耶稣的节奏时, 追随耶稣的所有生命都可以成为门徒他人的机会.\n也许问题不应该是:我怎样才能让更多的时间给别人? 却取而代之:\"我如何能用我的时间去门徒? 每个人都没有时间为每个人, 但每个人都有时间为某人。",
       "image": "https://cdn.radical.net/images/20261021055932/How-Ordinary-Christians-Can-Help-Others-Follow-Jesus-featured-image.jpg",
       "author": "",
       "tags": [],
@@ -404,7 +404,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:03.826714",
+      "fetched_at": "2026-11-02T03:23:07.689868",
       "extra": {
         "feed_type": "rss20"
       }
@@ -415,7 +415,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "When most Southern Baptists think of missionaries, they often picture church planters and evangelists. But leaders with the International Mission Board say some of the greatest needs today are for professionals whose work happens behind the scenes. IMB leaders report that critical roles such as teachers, healthcare workers, counselors, accountants, logistics specialists and member care personnel are helping advance the Great Commission in ways many churches never see. Doreen Baker, IMB director ",
       "summary_zh": "当大多数\"南方浸信会\"想到传教士时,他们常常会描绘出教会的植树人和福音派. 但国际使命委员会的领导人说,今天最需要的是那些在幕后工作的专业人员。 咨监委领导人报告说,教师、保健工作者、顾问、会计师、后勤专家和成员护理人员等关键角色正在帮助推进大委员会,许多教会从未看到过。 多琳·贝克,IMB导演",
       "title_zh": "IMB寻求教师、医护人员、商业专业人士担任传教士",
@@ -447,7 +447,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:04.458921",
+      "fetched_at": "2026-11-02T03:23:08.904654",
       "extra": {
         "feed_type": "rss20"
       }
@@ -458,7 +458,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Twenty minutes had passed already. The sun was going down, and they were looking everywhere, but they only saw men in the park. Sophia, an International Mission Board missionary, joined another IMB missionary and Maryam, a South Asian Christian. They went to the park to share the gospel, but approaching a man in their Muslim-majority city was out of the question. They kept walking and watching. Even if they went home without a single conversation, Sophia knew Maryam would want to try again. This",
       "summary_zh": "20分钟已经过去了。 太阳正在下山,他们到处找,但他们只在公园里看到男人. 索菲亚是一位国际传教委员会传教士,他加入了另一位IMB传教士和一位南亚基督徒玛丽安. 他们去公园分享福音,但是接近一个他们穆斯林占多数的城市里的人是不可能的. 他们不停地走着看。 即使他们一言不发地回家,索菲亚也知道玛丽安会想再试一次. 这个",
       "title_zh": "IMB传教士通过新信徒和当地教会看到神在工作",
@@ -493,7 +493,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:05.287096",
+      "fetched_at": "2026-11-02T03:23:09.944324",
       "extra": {
         "feed_type": "rss20"
       }
@@ -504,7 +504,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "In the city where Jason and Lizzy Davis serve, some steps have a lot of meaning. And the meaning is different for them than it is for the thousands who travel there to visit that site. “If you come to Rome, you can come to a place called the Holy Steps,” Jason said. “People go there, and they’ll crawl up on their knees and pray the rosary all the way up.” From the top of the steps, a mural depicting Jesus on the Cross looks down on those making the pilgrimage. For Jason and Lizzy, it’s a spiritu",
       "summary_zh": "在杰森和丽西·戴维斯所服务的城市中,一些台阶具有很多意义. 对他们来说,意义是不同的, 而对于前往那里的成千上万人来说,意义是不同的。 Jason说,“如果你来到罗马,你可以来到一个叫做神圣步骤的地方。” “人们会爬到那里, 从台阶上方取出一幅描绘十字架上耶稣的壁画来俯瞰做朝圣的人. 对Jason和Lizzy来说,",
       "title_zh": "神通过IMB在意大利的传教士保持忠诚",
@@ -537,7 +537,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:06.316621",
+      "fetched_at": "2026-11-02T03:23:10.821905",
       "extra": {
         "feed_type": "rss20"
       }
@@ -548,7 +548,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Rebeca Couto moved from one volcanic archipelago to another, leaving Portugal’s Azores islands to anchor her life in Japan. The percentage of evangelical Christians in the Azores and Japan is similar, with both populations under 1%. Couto is a fourth-generation Christian, a rarity on the small islands. She is one of few, if any, believers in the Azores with such a long spiritual lineage. This rich legacy shaped her and prepared her for ministry. “I’ve always understood the Great Commission as a ",
       "summary_zh": "Rebeca Couto从一个火山群岛迁移到另一个火山群岛,离开葡萄牙的亚速尔群岛将她的生命锚定在日本. 亚速尔和日本的福音派基督徒比例相近,两者的人口均低于1%. 库托是第四代基督徒,在小岛上非常罕见. 她是亚速尔群岛少数信仰者之一 有着如此长的精神血统 这个丰富的遗产塑造了她,并让她为部里做好准备. \" 我一直认为大委员会是一个",
       "title_zh": "全球传教士合作伙伴通过IMB团队扩展福音工作",
@@ -584,7 +584,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:07.459029",
+      "fetched_at": "2026-11-02T03:23:11.593202",
       "extra": {
         "feed_type": "rss20"
       }
@@ -595,7 +595,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Across Spain, people looking for connection and meaningful conversation turn to the internet to find groups where they can meet others. At a café by the river, Caleb and Carina Beaty engage in conversations about finding purpose, beauty and “what’s wrong with the world.” A website called Meetup allows people to search for groups to meet in person. The description of the Beatys’ group indicates that it discusses spiritual topics. People come expecting to talk about faith, so it’s not a surprise w",
       "summary_zh": "在西班牙各地, Caleb和Carina Beaty在河边的一家咖啡馆里, 一个名为\"Metup\"的网站允许人们亲自搜索团体. 对Beatys团体的描述表明,它讨论的是精神主题。 人们希望谈论信仰,",
       "title_zh": "IMB传教士使用家庭、咖啡馆、应用程序为西班牙的福音对话敞开大门",
@@ -622,7 +622,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:08.345309",
+      "fetched_at": "2026-11-02T03:23:12.206239",
       "extra": {
         "feed_type": "rss20"
       }
@@ -633,7 +633,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "NASHVILLE – As the books closed on the latest fiscal year, receipts for the two Southern Baptist national annual missions offerings underscored the value Southern Baptist churches place on reaching the world with the gospel. The Lottie Moon Christmas Offering® (LMCO) totaled $212.5 million to support International Mission Board (IMB) missionaries, and the Annie Armstrong Easter Offering® (AAEO) reached $73.6 million to support the North American Mission Board’s (NAMB) church planting, compassion",
       "summary_zh": "纳什维莱 — — 随着书籍在上个财政年度收尾,两个美南浸信会国家年度传教团的收据凸显出美南浸信会教堂对用福音传入世界的价值。 Lottie Moon Christmas Offering(LMCO)共提供2.125亿美元支持国际传教委员会(IMB)的传教士,Annie Armstrong Easter Offer Offering(AAEO)则提供7 360万美元支持北美传教委员会(NAMB)的教堂种植,同情心.",
       "title_zh": "AAEO、LMCO总计发出南方浸信会支持的信号，关注大使命",
@@ -675,7 +675,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:09.175966",
+      "fetched_at": "2026-11-02T03:23:12.859526",
       "extra": {
         "feed_type": "rss20"
       }
@@ -686,7 +686,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "The chapel at Council Road Baptist Church in Oklahoma City turned into a science lab on Oct. 5-6. Microscopes, beakers and test tubes weren’t in the room, but this Sending Church Lab drew nearly 40 people representing 12 Oklahoma Baptist churches committed to send and care for international missionaries well. The Sending Church Lab, facilitated by the International Mission Board, brought pastors, church leaders and missionaries together for two days of discussion, self-assessment and planning ce",
       "summary_zh": "俄克拉荷马城Constitute Road Baptist Church的小教堂于10月5-6日变成科学实验室. 但这个送信教会实验室吸引了近40人, 代表12个俄克拉何马浸会教会, 传教会实验室在国际传教委员会的协助下,召集牧师、教会领袖和传教士进行两天的讨论、自我评估和规划",
       "title_zh": "俄克拉荷马州浸信会加入派遣教会实验室，以加强传教士支持",
@@ -715,7 +715,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:09.997364",
+      "fetched_at": "2026-11-02T03:23:13.589414",
       "extra": {
         "feed_type": "rss20"
       }
@@ -726,7 +726,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Recently, an International Mission Board team in Southeast Asia asked a young woman if she had heard the story of Jesus. She replied that, yes, she had heard about Him through a video online! “Back in the day,” shared Amanda Clarkston, an IMB missionary who has served in Southeast Asia for 33 years, “when I first came on the field, you’d go somewhere and gather all the people together in the village to watch the JESUS film.” Now, face-to-face conversations about Christ on the Southeast Asian isl",
       "summary_zh": "最近,东南亚国际使团委员会的一个小组询问一名年轻妇女是否听说过耶稣的故事。 她回答说,是的,她通过网络视频听到了他的消息! “回到今天 ” , 分享了IMB在东南亚服役了33年的传教士阿曼达·克拉克斯顿(Amanda Clarkston ) , “ 当我第一次来到现场时,你会去一个地方,把村里的所有人聚集在一起观看JESUS电影。 ” 现在,面对面的谈论基督 在东南亚是。",
       "title_zh": "数字化之门为东南亚岛民打开福音之门",
@@ -750,7 +750,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:10.529697",
+      "fetched_at": "2026-11-02T03:23:14.122869",
       "extra": {
         "feed_type": "rss20"
       }
@@ -761,7 +761,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Ask most people what comes to mind when they think of South Korea, and they’ll likely mention K-pop, skincare, cutting-edge technology, or bustling city streets filled with young professionals. Hun and Eunjoo Sol see those things too. But after more than a decade serving as International Mission Board missionaries in Seoul, they also see something many visitors never notice. “Many people think that Korea is exciting and successful,” Hun said. “They think about the K-pop, the K-culture, K-technol",
       "summary_zh": "他们可能会提到K-pop、护肤、尖端科技, 或是充满年轻专业人士的城市街道。 匈奴和恩朱·索尔也看到了那些东西. 但是,在担任国际使团委员会在首尔的传教士十多年后,他们也看到了许多游客从未注意到的事情. “许多人认为韩国是令人兴奋和成功的,”Hun说。 “他们想到的是K-流行、K-文化、K-科技。",
       "title_zh": "IMB传教士在服务之旅中分享首尔的愿景",
@@ -788,7 +788,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:11.394436",
+      "fetched_at": "2026-11-02T03:23:14.883366",
       "extra": {
         "feed_type": "rss20"
       }
@@ -799,7 +799,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Don Barger, director of innovation and artificial intelligence for the International Mission Board, received the 2026 Excelerate Award from Missio Nexus during the Mission Leaders Conference, Sept. 24 in Orlando, Florida. According to Missio Nexus, a network of mission-focused organizations and churches, the Excelerate Award recognizes individuals who demonstrate exceptional leadership and creativity in advancing missions through innovation. Barger has earned a reputation for identifying emergin",
       "summary_zh": "国际使命委员会创新和人工智能主任唐·巴格在9月24日于佛罗里达州奥兰多召开的使命领导人会议期间,获得了由Missio Nexus颁发的2026年快活奖. 根据以使命为重点的组织和教会网络Missio Nexus的说法,Excellate奖表彰那些通过创新在推进使命中表现出卓越领导力和创造力的个人. 巴格因确认埃默金而得名",
       "title_zh": "IMB的Barger因任务创新而获得2026 Excelerate奖",
@@ -826,7 +826,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:11.976883",
+      "fetched_at": "2026-11-02T03:23:15.958011",
       "extra": {
         "feed_type": "rss20"
       }
@@ -837,7 +837,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "In a time of global challenge and opportunity, the Wycliffe Global Alliance is searching for its next Executive Director.",
       "summary_zh": "在这个充满全球挑战和机遇的时代，威克理夫全球联盟正在寻找下一任执行董事。",
       "title_zh": "Alliance寻求下一任执行董事",
@@ -857,7 +857,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:08.592179",
+      "fetched_at": "2026-11-02T03:23:12.920629",
       "extra": {
         "feed_type": "rss20"
       }
@@ -868,12 +868,12 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Resources from the Alliance's global conversation about Power in Mission, including a Toolbox your organisation can use.",
       "summary_zh": "来自联盟关于任务中力量的全球对话的资源，包括您的组织可以使用的工具箱。",
       "title_zh": "全球咖啡聊天：使命中的力量",
-      "content": "Similar Posts - How AI is expected to accelerate Bible translation for hundreds of sign languages - Wycliffe Sweden’s Director reflects on how God has transformed his organisation over the past decade. - Biblical and pastoral training in the Land of the Bible - Bible translation roundtables are creating space for collaboration in Latin America, one relationship at a time - There is a high value in the translation of the Old Testament - While the Global gathering is conducted in English, speakers of French, Spanish and Indonesian are following the sessions through nine interpreters from varied backgrounds.",
-      "content_zh": "类似文章 - AI如何加速数百种手语的圣经翻译 - Wycliffe瑞典主任反思过去10年上帝如何改变他的组织。 -圣经之地的圣经和牧业培训 - 圣经翻译圆桌会议正在为拉丁美洲的合作创造空间,一次一个的关系—— 《旧约》的翻译很有价值 -- -- 全球集会以英语进行,法语、西班牙语和印度尼西亚语的发言者通过来自不同背景的9名口译员跟踪会议进行。",
+      "content": "Similar Posts - Artificial intelligence dominates conversations everywhere: how to use it ethically and responsibly. In Christian mission, we need to be asking much deeper questions. - Silicon Valley pioneer Pat Gelsinger gives the keynote talk at the 2025 Missional AI Summit - Artificial intelligence is changing Bible translation movements. In this special report, we bring coverage and links from the 2025 Missional AI Summit. - While the Global gathering is conducted in English, speakers of French, Spanish and Indonesian are following the sessions through nine interpreters from varied backgrounds. - Rethinking Bible translation training, locations and roles - As OBT becomes a larger part of Bible translation movements, we speak with experts to answer a few common questions.",
+      "content_zh": "类似文章 - 人工智能主宰了各地的对话:如何以道德和负责任的方式使用. 在基督教传教中,我们需要提出更深层次的问题. - 硅谷先驱帕特·格尔辛格在2025年传教士AI峰会上发表主旨演讲 - 人工智能正在改变\"圣经\"翻译运动.\n在这份特别报告中,我们介绍了2025年大赦国际特派团首脑会议的报道和联系。 - 说吧 全球集会以英语进行,法语、西班牙语和印度尼西亚语的发言者通过来自不同背景的9名口译员跟踪会议进行。\n——反思圣经翻译培训,地点和角色——随着OBT成为圣经翻译运动的一大部分,我们与专家交谈,回答几个共同的问题.",
       "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
       "author": "Jim Killam",
       "tags": [
@@ -890,7 +890,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:09.658709",
+      "fetched_at": "2026-11-02T03:23:14.263169",
       "extra": {
         "feed_type": "rss20"
       }
@@ -901,7 +901,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
       "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
       "title_zh": "威克里夫全球联盟传播研讨会–非洲地区",
@@ -918,7 +918,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:10.944095",
+      "fetched_at": "2026-11-02T03:23:15.632967",
       "extra": {
         "feed_type": "rss20"
       }
@@ -929,7 +929,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
       "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
       "title_zh": "在东南亚培训口译员",
@@ -946,7 +946,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:12.079462",
+      "fetched_at": "2026-11-02T03:23:16.967072",
       "extra": {
         "feed_type": "rss20"
       }
@@ -957,7 +957,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
       "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
       "title_zh": "在印尼培训口译员",
@@ -974,7 +974,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:13.230605",
+      "fetched_at": "2026-11-02T03:23:18.240851",
       "extra": {
         "feed_type": "rss20"
       }
@@ -985,7 +985,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Questions or comments? Contact us at: Prayer@wycliffe.net",
       "summary_zh": "有问题或意见？联系我们： Prayer@wycliffe.net",
       "title_zh": "祈祷墙指南",
@@ -1002,7 +1002,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:14.244682",
+      "fetched_at": "2026-11-02T03:23:19.517302",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1013,7 +1013,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "The ultimate metric of success is no longer just the distribution of physical books, but measurable transformation of lives through deep, culturally authentic understanding.",
       "summary_zh": "衡量成功的最终标准不再仅仅是实体书籍的分发，而是通过深刻的文化真实理解对生活进行可衡量的转变。",
       "title_zh": "圣经翻译的未来是多元化的……和本地",
@@ -1039,7 +1039,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:15.349955",
+      "fetched_at": "2026-11-02T03:23:20.824220",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1050,7 +1050,7 @@
       "category": "missionary",
       "source": "Wycliffe",
       "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "For both the African and global audiences at the Yaoundé gathering, panel members underscored a fundamental truth: Bible translation is not an isolated academic exercise.",
       "summary_zh": "在雅温得会议上，小组成员向非洲和全球观众强调了一个基本事实：圣经翻译并不是一项孤立的学术活动。",
       "title_zh": "神在非洲的使命： “还有很多事情要做”",
@@ -1075,7 +1075,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:16.402965",
+      "fetched_at": "2026-11-02T03:23:22.101835",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1086,7 +1086,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "summary": "Steven Morales explains why following Jesus is worth every sacrifice, even when faithfulness leads to suffering and imprisonment.",
       "summary_zh": "史蒂文·莫拉莱斯（ Steven Morales ）解释了为什么即使忠诚导致痛苦和监禁，跟随耶稣也是值得的。",
       "title_zh": "监狱并不意味着保罗错了",
@@ -1101,7 +1101,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:13:03.816825",
+      "fetched_at": "2026-11-02T03:23:07.680724",
       "extra": {
         "feed_type": "rss20"
       }
@@ -1153,7 +1153,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-01T03:12:54.717013",
+      "fetched_at": "2026-11-02T03:22:58.072836",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
@@ -1186,6 +1186,34 @@
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
         "publisher": "Serving in Mission"
+      }
+    },
+    {
+      "title": "On the private life and public testimony of Elisabeth Elliot",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeU9MV0pqZ0hYUDd0VEdvVlVxUG8wazZjRWdOU2Mtbl9TLUNGNHJuYWFNM3NKbzJ2Zm5HLUk1c0xYUVUzdDRVY25CcGpSdVJsRVRiNFd5bDM2blJFUmo5NUh4Y2dEa3QxMC1zVVEteFFaNlBmejBnRncxWm5WbURZMVZfTU4zUXlSa1A5SkVkZm9RT1E0Q0Rid3dHYWhMeTJZcHlnN3Y3alZjTFV0?oc=5",
+      "category": "missionary",
+      "source": "宣教士故事（全球发现）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-10-21",
+      "summary": "On the private life and public testimony of Elisabeth Elliot Catholic World Report",
+      "summary_zh": "伊丽莎白·埃利奥特《天主教世界报道》的私生活和公开证词",
+      "title_zh": "伊丽莎白·埃利奥特的私生活和公开见证",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Catholic World Report",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T03:22:58.073023",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian missionary biography story testimony",
+        "publisher": "Catholic World Report"
       }
     },
     {
@@ -1237,7 +1265,35 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-10-30T05:46:16.505232",
+      "fetched_at": "2026-11-02T03:22:58.073200",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian missionary biography story testimony",
+        "publisher": "Serving in Mission"
+      }
+    },
+    {
+      "title": "SIM International Statement: Kevin Rideout Release",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ra1Q2dnVOQUtEWm10SmY0bG1GRTNIU1o1SzU3S2NsQ0dtRzhYZGxabW5LcjhoeE42dmlHUUNzWHYwR1hzSEtBdzJiU0JuUDJFcXUzYVcycTluNmxSWWU4?oc=5",
+      "category": "missionary",
+      "source": "宣教士故事（全球发现）",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-14",
+      "summary": "SIM International Statement: Kevin Rideout Release Serving in Mission",
+      "summary_zh": "SIM国际声明： Kevin Rideout发布服务于使命",
+      "title_zh": "SIM国际声明： Kevin Rideout发布",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Serving in Mission",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T03:22:58.073883",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
