@@ -3,7 +3,7 @@ name: Daily Collect & Deploy
 # 每天 UTC 00:00 = 北京时间 08:00 自动采集、生成并发布到 Cloudflare Pages
 "on":
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 20 * * *"
   workflow_dispatch:
 
 permissions:

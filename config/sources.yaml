@@ -288,3 +288,111 @@ sources:
     language: en
     country: US
     max_items: 8
+
+  # ==================== 新增：东亚与东南亚华人信仰聚集地 ====================
+  # 台/港/星/马/印尼/日/韩。语言只用 zh / en（翻译管线目前只有英→中，日韩文条目整条不译）。
+  # country 会传给 Google News 的 gl/ceid，因此写 TW 就是台湾版结果、HK 就是港版。
+  - name: 台灣教會見證
+    url: https://news.google.com/rss/search
+    category: lay
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    max_items: 12
+    extra:
+      provider: google
+      query: "台灣 基督徒 見證 生命 故事"
+
+  - name: 香港教會見證
+    url: https://news.google.com/rss/search
+    category: lay
+    parser: news_search
+    language: zh
+    country: HK
+    region: 亚洲
+    max_items: 12
+    extra:
+      provider: google
+      query: "香港 基督徒 見證 信主 故事"
+
+  - name: 星馬華人見證
+    url: https://news.google.com/rss/search
+    category: lay
+    parser: news_search
+    language: zh
+    country: SG
+    region: 亚洲
+    max_items: 12
+    extra:
+      provider: google
+      query: "新加坡 OR 馬來西亞 華人 见证 信主 故事"
+
+  - name: 東南亞逼迫見証
+    url: https://news.google.com/rss/search
+    category: lay
+    parser: news_search
+    language: zh
+    country: ID
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "印尼 基督徒 逼迫 见证 教会"
+
+  - name: 日韓華人教会故事
+    url: https://news.google.com/rss/search
+    category: missionary
+    parser: news_search
+    language: zh
+    country: JP
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "華人 宣教 日本 OR 韓國 教会 团契"
+
+  - name: 亞洲禾場宣教士故事
+    url: https://news.google.com/rss/search
+    category: missionary
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "宣教士 故事 亞洲 禾場 差派"
+
+  - name: 華人屬靈偉人與復臨史
+    url: https://news.google.com/rss/search
+    category: giant
+    parser: news_search
+    language: zh
+    country: TW
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "牧师 传记 屬靈 伟人 倪柝聲 OR 王明道 OR 宋尚節"
+
+  - name: 台港澳每日靈修
+    url: https://news.google.com/rss/search
+    category: devotional
+    parser: news_search
+    language: zh
+    country: HK
+    region: 亚洲
+    max_items: 10
+    extra:
+      provider: google
+      query: "靈修 每日 禱告 靈糧 親近神"
+
+  - name: City Harvest Church (Singapore)
+    url: https://chc.org/feed/
+    category: devotional
+    parser: rss
+    language: en
+    country: SG
+    region: 亚洲
+    max_items: 10
