@@ -5,6 +5,7 @@ import logging
 from typing import List
 from datetime import datetime
 import feedparser
+import requests
 from bs4 import BeautifulSoup
 
 from ..models import Article, SourceConfig
@@ -12,6 +13,7 @@ from ..utils import clean_text, normalize_date, abs_url, normalize_content
 from .extract import extract_article, _image_from_html
 
 logger = logging.getLogger(__name__)
+FEED_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
 
 
 def _image_from_entry(entry) -> str:
@@ -31,7 +33,17 @@ def parse_feed(config: SourceConfig) -> List[Article]:
     """解析 RSS/Atom 订阅源，并抽取正文与配图"""
     articles = []
     try:
-        feed = feedparser.parse(config.url)
+        resp = requests.get(
+            config.url,
+            headers={
+                "User-Agent": config.headers.get("User-Agent", FEED_UA),
+                "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*;q=0.8",
+                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            },
+            timeout=25,
+        )
+        resp.raise_for_status()
+        feed = feedparser.parse(resp.content)
     except Exception as e:
         logger.error(f"RSS parse error [{config.name}]: {e}")
         return articles
