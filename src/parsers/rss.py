@@ -13,7 +13,7 @@ from ..utils import clean_text, normalize_date, abs_url, normalize_content
 from .extract import extract_article, _image_from_html
 
 logger = logging.getLogger(__name__)
-FEED_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+FEED_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 
 def _image_from_entry(entry) -> str:
