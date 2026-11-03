@@ -172,8 +172,6 @@ class Translator:
         except ImportError as e:
             logger.warning(f"argostranslate 未安装，离线翻译不可用: {e}")
             return None
-            else:
-                return None
 
         try:
             from_code = src
