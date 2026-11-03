@@ -110,6 +110,7 @@ class Collector:
         self.sources: List[SourceConfig] = []
         self.articles: List[Article] = []
         self.errors: List[str] = []
+        self.zero_sources: List[str] = []
         self._load_sources()
 
     def _load_sources(self):
@@ -147,6 +148,7 @@ class Collector:
         """并发采集全部启用源"""
         self.articles = []
         self.errors = []
+        self.zero_sources = []
         enabled = [s for s in self.sources if s.enabled]
         logger.info(f"Start collecting from {len(enabled)} sources with {self.workers} workers")
 
@@ -157,6 +159,8 @@ class Collector:
                 try:
                     items = future.result()
                     self.articles.extend(items)
+                    if not items:
+                        self.zero_sources.append(source.name)
                     logger.info(f"[{source.name}] collected {len(items)} articles")
                 except Exception as e:
                     msg = f"Future error [{source.name}]: {e}"

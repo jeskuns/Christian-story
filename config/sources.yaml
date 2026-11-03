@@ -13,7 +13,7 @@
 sources:
   # ==================== 灵修小品（每日可读的短篇灵修/讲道素材） ====================
   - name: Desiring God
-    url: https://www.desiringgod.org/feed
+    url: https://www.desiringgod.org/blog.rss
     category: devotional
     parser: rss
     language: en
@@ -29,12 +29,15 @@ sources:
     max_items: 15
 
   - name: Crossway
-    url: https://www.crossway.org/feed/
+    url: https://news.google.com/rss/search
     category: devotional
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 12
+    extra:
+      provider: google
+      query: "Crossway"
 
   - name: Our Daily Bread (English)
     url: https://odb.org/feed/
@@ -45,29 +48,38 @@ sources:
     max_items: 12
 
   - name: 每日灵粮 (Our Daily Bread 中文)
-    url: https://odb.org/zh-hant/feed/
+    url: https://news.google.com/rss/search
     category: devotional
-    parser: rss
+    parser: news_search
     language: zh
     country: TW
     max_items: 12
+    extra:
+      provider: google
+      query: "每日灵粮"
 
   # ==================== 属灵伟人（圣徒传记 / 教会历史 / 神学家） ====================
   - name: Desiring God Biographies
-    url: https://www.desiringgod.org/topics/biography/feed/
+    url: https://news.google.com/rss/search
     category: giant
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 12
+    extra:
+      provider: google
+      query: "Desiring God Biographies"
 
   - name: The Gospel Coalition Biographies
-    url: https://www.thegospelcoalition.org/topics/biography/feed/
+    url: https://news.google.com/rss/search
     category: giant
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 12
+    extra:
+      provider: google
+      query: "The Gospel Coalition Biographies"
 
   - name: Banner of Truth
     url: https://www.banneroftruth.org/us/feed/
@@ -86,12 +98,15 @@ sources:
     max_items: 12
 
   - name: 5 Minutes in Church History
-    url: https://5minutesinchurchhistory.com/feed/
+    url: https://news.google.com/rss/search
     category: giant
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 10
+    extra:
+      provider: google
+      query: "5 Minutes in Church History"
 
   - name: Monergism
     url: https://www.monergism.com/blog/feed
@@ -102,12 +117,15 @@ sources:
     max_items: 10
 
   - name: Ligonier Ministries
-    url: https://www.ligonier.org/feed
+    url: https://news.google.com/rss/search
     category: giant
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 10
+    extra:
+      provider: google
+      query: "Ligonier Ministries"
 
   # ==================== 宣教士故事（宣教运动 / 跨文化见证） ====================
   - name: Mission Network News
@@ -119,20 +137,26 @@ sources:
     max_items: 15
 
   - name: The Gospel Coalition Missions
-    url: https://www.thegospelcoalition.org/topics/missions/feed/
+    url: https://news.google.com/rss/search
     category: missionary
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 12
+    extra:
+      provider: google
+      query: "The Gospel Coalition Missions"
 
   - name: Desiring God Missions
-    url: https://www.desiringgod.org/topics/missions/feed/
+    url: https://news.google.com/rss/search
     category: missionary
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 12
+    extra:
+      provider: google
+      query: "missionary biography"
 
   - name: 宣教士故事（全球发现）
     url: https://news.google.com/rss/search
@@ -147,20 +171,26 @@ sources:
 
   # ==================== 平信徒见证（普通信徒的生命故事） ====================
   - name: Revive Our Hearts
-    url: https://reviveourhearts.com/feed/
+    url: https://news.google.com/rss/search
     category: lay
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 12
+    extra:
+      provider: google
+      query: "Revive Our Hearts"
 
   - name: I Am Second
-    url: https://iamsecond.com/feed/
+    url: https://news.google.com/rss/search
     category: lay
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 12
+    extra:
+      provider: google
+      query: "I Am Second"
 
   - name: Relevant Magazine
     url: https://relevantmagazine.com/feed/
@@ -234,20 +264,26 @@ sources:
     max_items: 10
 
   - name: Christian History (CT)
-    url: https://www.christianitytoday.com/history/feed/
+    url: https://news.google.com/rss/search
     category: giant
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 8
+    extra:
+      provider: google
+      query: "Christian History Magazine"
 
   - name: Servants of Grace
-    url: https://servantsofgr.net/feed/
+    url: https://news.google.com/rss/search
     category: giant
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 8
+    extra:
+      provider: google
+      query: "Servants of Grace"
 
   - name: The Aquila Report
     url: https://theaquilareport.com/feed/
@@ -258,12 +294,15 @@ sources:
     max_items: 8
 
   - name: Mockingbird
-    url: https://mbird.com/feed/
+    url: https://news.google.com/rss/search
     category: lay
-    parser: rss
+    parser: news_search
     language: en
     country: US
     max_items: 10
+    extra:
+      provider: google
+      query: '"mockingbird" law and gospel'
 
   - name: Radical (David Platt)
     url: https://radical.net/feed/
