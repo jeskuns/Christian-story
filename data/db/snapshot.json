@@ -1,35 +1,44 @@
 {
-  "date": "2026-11-02",
-  "total": 214,
+  "date": "2026-11-03",
+  "total": 245,
   "categories": {
-    "devotional": 67,
-    "giant": 72,
-    "missionary": 43,
-    "lay": 32
+    "devotional": 77,
+    "missionary": 48,
+    "lay": 55,
+    "giant": 65
   },
   "sources": {
     "The Gospel Coalition": 15,
-    "Monergism": 10,
-    "Mission Network News": 10,
     "宣教士故事（全球发现）": 10,
-    "Our Daily Bread (English)": 12,
     "平信徒见证（全球发现）": 10,
     "属灵伟人（全球发现）": 10,
+    "Our Daily Bread (English)": 12,
+    "Mission Network News": 6,
+    "Monergism": 10,
+    "Reformation21": 10,
     "Banner of Truth": 12,
     "Christianity Today": 10,
-    "Ligonier Ministries": 10,
-    "Reformation21": 10,
+    "Radical (David Platt)": 5,
     "CBMW": 8,
     "9Marks": 10,
-    "Radical (David Platt)": 5,
     "Mockingbird": 10,
     "Relevant Magazine": 12,
-    "Tim Challies": 12,
+    "台灣教會見證": 6,
+    "香港教會見證": 10,
     "The Aquila Report": 8,
+    "星馬華人見證": 2,
+    "東南亞逼迫見証": 5,
+    "亞洲禾場宣教士故事": 6,
+    "華人屬靈偉人與復臨史": 3,
+    "日韓華人教会故事": 3,
+    "台港澳每日靈修": 10,
+    "Tim Challies": 12,
     "IMB": 10,
-    "福音联盟中文": 12,
-    "Wycliffe": 8
+    "Wycliffe": 8,
+    "福音联盟中文": 12
   },
-  "regions": {},
+  "regions": {
+    "亚洲": 45
+  },
   "errors": []
 }

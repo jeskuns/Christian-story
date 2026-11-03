@@ -1,8 +1,8 @@
 {
   "category": "missionary",
   "label": "宣教士故事",
-  "count": 40,
-  "updated_at": "2026-11-02T11:27:16.333290+08:00",
+  "count": 42,
+  "updated_at": "2026-11-03T10:47:56.007709+08:00",
   "articles": [
     {
       "title": "Art Programs in Lebanon Bring Beauty to Midst of Crisis",
@@ -10,7 +10,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "With Lebanon currently being impacted by war, a refugee crisis, and more, stories of beauty can be hard to come across. For ministries active in Lebanon, meeting the spiritual, physical...",
       "summary_zh": "由于黎巴嫩目前受到战争、难民危机等的影响，美丽的故事可能很难被理解。对于在黎巴嫩活跃的事工，满足精神，物质...",
       "title_zh": "黎巴嫩的艺术项目将美丽带入危机",
@@ -27,10 +27,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:22:53.757430",
+      "fetched_at": "2026-11-03T02:44:00.436422",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "9b6a923d59c7406d"
     },
     {
       "title": "Abide",
@@ -38,7 +39,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "This incident took place over 15 years ago, and yet, I remember it clearly. In the buzz of daily life, it is easy to get caught up in the carelessness...",
       "summary_zh": "这件事发生在15年前，但我记得很清楚。在日常生活的嗡嗡声中，很容易陷入粗心大意……",
       "title_zh": "v.容忍",
@@ -55,10 +56,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:22:54.371621",
+      "fetched_at": "2026-11-03T02:44:01.881390",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "259414e65a6f0393"
     },
     {
       "title": "Koinonia",
@@ -66,7 +68,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Koinonia (Koy-no-nee’-ah) is a Greek word, occurring 20 times in the Bible, which means “fellowship” or “brotherly love.” It carries with it the meaning of a committed, trustworthy, and dependable...",
       "summary_zh": "Koinonia （ Koy-no-nee '-ah ）是一个希腊语单词，在圣经中出现了20次，意思是“团契”或“兄弟之爱”。“它带有忠诚、值得信赖和可靠的意义……",
       "title_zh": "Koinonia",
@@ -83,10 +85,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:22:54.616840",
+      "fetched_at": "2026-11-03T02:44:02.580325",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "a2d076dfea84a0b3"
     },
     {
       "title": "Covenant",
@@ -94,7 +97,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Isaiah 54:10 Though the mountains be shaken and the hills be removed, yet my unfailing love for you will not be shaken nor my covenant of peace be removed,” says...",
       "summary_zh": "Isaiah 54:10大山虽摇动，小山虽迁移，我对你们永不止息的爱却不摇动，我平安的约也不迁移。”",
       "title_zh": "契  约",
@@ -111,10 +114,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:22:54.977198",
+      "fetched_at": "2026-11-03T02:44:03.877631",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "244cec57e74bb0c9"
     },
     {
       "title": "Innocent As Doves",
@@ -122,7 +126,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "The Scriptures Ephesians 6:10-18 (NIV) 10 Finally, be strong in the Lord and in his mighty power. 11 Put on the full armor of God, so that you can take...",
       "summary_zh": "以弗所书6:10 -18 （ NIV ） 10最后，靠着主和祂的大能要坚强。11穿上神的全副军装，这样你就可以……",
       "title_zh": "Innocent As Doves",
@@ -139,10 +143,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:22:55.192580",
+      "fetched_at": "2026-11-03T02:44:05.749657",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "ab0e967abe126313"
     },
     {
       "title": "Abraham & Lot",
@@ -150,7 +155,7 @@
       "category": "missionary",
       "source": "Mission Network News",
       "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Genesis 13 So Abram left Egypt and traveled north into the Negev, along with his wife and Lot and all that they owned. 2 (Abram was very rich in livestock,...",
       "summary_zh": "创世记第13章于是亚伯兰离开埃及，带着他的妻子和罗得以及他们所拥有的一切，向北进入内盖夫。2 （亚伯兰的牲畜非常丰富， ……",
       "title_zh": "亚伯拉罕和洛特",
@@ -168,142 +173,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:22:55.556239",
+      "fetched_at": "2026-11-03T02:44:06.373138",
       "extra": {
         "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "God’s comfort",
-      "url": "https://www.mnnonline.org/2012/05/14/gods-comfort/?utm_source=rss&utm_medium=rss&utm_campaign=gods-comfort",
-      "category": "missionary",
-      "source": "Mission Network News",
-      "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-02",
-      "summary": "My family still wrestles with what feels like very fresh grief over my dad’s passing last September. There are moments where things hit us and we feel this ache of...",
-      "summary_zh": "我的家人仍然在为父亲去年9月的逝世感到非常新鲜的悲伤而挣扎。在某些时刻，事情触动了我们，我们感到这种痛苦......",
-      "title_zh": "神的安慰",
-      "content": "My family still wrestles with what feels like very fresh grief over my dad’s passing last September. There are moments where things hit us and we feel this ache of his absence. We know that he has gone to be with his Heavenly Father and no longer suffers from the limitations of this mortal coil. It’s just that sometimes, we miss him. It’s at those times when something happens that reminds us of the hope that we have in Christ our Savior, of our purpose here as followers of Christ, as co-laborers in the Kingdom of Heaven. These reminders serve as encouragement to fight the good fight, keeping our eyes on the prize. I was thinking of my dad today and decided to read some of the devotionals he used to write for the ministry to which he dedicated his remaining years, Transport for Christ. When his health could no longer allow him to serve onsite as a chaplain, he wrote encouragement to the truck drivers and the chaplains in service. I can hear his voice in these words. There’s great comfort in his reminder. I share his words with you so that you may also take comfort in a greater plan, and in the hope that comes from trusting God is in control: “Most of the time, when we grieve, we grieve over something that’s happened in our lives. But there are also times when we grieve over something that hasn’t happened or “what might have been.” Unrealized expectations and dashed hopes can paralyze us with sadness. We mourn for what we could have had, could have done or could have experienced. We live in a fog as we struggle with our unmet goals and dreams. Are you wrestling with accepting something in your life? Mourning a shattered dream? Instead of focusing on what might have been, try focusing on what is and what could still be. Revising your dreams isn’t bad. It’s realistic. And the sooner you do, the sooner the weight of grief will let go. The fog will lift. Hope will return.”",
-      "content_zh": "我父亲去年九月去世, 有些时候 事情袭击了我们 我们感到他缺席很痛苦 我们知道他和他天父在一起 不再受到这个凡人圈子的限制 只是有时候,我们想念他。 我们的救世主, 我们作为基督的追随者, 这些提醒有助于鼓励我们打好这场好仗,使我们继续关注这一奖项。 我今天想到我爸,决定读一些他以前为他剩下的岁月所奉献的部会而作的奉献,\"为基督而运输\". 当他的健康不能再允许他当上牧师时,他写信给正在服役的卡车司机和牧师。 这些话我都能听到他的声音。 他提醒大家, 我和你们分享他的话,以便你们也能在更大的计划中得到安慰,希望来自信任上帝的希望是控制着:“多数时候,当我们悲伤的时候,我们对生活中发生的事情感到悲伤。 但有时我们也为一些没有发生的事情而悲伤, 未实现的期望和破灭的希望会使我们感到悲哀。 我们对本可以、本可以或本可以经历的事情表示哀悼。 当我们与未实现的目标和梦想相抗争时,我们生活在雾中。 你是在拼命接受你生活中的东西吗? 打破了梦想? 与其专注于可能已经发生的事情,不如专注于现在和可能仍然可能发生的事情。 改变你的梦想并不坏。 这是现实的。 你越早做, 悲伤的重量会越快松开。 雾会升起 希望将回归。”",
-      "image": "https://www.facebook.com/tr?id=397329227571557&ev=PageView&noscript=1",
-      "author": "R.B. Klama",
-      "tags": [
-        "Uncategorized",
-        "gospel",
-        "sanvus yuen",
-        "transport for christ"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:22:56.040001",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "A chance meeting?",
-      "url": "https://www.mnnonline.org/2012/02/13/a-chance-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=a-chance-meeting",
-      "category": "missionary",
-      "source": "Mission Network News",
-      "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-02",
-      "summary": "You’ve probably heard someone say ‘There is no such thing as a coincidence’. Usually people nod their heads and murmur agreement, but the real question is “Do you believe it?“...",
-      "summary_zh": "您可能听说过有人说“没有所谓的巧合”。通常人们会点头低语，但真正的问题是“你相信吗？” ……",
-      "title_zh": "一相逢",
-      "content": "You’ve probably heard someone say ‘There is no such thing as a coincidence’. Usually people nod their heads and murmur agreement, but the real question is “Do you believe it?“ Are people just wishful thinkers, or is God really so intimately involved in our daily lives that He orchestrate events on our behalf? What will a chance meeting turn into later? The idea of seeds, planting and harvest is a theme resonant throughout Scripture. Aside from the overt nature of sharing the hope of Christ, there are times we don’t recognize an opportunity at the time, but hindsight has a way of revealing it to us. On my last day in Cairo, I was sitting in the hotel lobby waiting for the rest of the team to come down for checkout. I opened my laptop, and began weeding through emails, and getting pictures uploaded for post, and checking through Facebook. An older gentleman (whom I’d seen at different times all week) came over and said ‘You work too much’. I told him I was just killing time and not really working at all. He began asking me questions about my visit to Cairo. Given the upset of the country, I was still guarding my words very carefully so as not to endanger people who live and minister in Cairo. He began asking more pointed questions like “What do you think of this revolution?” Alarm bells were ringing in my head, so I trod very carefully as I answered. I told him that it was a very exciting time in Egypt’s history. Nothing would ever be the same for the country again. To be here during this growth period was both exhilarating and a little scary. He then asked what my friends thought of the goings on. Now, here I had to be very careful. I asked God for wisdom and told him that depended on who I spoke with. There were some who were very optimistic about the outcome, although they knew there would be a hard period to get there. Others were very pessimistic and a little fearful about what lay ahead for them. Still others were moving forward in confidence. He nodded a few times as I responded to his question, then said, “You should come to Lebanon.” I responded “I would LOVE to come to Lebanon!” So he handed me his business card and said, “E-mail me when you come.” He wrote his email address on the bottom of the card. Initially, I was wary about taking some stranger’s e-mail, but I figured I would not necessarily use it and I did not have to respond by giving him my e-mail. We stood, shook hands and parted. I noted that as he left, he entered a diplomat’s vehicle. Only then did I read his business card. It read “Mahmoud Hammoud, Lebanese Ambassador”. He’s the former Foreign Minister of Lebanon, currently serving as an ambassador. I have no idea why our paths crossed. However, God orchestrated it for some reason. There are no coincidences…just opportunities. I wonder what comes next.",
-      "content_zh": "你可能已经听到有人说“没有巧合”了。 通常人们点头并含糊其辞,但真正的问题是“你相信吗?” 难道人们只是希望的思想家,还是上帝真的如此亲密地参与我们的日常生活,以至于他代表我们组织各种活动? 机会会议以后会变成什么? 种子、种植和收割的理念是贯穿整个圣经的主题。 除了分享基督希望的公开性质外, 有时我们并不认同当时的机会, 在开罗的最后一天,我坐在酒店大厅里,等待队伍的其他人下来看病。 我打开了笔记本电脑, 开始通过电子邮件去除草, 一位年长的绅士(我整个星期在不同时间见过他)过来说道:你工作太忙了。 我告诉他我只是在浪费时间 完全没有工作 他开始问我关于我访问开罗的问题。 鉴于这个国家的不安,我仍在非常谨慎地捍卫我的话,以免危及在开罗生活和担任部长的人。 他开始提出更尖锐的问题,如“你对这场革命的看法如何?” 警钟在我脑中响起,所以我回答时非常小心。 我告诉他,这是埃及历史上一个非常激动人心的时刻。 对这个国家来说,一切都不会变了 在这个成长时期来到这里既令人振奋,又有些吓人。 他接着问我的朋友们对事情的看法如何。 现在,我必须非常小心。 我向上帝求取智慧 告诉他这取决于我和谁说话 有些人对结果非常乐观,尽管他们知道要到达那里会有一段困难的时期。 其他人则非常悲观,有些担心未来会如何。 还有一些国家正在以信任的态度向前迈进。 当我回答他的问题时,他点了几次头,然后说:“你应该来黎巴嫩。” 我回应说, 他把他的名片递给我,然后说:“你来了就给我电子邮件。” 他写了他的电子邮件地址 在卡底。 起初,我对收取陌生人的电子邮件很担心,但我想我不一定会使用,我不必通过把电子邮件给他来回应。 我们站了起来,握起手来分开。 我注意到,当他离开时,他进入一名外交官的车辆。 那时我才看他的名片 原文为“黎巴嫩大使马哈穆德·哈穆德”。 现任大使。 我不知道我们为什么要过路 然而,上帝出于某种原因安排了它。 没有巧合 只是机会 不知道接下来会怎样",
-      "image": "https://www.facebook.com/tr?id=397329227571557&ev=PageView&noscript=1",
-      "author": "R.B. Klama",
-      "tags": [
-        "egypt",
-        "missions",
-        "MNN",
-        "news",
-        "persecution",
-        "travel"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:22:56.350974",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "What comes first: chicken or the egg?",
-      "url": "https://www.mnnonline.org/2012/02/09/what-comes-first-chicken-or-the-egg/?utm_source=rss&utm_medium=rss&utm_campaign=what-comes-first-chicken-or-the-egg",
-      "category": "missionary",
-      "source": "Mission Network News",
-      "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-02",
-      "summary": "One thing I am noticing here is how different the context of ministry is from country to country. You can sometimes THINK you understand the concept of the vehicle, like...",
-      "summary_zh": "我在这里注意到的一件事是，不同国家的事工背景是多么的不同。有时您可能会认为自己了解车辆的概念，例如...",
-      "title_zh": "先吃鸡还是先吃鸡蛋？",
-      "content": "One thing I am noticing here is how different the context of ministry is from country to country. MNN's Ruth Kramer on assignment. You can sometimes THINK you understand the concept of the vehicle, like micro-enterprise, but once you hear how things are put into practice, what works and what doesn’t, you begin to see the subtleties emerge. For example, we met with a partner yesterday who assists community development. They are unashamedly Christian, because the Gospel is part of everything they do…however, they know that dealing with poverty is a ‘must’, as well. So, which came first, the chicken (community development) or the egg (Gospel)? Can they be done simultaneously and be effective? Do you really just have two eggs or two chickens? The clear answer on that was: ‘We have an egg, it becomes a chicken’. Folks, that’s the answer to the question of questions. The hope of Christ changes the outlook for the poor in this context. The other big question was how the community development works in the Egyptian Muslim context in the rural areas. It is in these places where it’s likely opposition will rise up and equate physical attacks. The mindset is quite different. Micro-enterprise comes up at this point. In some Asian countries, the structure of a micro-enterprise program works like this: church committee sees community member in need (often a believer under the discipleship of the pastor), they provide a loan so this person can start a small business–i.e.—buy a sewing machine to make clothes, or a couple of goats to make cheese and sell milk…from the profits, the person tithes to the church, enabling the support of the pastor…and the person is more able to support him/herself. However, when I asked about the structure of the micro-enterprise, it can’t work that way in the Egyptian context. There are lots of things that can really be misinterpreted within the social structure (and Islam) and this is one of them. The set up of the program is similar, but different because it’s tailor-made to fit the need of the people and the mission of the group. That just struck me. I had made an assumption that all micro-enterprise was the same. I made similar assumptions about vocational training programs, literacy programs, etc (thinking I adjusting for a different context, language, etc). I think it’s kind of a colonialistic thinking that we slip into. It’s kind of like providing someone a loaf of bread (mission field)…from the grocery store (missionary). They need the food to stay alive, but the plastic around the bread is giving them indigestion. They need to prepare the bread the way they now how and all we need to do is supply the ingredients (resources) and the recipe (training). Yes, I know you might be thinking ‘well, duh’. It is one thing to say it and to think you might even understand it, it is another thing entirely to actually see it with my own eyes, hear what works and what doesn’t from the guys implementing helps. By the way, because they do this work well, they have just come under scrutiny. One of this ministry’s main offices was raided by the Egyptian government this week, and the hard drive with the database was taken. All of their records on every program were on it. Everything is exposed. Their face is an NGO and they are well-known. With the events that have occurred in Egypt over the last month, it’s no surprise they’re looking at all NGO’s. Please pray for this team. They are careful, and they are smart. Most of all, they want to share the hope of Christ with those they encounter. That love for people permeates everything they touch…including the chickens in the coop…and eggs in the community. Works for me…",
-      "content_zh": "我在这里注意到的一件事是,部委的背景因国而异。 MNN的Ruth Kramer在执行任务 你有时可以认为你理解汽车的概念, 比如微型企业, 但一旦你听到事情是如何付诸实践的, 什么可行什么不可行, 你就会开始看到微妙之处的出现。 例如,我们昨天会见了一个协助社区发展的伙伴。 他们毫不羞愧地信奉基督教, 因为福音书是他们所做的一切的一部分. 那么,什么是第一位的, 鸡(社区发展)还是蛋(Gospel)? 它们能否同时进行并有效? 你真的有两只蛋还是两只鸡? 答案是:我们有一个鸡蛋,它变成了一只鸡。 各位,这就是问题答案。 基督的希望改变了穷人在这方面的前景。 另一个大问题是社区发展如何在农村地区埃及穆斯林背景下运作。 这些地方很可能会有人反对, 心态完全不同。 此时小微企业也出现了. 在一些亚洲国家,微型企业计划的结构是这样运作的:教会委员会看到社区成员有需要(常常是牧师门徒下的信徒),他们提供贷款,以便此人能够创办小企业,即购买缝纫机来做衣服,或买一对山羊来做起司和卖牛奶. 从利润中,一个人一分之一到教堂,使牧师能够支持.这个人更有能力支持自己。 然而,当我问到微型企业的结构时,在埃及不可能如此。 在社会结构(和伊斯兰教)中, 有许多事情可以真正被误解, 节目的设置类似,但因适合人民的需要和团体的使命而有所不同. 这让我很吃惊 我假设所有微型企业都是一样的 我对职业培训计划,扫盲计划等做出了类似的假设(认为我适应不同的环境,语言等). 我认为我们滑入的是一种殖民主义思想。 像是从杂货店(Missionary)提供面包。 他们需要食物才能活下来 但面包周围的塑料 让他们消化不良 他们需要用他们现在的方式准备面包,我们需要做的就是提供原料(资源)和食谱(培训)。 是的,我知道你可能在想,“好,好” 并且认为你可能甚至能理解, 以我自己的眼光亲眼目睹, 顺便说一句,因为他们做得很好,他们刚刚受到审查。 埃及政府本周突袭了该部的一个主要办公室, 他们在每个程序上的所有记录都在上面。 一切众生被所出. 他们的外表是非政府组织,是众所周知的。 在埃及上个月发生的事件中, 请为这支队伍祈祷. 他们很小心,很聪明。 最重要的是,他们想与所遭遇的人分享基督的希望. 这种对人的爱贯穿了他们所接触的一切... 包括笼子里的鸡... 和社区的鸡蛋. 为我工作...",
-      "image": "https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc7/s320x320/420417_10150659523978274_736378273_11037053_2103347671_n.jpg",
-      "author": "R.B. Klama",
-      "tags": [
-        "egypt",
-        "missions",
-        "MNN",
-        "news",
-        "persecution",
-        "special reports",
-        "travel"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:22:56.716336",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "The power of prayer unleashed",
-      "url": "https://www.mnnonline.org/2012/02/07/the-power-of-prayer-unleashed/?utm_source=rss&utm_medium=rss&utm_campaign=the-power-of-prayer-unleashed",
-      "category": "missionary",
-      "source": "Mission Network News",
-      "source_url": "https://www.mnnonline.org/feed/",
-      "published": "2026-11-02",
-      "summary": "Last night, I attended a prayer meeting at a church in downtown Cairo, near Tahrir Square. The church was gathering to cry out to God in their distress over the...",
-      "summary_zh": "昨晚，我在开罗市中心解放广场附近的一个教堂参加了一次祈祷会。教会聚集在一起，在他们的痛苦中向上帝呼求……",
-      "title_zh": "释放祈祷的力量",
-      "content": "Last night, I attended a prayer meeting at a church in downtown Cairo, near Tahrir Square. MNN in Egypt The church was gathering to cry out to God in their distress over the recent events in the country, and cry out, they did. As we sang together, worshiped together, and encouraged one another, I experienced something I have never experienced before. I’m a fairly reserved person and I am even more so in prayer. It is in times of great distress that I get out of my own way and fall before the Lord prostrate. Last night, although everyone around me was praying in Arabic, I found myself humbled before the Lord and joining in that chorus of crying out. The pastor was beyond ‘crying out’….he was screaming and sobbing before the Lord, as was much of this nearly 1,000 person gathering. Here they were, in prayer before God, confessing, repenting, requesting and rejoicing…even as tear gas seeped into the courtyard from Tahrir Square. All of a sudden, I found myself reminding God of His promises, and asking Him to give comfort to His bride in Egypt, to give them hope and wisdom and to be asking with a fierceness I had not ever before encountered…and moments later, the pastor or worship leader would be saying the same thing, or using the same verse, or introducing the song on the same topic…that happened over and over last night. An immediate confirmation of God’s response left me stunned. Much of what I have heard from Egypt’s Christians that I have encountered has been this is a year of prophecy coming true. There is a GREAT confidence in many of the church leaders and congregations in forging ahead… The other thing that we’re often hearing is that Egypt’s Church is not ‘persecuted’ so much as it is a church under pressure. The boldness of this family is so encouraging, and such a reminder of the presence of the Holy Spirit…especially as they go out with joy to tend to the wounded people coming into the field hospital set up in their courtyard. The confirmation of God’s answers to prayer gives a great boldness to those on the frontlines of the missional movement in Egypt. While bombings, riots and general chaos looks really bad in the headlines (and it is happening), fear is not the response of this emboldened Body. Church leaders we have met with all over the city have said the same thing ‘The wall of fear is broken’. Change is coming. Egypt will have her Revolution…and its face is the Church.",
-      "content_zh": "昨晚,我参加了在开罗市中心的一座教堂举行的祈祷会,该教堂靠近塔里尔广场. 埃及的MNN 教会正在集会 向上帝呼喊 在他们的痛苦 最近的国内事件, 当我们一起唱歌,一起崇拜,互相鼓励时,我经历了一些我从未经历过的事情. 我是一个相当有保留的人, 是在大难之时,我走出了自己的道路,倒向了主的叩头. 昨晚,虽然我周围的每个人都用阿拉伯语祈祷,但我发现自己在主面前谦卑并加入了那场叫喊的合唱. 牧师已经超越了“哭出声来”的范围, 他们在这里向上帝祈祷,忏悔、悔改、请求并欢欣鼓舞, 突然间,我发现自己提醒了上帝他的承诺,要求他安慰他的埃及新娘,给他们以希望和智慧,并以我从未遇到过的激烈要求. . . 立即确认上帝的反应,使我感到震惊。 我从埃及基督徒那里听到的大多是今年的预言。 许多教会领袖和会众对前进充满信心... 我们经常听到的另外一件事是,埃及的教会并没有像压力下的一个教会那样被 \" 迫害 \" 。 这个家庭的胆量是如此鼓舞人心,如此地提醒着圣灵的存在...... 特别是当他们欢快地出门去照顾受伤的人进入他们院子里建立的野外医院时. 在埃及传教运动的前线, 虽然爆炸、暴动和普遍混乱在头条新闻上看起来非常糟糕(而且正在发生), 我们与全市的教会领袖都说过同样的话:恐惧之墙被打破了。 变化即将到来。 埃及将会有她的革命... 它的脸是教会。",
-      "image": "https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/425220_10151260526545103_107665115102_23077124_680528124_n.jpg",
-      "author": "R.B. Klama",
-      "tags": [
-        "egypt",
-        "missions",
-        "MNN",
-        "news",
-        "persecution",
-        "special reports",
-        "travel"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:22:57.149072",
-      "extra": {
-        "feed_type": "rss20"
-      }
+      },
+      "id": "170aaefed4d834cc"
     },
     {
       "title": "Five Ways to Pray for Persecuted Christians",
@@ -311,7 +185,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Jamie Dean offers a prayer guide for persecuted Christians in Iran, China, North Korea, and other hard to reach nations.",
       "summary_zh": "杰米·迪恩（ Jamie Dean ）为伊朗、中国、朝鲜和其他难以抵达的国家的受迫害基督徒提供了祈祷指南。",
       "title_zh": "为受迫害的基督徒祈祷的五种方式",
@@ -326,10 +200,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:07.683825",
+      "fetched_at": "2026-11-03T02:44:11.739969",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "0bfb5375ac92e4f1"
     },
     {
       "title": "Standing with Brothers and Sisters We Cannot See",
@@ -337,7 +212,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "David Platt shares a powerful story of forgiveness and challenges Christians to support persecuted believers through prayer.",
       "summary_zh": "大卫·普拉特（ David Platt ）分享了一个关于宽恕的强大故事，并挑战基督徒通过祈祷来支持受迫害的信徒。",
       "title_zh": "与我们看不到的兄弟姐妹站在一起",
@@ -352,10 +227,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:07.685475",
+      "fetched_at": "2026-11-03T02:44:11.741853",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "6efc457710130f21"
     },
     {
       "title": "How Missionaries Should Serve Where Churches Already Exist",
@@ -363,7 +239,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Brian Pate explains how missionaries can equip national churches to mature, reproduce, and plant healthy churches for generations.",
       "summary_zh": "布莱恩·佩特（ Brian Pate ）解释了传教士如何让国家教会成熟、繁殖和种植健康的教会。",
       "title_zh": "传教士应该如何在教会已经存在的地方服务",
@@ -378,10 +254,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:07.687382",
+      "fetched_at": "2026-11-03T02:44:11.743786",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "dc7753c84c03532e"
     },
     {
       "title": "How Ordinary Christians Can Help Others Follow Jesus",
@@ -389,7 +266,7 @@
       "category": "missionary",
       "source": "Radical (David Platt)",
       "source_url": "https://radical.net/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Salvador Blanco-Perello shows how everyday activities can become opportunities to help others follow Jesus.",
       "summary_zh": "Salvador Blanco-Perello展示了日常活动如何成为帮助他人跟随耶稣的机会。",
       "title_zh": "普通基督徒如何帮助他人跟随耶稣",
@@ -404,10 +281,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:07.689868",
+      "fetched_at": "2026-11-03T02:44:11.745866",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "a24fb0abd75967bd"
     },
     {
       "title": "IMB seeks teachers, healthcare workers, business professionals to serve as missionaries",
@@ -415,7 +293,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "When most Southern Baptists think of missionaries, they often picture church planters and evangelists. But leaders with the International Mission Board say some of the greatest needs today are for professionals whose work happens behind the scenes. IMB leaders report that critical roles such as teachers, healthcare workers, counselors, accountants, logistics specialists and member care personnel are helping advance the Great Commission in ways many churches never see. Doreen Baker, IMB director ",
       "summary_zh": "当大多数\"南方浸信会\"想到传教士时,他们常常会描绘出教会的植树人和福音派. 但国际使命委员会的领导人说,今天最需要的是那些在幕后工作的专业人员。 咨监委领导人报告说,教师、保健工作者、顾问、会计师、后勤专家和成员护理人员等关键角色正在帮助推进大委员会,许多教会从未看到过。 多琳·贝克,IMB导演",
       "title_zh": "IMB寻求教师、医护人员、商业专业人士担任传教士",
@@ -447,10 +325,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:08.904654",
+      "fetched_at": "2026-11-03T02:44:14.238633",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "b66b1a05cbabd2d1"
     },
     {
       "title": "IMB missionary sees God at work through new believer and local church",
@@ -458,7 +337,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Twenty minutes had passed already. The sun was going down, and they were looking everywhere, but they only saw men in the park. Sophia, an International Mission Board missionary, joined another IMB missionary and Maryam, a South Asian Christian. They went to the park to share the gospel, but approaching a man in their Muslim-majority city was out of the question. They kept walking and watching. Even if they went home without a single conversation, Sophia knew Maryam would want to try again. This",
       "summary_zh": "20分钟已经过去了。 太阳正在下山,他们到处找,但他们只在公园里看到男人. 索菲亚是一位国际传教委员会传教士,他加入了另一位IMB传教士和一位南亚基督徒玛丽安. 他们去公园分享福音,但是接近一个他们穆斯林占多数的城市里的人是不可能的. 他们不停地走着看。 即使他们一言不发地回家,索菲亚也知道玛丽安会想再试一次. 这个",
       "title_zh": "IMB传教士通过新信徒和当地教会看到神在工作",
@@ -493,10 +372,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:09.944324",
+      "fetched_at": "2026-11-03T02:44:15.732888",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "12111505177952f1"
     },
     {
       "title": "God remains faithful through IMB missionaries in Italy",
@@ -504,7 +384,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "In the city where Jason and Lizzy Davis serve, some steps have a lot of meaning. And the meaning is different for them than it is for the thousands who travel there to visit that site. “If you come to Rome, you can come to a place called the Holy Steps,” Jason said. “People go there, and they’ll crawl up on their knees and pray the rosary all the way up.” From the top of the steps, a mural depicting Jesus on the Cross looks down on those making the pilgrimage. For Jason and Lizzy, it’s a spiritu",
       "summary_zh": "在杰森和丽西·戴维斯所服务的城市中,一些台阶具有很多意义. 对他们来说,意义是不同的, 而对于前往那里的成千上万人来说,意义是不同的。 Jason说,“如果你来到罗马,你可以来到一个叫做神圣步骤的地方。” “人们会爬到那里, 从台阶上方取出一幅描绘十字架上耶稣的壁画来俯瞰做朝圣的人. 对Jason和Lizzy来说,",
       "title_zh": "神通过IMB在意大利的传教士保持忠诚",
@@ -537,10 +417,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:10.821905",
+      "fetched_at": "2026-11-03T02:44:16.399213",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "2dc2bafa33d39002"
     },
     {
       "title": "Global missionary partners expand gospel work through IMB teams",
@@ -548,7 +429,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Rebeca Couto moved from one volcanic archipelago to another, leaving Portugal’s Azores islands to anchor her life in Japan. The percentage of evangelical Christians in the Azores and Japan is similar, with both populations under 1%. Couto is a fourth-generation Christian, a rarity on the small islands. She is one of few, if any, believers in the Azores with such a long spiritual lineage. This rich legacy shaped her and prepared her for ministry. “I’ve always understood the Great Commission as a ",
       "summary_zh": "Rebeca Couto从一个火山群岛迁移到另一个火山群岛,离开葡萄牙的亚速尔群岛将她的生命锚定在日本. 亚速尔和日本的福音派基督徒比例相近,两者的人口均低于1%. 库托是第四代基督徒,在小岛上非常罕见. 她是亚速尔群岛少数信仰者之一 有着如此长的精神血统 这个丰富的遗产塑造了她,并让她为部里做好准备. \" 我一直认为大委员会是一个",
       "title_zh": "全球传教士合作伙伴通过IMB团队扩展福音工作",
@@ -584,10 +465,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:11.593202",
+      "fetched_at": "2026-11-03T02:44:17.164057",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "60bf77b5c206076b"
     },
     {
       "title": "IMB missionaries use home, cafes, apps to open doors for gospel conversations in Spain",
@@ -595,7 +477,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Across Spain, people looking for connection and meaningful conversation turn to the internet to find groups where they can meet others. At a café by the river, Caleb and Carina Beaty engage in conversations about finding purpose, beauty and “what’s wrong with the world.” A website called Meetup allows people to search for groups to meet in person. The description of the Beatys’ group indicates that it discusses spiritual topics. People come expecting to talk about faith, so it’s not a surprise w",
       "summary_zh": "在西班牙各地, Caleb和Carina Beaty在河边的一家咖啡馆里, 一个名为\"Metup\"的网站允许人们亲自搜索团体. 对Beatys团体的描述表明,它讨论的是精神主题。 人们希望谈论信仰,",
       "title_zh": "IMB传教士使用家庭、咖啡馆、应用程序为西班牙的福音对话敞开大门",
@@ -622,10 +504,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:12.206239",
+      "fetched_at": "2026-11-03T02:44:17.822322",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "c824dbb94e199d56"
     },
     {
       "title": "AAEO, LMCO totals signal Southern Baptist support for, focus on Great Commission",
@@ -633,7 +516,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "NASHVILLE – As the books closed on the latest fiscal year, receipts for the two Southern Baptist national annual missions offerings underscored the value Southern Baptist churches place on reaching the world with the gospel. The Lottie Moon Christmas Offering® (LMCO) totaled $212.5 million to support International Mission Board (IMB) missionaries, and the Annie Armstrong Easter Offering® (AAEO) reached $73.6 million to support the North American Mission Board’s (NAMB) church planting, compassion",
       "summary_zh": "纳什维莱 — — 随着书籍在上个财政年度收尾,两个美南浸信会国家年度传教团的收据凸显出美南浸信会教堂对用福音传入世界的价值。 Lottie Moon Christmas Offering(LMCO)共提供2.125亿美元支持国际传教委员会(IMB)的传教士,Annie Armstrong Easter Offer Offering(AAEO)则提供7 360万美元支持北美传教委员会(NAMB)的教堂种植,同情心.",
       "title_zh": "AAEO、LMCO总计发出南方浸信会支持的信号，关注大使命",
@@ -675,10 +558,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:12.859526",
+      "fetched_at": "2026-11-03T02:44:18.558256",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "45afccccf808b5c6"
     },
     {
       "title": "Oklahoma Baptists join Sending Church Lab to strengthen missionary support",
@@ -686,7 +570,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "The chapel at Council Road Baptist Church in Oklahoma City turned into a science lab on Oct. 5-6. Microscopes, beakers and test tubes weren’t in the room, but this Sending Church Lab drew nearly 40 people representing 12 Oklahoma Baptist churches committed to send and care for international missionaries well. The Sending Church Lab, facilitated by the International Mission Board, brought pastors, church leaders and missionaries together for two days of discussion, self-assessment and planning ce",
       "summary_zh": "俄克拉荷马城Constitute Road Baptist Church的小教堂于10月5-6日变成科学实验室. 但这个送信教会实验室吸引了近40人, 代表12个俄克拉何马浸会教会, 传教会实验室在国际传教委员会的协助下,召集牧师、教会领袖和传教士进行两天的讨论、自我评估和规划",
       "title_zh": "俄克拉荷马州浸信会加入派遣教会实验室，以加强传教士支持",
@@ -715,10 +599,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:13.589414",
+      "fetched_at": "2026-11-03T02:44:19.159817",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "c76895cfe6657cf1"
     },
     {
       "title": "Digital doors open the gospel for islanders in Southeast Asia",
@@ -726,7 +611,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Recently, an International Mission Board team in Southeast Asia asked a young woman if she had heard the story of Jesus. She replied that, yes, she had heard about Him through a video online! “Back in the day,” shared Amanda Clarkston, an IMB missionary who has served in Southeast Asia for 33 years, “when I first came on the field, you’d go somewhere and gather all the people together in the village to watch the JESUS film.” Now, face-to-face conversations about Christ on the Southeast Asian isl",
       "summary_zh": "最近,东南亚国际使团委员会的一个小组询问一名年轻妇女是否听说过耶稣的故事。 她回答说,是的,她通过网络视频听到了他的消息! “回到今天 ” , 分享了IMB在东南亚服役了33年的传教士阿曼达·克拉克斯顿(Amanda Clarkston ) , “ 当我第一次来到现场时,你会去一个地方,把村里的所有人聚集在一起观看JESUS电影。 ” 现在,面对面的谈论基督 在东南亚是。",
       "title_zh": "数字化之门为东南亚岛民打开福音之门",
@@ -750,10 +635,11 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:14.122869",
+      "fetched_at": "2026-11-03T02:44:19.960011",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "76e2a25446321ffd"
     },
     {
       "title": "IMB missionaries share vision for Seoul during Serve Tour",
@@ -761,7 +647,7 @@
       "category": "missionary",
       "source": "IMB",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-02",
+      "published": "2026-11-03",
       "summary": "Ask most people what comes to mind when they think of South Korea, and they’ll likely mention K-pop, skincare, cutting-edge technology, or bustling city streets filled with young professionals. Hun and Eunjoo Sol see those things too. But after more than a decade serving as International Mission Board missionaries in Seoul, they also see something many visitors never notice. “Many people think that Korea is exciting and successful,” Hun said. “They think about the K-pop, the K-culture, K-technol",
       "summary_zh": "他们可能会提到K-pop、护肤、尖端科技, 或是充满年轻专业人士的城市街道。 匈奴和恩朱·索尔也看到了那些东西. 但是,在担任国际使团委员会在首尔的传教士十多年后,他们也看到了许多游客从未注意到的事情. “许多人认为韩国是令人兴奋和成功的,”Hun说。 “他们想到的是K-流行、K-文化、K-科技。",
       "title_zh": "IMB传教士在服务之旅中分享首尔的愿景",
@@ -788,10 +674,474 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:23:14.883366",
+      "fetched_at": "2026-11-03T02:44:20.692496",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "4930fa7cdc92c919"
+    },
+    {
+      "title": "Alliance seeks next Executive Director",
+      "url": "https://wycliffe.net/2026/10/22/alliance-seeks-next-executive-director/",
+      "category": "missionary",
+      "source": "Wycliffe",
+      "source_url": "https://www.wycliffe.net/feed/",
+      "published": "2026-11-03",
+      "summary": "In a time of global challenge and opportunity, the Wycliffe Global Alliance is searching for its next Executive Director.",
+      "summary_zh": "在这个充满全球挑战和机遇的时代，威克理夫全球联盟正在寻找下一任执行董事。",
+      "title_zh": "Alliance寻求下一任执行董事",
+      "content": "God’s Word transforms lives, strengthens churches and brings hope across generations. Bible translation is part of that story, as communities around the world encounter God’s Word in their own languages. Its future calls for leaders who listen deeply, build trust across cultures and empower others. Within this context, the Wycliffe Global Alliance is searching for its next Executive Director. Could this be your next calling? The Wycliffe Global Alliance is seeking its next Executive Director to serve a worldwide community of more than 100 organisations united in God’s mission through Bible translation. Th e opportunity : Bring our global community together around a shared vision, strengthen local leadership and help a diverse global movement respond to new opportunities with faith and wisdom. The challenge : Lead through change. Articulate a compelling shared vision, strengthen the support the Alliance offers its organisations, and engage support organisations and financial partners in advancing the work. This calls for leadership that honours local autonomy while strengthening global unity, trust, mutual accountability and financial sustainability. We are looking for a leader who brings: A deep commitment to Jesus Christ and a humble, prayerful approach to leadership. At least five years of senior leadership experience and a relevant master’s degree. Proven ability to lead across cultures, develop leaders and empower local churches. Strategic vision, significant fundraising experience and the ability to turn plans into meaningful outcomes. Emotional maturity, integrity and resilience through change. Feel called—or know someone who might be? Expressions of interest, or candidate recommendations, are welcomed confidentially by 30 November 2026 . More info: full profile and how to respond",
+      "content_zh": "神之道会改变生活,加强教堂,并带来世代相传的希望. 圣经翻译是这个故事的一部分,因为世界各地的社区都用自己的语言遇到上帝的话语。 它的未来要求领导人深刻倾听,在不同文化之间建立信任并赋予他人权力。 在这方面,威克里夫全球联盟正在寻找其下任执行主任。 这会不会是你的下一个电话? Wycliffe全球联盟正在寻求下一任执行主任,通过圣经翻译服务于100多个组织联合起来执行上帝的使命。 机会:把我们的全球社会团结在一个共同的愿景周围,加强地方领导,帮助一个多样化的全球运动以信念和智慧应对新的机遇。 挑战:领导变革。 阐述令人信服的共同愿景,加强联盟为各组织提供的支持,并让支助组织和金融伙伴参与推进这项工作。 这要求发挥领导作用,尊重地方自治,同时加强全球团结、信任、相互问责和财政可持续性。 我们要找一位领导,他带来: 对耶稣基督的深刻承诺和谦卑而虔诚的领导方式. 具有至少五年的高级领导经验和相关的硕士学位. 证明有能力领导不同文化,培养领导人并增强地方教会的能力。 战略愿景、大量筹资经验和将计划转化为有意义的成果的能力。 情感成熟,完整性和通过变化的韧性. 感觉被叫了... 还是认识一个人? 在2026年11月30日之前,以保密方式欢迎表示兴趣或候选人建议。 更多信息:完整简介和如何应对",
+      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
+      "author": "Jim Killam",
+      "tags": [
+        "Executive Director",
+        "THE LATEST",
+        "Bible translation",
+        "Wycliffe Global Alliance"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T02:44:15.175115",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "5bc12f85c229a9a0"
+    },
+    {
+      "title": "Global Coffee Chat: Power in Mission",
+      "url": "https://wycliffe.net/2026/09/29/global-coffee-chat-power-in-mission/",
+      "category": "missionary",
+      "source": "Wycliffe",
+      "source_url": "https://www.wycliffe.net/feed/",
+      "published": "2026-11-03",
+      "summary": "Resources from the Alliance's global conversation about Power in Mission, including a Toolbox your organisation can use.",
+      "summary_zh": "来自联盟关于任务中力量的全球对话的资源，包括您的组织可以使用的工具箱。",
+      "title_zh": "全球咖啡聊天：使命中的力量",
+      "content": "Similar Posts - Rethinking Bible translation training, locations and roles - An interview with Evelyn Gan, a Bible translation consultant with Wycliffe Malaysia. - There is a high value in the translation of the Old Testament - A beloved Indonesian pastor dies shortly after dedicating Kalumpang Bible; and 1 is dead after YWAM Benin team accident. - Strategies to bring the youth into the Bible translation movement and how to redefine consultant development were some of the issues discussed by Africa Area leaders Friday during Global Gathering 2024. - In 12 countries, Bible translation tables are feeding unprecedented collaboration.",
+      "content_zh": "相类似的帖子-反思圣经翻译培训,地点和角色-采访了Wycliffe Malaysia的圣经翻译顾问Evelyn Gan. 翻译\"旧约\"有很高的价值——一位被爱的印度尼西亚牧师在献出\"卡伦邦\"圣经后不久就去世了;还有一位在YWAM Benin团队事故后死亡.\n\n将青年纳入《圣经》翻译运动的战略以及如何重新定义顾问发展是非洲地区领导人星期五在2024年全球集会期间讨论的一些问题。",
+      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
+      "author": "Jim Killam",
+      "tags": [
+        "Connect",
+        "Gatherings",
+        "THE LATEST",
+        "Global Coffee Chat",
+        "power in mission",
+        "Wycliffe Global Alliance"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T02:44:16.331409",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "bd2779ac8eb09be4"
+    },
+    {
+      "title": "Wycliffe Global Alliance Communications Workshop – Africa Area",
+      "url": "https://wycliffe.net/2026/09/04/africa-area-communications-workshop/",
+      "category": "missionary",
+      "source": "Wycliffe",
+      "source_url": "https://www.wycliffe.net/feed/",
+      "published": "2026-11-03",
+      "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
+      "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
+      "title_zh": "威克里夫全球联盟传播研讨会–非洲地区",
+      "content": "Communication staff at 18 Bible translation organizations across Africa need professional training to tell God’s stories well. In November 2026, a one-week workshop in Ruiru, Kenya will teach practical skills like writing, photography, design and video. Then, six months of follow-up support will continue to strengthen networks and create a collaborative culture of sharing God’s stories widely and effectively. Project Name: Africa Area Communication Capacity Building Workshop Implementing Organization: Wycliffe Global Alliance – Africa Area Contact: Phil Prior Director for Communication Wycliffe Global Alliance phil_prior@wycliffe.net Matthew Bore Project Funding Manager Wycliffe Global Alliance matthew_bore@wycliffe.net Start date: September 2026 End date: March 2027 Summary Across Africa, God is moving. Communities are receiving the Bible in their own language for the first time. Lives are being transformed. But too often, these stories never become known beyond the place where they happen. Why? Because not enough people are trained to recognise and report these stories to a wider audience. Among 18 Bible translation organisations across Africa, communication staff are doing their best—but without formal training in news writing, interviewing, photography, video and social media. Many also work in relative isolation without the chance to exchange ideas and collaborate on stories. The result: Amazing stories remain untold, and the people who could be praying, giving or getting involved never learn about the opportunities. This project changes that. For one week (2-6 November 2026) in Ruiru, Kenya, communication staff from those 18 Wycliffe Global Alliance organisations will come together — not just to sit in a classroom, but to actually create. Using smartphones and free tools, they will learn to capture the moments that matter: local communities and churches collaborating; a translation team’s challenges and creative solutions, groups engaging with Scripture, lives being transformed. Attendees also will build plans for how their organisations will keep telling these types of stories long after the workshop ends. Then, over the ensuing six months, this same group will keep coaching, encouraging, and learning from each other — turning 18 separate voices into one strong, unified story of what God is doing across Africa. Give to this Project Click Give Now to go to our secure giving portal. As you complete the form, you will be asked to ‘Choose a project’. Select Africa Area Communications Workshop . Give Now Budget Total need (in USD): $37,835 Contributions received / pledged: $34,500 Balance needed: $3,335 To learn more about this funding opportunity, email Matthew Bore matthew_bore@wycliffe.net",
+      "content_zh": "非洲18个圣经翻译组织的传播人员需要专业培训,才能很好地讲述上帝的故事。 2026年11月,将在肯尼亚鲁伊鲁举办为期一周的讲习班,教授写作,摄影,设计和录像等实用技能. 然后,六个月的后续支持将继续加强网络,并创造一种广泛而有效地分享上帝故事的合作文化。 项目名称: 非洲区域通信能力建设讲习班 执行组织: Wycliffe 全球联盟 – 非洲地区联系人: Phil 通讯前主任 Wycliffe 全球联盟 phil prior@wycliffe.net 马修·伯尔项目资金经理 Wycliffe 全球联盟 matthew bore@wycliffe.net 开始日期:2026年9月 结束日期:2027年3月 总结跨非洲,上帝在移动. 社区首次以自己的语言接受圣经。 众生被化. 但是,这些故事往往从未被人们知道,超越发生它们的地方。 为什么? 因为没有足够的人受过训练 来认识这些故事 并向更广泛的受众报告。 在全非洲的18个圣经翻译组织中,通讯工作人员正在尽了最大的努力,但没有接受新闻写作、采访、摄影、录像和社交媒体方面的正式培训。 许多人还相对孤立地工作,没有机会就故事交流和协作。 结果:令人惊奇的故事仍然无穷无尽,那些可以祈祷、给予或参与的人永远不知道机会。 这个项目改变了这一点。 有一个星期(2026年11月2日至6日),来自Wycliffe全球联盟18个组织的通讯工作人员将聚集一堂, 使用智能手机和免费工具,他们会学会抓住重要的时刻:当地社区和教会合作;翻译团队的挑战和创造性解决方案;参与圣经的团体;生活正在被改变。 学员们还将制定计划,说明他们的组织如何在讲习班结束后很久继续讲述这类故事。 然后,在接下来的六个月里,这个团体将继续相互指导、鼓励和学习——把18个独立的声音变成一个强大、统一的故事,讲述上帝在非洲各地正在做什么。 给这个工程 点击 现在给到我们的安全赠送门户。 填表时,您将被要求选择一个项目。 选定非洲区域通信讲习班。 为了了解这个资助机会,",
+      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
+      "author": "Otabil Arthur Otabil Arthur",
+      "tags": [
+        "PROJECTS"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T02:44:17.633095",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "06ca780dd276a64f"
+    },
+    {
+      "title": "Training Oral Translators Across Southeast Asia",
+      "url": "https://wycliffe.net/2026/08/12/training-oral-translators-across-southeast-asia/",
+      "category": "missionary",
+      "source": "Wycliffe",
+      "source_url": "https://www.wycliffe.net/feed/",
+      "published": "2026-11-03",
+      "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
+      "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
+      "title_zh": "在东南亚培训口译员",
+      "content": "A three-year training program will prepare local translators across Southeast Asia to put the Bible into spoken forms—like storytelling and song—for communities that share knowledge by voice, not writing. Three workshops will build translators’ skills from basic to advanced to mentoring, so at least 20 participants gain local expertise. Project Name: Training Oral Translators Across Southeast Asia Implementing Organization: Wycliffe Global Alliance Contact: Evelyn Gan Consultant for Oral Translation Programmes Wycliffe Global Alliance evelyn_gan@wycliffe.net Start date: FY 2026 End date: FY 2028 Summary Across Southeast Asia, many communities pass along their culture through spoken word—storytelling, song, and drama—rather than through reading and writing. For them, hearing the Bible in these natural forms often connects more deeply than a printed text. Oral Bible Translation is expanding rapidly in Southeast Asia, but the region lacks enough trained people to sustain it. Seminary graduates know the Bible but not oral translation. Practitioners already working need a path to advance their skills. And almost no one is ready to step into consultant roles. Without urgent, structured training, this shortage could stall Oral Bible Translation projects across the region. This three-year project will trains local translators and seminary students in oral Bible translation. Participants move through three stages: a foundation workshop, an advanced workshop and consultant-level training, with only those who show strong skills advancing to the next stage. Our goal is for at least 20 participants, with a smaller group becoming fully qualified to guide future translation projects. Half of the trainers will themselves be new, gaining experience so the program can continue and grow after this project ends. By working in collaboration with Wycliffe Thai Foundation, Wycliffe Malaysia, YWAM Chiang Mai, FCBH, Spoken Worldwide and CRU, the project is rooted in strong partnerships that will ensure sustainability and local ownership. Give to this Project Click Give Now to go to our secure giving portal. As you complete the form, you will be asked to ‘Choose a project’. Select Training Oral Translators Across Southeast Asia . Give Now Budget Total need (in USD): $147,277 Contributions received / pledged: $36,677 Balance needed: $110,600 To learn more about this funding opportunity, email Evelyn Gan, Consultant for Oral Translation Programmes, Wycliffe Global Alliance: evelyn_gan@wycliffe.net",
+      "content_zh": "一个为期三年的培训方案将为东南亚各地的当地翻译提供准备,以便将《圣经》变成口头形式,如讲故事和作歌,供通过语音而不是写作分享知识的社区使用。 三个讲习班将培养笔译员的技能,从基本技能到高级技能再到指导技能,因此,至少有20名学员获得当地专门知识。 项目名称:在整个东南亚培训口笔译员 执行组织:怀克里夫全球联盟联系人:伊夫林甘口笔译方案顾问 Wycliffe全球联盟 Eviblyn gan@wycliffe.net 开始日期:2026财政年度 结束日期:东南亚2028财政年度摘要,许多社区通过口语——故事、歌曲和戏剧——而不是通过阅读和写作来传播其文化。 对他们来说,听到这些自然形态的\"圣经\"往往比印刷文本更深入地连接. 口语圣经翻译在东南亚正在迅速扩张,但该地区缺乏足够的训练有素的人来维持. 修道院毕业生知道\"圣经\",但不会口头翻译. 已经在工作的从业人员需要一条提高技能的道路。 几乎没有人愿意担任顾问。 如果不进行紧急、有条理的培训,这种短缺可能使整个区域的口语圣经翻译项目陷于停顿。 这个为期三年的项目将对当地翻译和神学院学生进行口语圣经翻译的培训. 与会者分三个阶段:基础讲习班、高级讲习班和顾问一级的培训,只有那些表现出强大技能的人才能进入下一阶段。 我们的目标是至少为20名参与者服务,人数较少的群体将完全有资格指导未来的翻译项目。 一半的训练员会自己是新手,获得经验,以便这个项目结束后方案能够继续并发展. 通过同Wycliffe Thai Foundation、Wycliffe Malaysia、YWAM Chiang Mai、FCBH、Spoken Worldwide和CRU合作,该项目植根于强有力的伙伴关系,将确保可持续性和地方所有权。 给这个工程 点击 现在给到我们的安全赠送门户。 填表时,您将被要求选择一个项目。 在整个东南亚选择培训口笔译员。 所需余额:110 600美元 为了了解更多有关这一资助机会的情况,电子邮件:Evelyn Gan, Wycliffe全球联盟口头翻译方案顾问:evelyn gan@wycliffe.net",
+      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
+      "author": "Otabil Arthur Otabil Arthur",
+      "tags": [
+        "PROJECTS"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T02:44:18.846712",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "0f05f2759bde9f60"
+    },
+    {
+      "title": "Training Oral Translators in Indonesia",
+      "url": "https://wycliffe.net/2026/08/12/training-oral-translators-in-indonesia/",
+      "category": "missionary",
+      "source": "Wycliffe",
+      "source_url": "https://www.wycliffe.net/feed/",
+      "published": "2026-11-03",
+      "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
+      "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
+      "title_zh": "在印尼培训口译员",
+      "content": "Indonesia has hundreds of languages still without Scripture in natural, spoken forms. This three-year program will train 20 local translators and seminary students to fill that gap, building skills from basic to advanced to mentoring. Working with local partners, it aims to grow into a lasting, homegrown training network. Project Name: Training Oral Translators in Indonesia Implementing Organization: Wycliffe Global Alliance Evelyn Gan Consultant for Oral Translation Programmes Wycliffe Global Alliance evelyn_gan@wycliffe.net Start date: FY 2026 End date: FY 2028 Summary Indonesia is home to hundreds of languages whose speakers pass on knowledge through spoken word rather than writing. Most still lack the Bible in a form that feels natural to hear. Oral Bible Translation is expanding quickly in Indonesia, but training hasn’t kept up—seminary graduates lack oral translation skills, and working practitioners have no path to grow or reach consultant-level readiness. Without urgent, structured training, projects across the country risk stalling. This three-year project trains local translators and seminary students to close that gap. Participants move through three stages—foundational, advanced and consultant-level training—with those who show strong skills advancing to the next stage. Our goal is for at least 20 participants, with a smaller group becoming fully qualified to guide future translation projects on their own. The project partners with several Indonesian organizations, including seminaries, so that this training becomes part of local theological education rather than a one-time effort. That partnership is central to the goal: building lasting, Indonesian-led capacity so that projects no longer depend on outside experts. Give to this Project Click Give Now to go to our secure giving portal. As you complete the form, you will be asked to ‘Choose a project’. Select Training Oral Translators in Indonesia . Give Now Budget Total need (in USD): $123,729 Contributions received / pledged: $40,100 Balance needed: $83,629 To learn more about this funding opportunity, email Evelyn Gan, Consultant for Oral Translation Programmes, Wycliffe Global Alliance: evelyn_gan@wycliffe.net",
+      "content_zh": "印尼仍有上百种语言, 这个为期三年的方案将培训20名当地翻译和神学院学生来填补这一空白,培养从基础到高级到指导的技能。 它与当地伙伴合作,旨在发展成为一个持久的本土培训网络。 项目名称:在印度尼西亚培训口笔译员 执行组织: Wycliffe 全球联盟 Evelyn Gan 口笔译方案顾问 Wycliffe 全球联盟 Eviblyn gan@wycliffe.net 开始日期:2026财政年度 结束日期:2028财政年度 印度尼西亚有数百种语言,讲者通过口语而不是写作传递知识。 大多数人仍然缺乏一种自然而然的听觉形式的\"圣经\". 在印尼, 口语圣经翻译正在迅速扩展, 但训练没有保持下去, 没有紧急、有条理的培训,全国各地的项目就有可能停顿。 这个为期三年的项目培训当地翻译和神学院学生以弥合这一差距。 学员们经过三个阶段,即创始、高级和顾问一级的培训,那些表现出强大技能的人进入下一阶段。 我们的目标是让至少20名参与者参加,一个规模较小的团体完全有资格独自指导未来的翻译项目。 该项目与包括神学院在内的若干印度尼西亚组织结成伙伴,使这种培训成为当地神学教育的一部分,而不是一次性的努力。 这种伙伴关系是目标的核心:建立由印度尼西亚领导的持久能力,使项目不再依赖外部专家。 给这个工程 点击 现在给到我们的安全赠送门户。 填表时,您将被要求选择一个项目。 在印度尼西亚选择培训口笔译员。 所需总额(以美元计):123 729美元 为了了解更多有关这一资助机会的情况,电子邮件:Evelyn Gan, Wycliffe全球联盟口头翻译方案顾问:evelyn gan@wycliffe.net",
+      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
+      "author": "Otabil Arthur Otabil Arthur",
+      "tags": [
+        "PROJECTS"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T02:44:20.009922",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "6fd2c1f0dd56e3d8"
+    },
+    {
+      "title": "Prayer Wall Guidelines",
+      "url": "https://wycliffe.net/2026/07/29/prayer-wall-guidelines/",
+      "category": "missionary",
+      "source": "Wycliffe",
+      "source_url": "https://www.wycliffe.net/feed/",
+      "published": "2026-11-03",
+      "summary": "Questions or comments? Contact us at: Prayer@wycliffe.net",
+      "summary_zh": "有问题或意见？联系我们： Prayer@wycliffe.net",
+      "title_zh": "祈祷墙指南",
+      "content": "No login is necessary Please use one of the site languages: English, French, Indonesian, Chinese, Portuguese or Spanish Your item will not appear immediately on the wall. Alliance staff must approve it first. Make sure that you have permission to publish your prayer item . Each item will be available online for anyone to view and will be emailed to subscribers. We do not take responsibility for checking content for security risks. You should have direct permission of any named individual for whom you are asking prayer. If you are naming a language group, please ensure there is no security risk in publishing the name of the language group openly on the internet and in association with a Christian organisation. There is a 280-character limit for each item. At this time you cannot add photos or other attachments to your prayer requests. Make your prayers clear and simple; not everyone reading them will understand technical translation terms or acronyms Unless you indicate otherwise, all prayer items will stay on the wall for a maximum of 90 days When you submit your prayer item please include your name and email address in the name section of the form. We will not publish them but it will help us to be able to iron out any issues we encounter and publish the prayer item. Questions or comments? Contact us at: Prayer@wycliffe.net",
+      "content_zh": "不需要登录 请使用网站语言之一:英语、法语、印度尼西亚语、中文、葡萄牙语或西班牙语 你的东西不会立刻出现在墙上 联盟工作人员必须首先批准。 确保您拥有发布您的祷告内容的许可 。 每个项目都将在网上供任何人浏览,并将通过电子邮件发送给订阅者。 我们不负责检查安全风险的内容。 任何你要求祷告的人,你都应该直接得到允许。 如果您在命名一个语言团体, 请确保不会在互联网上公开发布该语言团体的名称, 每个项目都有280个特性限制。 您目前无法在祈祷请求中添加相片或其他附件 。 让你的祷告简单明了,不是每个人都会理解技术翻译术语或缩略语,除非你另有说明,所有祷告内容都将在墙上停留最多90天. 提交祷告项目时,请在表格中的名称栏目中填写您的姓名和电子邮件地址。 我们不会出版它们,但它将有助于我们解决我们遇到的任何问题并出版祈祷品。 问题或评论? 联系我们: prayer@wycliffe.net",
+      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
+      "author": "Otabil Arthur Otabil Arthur",
+      "tags": [
+        "Connect"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T02:44:21.057626",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "9613ba201f8d391f"
+    },
+    {
+      "title": "Bible translation’s future is diverse … and local",
+      "url": "https://wycliffe.net/2026/07/23/bible-translations-future-is-diverse-and-local/",
+      "category": "missionary",
+      "source": "Wycliffe",
+      "source_url": "https://www.wycliffe.net/feed/",
+      "published": "2026-11-03",
+      "summary": "The ultimate metric of success is no longer just the distribution of physical books, but measurable transformation of lives through deep, culturally authentic understanding.",
+      "summary_zh": "衡量成功的最终标准不再仅仅是实体书籍的分发，而是通过深刻的文化真实理解对生活进行可衡量的转变。",
+      "title_zh": "圣经翻译的未来是多元化的……和本地",
+      "content": "Yaoundé, Cameroon — The landscape of global Bible translation is undergoing a paradigm shift, moving away from traditional, agency-led book printing and toward multimodal translations driven by local communities. At a June 2026 gathering in Yaoundé, translation partners and members of Wycliffe Global Alliance organisations spanning Africa, Europe and Latin America reflected on how Scripture is delivered in the 21st century. Their consensus: The ultimate metric of success is no longer just the distribution of physical books, but measurable transformation of lives through deep, culturally authentic understanding. Community-led translation Dr. Paul Kimbi, the Alliance’s Consultant for Bible Translation Programmes, said Bible translation’s future belongs to community dialogue rather than isolated translation agencies. This emerging approach, known as conversational translation, prioritises localised, grassroots work: listening intimately to communities, engaging them in active storytelling and using locally adapted communication channels. As multiple translation agencies increasingly operate within the same borders, global leaders are urging a shift toward radical collaboration. ‘The multiplicity of agencies is not a hindrance; however, harmony and unity are essential,’ Kimbi said. ‘Unity does not mean uniformity. Each agency, according to its unique strengths, approaches Bible translation as a collaborative piece of God’s global mission.’ Multimodal translations will better serve people from different contexts . Beyond the Book: Multimodal and AI Integration Because cultural contexts vary wildly across the globe, the Alliance’s Africa Area gathering highlighted the urgent need for ‘embodied and multimodal’ translations. This means managing multiple streams of communication simultaneously—integrating oral storytelling, vibrant illustrations, written text and digital media. ‘We do not communicate only with words; we communicate with colours, images, and multimedia,’ Kimbi said. ‘We can no longer consider translation strictly as a written book, but rather as a dynamic multimodal experience.’ This digital evolution naturally intersects with the rise of artificial intelligence. While delegates recognised AI’s immense potential to increase translation speed, optimise efficiency and lower operational costs for minority languages, attendees maintained a stance of strategic caution. ‘Technology accelerates the advancement of Bible translation and language development, but it also creates new strategic responsibilities for leaders and organisations,’ said Etienne Ondoa, a language technology consultant. Staff capacity building, therefore, remains the greatest investment, he said. As technology evolves, the skills required to support it in ministry also evolve. ‘Technological leadership should have a voice in strategic decision-making processes, Ondoa said. ‘Technological decisions increasingly influence ministry outcomes, sound financial resource management, cybersecurity, AI adoption and organisational resilience.’ Etienne Ondoa A Symphony for the Global Church Ultimately, leaders at the event reaffirmed that translation organisations do not operate in a vacuum. They exist to serve the church, which remains God’s primary vehicle for global mission. Kimbi likened the future of the movement to a grand, global arrangement. ‘The particularity of modern Bible translation is that it is a diverse ensemble—an orchestra of varied influences interpreting a magnificent symphony titled ‘Scriptures’ for every language community,’ he said. ‘And in this orchestra, we need everyone: local churches, oral communicators, media creators, literacy specialists and technology partners.’ Story: Lune Prudence Mvondo and Isaac Forchie Photos: Isaac Forchie",
+      "content_zh": "喀麦隆雅温得 全球圣经翻译的地貌正在发生范式转变,从传统的、机构主导的书籍印刷转向由当地社区驱动的多模式翻译。 在2026年6月的雅温得集会上,翻译伙伴和遍布非洲、欧洲和拉丁美洲的维克利夫全球联盟组织的成员反思了21世纪如何交付《圣经》。 他们的共识: 衡量成功与否的终极尺度不再仅仅是物理图书的发行,而是通过深刻,文化上真实的理解,对生活进行可测量的转变. 联盟的圣经翻译方案顾问Paul Kimbi博士说,圣经翻译的未来属于社区对话而不是孤立的翻译机构。 这种新兴方法被称为对话翻译、地方化优先化、基层工作:密切听取社区的意见,让他们参与积极讲故事,并使用适合当地情况的交流渠道。 随着多个翻译机构越来越多地在同一边界内运作,全球领导人正在敦促向根本合作转变。 Kimbi说 : “ 机构繁多并非障碍, `团结并不意味着统一。 每个机构都根据其独特的长处,将圣经翻译视为上帝全球使命的合作作品。 多式联运将更好地为来自不同背景的人服务。 除了《书:多式联运和人工智能一体化》之外,由于世界各地的文化背景大相径庭,联盟的非洲地区会议强调迫切需要 \" 健全和多模式 \" 翻译。 这意味着同时管理多种通信流——将口头讲故事、活泼的插图、书面文字和数字媒体结合起来。 Kimbi说 : “ 我们不只用文字沟通, 我们不能再严格地认为翻译是一本书, 这种数字演变自然地与人工智能的兴起相交. 虽然代表们承认大赦国际在提高翻译速度、优化效率和降低少数民族语言的业务费用方面具有巨大潜力,但与会者保持战略谨慎的立场。 语言技术顾问Etienne Ondoa说, “技术加速了圣经翻译和语言发展的进步, 因此,他说,工作人员的能力建设仍然是最大的投资。 随着技术的发展,部内支持技术所需的技能也随之而来. Ondoa说,“技术领导在战略决策进程中应有发言权。 “技术决定日益影响部委的成果、健全的财政资源管理、网络安全、人工智能的采用和组织复原力。” Etienne Ondoa是全球教会的交响乐团, 它们的存在是为了为教会服务,而教会仍然是上帝执行全球任务的主要工具。 金比把运动的未来比作一个宏伟的全球安排. 他说,“现代圣经译本的特殊性在于它是一个多样化的合唱团——由各种影响组成的管弦乐团,为每个语言群体解释一首名为 \" 脚本 \" 的宏伟交响乐。 “在这个管弦乐团中,我们需要每个人:地方教会、口头宣传者、媒体创造者、扫盲专家和技术伙伴。” 故事:吕恩·普鲁登斯·姆冯多和艾萨克·福奇相片:艾萨克·福奇相片",
+      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
+      "author": "Jim Killam",
+      "tags": [
+        "NEWS",
+        "THE LATEST",
+        "Africa",
+        "Africa Area",
+        "AI",
+        "AI-Articifical Intelligence",
+        "Bible translation",
+        "Etienne Ondoa",
+        "Paul Kimbi",
+        "Wycliffe Global Alliance"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T02:44:22.205644",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "b077dbf655c0bc86"
+    },
+    {
+      "title": "God’s mission in Africa: ‘There is still much to do’",
+      "url": "https://wycliffe.net/2026/07/23/gods-mission-in-africa-there-is-still-much-to-do/",
+      "category": "missionary",
+      "source": "Wycliffe",
+      "source_url": "https://www.wycliffe.net/feed/",
+      "published": "2026-11-03",
+      "summary": "For both the African and global audiences at the Yaoundé gathering, panel members underscored a fundamental truth: Bible translation is not an isolated academic exercise.",
+      "summary_zh": "在雅温得会议上，小组成员向非洲和全球观众强调了一个基本事实：圣经翻译并不是一项孤立的学术活动。",
+      "title_zh": "神在非洲的使命： “还有很多事情要做”",
+      "content": "YAOUNDÉ, CAMEROON — During the Wycliffe Global Alliance Africa Area Gathering, a question was put before delegates: Is the African Church awake? A three-person panel, moderated by Dr. Zac Manyim, Director of the Department of Church and Scripture Engagement at CABTAL (Cameroon Association for Bible Translation and Literacy), delved into the continent’s strategic mission challenges and local breakthroughs. A Call from the Pulpit to Action ‘Yes, the African Church is awake, but it is not active,’ said Rev. Abel Chebe Ngah of the Apostolic Church in Cameroon. He noted a disparity in how modern ministry resources are being spent. ‘Some churches are focused on building megachurches, while only a few are focused on spreading the Word of God. The African church should have been doing exploits, but it is not yet doing so. There are still many areas in Africa not reached by the gospel.’ For the landscape to shift, Ngah argued that mission cannot be treated lightly; the local church must intentionally send missionaries. Demonstrating local ownership, his own denomination dedicates a specific Sunday every year entirely to Bible translation, using it to mobilise believers and raise financial support for CABTAL’s fieldwork. Though some local churches might lack the required financial resources, they offer abundant human and material resources needed in Bible translation. The Lifelong Impact of Mother-Tongue Literacy Pastor Alphonse Gamaldak, president of the Mofu Gudur Inter-Church Committee, said Bible translation reshaped his entire life trajectory. Before receiving any formal education, he learned to read and write in his mother tongue. This linguistic foundation gave him the leeway to master French, eventually leading him to seminary. ‘Yes, the church is awake in Mofu Gudur (a language community of northern Cameroon) because many kids have now grown and seen their lives transformed by the Bible translated into our language,’ he said. The impact extends far beyond the sanctuary. Through mother-tongue functional literacy programmes overseen by the translation project, community members have developed income-generating activities, drastically improving local livelihoods. Today, over 250 literacy teachers are actively instructing inside churches and surrounding villages. Yet, Pastor Gamaldak warned that sustainability requires ongoing investment. ‘There is still much to do,’ he said, ‘like continuing to build the capacity of and support these 250 literacy teachers.’ In 2008, when the Mofu Gudur New Testament was dedicated, the church and the community came together to facilitate the distribution. Five thousand copies were printed, and they were all sold out in the following months. A second run of 4,000 copies was printed. A few years later, it was still hard to obtain a copy. This motivated CABTAL to begin work on the Old Testament, which was dedicated in May 2026. Thanks to the commitment of the local church, the Mofu Gudur people now have a complete Bible. The Takeaway for the Global Alliance For both the African and global audiences at the Yaoundé gathering, panel members underscored a fundamental truth: Bible translation is not an isolated academic exercise. When local churches move from being merely ‘awake’ to being actively engaged, Scripture access unlocks deep spiritual maturity, local resource mobilisation and holistic community development. Story and Photos: Isaac Forchie",
+      "content_zh": "在威克里夫全球联盟非洲地区集会期间,向代表们提出了一个问题: 非洲教会醒了吗? 一个三人小组,由CABTAL(喀麦隆圣经翻译和识字协会)教会和圣经参与部主任Zac Manyim博士主持,探讨了非洲大陆的战略任务挑战和地方突破。 喀麦隆使徒教会的Abel Chebe Ngah牧师说, 他指出,在现代部委资源如何使用方面存在差距。 :\"有些教堂专注于建造特大教堂,而只有少数教堂专注于传播\"上帝之道\". 非洲教会本应在进行剥削,但尚未这样做。 非洲仍有许多地区没有获得福音。 为了改变地貌,Ngarh认为不能轻视任务;当地教会必须故意派遣传教士. 他自己的教派每年专门用一个礼拜天翻译圣经, 尽管一些地方教会可能缺乏所需的财政资源,但它们提供了圣经翻译所需的大量人力和物力资源。 Mofu Gudur教会间委员会主席Alphonse Gamaldak教授的《母亲-通格识字牧师终身影响》说,《圣经》翻译重塑了他的整个人生轨迹。 在接受任何正规教育之前,他学会用母语读写. 这个语言学基础给了他掌握法语的回旋余地,最终引导他进入神学院. 他说 : “ 是的, 教堂在Mofu Gudur(喀麦隆北部的一个语言社区)醒了, 因为许多孩子已经长大, 影响远远超出避难所。 通过翻译项目监督的母语实用识字方案,社区成员开展了创收活动,大大改善了当地生计。 今天,250多名扫盲教师正在教会内部和周围的村庄积极进行教学。 然而,Gamaldak牧师警告说,可持续性需要持续投资。 他说,“还有许多事情要做,就像继续建设和支持这250名扫盲教师的能力。” 2008年,当\"莫福古都尔新约\"被奉献时,教会与社区聚集一堂来为发行提供便利. 印出五千本,后数月全部被卖出. 第二次印制了4000册. 几年后,仍难以获得副本. 这激励了CABTAL开始\"旧约\"的工作,该\"旧约\"于2026年5月被专门化. 由于当地教会的承诺,莫福古都尔人现在有了完整的\"圣经\". 小组成员强调了一个基本真理:圣经翻译不是孤立的学术活动。 当当地教会从仅仅是`觉醒'走向积极参与时,《圣经》的获取将释放出深刻的精神成熟、地方资源动员和整体社区发展。 故事与相片:以撒·福奇",
+      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
+      "author": "Jim Killam",
+      "tags": [
+        "NEWS",
+        "THE LATEST",
+        "Africa Area",
+        "African Church",
+        "Apostolic Church in Cameroon",
+        "Bible translation",
+        "CABTAL",
+        "Mofu Gudur",
+        "Wycliffe Global Alliance"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T02:44:23.313107",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "c728363f27fc2452"
+    },
+    {
+      "title": "Prison Didn’t Mean Paul Was Wrong",
+      "url": "https://radical.net/article/prison-didnt-mean-wrong/",
+      "category": "missionary",
+      "source": "Radical (David Platt)",
+      "source_url": "https://radical.net/feed/",
+      "published": "2026-11-03",
+      "summary": "Steven Morales explains why following Jesus is worth every sacrifice, even when faithfulness leads to suffering and imprisonment.",
+      "summary_zh": "史蒂文·莫拉莱斯（ Steven Morales ）解释了为什么即使忠诚导致痛苦和监禁，跟随耶稣也是值得的。",
+      "title_zh": "监狱并不意味着保罗错了",
+      "content": "“I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called.” (Eph. 4:1) Those are weighty words. And they’re weighty not because Paul is writing from a quiet study or a place of comfort, but because he is writing them from a prison cell. Paul isn’t sending this letter from a position of safety or success as the world defines it. He’s writing as a man in chains—arrested for preaching the gospel and planting churches. To his critics, he was a troublemaker. A dangerous agitator. To God, he was a faithful servant . That matters. Paul is suffering for the very message he’s urging the church in Ephesus to remember and live out. His words carry weight because his life backs them up. He’s not asking them to do anything he himself isn’t already doing—at great personal cost. And here’s the remarkable thing about Paul: there is no scenario in which he loses. Let him go free, and he’ll travel to the ends of the earth preaching Christ and starting churches. Lock him up, and he’ll become “a prisoner for the Lord,” turning his suffering into a living testimony of the worth of the gospel. Execute him? Fine. As he says elsewhere, “For to me to live is Christ, and to die is gain” (Phil. 1:21, ESV). There is no situation where Paul says, “The gospel isn’t enough anymore.” There is no moment where he concludes, “This just isn’t worth it.” Instead, Paul’s entire life—especially his suffering—testifies to this truth: no matter your circumstances, trusting in the gospel is never wasted. Paul wasn’t in prison because his ministry failed. He was in prison because he believed the message was worth suffering for. And that’s an important distinction. If a message isn’t worth suffering for, it’s probably not worth believing in. Christianity doesn’t promise a life without pain. What it promises is something better: a suffering that is not meaningless. A hope that suffering does not get the final word. That’s why Paul can say this in 2 Corinthians: “For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison, as we look not to the things that are seen but to the things that are unseen. For the things that are seen are transient, but the things that are unseen are eternal.” (2 Co. 4:17–18) The gospel gives us a framework for enduring temporary suffering because it anchors us in permanent promises. We can endure hardship now because we know it won’t last forever. Our pain has an expiration date . Why? Because Jesus has already suffered fully in our place. He took sin, death, and judgment upon himself—and walked out of the grave victorious. Because of him, not even death has the final say over us. So when Paul urges believers to “walk in a manner worthy of the calling,” he’s not laying a burden on their shoulders. He’s inviting them into a life shaped by hope—a life that knows that whatever it costs to follow Jesus, it will never be in vain. This article first appeared in The Commission , Radical’s biweekly newsletter featuring global gospel stories and encouragement from David Platt and others to help you follow Jesus and make him known. Subscribe today .",
+      "content_zh": "因此,我为主而遭俘虏,求你按照你们被召唤的礼仪而行走。 (第4:1页) 这些话很重 他们的体重不是因为保罗从安静的书房或舒适的地方写作,而是因为他从监狱牢房里写作。 保罗不会像世界所定义的那样, 他在写作时, 对他的批评者来说,他是一个麻烦制造者. 一个危险的煽动者。 对上帝来说,他是一个忠实的仆人。 这很重要。 他敦促以弗所的教会记住并活下来。 他的话很重,因为他的生活支持他们。 他并没有要求他们做他自己没有做的事, 保罗的惊人之处是:他没有失败的可能。 他将前往地底, 宣扬基督, 将他关起来,他将成为“主的俘虏”,将他的痛苦变成福音价值的活生生的见证。 处决他? 精细。 正如他在别处所说的那样,“对我来说,是基督,而死亡是利益”(Phil. 1:21,ESV)。 保罗说,“福音已经不够了。 ” 他没有一刻可以得出结论,“这不值得。 ” 相反,保罗的整个生活,特别是他的痛苦,证明了这一真理:无论你的情况如何,相信福音永远不会白白浪费。 保罗并未入狱, 他入狱是因为他认为这个消息值得忍受. 这是一个重要的区别。 如果信息不值得痛苦, 基督教不会保证没有痛苦的生活。 它所许诺的是更好的事情:没有意义的痛苦。 希望苦难得不到最终结果。 这就是为什么保罗可以在两个科林斯语中说:“由于这种短暂的灾难,我们准备了一种永恒的光荣之分,超越一切的比喻,因为我们不看所见的事物,而看所见的事物。 所见之物是短暂的,而所见之物是永恒的。” 福音为我们提供了一个忍受暂时痛苦的框架,因为它将我们置于永久的承诺中。 现在我们可以忍受苦难, 我们的疼痛有结束期 为什么? 因为耶稣已经在我们的位置上遭受了完全的痛苦。 他自受其害、死亡、判决。他从坟墓中走出, 因为他,连死亡都无法战胜我们 当保罗敦促信徒们“以值得召唤的方式行走”时, 他邀请他们过着充满希望的生活, 这篇文章首次刊登在委员会的双周通讯《激进》上, 今日订阅.",
+      "image": "https://cdn.radical.net/images/20261030060443/Prison-Didnt-Mean-Paul-Was-Wrong.png",
+      "author": "",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T02:44:11.737054",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "3ef43b8929ee24ca"
+    },
+    {
+      "title": "First Person: The Great Commission — Our Master’s Moon Shot",
+      "url": "https://www.imb.org/2026/11/02/first-person-the-great-commission-our-masters-moon-shot/",
+      "category": "missionary",
+      "source": "IMB",
+      "source_url": "https://www.imb.org/feed/",
+      "published": "2026-11-03",
+      "summary": "I was born in 1961. The U.S. president at that time was John F. Kennedy. In that year he issued a challenge to our nation. It was that we build a rocket ship, put men in it, send it to the moon, have them walk on the surface, plant our flag, then return them safely to earth. He called on the nation to accomplish this within a decade. This extraordinary, demanding, costly endeavor is known to history as Kennedy’s “moon shot.” The nation rose to the challenge. I still remember watching in 1969 a g",
+      "summary_zh": "我出生于1961年. 当时的美国总统是约翰·肯尼迪. 当年,他向我国提出了挑战。 正是我们造了一艘火箭船,把人装进去,送去月球,让他们行走在地表上,种下我们的旗帜,然后安全地还给地球. 他呼吁全国在十年内完成这项工作.\n\n这一艰巨而昂贵的努力在历史上被称为肯尼迪的\"月出\"。 国家奋起迎接挑战. 我还记得1969年看的",
+      "title_zh": "第一人称：伟大的使命—我们主人的月球射击",
+      "content": "Portrait of Jeff Ginn, IMB senior ambassador of U.S. and global relations. IMB Photo I was born in 1961. The U.S. president at that time was John F. Kennedy. In that year he issued a challenge to our nation. It was that we build a rocket ship, put men in it, send it to the moon, have them walk on the surface, plant our flag, then return them safely to earth. He called on the nation to accomplish this within a decade. This extraordinary, demanding, costly endeavor is known to history as Kennedy’s “moon shot.” The nation rose to the challenge. I still remember watching in 1969 a grainy, black-and-white broadcast as Neil Armstrong stepped on the surface of the moon and declared, “One small step for man, one giant leap for mankind.” We often think of the astronauts with admiration. And rightly so. They were courageous. However, let’s note that the Apollo mission employed some 400,000 additional people to fulfill the mission. Team members included mission controllers, metal fabricators, communication specialists, caterers, engineers, scientists, nurses, doctors, mathematicians and computer programmers. Beyond these, all U.S. taxpayers contributed! It took a nation to get two astronauts to the moon and safely return them! That term, “moon shot,” has made its way into our vocabulary. It can be used for other daring, costly, and valuable undertakings. It is fair, then, to say that the Lord Jesus, our Master, has a moon shot of His own! His mission merits our lives and resources. His mission includes all who name Christ as Lord collaborating to fulfill it. At the International Mission Board, all our plans, strategies and decisions center around this biblical idea that we all must work together to fulfill Christ’s mission. We all must pray. We all must give. We all must go. We all must send. Matthew 28:18-20 is one passage, perhaps the best known, that gives us the details for our mission. The name that evangelicalism has given to this passage is “The Great Commission.” The word “commission” is not one that we use commonly. It simply means a command. How interesting that, with hundreds of commands in Scripture, this is this one that gets the definitive article, “the,” and the adjective, “great.” Does it merit that moniker? I say that it does, and I offer three reasons why. Because it makes a great claim When quoting the Great Commission, it is common for folks to omit verse 18 and simply begin with verse 19. But to do so undercuts the weight that Jesus’ claim in verse 18 adds. There He claims to have all authority in heaven and on earth. That essentially is a claim to divinity — to supremacy. He is saying that He is the King above all kings and the Lord above all lords. When we consider His claim, we all have a choice to make. To borrow from C. S. Lewis, we could decide that He is a liar or a lunatic. Following liberal theologians or Muslim theology, we could decide that much of what is taught about Him in the New Testament is the stuff of legend — that the disciples exaggerated and “created” the Christ of faith. Jeff and Nell Ginn served with the International Mission Board in Colombia. Jeff currently serves churches as IMB senior ambassador. IMB Photo But the decision that I have made (and on which I’ve staked my eternal destiny) is that He is not a liar, nor a lunatic, nor a legend. He is, in fact, Lord! My prayer is that all will decide similarly. As such, He has the authority to issue any commission and our only right response is, “Yes, Lord!” His authority is why, 35 years ago, my wife, Nell, and I said “yes” when He called us to serve with the IMB in Cali, Colombia.  It was under His authority that we planted churches and taught future leaders in the seminary there. Because it gives a great command Not only is it the Great Commission because of the claim that it contains, it is great because of the command it presents.  In verses 19 and 20 there are at least four verbal ideas mentioned: go, make disciples (one word in the origina",
+      "content_zh": "美国和全球关系高级大使杰夫·吉恩的肖像. IMB Photo I生于1961年. 当时的美国总统是约翰·肯尼迪. 当年,他向我国提出了挑战。 正是我们造了一艘火箭船,把人装进去,送去月球,让他们行走在地表上,种下我们的旗帜,然后安全地还给地球.\n\n他呼吁全国在十年内完成这项工作. 这一艰巨而昂贵的努力在历史上被称为肯尼迪的\"月出\"。 国家奋起迎接挑战.\n\n我仍然记得1969年在尼尔·阿姆斯特朗踏上月球时观看了一场黑白交织的广播,并宣布“人类迈出了一小步,人类迈出了一大步”。 我们经常以钦佩的眼光来看待宇航员. 没错 他们是勇敢的。 然而,我们要指出的是,阿波罗飞行任务又雇用了大约40万人来完成这一任务。\n\n小组成员包括特派团控制员、金属制造员、通信专家、宴会人员、工程师、科学家、护士、医生、数学家和计算机程序员。 除此之外,所有美国纳税人都贡献了! 一个民族把两个宇航员送入月球安全送还!. “被射出月球”一词已经进入我们的词汇。\n\n它可用于其他大胆、昂贵和有价值的工作。 那么说上帝耶稣 我们的主人 拥有自己的月球镜头是公平的! 他的使命值得我们给予生命和资源。 他的使命包括所有将基督命名为\"主\"的人,他们合作完成使命.\n\n在国际传教委员会,我们的所有计划、战略和决定都围绕这个圣经思想,即我们大家必须共同努力来完成基督的使命。 我们都必须祈祷。 我们都必须给予。 我们都得走了。 我们都得送去 Matthew 28: 18 -20是一段,也许最有名的一段,这给我们提供了我们任务的细节.\n\n福音派给这个段落起的名字是“大委员会”。 “委员会”一词不是我们常用的。 这仅仅是命令 如此有趣的是,在《圣经》中有数百个命令, 这篇是获得“the,”和形容词“Great”的决定性文章。 这值得吗? 我说它确实如此,我提出三个原因。\n\n因为它在引用Great Commission(Great Commission)时提出了很大的主张,人们通常省略了第18节,简单地从第19节开始. 但这样做会削弱耶稣在第18节中声称增加的分量。 那边 他声称在天地间拥有一切权威. 这基本上是对神权——至高无上——的宣称。\n\n他说他是国王 高于所有国王 高于所有领主 当我们考虑 他的主张,我们都有一个选择。 从C. S. Lewis那里借钱 我们可以决定他是骗子还是疯子\n\n追随自由主义神学家或穆斯林神学,我们可以决定,\"新约\"中关于他的大部分教义是传说的东西——门徒夸大并\"创造了\"信仰的基督. 杰夫和内尔·吉恩在哥伦比亚的国际使团委员会任职。 杰夫目前为教会担任IMB高级大使.\n\nIMB 相片 但我所做的决定(以及我所坚持的永恒命运)是,他不是骗子,也不是疯子,也不是传说。 他是,事实上,主啊! 我的祷告是 所有人都会做出同样的决定\n\n因此,他有权发布任何委托书,我们唯一的正确答复是:“是的,主啊!” 35年前,他的妻子Nell和我在打电话请我们到哥伦比亚卡利为IMB服务时说“同意”。 正是在他的授权下,我们在那里的神学院里植入了教堂并教导了未来的领导人.\n\n因为它赋予了一个伟大的命令 不仅仅是大委员会,因为它包含的声称, 它的伟大,因为它提出的命令。 第19和20节至少提到四个口头想法:去,做个门徒(来源于a",
+      "image": "https://www.imb.org/wp-content/uploads/2024/02/20230316COREteamAndAGLs010sqweb-1-1024x1024.jpg",
+      "author": "Jeff Ginn",
+      "tags": [
+        "General",
+        "News",
+        "colombia",
+        "First Person",
+        "Give",
+        "Go",
+        "Great Commission",
+        "IMB",
+        "International Mission Board",
+        "Jeff Ginn",
+        "Missions",
+        "Pray",
+        "Send",
+        "Senior Ambassador",
+        "sermon"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T02:44:13.471847",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "bf805c7e4df19034"
+    },
+    {
+      "title": "God’s comfort",
+      "url": "https://www.mnnonline.org/2012/05/14/gods-comfort/?utm_source=rss&utm_medium=rss&utm_campaign=gods-comfort",
+      "category": "missionary",
+      "source": "Mission Network News",
+      "source_url": "https://www.mnnonline.org/feed/",
+      "published": "2026-11-02",
+      "summary": "My family still wrestles with what feels like very fresh grief over my dad’s passing last September. There are moments where things hit us and we feel this ache of...",
+      "summary_zh": "我的家人仍然在为父亲去年9月的逝世感到非常新鲜的悲伤而挣扎。在某些时刻，事情触动了我们，我们感到这种痛苦......",
+      "title_zh": "神的安慰",
+      "content": "My family still wrestles with what feels like very fresh grief over my dad’s passing last September. There are moments where things hit us and we feel this ache of his absence. We know that he has gone to be with his Heavenly Father and no longer suffers from the limitations of this mortal coil. It’s just that sometimes, we miss him. It’s at those times when something happens that reminds us of the hope that we have in Christ our Savior, of our purpose here as followers of Christ, as co-laborers in the Kingdom of Heaven. These reminders serve as encouragement to fight the good fight, keeping our eyes on the prize. I was thinking of my dad today and decided to read some of the devotionals he used to write for the ministry to which he dedicated his remaining years, Transport for Christ. When his health could no longer allow him to serve onsite as a chaplain, he wrote encouragement to the truck drivers and the chaplains in service. I can hear his voice in these words. There’s great comfort in his reminder. I share his words with you so that you may also take comfort in a greater plan, and in the hope that comes from trusting God is in control: “Most of the time, when we grieve, we grieve over something that’s happened in our lives. But there are also times when we grieve over something that hasn’t happened or “what might have been.” Unrealized expectations and dashed hopes can paralyze us with sadness. We mourn for what we could have had, could have done or could have experienced. We live in a fog as we struggle with our unmet goals and dreams. Are you wrestling with accepting something in your life? Mourning a shattered dream? Instead of focusing on what might have been, try focusing on what is and what could still be. Revising your dreams isn’t bad. It’s realistic. And the sooner you do, the sooner the weight of grief will let go. The fog will lift. Hope will return.”",
+      "content_zh": "我父亲去年九月去世, 有些时候 事情袭击了我们 我们感到他缺席很痛苦 我们知道他和他天父在一起 不再受到这个凡人圈子的限制 只是有时候,我们想念他。 我们的救世主, 我们作为基督的追随者, 这些提醒有助于鼓励我们打好这场好仗,使我们继续关注这一奖项。 我今天想到我爸,决定读一些他以前为他剩下的岁月所奉献的部会而作的奉献,\"为基督而运输\". 当他的健康不能再允许他当上牧师时,他写信给正在服役的卡车司机和牧师。 这些话我都能听到他的声音。 他提醒大家, 我和你们分享他的话,以便你们也能在更大的计划中得到安慰,希望来自信任上帝的希望是控制着:“多数时候,当我们悲伤的时候,我们对生活中发生的事情感到悲伤。 但有时我们也为一些没有发生的事情而悲伤, 未实现的期望和破灭的希望会使我们感到悲哀。 我们对本可以、本可以或本可以经历的事情表示哀悼。 当我们与未实现的目标和梦想相抗争时,我们生活在雾中。 你是在拼命接受你生活中的东西吗? 打破了梦想? 与其专注于可能已经发生的事情,不如专注于现在和可能仍然可能发生的事情。 改变你的梦想并不坏。 这是现实的。 你越早做, 悲伤的重量会越快松开。 雾会升起 希望将回归。”",
+      "image": "https://www.facebook.com/tr?id=397329227571557&ev=PageView&noscript=1",
+      "author": "R.B. Klama",
+      "tags": [
+        "Uncategorized",
+        "gospel",
+        "sanvus yuen",
+        "transport for christ"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T03:22:56.040001",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "0bca2ee721054a9f"
+    },
+    {
+      "title": "A chance meeting?",
+      "url": "https://www.mnnonline.org/2012/02/13/a-chance-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=a-chance-meeting",
+      "category": "missionary",
+      "source": "Mission Network News",
+      "source_url": "https://www.mnnonline.org/feed/",
+      "published": "2026-11-02",
+      "summary": "You’ve probably heard someone say ‘There is no such thing as a coincidence’. Usually people nod their heads and murmur agreement, but the real question is “Do you believe it?“...",
+      "summary_zh": "您可能听说过有人说“没有所谓的巧合”。通常人们会点头低语，但真正的问题是“你相信吗？” ……",
+      "title_zh": "一相逢",
+      "content": "You’ve probably heard someone say ‘There is no such thing as a coincidence’. Usually people nod their heads and murmur agreement, but the real question is “Do you believe it?“ Are people just wishful thinkers, or is God really so intimately involved in our daily lives that He orchestrate events on our behalf? What will a chance meeting turn into later? The idea of seeds, planting and harvest is a theme resonant throughout Scripture. Aside from the overt nature of sharing the hope of Christ, there are times we don’t recognize an opportunity at the time, but hindsight has a way of revealing it to us. On my last day in Cairo, I was sitting in the hotel lobby waiting for the rest of the team to come down for checkout. I opened my laptop, and began weeding through emails, and getting pictures uploaded for post, and checking through Facebook. An older gentleman (whom I’d seen at different times all week) came over and said ‘You work too much’. I told him I was just killing time and not really working at all. He began asking me questions about my visit to Cairo. Given the upset of the country, I was still guarding my words very carefully so as not to endanger people who live and minister in Cairo. He began asking more pointed questions like “What do you think of this revolution?” Alarm bells were ringing in my head, so I trod very carefully as I answered. I told him that it was a very exciting time in Egypt’s history. Nothing would ever be the same for the country again. To be here during this growth period was both exhilarating and a little scary. He then asked what my friends thought of the goings on. Now, here I had to be very careful. I asked God for wisdom and told him that depended on who I spoke with. There were some who were very optimistic about the outcome, although they knew there would be a hard period to get there. Others were very pessimistic and a little fearful about what lay ahead for them. Still others were moving forward in confidence. He nodded a few times as I responded to his question, then said, “You should come to Lebanon.” I responded “I would LOVE to come to Lebanon!” So he handed me his business card and said, “E-mail me when you come.” He wrote his email address on the bottom of the card. Initially, I was wary about taking some stranger’s e-mail, but I figured I would not necessarily use it and I did not have to respond by giving him my e-mail. We stood, shook hands and parted. I noted that as he left, he entered a diplomat’s vehicle. Only then did I read his business card. It read “Mahmoud Hammoud, Lebanese Ambassador”. He’s the former Foreign Minister of Lebanon, currently serving as an ambassador. I have no idea why our paths crossed. However, God orchestrated it for some reason. There are no coincidences…just opportunities. I wonder what comes next.",
+      "content_zh": "你可能已经听到有人说“没有巧合”了。 通常人们点头并含糊其辞,但真正的问题是“你相信吗?” 难道人们只是希望的思想家,还是上帝真的如此亲密地参与我们的日常生活,以至于他代表我们组织各种活动? 机会会议以后会变成什么? 种子、种植和收割的理念是贯穿整个圣经的主题。 除了分享基督希望的公开性质外, 有时我们并不认同当时的机会, 在开罗的最后一天,我坐在酒店大厅里,等待队伍的其他人下来看病。 我打开了笔记本电脑, 开始通过电子邮件去除草, 一位年长的绅士(我整个星期在不同时间见过他)过来说道:你工作太忙了。 我告诉他我只是在浪费时间 完全没有工作 他开始问我关于我访问开罗的问题。 鉴于这个国家的不安,我仍在非常谨慎地捍卫我的话,以免危及在开罗生活和担任部长的人。 他开始提出更尖锐的问题,如“你对这场革命的看法如何?” 警钟在我脑中响起,所以我回答时非常小心。 我告诉他,这是埃及历史上一个非常激动人心的时刻。 对这个国家来说,一切都不会变了 在这个成长时期来到这里既令人振奋,又有些吓人。 他接着问我的朋友们对事情的看法如何。 现在,我必须非常小心。 我向上帝求取智慧 告诉他这取决于我和谁说话 有些人对结果非常乐观,尽管他们知道要到达那里会有一段困难的时期。 其他人则非常悲观,有些担心未来会如何。 还有一些国家正在以信任的态度向前迈进。 当我回答他的问题时,他点了几次头,然后说:“你应该来黎巴嫩。” 我回应说, 他把他的名片递给我,然后说:“你来了就给我电子邮件。” 他写了他的电子邮件地址 在卡底。 起初,我对收取陌生人的电子邮件很担心,但我想我不一定会使用,我不必通过把电子邮件给他来回应。 我们站了起来,握起手来分开。 我注意到,当他离开时,他进入一名外交官的车辆。 那时我才看他的名片 原文为“黎巴嫩大使马哈穆德·哈穆德”。 现任大使。 我不知道我们为什么要过路 然而,上帝出于某种原因安排了它。 没有巧合 只是机会 不知道接下来会怎样",
+      "image": "https://www.facebook.com/tr?id=397329227571557&ev=PageView&noscript=1",
+      "author": "R.B. Klama",
+      "tags": [
+        "egypt",
+        "missions",
+        "MNN",
+        "news",
+        "persecution",
+        "travel"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T03:22:56.350974",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "61086969d33927f5"
+    },
+    {
+      "title": "What comes first: chicken or the egg?",
+      "url": "https://www.mnnonline.org/2012/02/09/what-comes-first-chicken-or-the-egg/?utm_source=rss&utm_medium=rss&utm_campaign=what-comes-first-chicken-or-the-egg",
+      "category": "missionary",
+      "source": "Mission Network News",
+      "source_url": "https://www.mnnonline.org/feed/",
+      "published": "2026-11-02",
+      "summary": "One thing I am noticing here is how different the context of ministry is from country to country. You can sometimes THINK you understand the concept of the vehicle, like...",
+      "summary_zh": "我在这里注意到的一件事是，不同国家的事工背景是多么的不同。有时您可能会认为自己了解车辆的概念，例如...",
+      "title_zh": "先吃鸡还是先吃鸡蛋？",
+      "content": "One thing I am noticing here is how different the context of ministry is from country to country. MNN's Ruth Kramer on assignment. You can sometimes THINK you understand the concept of the vehicle, like micro-enterprise, but once you hear how things are put into practice, what works and what doesn’t, you begin to see the subtleties emerge. For example, we met with a partner yesterday who assists community development. They are unashamedly Christian, because the Gospel is part of everything they do…however, they know that dealing with poverty is a ‘must’, as well. So, which came first, the chicken (community development) or the egg (Gospel)? Can they be done simultaneously and be effective? Do you really just have two eggs or two chickens? The clear answer on that was: ‘We have an egg, it becomes a chicken’. Folks, that’s the answer to the question of questions. The hope of Christ changes the outlook for the poor in this context. The other big question was how the community development works in the Egyptian Muslim context in the rural areas. It is in these places where it’s likely opposition will rise up and equate physical attacks. The mindset is quite different. Micro-enterprise comes up at this point. In some Asian countries, the structure of a micro-enterprise program works like this: church committee sees community member in need (often a believer under the discipleship of the pastor), they provide a loan so this person can start a small business–i.e.—buy a sewing machine to make clothes, or a couple of goats to make cheese and sell milk…from the profits, the person tithes to the church, enabling the support of the pastor…and the person is more able to support him/herself. However, when I asked about the structure of the micro-enterprise, it can’t work that way in the Egyptian context. There are lots of things that can really be misinterpreted within the social structure (and Islam) and this is one of them. The set up of the program is similar, but different because it’s tailor-made to fit the need of the people and the mission of the group. That just struck me. I had made an assumption that all micro-enterprise was the same. I made similar assumptions about vocational training programs, literacy programs, etc (thinking I adjusting for a different context, language, etc). I think it’s kind of a colonialistic thinking that we slip into. It’s kind of like providing someone a loaf of bread (mission field)…from the grocery store (missionary). They need the food to stay alive, but the plastic around the bread is giving them indigestion. They need to prepare the bread the way they now how and all we need to do is supply the ingredients (resources) and the recipe (training). Yes, I know you might be thinking ‘well, duh’. It is one thing to say it and to think you might even understand it, it is another thing entirely to actually see it with my own eyes, hear what works and what doesn’t from the guys implementing helps. By the way, because they do this work well, they have just come under scrutiny. One of this ministry’s main offices was raided by the Egyptian government this week, and the hard drive with the database was taken. All of their records on every program were on it. Everything is exposed. Their face is an NGO and they are well-known. With the events that have occurred in Egypt over the last month, it’s no surprise they’re looking at all NGO’s. Please pray for this team. They are careful, and they are smart. Most of all, they want to share the hope of Christ with those they encounter. That love for people permeates everything they touch…including the chickens in the coop…and eggs in the community. Works for me…",
+      "content_zh": "我在这里注意到的一件事是,部委的背景因国而异。 MNN的Ruth Kramer在执行任务 你有时可以认为你理解汽车的概念, 比如微型企业, 但一旦你听到事情是如何付诸实践的, 什么可行什么不可行, 你就会开始看到微妙之处的出现。 例如,我们昨天会见了一个协助社区发展的伙伴。 他们毫不羞愧地信奉基督教, 因为福音书是他们所做的一切的一部分. 那么,什么是第一位的, 鸡(社区发展)还是蛋(Gospel)? 它们能否同时进行并有效? 你真的有两只蛋还是两只鸡? 答案是:我们有一个鸡蛋,它变成了一只鸡。 各位,这就是问题答案。 基督的希望改变了穷人在这方面的前景。 另一个大问题是社区发展如何在农村地区埃及穆斯林背景下运作。 这些地方很可能会有人反对, 心态完全不同。 此时小微企业也出现了. 在一些亚洲国家,微型企业计划的结构是这样运作的:教会委员会看到社区成员有需要(常常是牧师门徒下的信徒),他们提供贷款,以便此人能够创办小企业,即购买缝纫机来做衣服,或买一对山羊来做起司和卖牛奶. 从利润中,一个人一分之一到教堂,使牧师能够支持.这个人更有能力支持自己。 然而,当我问到微型企业的结构时,在埃及不可能如此。 在社会结构(和伊斯兰教)中, 有许多事情可以真正被误解, 节目的设置类似,但因适合人民的需要和团体的使命而有所不同. 这让我很吃惊 我假设所有微型企业都是一样的 我对职业培训计划,扫盲计划等做出了类似的假设(认为我适应不同的环境,语言等). 我认为我们滑入的是一种殖民主义思想。 像是从杂货店(Missionary)提供面包。 他们需要食物才能活下来 但面包周围的塑料 让他们消化不良 他们需要用他们现在的方式准备面包,我们需要做的就是提供原料(资源)和食谱(培训)。 是的,我知道你可能在想,“好,好” 并且认为你可能甚至能理解, 以我自己的眼光亲眼目睹, 顺便说一句,因为他们做得很好,他们刚刚受到审查。 埃及政府本周突袭了该部的一个主要办公室, 他们在每个程序上的所有记录都在上面。 一切众生被所出. 他们的外表是非政府组织,是众所周知的。 在埃及上个月发生的事件中, 请为这支队伍祈祷. 他们很小心,很聪明。 最重要的是,他们想与所遭遇的人分享基督的希望. 这种对人的爱贯穿了他们所接触的一切... 包括笼子里的鸡... 和社区的鸡蛋. 为我工作...",
+      "image": "https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc7/s320x320/420417_10150659523978274_736378273_11037053_2103347671_n.jpg",
+      "author": "R.B. Klama",
+      "tags": [
+        "egypt",
+        "missions",
+        "MNN",
+        "news",
+        "persecution",
+        "special reports",
+        "travel"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T03:22:56.716336",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "852d28eac81accc5"
+    },
+    {
+      "title": "The power of prayer unleashed",
+      "url": "https://www.mnnonline.org/2012/02/07/the-power-of-prayer-unleashed/?utm_source=rss&utm_medium=rss&utm_campaign=the-power-of-prayer-unleashed",
+      "category": "missionary",
+      "source": "Mission Network News",
+      "source_url": "https://www.mnnonline.org/feed/",
+      "published": "2026-11-02",
+      "summary": "Last night, I attended a prayer meeting at a church in downtown Cairo, near Tahrir Square. The church was gathering to cry out to God in their distress over the...",
+      "summary_zh": "昨晚，我在开罗市中心解放广场附近的一个教堂参加了一次祈祷会。教会聚集在一起，在他们的痛苦中向上帝呼求……",
+      "title_zh": "释放祈祷的力量",
+      "content": "Last night, I attended a prayer meeting at a church in downtown Cairo, near Tahrir Square. MNN in Egypt The church was gathering to cry out to God in their distress over the recent events in the country, and cry out, they did. As we sang together, worshiped together, and encouraged one another, I experienced something I have never experienced before. I’m a fairly reserved person and I am even more so in prayer. It is in times of great distress that I get out of my own way and fall before the Lord prostrate. Last night, although everyone around me was praying in Arabic, I found myself humbled before the Lord and joining in that chorus of crying out. The pastor was beyond ‘crying out’….he was screaming and sobbing before the Lord, as was much of this nearly 1,000 person gathering. Here they were, in prayer before God, confessing, repenting, requesting and rejoicing…even as tear gas seeped into the courtyard from Tahrir Square. All of a sudden, I found myself reminding God of His promises, and asking Him to give comfort to His bride in Egypt, to give them hope and wisdom and to be asking with a fierceness I had not ever before encountered…and moments later, the pastor or worship leader would be saying the same thing, or using the same verse, or introducing the song on the same topic…that happened over and over last night. An immediate confirmation of God’s response left me stunned. Much of what I have heard from Egypt’s Christians that I have encountered has been this is a year of prophecy coming true. There is a GREAT confidence in many of the church leaders and congregations in forging ahead… The other thing that we’re often hearing is that Egypt’s Church is not ‘persecuted’ so much as it is a church under pressure. The boldness of this family is so encouraging, and such a reminder of the presence of the Holy Spirit…especially as they go out with joy to tend to the wounded people coming into the field hospital set up in their courtyard. The confirmation of God’s answers to prayer gives a great boldness to those on the frontlines of the missional movement in Egypt. While bombings, riots and general chaos looks really bad in the headlines (and it is happening), fear is not the response of this emboldened Body. Church leaders we have met with all over the city have said the same thing ‘The wall of fear is broken’. Change is coming. Egypt will have her Revolution…and its face is the Church.",
+      "content_zh": "昨晚,我参加了在开罗市中心的一座教堂举行的祈祷会,该教堂靠近塔里尔广场. 埃及的MNN 教会正在集会 向上帝呼喊 在他们的痛苦 最近的国内事件, 当我们一起唱歌,一起崇拜,互相鼓励时,我经历了一些我从未经历过的事情. 我是一个相当有保留的人, 是在大难之时,我走出了自己的道路,倒向了主的叩头. 昨晚,虽然我周围的每个人都用阿拉伯语祈祷,但我发现自己在主面前谦卑并加入了那场叫喊的合唱. 牧师已经超越了“哭出声来”的范围, 他们在这里向上帝祈祷,忏悔、悔改、请求并欢欣鼓舞, 突然间,我发现自己提醒了上帝他的承诺,要求他安慰他的埃及新娘,给他们以希望和智慧,并以我从未遇到过的激烈要求. . . 立即确认上帝的反应,使我感到震惊。 我从埃及基督徒那里听到的大多是今年的预言。 许多教会领袖和会众对前进充满信心... 我们经常听到的另外一件事是,埃及的教会并没有像压力下的一个教会那样被 \" 迫害 \" 。 这个家庭的胆量是如此鼓舞人心,如此地提醒着圣灵的存在...... 特别是当他们欢快地出门去照顾受伤的人进入他们院子里建立的野外医院时. 在埃及传教运动的前线, 虽然爆炸、暴动和普遍混乱在头条新闻上看起来非常糟糕(而且正在发生), 我们与全市的教会领袖都说过同样的话:恐惧之墙被打破了。 变化即将到来。 埃及将会有她的革命... 它的脸是教会。",
+      "image": "https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/425220_10151260526545103_107665115102_23077124_680528124_n.jpg",
+      "author": "R.B. Klama",
+      "tags": [
+        "egypt",
+        "missions",
+        "MNN",
+        "news",
+        "persecution",
+        "special reports",
+        "travel"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-02T03:22:57.149072",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "416f0154bf5edf65"
     },
     {
       "title": "IMB’s Barger receives 2026 Excelerate Award for innovation in missions",
@@ -829,282 +1179,8 @@
       "fetched_at": "2026-11-02T03:23:15.958011",
       "extra": {
         "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "Alliance seeks next Executive Director",
-      "url": "https://wycliffe.net/2026/10/22/alliance-seeks-next-executive-director/",
-      "category": "missionary",
-      "source": "Wycliffe",
-      "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-02",
-      "summary": "In a time of global challenge and opportunity, the Wycliffe Global Alliance is searching for its next Executive Director.",
-      "summary_zh": "在这个充满全球挑战和机遇的时代，威克理夫全球联盟正在寻找下一任执行董事。",
-      "title_zh": "Alliance寻求下一任执行董事",
-      "content": "God’s Word transforms lives, strengthens churches and brings hope across generations. Bible translation is part of that story, as communities around the world encounter God’s Word in their own languages. Its future calls for leaders who listen deeply, build trust across cultures and empower others. Within this context, the Wycliffe Global Alliance is searching for its next Executive Director. Could this be your next calling? The Wycliffe Global Alliance is seeking its next Executive Director to serve a worldwide community of more than 100 organisations united in God’s mission through Bible translation. Th e opportunity : Bring our global community together around a shared vision, strengthen local leadership and help a diverse global movement respond to new opportunities with faith and wisdom. The challenge : Lead through change. Articulate a compelling shared vision, strengthen the support the Alliance offers its organisations, and engage support organisations and financial partners in advancing the work. This calls for leadership that honours local autonomy while strengthening global unity, trust, mutual accountability and financial sustainability. We are looking for a leader who brings: A deep commitment to Jesus Christ and a humble, prayerful approach to leadership. At least five years of senior leadership experience and a relevant master’s degree. Proven ability to lead across cultures, develop leaders and empower local churches. Strategic vision, significant fundraising experience and the ability to turn plans into meaningful outcomes. Emotional maturity, integrity and resilience through change. Feel called—or know someone who might be? Expressions of interest, or candidate recommendations, are welcomed confidentially by 30 November 2026 . More info: full profile and how to respond",
-      "content_zh": "神之道会改变生活,加强教堂,并带来世代相传的希望. 圣经翻译是这个故事的一部分,因为世界各地的社区都用自己的语言遇到上帝的话语。 它的未来要求领导人深刻倾听,在不同文化之间建立信任并赋予他人权力。 在这方面,威克里夫全球联盟正在寻找其下任执行主任。 这会不会是你的下一个电话? Wycliffe全球联盟正在寻求下一任执行主任,通过圣经翻译服务于100多个组织联合起来执行上帝的使命。 机会:把我们的全球社会团结在一个共同的愿景周围,加强地方领导,帮助一个多样化的全球运动以信念和智慧应对新的机遇。 挑战:领导变革。 阐述令人信服的共同愿景,加强联盟为各组织提供的支持,并让支助组织和金融伙伴参与推进这项工作。 这要求发挥领导作用,尊重地方自治,同时加强全球团结、信任、相互问责和财政可持续性。 我们要找一位领导,他带来: 对耶稣基督的深刻承诺和谦卑而虔诚的领导方式. 具有至少五年的高级领导经验和相关的硕士学位. 证明有能力领导不同文化,培养领导人并增强地方教会的能力。 战略愿景、大量筹资经验和将计划转化为有意义的成果的能力。 情感成熟,完整性和通过变化的韧性. 感觉被叫了... 还是认识一个人? 在2026年11月30日之前,以保密方式欢迎表示兴趣或候选人建议。 更多信息:完整简介和如何应对",
-      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
-      "author": "Jim Killam",
-      "tags": [
-        "Executive Director",
-        "THE LATEST",
-        "Bible translation",
-        "Wycliffe Global Alliance"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:23:12.920629",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "Global Coffee Chat: Power in Mission",
-      "url": "https://wycliffe.net/2026/09/29/global-coffee-chat-power-in-mission/",
-      "category": "missionary",
-      "source": "Wycliffe",
-      "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-02",
-      "summary": "Resources from the Alliance's global conversation about Power in Mission, including a Toolbox your organisation can use.",
-      "summary_zh": "来自联盟关于任务中力量的全球对话的资源，包括您的组织可以使用的工具箱。",
-      "title_zh": "全球咖啡聊天：使命中的力量",
-      "content": "Similar Posts - Artificial intelligence dominates conversations everywhere: how to use it ethically and responsibly. In Christian mission, we need to be asking much deeper questions. - Silicon Valley pioneer Pat Gelsinger gives the keynote talk at the 2025 Missional AI Summit - Artificial intelligence is changing Bible translation movements. In this special report, we bring coverage and links from the 2025 Missional AI Summit. - While the Global gathering is conducted in English, speakers of French, Spanish and Indonesian are following the sessions through nine interpreters from varied backgrounds. - Rethinking Bible translation training, locations and roles - As OBT becomes a larger part of Bible translation movements, we speak with experts to answer a few common questions.",
-      "content_zh": "类似文章 - 人工智能主宰了各地的对话:如何以道德和负责任的方式使用. 在基督教传教中,我们需要提出更深层次的问题. - 硅谷先驱帕特·格尔辛格在2025年传教士AI峰会上发表主旨演讲 - 人工智能正在改变\"圣经\"翻译运动.\n在这份特别报告中,我们介绍了2025年大赦国际特派团首脑会议的报道和联系。 - 说吧 全球集会以英语进行,法语、西班牙语和印度尼西亚语的发言者通过来自不同背景的9名口译员跟踪会议进行。\n——反思圣经翻译培训,地点和角色——随着OBT成为圣经翻译运动的一大部分,我们与专家交谈,回答几个共同的问题.",
-      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
-      "author": "Jim Killam",
-      "tags": [
-        "Connect",
-        "Gatherings",
-        "THE LATEST",
-        "Global Coffee Chat",
-        "power in mission",
-        "Wycliffe Global Alliance"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:23:14.263169",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "Wycliffe Global Alliance Communications Workshop – Africa Area",
-      "url": "https://wycliffe.net/2026/09/04/africa-area-communications-workshop/",
-      "category": "missionary",
-      "source": "Wycliffe",
-      "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-02",
-      "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
-      "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
-      "title_zh": "威克里夫全球联盟传播研讨会–非洲地区",
-      "content": "Communication staff at 18 Bible translation organizations across Africa need professional training to tell God’s stories well. In November 2026, a one-week workshop in Ruiru, Kenya will teach practical skills like writing, photography, design and video. Then, six months of follow-up support will continue to strengthen networks and create a collaborative culture of sharing God’s stories widely and effectively. Project Name: Africa Area Communication Capacity Building Workshop Implementing Organization: Wycliffe Global Alliance – Africa Area Contact: Phil Prior Director for Communication Wycliffe Global Alliance phil_prior@wycliffe.net Matthew Bore Project Funding Manager Wycliffe Global Alliance matthew_bore@wycliffe.net Start date: September 2026 End date: March 2027 Summary Across Africa, God is moving. Communities are receiving the Bible in their own language for the first time. Lives are being transformed. But too often, these stories never become known beyond the place where they happen. Why? Because not enough people are trained to recognise and report these stories to a wider audience. Among 18 Bible translation organisations across Africa, communication staff are doing their best—but without formal training in news writing, interviewing, photography, video and social media. Many also work in relative isolation without the chance to exchange ideas and collaborate on stories. The result: Amazing stories remain untold, and the people who could be praying, giving or getting involved never learn about the opportunities. This project changes that. For one week (2-6 November 2026) in Ruiru, Kenya, communication staff from those 18 Wycliffe Global Alliance organisations will come together — not just to sit in a classroom, but to actually create. Using smartphones and free tools, they will learn to capture the moments that matter: local communities and churches collaborating; a translation team’s challenges and creative solutions, groups engaging with Scripture, lives being transformed. Attendees also will build plans for how their organisations will keep telling these types of stories long after the workshop ends. Then, over the ensuing six months, this same group will keep coaching, encouraging, and learning from each other — turning 18 separate voices into one strong, unified story of what God is doing across Africa. Give to this Project Click Give Now to go to our secure giving portal. As you complete the form, you will be asked to ‘Choose a project’. Select Africa Area Communications Workshop . Give Now Budget Total need (in USD): $37,835 Contributions received / pledged: $34,500 Balance needed: $3,335 To learn more about this funding opportunity, email Matthew Bore matthew_bore@wycliffe.net",
-      "content_zh": "非洲18个圣经翻译组织的传播人员需要专业培训,才能很好地讲述上帝的故事。 2026年11月,将在肯尼亚鲁伊鲁举办为期一周的讲习班,教授写作,摄影,设计和录像等实用技能. 然后,六个月的后续支持将继续加强网络,并创造一种广泛而有效地分享上帝故事的合作文化。 项目名称: 非洲区域通信能力建设讲习班 执行组织: Wycliffe 全球联盟 – 非洲地区联系人: Phil 通讯前主任 Wycliffe 全球联盟 phil prior@wycliffe.net 马修·伯尔项目资金经理 Wycliffe 全球联盟 matthew bore@wycliffe.net 开始日期:2026年9月 结束日期:2027年3月 总结跨非洲,上帝在移动. 社区首次以自己的语言接受圣经。 众生被化. 但是,这些故事往往从未被人们知道,超越发生它们的地方。 为什么? 因为没有足够的人受过训练 来认识这些故事 并向更广泛的受众报告。 在全非洲的18个圣经翻译组织中,通讯工作人员正在尽了最大的努力,但没有接受新闻写作、采访、摄影、录像和社交媒体方面的正式培训。 许多人还相对孤立地工作,没有机会就故事交流和协作。 结果:令人惊奇的故事仍然无穷无尽,那些可以祈祷、给予或参与的人永远不知道机会。 这个项目改变了这一点。 有一个星期(2026年11月2日至6日),来自Wycliffe全球联盟18个组织的通讯工作人员将聚集一堂, 使用智能手机和免费工具,他们会学会抓住重要的时刻:当地社区和教会合作;翻译团队的挑战和创造性解决方案;参与圣经的团体;生活正在被改变。 学员们还将制定计划,说明他们的组织如何在讲习班结束后很久继续讲述这类故事。 然后,在接下来的六个月里,这个团体将继续相互指导、鼓励和学习——把18个独立的声音变成一个强大、统一的故事,讲述上帝在非洲各地正在做什么。 给这个工程 点击 现在给到我们的安全赠送门户。 填表时,您将被要求选择一个项目。 选定非洲区域通信讲习班。 为了了解这个资助机会,",
-      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
-      "author": "Otabil Arthur Otabil Arthur",
-      "tags": [
-        "PROJECTS"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:23:15.632967",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "Training Oral Translators Across Southeast Asia",
-      "url": "https://wycliffe.net/2026/08/12/training-oral-translators-across-southeast-asia/",
-      "category": "missionary",
-      "source": "Wycliffe",
-      "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-02",
-      "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
-      "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
-      "title_zh": "在东南亚培训口译员",
-      "content": "A three-year training program will prepare local translators across Southeast Asia to put the Bible into spoken forms—like storytelling and song—for communities that share knowledge by voice, not writing. Three workshops will build translators’ skills from basic to advanced to mentoring, so at least 20 participants gain local expertise. Project Name: Training Oral Translators Across Southeast Asia Implementing Organization: Wycliffe Global Alliance Contact: Evelyn Gan Consultant for Oral Translation Programmes Wycliffe Global Alliance evelyn_gan@wycliffe.net Start date: FY 2026 End date: FY 2028 Summary Across Southeast Asia, many communities pass along their culture through spoken word—storytelling, song, and drama—rather than through reading and writing. For them, hearing the Bible in these natural forms often connects more deeply than a printed text. Oral Bible Translation is expanding rapidly in Southeast Asia, but the region lacks enough trained people to sustain it. Seminary graduates know the Bible but not oral translation. Practitioners already working need a path to advance their skills. And almost no one is ready to step into consultant roles. Without urgent, structured training, this shortage could stall Oral Bible Translation projects across the region. This three-year project will trains local translators and seminary students in oral Bible translation. Participants move through three stages: a foundation workshop, an advanced workshop and consultant-level training, with only those who show strong skills advancing to the next stage. Our goal is for at least 20 participants, with a smaller group becoming fully qualified to guide future translation projects. Half of the trainers will themselves be new, gaining experience so the program can continue and grow after this project ends. By working in collaboration with Wycliffe Thai Foundation, Wycliffe Malaysia, YWAM Chiang Mai, FCBH, Spoken Worldwide and CRU, the project is rooted in strong partnerships that will ensure sustainability and local ownership. Give to this Project Click Give Now to go to our secure giving portal. As you complete the form, you will be asked to ‘Choose a project’. Select Training Oral Translators Across Southeast Asia . Give Now Budget Total need (in USD): $147,277 Contributions received / pledged: $36,677 Balance needed: $110,600 To learn more about this funding opportunity, email Evelyn Gan, Consultant for Oral Translation Programmes, Wycliffe Global Alliance: evelyn_gan@wycliffe.net",
-      "content_zh": "一个为期三年的培训方案将为东南亚各地的当地翻译提供准备,以便将《圣经》变成口头形式,如讲故事和作歌,供通过语音而不是写作分享知识的社区使用。 三个讲习班将培养笔译员的技能,从基本技能到高级技能再到指导技能,因此,至少有20名学员获得当地专门知识。 项目名称:在整个东南亚培训口笔译员 执行组织:怀克里夫全球联盟联系人:伊夫林甘口笔译方案顾问 Wycliffe全球联盟 Eviblyn gan@wycliffe.net 开始日期:2026财政年度 结束日期:东南亚2028财政年度摘要,许多社区通过口语——故事、歌曲和戏剧——而不是通过阅读和写作来传播其文化。 对他们来说,听到这些自然形态的\"圣经\"往往比印刷文本更深入地连接. 口语圣经翻译在东南亚正在迅速扩张,但该地区缺乏足够的训练有素的人来维持. 修道院毕业生知道\"圣经\",但不会口头翻译. 已经在工作的从业人员需要一条提高技能的道路。 几乎没有人愿意担任顾问。 如果不进行紧急、有条理的培训,这种短缺可能使整个区域的口语圣经翻译项目陷于停顿。 这个为期三年的项目将对当地翻译和神学院学生进行口语圣经翻译的培训. 与会者分三个阶段:基础讲习班、高级讲习班和顾问一级的培训,只有那些表现出强大技能的人才能进入下一阶段。 我们的目标是至少为20名参与者服务,人数较少的群体将完全有资格指导未来的翻译项目。 一半的训练员会自己是新手,获得经验,以便这个项目结束后方案能够继续并发展. 通过同Wycliffe Thai Foundation、Wycliffe Malaysia、YWAM Chiang Mai、FCBH、Spoken Worldwide和CRU合作,该项目植根于强有力的伙伴关系,将确保可持续性和地方所有权。 给这个工程 点击 现在给到我们的安全赠送门户。 填表时,您将被要求选择一个项目。 在整个东南亚选择培训口笔译员。 所需余额:110 600美元 为了了解更多有关这一资助机会的情况,电子邮件:Evelyn Gan, Wycliffe全球联盟口头翻译方案顾问:evelyn gan@wycliffe.net",
-      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
-      "author": "Otabil Arthur Otabil Arthur",
-      "tags": [
-        "PROJECTS"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:23:16.967072",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "Training Oral Translators in Indonesia",
-      "url": "https://wycliffe.net/2026/08/12/training-oral-translators-in-indonesia/",
-      "category": "missionary",
-      "source": "Wycliffe",
-      "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-02",
-      "summary": "This project seeks to equip trainers who can contextualise and deliver OBT training within Latin America",
-      "summary_zh": "该项目旨在为培训师提供能够在拉丁美洲范围内提供OBT培训的背景知识",
-      "title_zh": "在印尼培训口译员",
-      "content": "Indonesia has hundreds of languages still without Scripture in natural, spoken forms. This three-year program will train 20 local translators and seminary students to fill that gap, building skills from basic to advanced to mentoring. Working with local partners, it aims to grow into a lasting, homegrown training network. Project Name: Training Oral Translators in Indonesia Implementing Organization: Wycliffe Global Alliance Evelyn Gan Consultant for Oral Translation Programmes Wycliffe Global Alliance evelyn_gan@wycliffe.net Start date: FY 2026 End date: FY 2028 Summary Indonesia is home to hundreds of languages whose speakers pass on knowledge through spoken word rather than writing. Most still lack the Bible in a form that feels natural to hear. Oral Bible Translation is expanding quickly in Indonesia, but training hasn’t kept up—seminary graduates lack oral translation skills, and working practitioners have no path to grow or reach consultant-level readiness. Without urgent, structured training, projects across the country risk stalling. This three-year project trains local translators and seminary students to close that gap. Participants move through three stages—foundational, advanced and consultant-level training—with those who show strong skills advancing to the next stage. Our goal is for at least 20 participants, with a smaller group becoming fully qualified to guide future translation projects on their own. The project partners with several Indonesian organizations, including seminaries, so that this training becomes part of local theological education rather than a one-time effort. That partnership is central to the goal: building lasting, Indonesian-led capacity so that projects no longer depend on outside experts. Give to this Project Click Give Now to go to our secure giving portal. As you complete the form, you will be asked to ‘Choose a project’. Select Training Oral Translators in Indonesia . Give Now Budget Total need (in USD): $123,729 Contributions received / pledged: $40,100 Balance needed: $83,629 To learn more about this funding opportunity, email Evelyn Gan, Consultant for Oral Translation Programmes, Wycliffe Global Alliance: evelyn_gan@wycliffe.net",
-      "content_zh": "印尼仍有上百种语言, 这个为期三年的方案将培训20名当地翻译和神学院学生来填补这一空白,培养从基础到高级到指导的技能。 它与当地伙伴合作,旨在发展成为一个持久的本土培训网络。 项目名称:在印度尼西亚培训口笔译员 执行组织: Wycliffe 全球联盟 Evelyn Gan 口笔译方案顾问 Wycliffe 全球联盟 Eviblyn gan@wycliffe.net 开始日期:2026财政年度 结束日期:2028财政年度 印度尼西亚有数百种语言,讲者通过口语而不是写作传递知识。 大多数人仍然缺乏一种自然而然的听觉形式的\"圣经\". 在印尼, 口语圣经翻译正在迅速扩展, 但训练没有保持下去, 没有紧急、有条理的培训,全国各地的项目就有可能停顿。 这个为期三年的项目培训当地翻译和神学院学生以弥合这一差距。 学员们经过三个阶段,即创始、高级和顾问一级的培训,那些表现出强大技能的人进入下一阶段。 我们的目标是让至少20名参与者参加,一个规模较小的团体完全有资格独自指导未来的翻译项目。 该项目与包括神学院在内的若干印度尼西亚组织结成伙伴,使这种培训成为当地神学教育的一部分,而不是一次性的努力。 这种伙伴关系是目标的核心:建立由印度尼西亚领导的持久能力,使项目不再依赖外部专家。 给这个工程 点击 现在给到我们的安全赠送门户。 填表时,您将被要求选择一个项目。 在印度尼西亚选择培训口笔译员。 所需总额(以美元计):123 729美元 为了了解更多有关这一资助机会的情况,电子邮件:Evelyn Gan, Wycliffe全球联盟口头翻译方案顾问:evelyn gan@wycliffe.net",
-      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
-      "author": "Otabil Arthur Otabil Arthur",
-      "tags": [
-        "PROJECTS"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:23:18.240851",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "Prayer Wall Guidelines",
-      "url": "https://wycliffe.net/2026/07/29/prayer-wall-guidelines/",
-      "category": "missionary",
-      "source": "Wycliffe",
-      "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-02",
-      "summary": "Questions or comments? Contact us at: Prayer@wycliffe.net",
-      "summary_zh": "有问题或意见？联系我们： Prayer@wycliffe.net",
-      "title_zh": "祈祷墙指南",
-      "content": "No login is necessary Please use one of the site languages: English, French, Indonesian, Chinese, Portuguese or Spanish Your item will not appear immediately on the wall. Alliance staff must approve it first. Make sure that you have permission to publish your prayer item . Each item will be available online for anyone to view and will be emailed to subscribers. We do not take responsibility for checking content for security risks. You should have direct permission of any named individual for whom you are asking prayer. If you are naming a language group, please ensure there is no security risk in publishing the name of the language group openly on the internet and in association with a Christian organisation. There is a 280-character limit for each item. At this time you cannot add photos or other attachments to your prayer requests. Make your prayers clear and simple; not everyone reading them will understand technical translation terms or acronyms Unless you indicate otherwise, all prayer items will stay on the wall for a maximum of 90 days When you submit your prayer item please include your name and email address in the name section of the form. We will not publish them but it will help us to be able to iron out any issues we encounter and publish the prayer item. Questions or comments? Contact us at: Prayer@wycliffe.net",
-      "content_zh": "不需要登录 请使用网站语言之一:英语、法语、印度尼西亚语、中文、葡萄牙语或西班牙语 你的东西不会立刻出现在墙上 联盟工作人员必须首先批准。 确保您拥有发布您的祷告内容的许可 。 每个项目都将在网上供任何人浏览,并将通过电子邮件发送给订阅者。 我们不负责检查安全风险的内容。 任何你要求祷告的人,你都应该直接得到允许。 如果您在命名一个语言团体, 请确保不会在互联网上公开发布该语言团体的名称, 每个项目都有280个特性限制。 您目前无法在祈祷请求中添加相片或其他附件 。 让你的祷告简单明了,不是每个人都会理解技术翻译术语或缩略语,除非你另有说明,所有祷告内容都将在墙上停留最多90天. 提交祷告项目时,请在表格中的名称栏目中填写您的姓名和电子邮件地址。 我们不会出版它们,但它将有助于我们解决我们遇到的任何问题并出版祈祷品。 问题或评论? 联系我们: prayer@wycliffe.net",
-      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
-      "author": "Otabil Arthur Otabil Arthur",
-      "tags": [
-        "Connect"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:23:19.517302",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "Bible translation’s future is diverse … and local",
-      "url": "https://wycliffe.net/2026/07/23/bible-translations-future-is-diverse-and-local/",
-      "category": "missionary",
-      "source": "Wycliffe",
-      "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-02",
-      "summary": "The ultimate metric of success is no longer just the distribution of physical books, but measurable transformation of lives through deep, culturally authentic understanding.",
-      "summary_zh": "衡量成功的最终标准不再仅仅是实体书籍的分发，而是通过深刻的文化真实理解对生活进行可衡量的转变。",
-      "title_zh": "圣经翻译的未来是多元化的……和本地",
-      "content": "Yaoundé, Cameroon — The landscape of global Bible translation is undergoing a paradigm shift, moving away from traditional, agency-led book printing and toward multimodal translations driven by local communities. At a June 2026 gathering in Yaoundé, translation partners and members of Wycliffe Global Alliance organisations spanning Africa, Europe and Latin America reflected on how Scripture is delivered in the 21st century. Their consensus: The ultimate metric of success is no longer just the distribution of physical books, but measurable transformation of lives through deep, culturally authentic understanding. Community-led translation Dr. Paul Kimbi, the Alliance’s Consultant for Bible Translation Programmes, said Bible translation’s future belongs to community dialogue rather than isolated translation agencies. This emerging approach, known as conversational translation, prioritises localised, grassroots work: listening intimately to communities, engaging them in active storytelling and using locally adapted communication channels. As multiple translation agencies increasingly operate within the same borders, global leaders are urging a shift toward radical collaboration. ‘The multiplicity of agencies is not a hindrance; however, harmony and unity are essential,’ Kimbi said. ‘Unity does not mean uniformity. Each agency, according to its unique strengths, approaches Bible translation as a collaborative piece of God’s global mission.’ Multimodal translations will better serve people from different contexts . Beyond the Book: Multimodal and AI Integration Because cultural contexts vary wildly across the globe, the Alliance’s Africa Area gathering highlighted the urgent need for ‘embodied and multimodal’ translations. This means managing multiple streams of communication simultaneously—integrating oral storytelling, vibrant illustrations, written text and digital media. ‘We do not communicate only with words; we communicate with colours, images, and multimedia,’ Kimbi said. ‘We can no longer consider translation strictly as a written book, but rather as a dynamic multimodal experience.’ This digital evolution naturally intersects with the rise of artificial intelligence. While delegates recognised AI’s immense potential to increase translation speed, optimise efficiency and lower operational costs for minority languages, attendees maintained a stance of strategic caution. ‘Technology accelerates the advancement of Bible translation and language development, but it also creates new strategic responsibilities for leaders and organisations,’ said Etienne Ondoa, a language technology consultant. Staff capacity building, therefore, remains the greatest investment, he said. As technology evolves, the skills required to support it in ministry also evolve. ‘Technological leadership should have a voice in strategic decision-making processes, Ondoa said. ‘Technological decisions increasingly influence ministry outcomes, sound financial resource management, cybersecurity, AI adoption and organisational resilience.’ Etienne Ondoa A Symphony for the Global Church Ultimately, leaders at the event reaffirmed that translation organisations do not operate in a vacuum. They exist to serve the church, which remains God’s primary vehicle for global mission. Kimbi likened the future of the movement to a grand, global arrangement. ‘The particularity of modern Bible translation is that it is a diverse ensemble—an orchestra of varied influences interpreting a magnificent symphony titled ‘Scriptures’ for every language community,’ he said. ‘And in this orchestra, we need everyone: local churches, oral communicators, media creators, literacy specialists and technology partners.’ Story: Lune Prudence Mvondo and Isaac Forchie Photos: Isaac Forchie",
-      "content_zh": "喀麦隆雅温得 全球圣经翻译的地貌正在发生范式转变,从传统的、机构主导的书籍印刷转向由当地社区驱动的多模式翻译。 在2026年6月的雅温得集会上,翻译伙伴和遍布非洲、欧洲和拉丁美洲的维克利夫全球联盟组织的成员反思了21世纪如何交付《圣经》。 他们的共识: 衡量成功与否的终极尺度不再仅仅是物理图书的发行,而是通过深刻,文化上真实的理解,对生活进行可测量的转变. 联盟的圣经翻译方案顾问Paul Kimbi博士说,圣经翻译的未来属于社区对话而不是孤立的翻译机构。 这种新兴方法被称为对话翻译、地方化优先化、基层工作:密切听取社区的意见,让他们参与积极讲故事,并使用适合当地情况的交流渠道。 随着多个翻译机构越来越多地在同一边界内运作,全球领导人正在敦促向根本合作转变。 Kimbi说 : “ 机构繁多并非障碍, `团结并不意味着统一。 每个机构都根据其独特的长处,将圣经翻译视为上帝全球使命的合作作品。 多式联运将更好地为来自不同背景的人服务。 除了《书:多式联运和人工智能一体化》之外,由于世界各地的文化背景大相径庭,联盟的非洲地区会议强调迫切需要 \" 健全和多模式 \" 翻译。 这意味着同时管理多种通信流——将口头讲故事、活泼的插图、书面文字和数字媒体结合起来。 Kimbi说 : “ 我们不只用文字沟通, 我们不能再严格地认为翻译是一本书, 这种数字演变自然地与人工智能的兴起相交. 虽然代表们承认大赦国际在提高翻译速度、优化效率和降低少数民族语言的业务费用方面具有巨大潜力,但与会者保持战略谨慎的立场。 语言技术顾问Etienne Ondoa说, “技术加速了圣经翻译和语言发展的进步, 因此,他说,工作人员的能力建设仍然是最大的投资。 随着技术的发展,部内支持技术所需的技能也随之而来. Ondoa说,“技术领导在战略决策进程中应有发言权。 “技术决定日益影响部委的成果、健全的财政资源管理、网络安全、人工智能的采用和组织复原力。” Etienne Ondoa是全球教会的交响乐团, 它们的存在是为了为教会服务,而教会仍然是上帝执行全球任务的主要工具。 金比把运动的未来比作一个宏伟的全球安排. 他说,“现代圣经译本的特殊性在于它是一个多样化的合唱团——由各种影响组成的管弦乐团,为每个语言群体解释一首名为 \" 脚本 \" 的宏伟交响乐。 “在这个管弦乐团中,我们需要每个人:地方教会、口头宣传者、媒体创造者、扫盲专家和技术伙伴。” 故事:吕恩·普鲁登斯·姆冯多和艾萨克·福奇相片:艾萨克·福奇相片",
-      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
-      "author": "Jim Killam",
-      "tags": [
-        "NEWS",
-        "THE LATEST",
-        "Africa",
-        "Africa Area",
-        "AI",
-        "AI-Articifical Intelligence",
-        "Bible translation",
-        "Etienne Ondoa",
-        "Paul Kimbi",
-        "Wycliffe Global Alliance"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:23:20.824220",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "God’s mission in Africa: ‘There is still much to do’",
-      "url": "https://wycliffe.net/2026/07/23/gods-mission-in-africa-there-is-still-much-to-do/",
-      "category": "missionary",
-      "source": "Wycliffe",
-      "source_url": "https://www.wycliffe.net/feed/",
-      "published": "2026-11-02",
-      "summary": "For both the African and global audiences at the Yaoundé gathering, panel members underscored a fundamental truth: Bible translation is not an isolated academic exercise.",
-      "summary_zh": "在雅温得会议上，小组成员向非洲和全球观众强调了一个基本事实：圣经翻译并不是一项孤立的学术活动。",
-      "title_zh": "神在非洲的使命： “还有很多事情要做”",
-      "content": "YAOUNDÉ, CAMEROON — During the Wycliffe Global Alliance Africa Area Gathering, a question was put before delegates: Is the African Church awake? A three-person panel, moderated by Dr. Zac Manyim, Director of the Department of Church and Scripture Engagement at CABTAL (Cameroon Association for Bible Translation and Literacy), delved into the continent’s strategic mission challenges and local breakthroughs. A Call from the Pulpit to Action ‘Yes, the African Church is awake, but it is not active,’ said Rev. Abel Chebe Ngah of the Apostolic Church in Cameroon. He noted a disparity in how modern ministry resources are being spent. ‘Some churches are focused on building megachurches, while only a few are focused on spreading the Word of God. The African church should have been doing exploits, but it is not yet doing so. There are still many areas in Africa not reached by the gospel.’ For the landscape to shift, Ngah argued that mission cannot be treated lightly; the local church must intentionally send missionaries. Demonstrating local ownership, his own denomination dedicates a specific Sunday every year entirely to Bible translation, using it to mobilise believers and raise financial support for CABTAL’s fieldwork. Though some local churches might lack the required financial resources, they offer abundant human and material resources needed in Bible translation. The Lifelong Impact of Mother-Tongue Literacy Pastor Alphonse Gamaldak, president of the Mofu Gudur Inter-Church Committee, said Bible translation reshaped his entire life trajectory. Before receiving any formal education, he learned to read and write in his mother tongue. This linguistic foundation gave him the leeway to master French, eventually leading him to seminary. ‘Yes, the church is awake in Mofu Gudur (a language community of northern Cameroon) because many kids have now grown and seen their lives transformed by the Bible translated into our language,’ he said. The impact extends far beyond the sanctuary. Through mother-tongue functional literacy programmes overseen by the translation project, community members have developed income-generating activities, drastically improving local livelihoods. Today, over 250 literacy teachers are actively instructing inside churches and surrounding villages. Yet, Pastor Gamaldak warned that sustainability requires ongoing investment. ‘There is still much to do,’ he said, ‘like continuing to build the capacity of and support these 250 literacy teachers.’ In 2008, when the Mofu Gudur New Testament was dedicated, the church and the community came together to facilitate the distribution. Five thousand copies were printed, and they were all sold out in the following months. A second run of 4,000 copies was printed. A few years later, it was still hard to obtain a copy. This motivated CABTAL to begin work on the Old Testament, which was dedicated in May 2026. Thanks to the commitment of the local church, the Mofu Gudur people now have a complete Bible. The Takeaway for the Global Alliance For both the African and global audiences at the Yaoundé gathering, panel members underscored a fundamental truth: Bible translation is not an isolated academic exercise. When local churches move from being merely ‘awake’ to being actively engaged, Scripture access unlocks deep spiritual maturity, local resource mobilisation and holistic community development. Story and Photos: Isaac Forchie",
-      "content_zh": "在威克里夫全球联盟非洲地区集会期间,向代表们提出了一个问题: 非洲教会醒了吗? 一个三人小组,由CABTAL(喀麦隆圣经翻译和识字协会)教会和圣经参与部主任Zac Manyim博士主持,探讨了非洲大陆的战略任务挑战和地方突破。 喀麦隆使徒教会的Abel Chebe Ngah牧师说, 他指出,在现代部委资源如何使用方面存在差距。 :\"有些教堂专注于建造特大教堂,而只有少数教堂专注于传播\"上帝之道\". 非洲教会本应在进行剥削,但尚未这样做。 非洲仍有许多地区没有获得福音。 为了改变地貌,Ngarh认为不能轻视任务;当地教会必须故意派遣传教士. 他自己的教派每年专门用一个礼拜天翻译圣经, 尽管一些地方教会可能缺乏所需的财政资源,但它们提供了圣经翻译所需的大量人力和物力资源。 Mofu Gudur教会间委员会主席Alphonse Gamaldak教授的《母亲-通格识字牧师终身影响》说,《圣经》翻译重塑了他的整个人生轨迹。 在接受任何正规教育之前,他学会用母语读写. 这个语言学基础给了他掌握法语的回旋余地,最终引导他进入神学院. 他说 : “ 是的, 教堂在Mofu Gudur(喀麦隆北部的一个语言社区)醒了, 因为许多孩子已经长大, 影响远远超出避难所。 通过翻译项目监督的母语实用识字方案,社区成员开展了创收活动,大大改善了当地生计。 今天,250多名扫盲教师正在教会内部和周围的村庄积极进行教学。 然而,Gamaldak牧师警告说,可持续性需要持续投资。 他说,“还有许多事情要做,就像继续建设和支持这250名扫盲教师的能力。” 2008年,当\"莫福古都尔新约\"被奉献时,教会与社区聚集一堂来为发行提供便利. 印出五千本,后数月全部被卖出. 第二次印制了4000册. 几年后,仍难以获得副本. 这激励了CABTAL开始\"旧约\"的工作,该\"旧约\"于2026年5月被专门化. 由于当地教会的承诺,莫福古都尔人现在有了完整的\"圣经\". 小组成员强调了一个基本真理:圣经翻译不是孤立的学术活动。 当当地教会从仅仅是`觉醒'走向积极参与时,《圣经》的获取将释放出深刻的精神成熟、地方资源动员和整体社区发展。 故事与相片:以撒·福奇",
-      "image": "https://wycliffe.net/wp-content/uploads/2025/07/cropped-logo.png",
-      "author": "Jim Killam",
-      "tags": [
-        "NEWS",
-        "THE LATEST",
-        "Africa Area",
-        "African Church",
-        "Apostolic Church in Cameroon",
-        "Bible translation",
-        "CABTAL",
-        "Mofu Gudur",
-        "Wycliffe Global Alliance"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:23:22.101835",
-      "extra": {
-        "feed_type": "rss20"
-      }
-    },
-    {
-      "title": "Prison Didn’t Mean Paul Was Wrong",
-      "url": "https://radical.net/article/prison-didnt-mean-wrong/",
-      "category": "missionary",
-      "source": "Radical (David Platt)",
-      "source_url": "https://radical.net/feed/",
-      "published": "2026-11-02",
-      "summary": "Steven Morales explains why following Jesus is worth every sacrifice, even when faithfulness leads to suffering and imprisonment.",
-      "summary_zh": "史蒂文·莫拉莱斯（ Steven Morales ）解释了为什么即使忠诚导致痛苦和监禁，跟随耶稣也是值得的。",
-      "title_zh": "监狱并不意味着保罗错了",
-      "content": "“I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called.” (Eph. 4:1) Those are weighty words. And they’re weighty not because Paul is writing from a quiet study or a place of comfort, but because he is writing them from a prison cell. Paul isn’t sending this letter from a position of safety or success as the world defines it. He’s writing as a man in chains—arrested for preaching the gospel and planting churches. To his critics, he was a troublemaker. A dangerous agitator. To God, he was a faithful servant . That matters. Paul is suffering for the very message he’s urging the church in Ephesus to remember and live out. His words carry weight because his life backs them up. He’s not asking them to do anything he himself isn’t already doing—at great personal cost. And here’s the remarkable thing about Paul: there is no scenario in which he loses. Let him go free, and he’ll travel to the ends of the earth preaching Christ and starting churches. Lock him up, and he’ll become “a prisoner for the Lord,” turning his suffering into a living testimony of the worth of the gospel. Execute him? Fine. As he says elsewhere, “For to me to live is Christ, and to die is gain” (Phil. 1:21, ESV). There is no situation where Paul says, “The gospel isn’t enough anymore.” There is no moment where he concludes, “This just isn’t worth it.” Instead, Paul’s entire life—especially his suffering—testifies to this truth: no matter your circumstances, trusting in the gospel is never wasted. Paul wasn’t in prison because his ministry failed. He was in prison because he believed the message was worth suffering for. And that’s an important distinction. If a message isn’t worth suffering for, it’s probably not worth believing in. Christianity doesn’t promise a life without pain. What it promises is something better: a suffering that is not meaningless. A hope that suffering does not get the final word. That’s why Paul can say this in 2 Corinthians: “For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison, as we look not to the things that are seen but to the things that are unseen. For the things that are seen are transient, but the things that are unseen are eternal.” (2 Co. 4:17–18) The gospel gives us a framework for enduring temporary suffering because it anchors us in permanent promises. We can endure hardship now because we know it won’t last forever. Our pain has an expiration date . Why? Because Jesus has already suffered fully in our place. He took sin, death, and judgment upon himself—and walked out of the grave victorious. Because of him, not even death has the final say over us. So when Paul urges believers to “walk in a manner worthy of the calling,” he’s not laying a burden on their shoulders. He’s inviting them into a life shaped by hope—a life that knows that whatever it costs to follow Jesus, it will never be in vain. This article first appeared in The Commission , Radical’s biweekly newsletter featuring global gospel stories and encouragement from David Platt and others to help you follow Jesus and make him known. Subscribe today .",
-      "content_zh": "因此,我为主而遭俘虏,求你按照你们被召唤的礼仪而行走。 (第4:1页) 这些话很重 他们的体重不是因为保罗从安静的书房或舒适的地方写作,而是因为他从监狱牢房里写作。 保罗不会像世界所定义的那样, 他在写作时, 对他的批评者来说,他是一个麻烦制造者. 一个危险的煽动者。 对上帝来说,他是一个忠实的仆人。 这很重要。 他敦促以弗所的教会记住并活下来。 他的话很重,因为他的生活支持他们。 他并没有要求他们做他自己没有做的事, 保罗的惊人之处是:他没有失败的可能。 他将前往地底, 宣扬基督, 将他关起来,他将成为“主的俘虏”,将他的痛苦变成福音价值的活生生的见证。 处决他? 精细。 正如他在别处所说的那样,“对我来说,是基督,而死亡是利益”(Phil. 1:21,ESV)。 保罗说,“福音已经不够了。 ” 他没有一刻可以得出结论,“这不值得。 ” 相反,保罗的整个生活,特别是他的痛苦,证明了这一真理:无论你的情况如何,相信福音永远不会白白浪费。 保罗并未入狱, 他入狱是因为他认为这个消息值得忍受. 这是一个重要的区别。 如果信息不值得痛苦, 基督教不会保证没有痛苦的生活。 它所许诺的是更好的事情:没有意义的痛苦。 希望苦难得不到最终结果。 这就是为什么保罗可以在两个科林斯语中说:“由于这种短暂的灾难,我们准备了一种永恒的光荣之分,超越一切的比喻,因为我们不看所见的事物,而看所见的事物。 所见之物是短暂的,而所见之物是永恒的。” 福音为我们提供了一个忍受暂时痛苦的框架,因为它将我们置于永久的承诺中。 现在我们可以忍受苦难, 我们的疼痛有结束期 为什么? 因为耶稣已经在我们的位置上遭受了完全的痛苦。 他自受其害、死亡、判决。他从坟墓中走出, 因为他,连死亡都无法战胜我们 当保罗敦促信徒们“以值得召唤的方式行走”时, 他邀请他们过着充满希望的生活, 这篇文章首次刊登在委员会的双周通讯《激进》上, 今日订阅.",
-      "image": "https://cdn.radical.net/images/20261030060443/Prison-Didnt-Mean-Paul-Was-Wrong.png",
-      "author": "",
-      "tags": [],
-      "language": "en",
-      "country": "US",
-      "region": "",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-02T03:23:07.680724",
-      "extra": {
-        "feed_type": "rss20"
-      }
+      },
+      "id": "fe812b90bb34e1fe"
     },
     {
       "title": "How God Used a Mafia-Man to Build His Church",
@@ -1130,7 +1206,8 @@
       "fetched_at": "2026-10-30T08:10:41.166800",
       "extra": {
         "feed_type": "rss20"
-      }
+      },
+      "id": "2e422f1fe9a1f7ba"
     },
     {
       "title": "Wish you had a stronger testimony? Read this surprising story about a young Jeffrey R. Holland",
@@ -1153,12 +1230,13 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-02T03:22:58.072836",
+      "fetched_at": "2026-11-03T02:44:01.276105",
       "extra": {
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
         "publisher": "LDS Living"
-      }
+      },
+      "id": "4a37e91fac15f582"
     },
     {
       "title": "Barbara’s family life is a counter-cultural witness in North Africa",
@@ -1186,7 +1264,8 @@
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
         "publisher": "Serving in Mission"
-      }
+      },
+      "id": "84d61520caa0032c"
     },
     {
       "title": "On the private life and public testimony of Elisabeth Elliot",
@@ -1214,7 +1293,8 @@
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
         "publisher": "Catholic World Report"
-      }
+      },
+      "id": "718e812bfcb6acc8"
     },
     {
       "title": "God called Rania through music in North Africa",
@@ -1242,7 +1322,8 @@
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
         "publisher": "Serving in Mission"
-      }
+      },
+      "id": "842ee229c55135a6"
     },
     {
       "title": "Richard and Valérie teach mission workers and Christians to walk in spiritual authority",
@@ -1270,7 +1351,8 @@
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
         "publisher": "Serving in Mission"
-      }
+      },
+      "id": "6ffa3d2e2e740e45"
     },
     {
       "title": "SIM International Statement: Kevin Rideout Release",
@@ -1298,7 +1380,37 @@
         "provider": "google_news",
         "query": "Christian missionary biography story testimony",
         "publisher": "Serving in Mission"
-      }
+      },
+      "id": "7a18ae9c8708a81c"
+    },
+    {
+      "title": "廿六年跨文化宣教：國際關懷協會會長黃亮宇回顧差會發展歷程",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fR2NUSmZYenJZNGdQc01feklld2hLNGNUNE5nVjlyUUUzSTFtR0RBcUcxZWxyaUhCcC1vTm9NTUNZN3ZOYkFpSy1DTFlLbURPUGZENDN1ZURKV3ViUTFITXhkTklLeWJlLXIxUjBBUQ?oc=5",
+      "category": "missionary",
+      "source": "日韓華人教会故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-12",
+      "summary": "廿六年跨文化宣教：國際關懷協會會長黃亮宇回顧差會發展歷程 基督日報",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "基督日報",
+      "tags": [],
+      "language": "zh",
+      "country": "JP",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-03T02:44:14.673902",
+      "extra": {
+        "provider": "google_news",
+        "query": "華人 宣教 日本 OR 韓國 教会 团契",
+        "publisher": "基督日報"
+      },
+      "id": "e0216998b6e07d06"
     }
   ]
 }
