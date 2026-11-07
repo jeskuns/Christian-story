@@ -1,8 +1,8 @@
 {
   "category": "giant",
   "label": "属灵伟人",
-  "count": 140,
-  "updated_at": "2026-11-06T08:49:22.516339+08:00",
+  "count": 151,
+  "updated_at": "2026-11-07T08:01:58.881946+08:00",
   "articles": [
     {
       "title": "The Biblical Doctrine of Regeneration (eBook)",
@@ -25,7 +25,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:15.250445",
+      "fetched_at": "2026-11-06T23:57:44.199676",
       "extra": {
         "feed_type": "rss20"
       },
@@ -52,7 +52,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:16.626517",
+      "fetched_at": "2026-11-06T23:57:45.072732",
       "extra": {
         "feed_type": "rss20"
       },
@@ -79,7 +79,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:17.820414",
+      "fetched_at": "2026-11-06T23:57:45.617101",
       "extra": {
         "feed_type": "rss20"
       },
@@ -106,7 +106,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:18.676194",
+      "fetched_at": "2026-11-06T23:57:46.720170",
       "extra": {
         "feed_type": "rss20"
       },
@@ -133,7 +133,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:20.187300",
+      "fetched_at": "2026-11-06T23:57:47.451140",
       "extra": {
         "feed_type": "rss20"
       },
@@ -160,7 +160,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:21.295520",
+      "fetched_at": "2026-11-06T23:57:48.240326",
       "extra": {
         "feed_type": "rss20"
       },
@@ -187,7 +187,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:22.212189",
+      "fetched_at": "2026-11-06T23:57:49.363566",
       "extra": {
         "feed_type": "rss20"
       },
@@ -214,7 +214,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:23.276199",
+      "fetched_at": "2026-11-06T23:57:50.509942",
       "extra": {
         "feed_type": "rss20"
       },
@@ -241,7 +241,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:24.389309",
+      "fetched_at": "2026-11-06T23:57:51.323557",
       "extra": {
         "feed_type": "rss20"
       },
@@ -268,7 +268,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.522387",
+      "fetched_at": "2026-11-06T23:57:52.168330",
       "extra": {
         "feed_type": "rss20"
       },
@@ -329,7 +329,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.854723",
+      "fetched_at": "2026-11-06T23:57:54.055854",
       "extra": {
         "feed_type": "rss20"
       },
@@ -362,7 +362,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.855250",
+      "fetched_at": "2026-11-06T23:57:54.056385",
       "extra": {
         "feed_type": "rss20"
       },
@@ -394,7 +394,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.855744",
+      "fetched_at": "2026-11-06T23:57:54.056883",
       "extra": {
         "feed_type": "rss20"
       },
@@ -426,7 +426,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.856264",
+      "fetched_at": "2026-11-06T23:57:54.057512",
       "extra": {
         "feed_type": "rss20"
       },
@@ -458,7 +458,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.856761",
+      "fetched_at": "2026-11-06T23:57:54.058071",
       "extra": {
         "feed_type": "rss20"
       },
@@ -490,7 +490,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.857541",
+      "fetched_at": "2026-11-06T23:57:54.058619",
       "extra": {
         "feed_type": "rss20"
       },
@@ -522,7 +522,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.858064",
+      "fetched_at": "2026-11-06T23:57:54.059098",
       "extra": {
         "feed_type": "rss20"
       },
@@ -558,7 +558,7 @@
         "同性婚姻"
       ],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.858570",
+      "fetched_at": "2026-11-06T23:57:54.059591",
       "extra": {
         "feed_type": "rss20"
       },
@@ -616,7 +616,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:29.978353",
+      "fetched_at": "2026-11-06T23:58:05.512878",
       "extra": {
         "feed_type": "rss20"
       },
@@ -645,7 +645,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:27.677148",
+      "fetched_at": "2026-11-06T23:58:05.376356",
       "extra": {
         "feed_type": "rss20"
       },
@@ -674,7 +674,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:24.668485",
+      "fetched_at": "2026-11-06T23:57:56.761368",
       "extra": {
         "feed_type": "rss20"
       },
@@ -703,7 +703,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.819273",
+      "fetched_at": "2026-11-06T23:57:59.753262",
       "extra": {
         "feed_type": "rss20"
       },
@@ -716,8 +716,8 @@
       "source": "Tim Challies",
       "source_url": "https://www.challies.com/feed/",
       "published": "2026-11-06",
-      "summary": "Your definition of blessing is too small / You can see everything: on masks, performing, and holiness / 5 Ways retirees can serve the church / The danger of ‘no enemies to the right’ / A candy shop owner, a customs officer, and a beloved family / The straightest path to happiness is devoting ourselves to the happiness of others / Kindle deals, and more See Also A La Carte (April 26) Weekend A La Carte (March 19) A La Carte (July 3)",
-      "summary_zh": "你对祝福的定义太小 / 你可以看到一切: 在面具、表演和圣洁上 / 5 退休者可以为教堂服务 / `没有敌人向右 ' 的危险 / 一个糖果店老板,一个海关官员, 一个爱人的家庭 / 最直接的幸福之路是献身于他人的幸福/Kindle交易, 更多见A A A A A A La Carte(4月26日) 周末A La C\n\n艺术(19年3月)",
+      "summary": "Your definition of blessing is too small / You can see everything: on masks, performing, and holiness / 5 Ways retirees can serve the church / The danger of ‘no enemies to the right’ / A candy shop owner, a customs officer, and a beloved family / The straightest path to happiness is devoting ourselves to the happiness of others / Kindle deals, and more See Also A La Carte (October 23) A La Carte (April 1) A La Carte (March 26)",
+      "summary_zh": "您对祝福的定义太小/您可以看到一切：面具、表演和圣洁/退休人员可以为教堂服务的5种方式/“没有右边的敌人”的危险/糖果店老板、海关官员和心爱的家人/通往幸福的最直接途径是致力于他人的幸福/Kindle优惠等另请参阅单点（ 10月23日）单点（ 4月1日）单点（ 3月26日）",
       "title_zh": "点菜（ 11月2日）",
       "content": "Good morning. Grace and peace to you. Sales & Deals Today’s Kindle deals include a lot of great books to start a new month. If all goes according to schedule, the list will include works on apologetics, singing, Karl Marx and D.L. Moody, missionaries who were recently martyred in Haiti, and much more. Enjoy the bounty! Logos users will want to take a look at this month’s free and nearly-free books. You’ll also find some early Black Friday deals that include some commentaries at up to 80% off. It’s also worth browsing the monthly sales . Recommended Reading A Candy Shop Owner, a Customs Officer, and a Beloved Family. I like this illustration. “Anyone traveling to another country knows that customs officers don’t mess around. They might grill you about what you are bringing into the country, who you are visiting, where you are going, and what your intentions are in the country. I’ve been asked all of those questions. I’ve never felt warmly welcomed by a customs officer. Currently our daughter lives in Southern California. We look forward to those sweet times she can come home. When she arrives home for Christmas, will we grill her? ‘What are the purposes of your stay at our home?’ ‘Who do you plan to visit?’ ‘What are you bringing into our home?’ Certainly not! We will throw the door open, wrap her in our arms, and welcome her in. She is family!” Your Definition of Blessing Is Too Small. “How do we square the Bible’s unblushing promises of blessing for the faithful with its theology of suffering? Put another way, how does Psalm 128 fit with a passage like Psalm 88, where the faithful one seems utterly abandoned to the darkness? One way to answer this question succinctly is to realize that the Bible, first, expands the meaning of blessing in this life, and second, eternalizes it.” These are helpful categories when we consider a difficult topic. 5 Ways Retirees Can Serve the Church. I am not yet a retiree, but when the time comes, this article lists some of the ways I will want to serve my church. “‘Retirement at last! Now I can sleep as late as I want to. Now I get to do nothing all day.’ Such is a popular description of how retirement looks to many people. I know some who would even add, ‘Now I get to play golf every day.’ Obviously, this does not reflect the Christian perspective of someone who understands that his chief end is ‘to glorify God and enjoy Him forever.’ This is not to say that sleeping later and playing golf are anti-Christian. However, there are some significant ways that retirees can still serve the church.” You Can See Everything: On Masks, Performing, and Holiness. You have probably heard at least something about the new film You Can See Everything . Joseph Whitenton explains that the movie provokes the question of whether you can ever truly know someone, then says “I can’t help but feel a deep sense of dread. Is this really all we can say about our relationships to one another? That it might be impossible to really know someone? To even know ourselves? Are our lives just a string of performances? I can’t help but think about how a social media centered age might further contribute to this feeling of constantly performing, as Bo Burnham, another comedian/prophet has observed.” The Straightest Path to Happiness. Randy Alcorn: “In God’s world, happiness is found in discovering what’s truly in our self-interest: loving God and our neighbor. This profound, paradigm-shifting concept, understood correctly, makes the false dichotomy obvious in the question, ‘Should I serve others, or should I act in my own best interests?'” The Danger of ‘No Enemies to the Right’. Writing for The Daily Wire , Andrew Walker tells about the danger of the slogan “no enemies to the right.” “There remains asymmetrical warfare in the Left’s continued aggression toward conservatives. Biblical fidelity also requires impartial judgment — even when it goes against ‘our side.’ Brothers and sisters on the Right need to hear that. When conservati",
       "content_zh": "早上好,你好吗? 格蕾丝和平安 今天的销售和交易金德交易包括许多开始新月的好书. 如果一切都按计划进行,名单将包含有关古典文学,歌唱,卡尔·马克思和D.L.穆迪的作品,以及最近在海地殉道的传教士,还有更多. 享受赏金吧!\n\nLogos 用户将想查看本月免费和近乎免费的书籍。 包括部分评论, 也值得浏览每月销量。 推荐阅读糖果店老板、海关官员以及一个受爱护的家庭。 我喜欢这个插图。\n\n任何前往他国的人都知道海关官员不会乱搞。 他们可能会纠缠你带进国家的东西,你正在拜访谁,你要去哪里,以及你在国内的意图。 我被问及所有这些问题。 我从未受到过海关官员的热烈欢迎。 目前我们的女儿住在南加州\n\n我们期待她能回家的美好时光 当她回家过圣诞节时,我们会烤她吗? 相公曰:\"汝等在吾家所住有甚事? 相公曰:\"汝拟去访谁? \"你要带什么进我们家?\" 当然不是! 我们把门打开 把她抱入怀里 欢迎她进来 她是一个家庭!”\n\n“我们如何用圣经的痛苦的神学来解释圣经对信徒的祝福? 换句话说,Psalm 128如何与像Psalm 88这样的段落相适应, 在那里,忠实的一个人似乎完全被遗弃在黑暗中?\n\n简洁地回答这个问题的一个方法是,认识到圣经,首先,扩展了这一生中福的意义,其次,永久化\". 在我们考虑一个困难的议题时,这些类别是有益的。 5 退休者为教会服务的方式。 我还没有退休,但当时机成熟时,这篇文章列出了一些我想为我的教会服务的方式. “`终于退休了!\n\n瞷и何眔边 现在我整天什么都不做。 这是许多人对退休的看法的流行描述。\n\n我知道有些人甚至会说,“现在我每天都要打高尔夫。” 显然,这并没有反映基督教的观点,即有人明白,他的首要目的就是`颂扬上帝,永远享受他'。 这不是说睡觉后打高尔夫是反基督教的。\n\n但是,退休人员仍然可以有一些重要的方式为教会服务。” 你可以看到一切: 在面具,表演,和宗座。 你可能至少听说过新片《你能看到一切》 约瑟夫·怀顿(Joseph Whitenton)解释说,这部电影引发了一个你能否真正认识一个人的问题,然后说“我忍不住感到深重的恐惧。\n\n这就是我们唯一能说的 我们之间的关系吗? 可能无法真正认识一个人? 认识自己? 我们的生活只是一串表演?\n\n我忍不住想一想一个以社交媒体为中心的时代会如何进一步促进这种不断演出的感觉, 通达幸福最正道. Randy Alcorn:“在上帝的世界里,幸福在于发现真正符合我们自身利益的东西:热爱上帝和我们的邻居。\n\n这种深刻、范式转变的概念,正确理解,使问题中虚假的二分法显而易见,“我应服务于他人,还是应为自己的最佳利益行事?” “没有敌人向右”的危险。\n\n安德鲁·沃克(Andrew Walker)为《每日电讯》撰文, \" 在左翼对保守派的持续侵略中,仍然存在不对称的战争。 圣经忠贞也需要公正的判断——即使它违背`我们一方'。 右边的兄弟姐妹需要听到这个。 保护时",
@@ -732,7 +732,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:27.499502",
+      "fetched_at": "2026-11-06T23:58:03.365753",
       "extra": {
         "feed_type": "rss20"
       },
@@ -764,7 +764,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.854215",
+      "fetched_at": "2026-11-06T23:57:54.055361",
       "extra": {
         "feed_type": "rss20"
       },
@@ -793,7 +793,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:19.421657",
+      "fetched_at": "2026-11-06T23:57:54.488790",
       "extra": {
         "feed_type": "rss20"
       },
@@ -822,7 +822,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:20.583045",
+      "fetched_at": "2026-11-06T23:57:54.707668",
       "extra": {
         "feed_type": "rss20"
       },
@@ -858,7 +858,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:15.406416",
+      "fetched_at": "2026-11-06T23:57:46.869508",
       "extra": {
         "feed_type": "rss20"
       },
@@ -887,7 +887,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:16.337386",
+      "fetched_at": "2026-11-06T23:57:47.948282",
       "extra": {
         "feed_type": "rss20"
       },
@@ -916,7 +916,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:17.055176",
+      "fetched_at": "2026-11-06T23:57:49.511769",
       "extra": {
         "feed_type": "rss20"
       },
@@ -945,7 +945,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:17.873811",
+      "fetched_at": "2026-11-06T23:57:50.722771",
       "extra": {
         "feed_type": "rss20"
       },
@@ -974,7 +974,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:19.513857",
+      "fetched_at": "2026-11-06T23:57:51.765003",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1003,7 +1003,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:20.933541",
+      "fetched_at": "2026-11-06T23:57:52.858175",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1032,7 +1032,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:21.634254",
+      "fetched_at": "2026-11-06T23:57:53.720234",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1061,7 +1061,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:22.798777",
+      "fetched_at": "2026-11-06T23:57:54.615245",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1090,7 +1090,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:23.798664",
+      "fetched_at": "2026-11-06T23:57:54.984042",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1119,7 +1119,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.086403",
+      "fetched_at": "2026-11-06T23:57:55.259881",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1148,7 +1148,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.914916",
+      "fetched_at": "2026-11-06T23:57:56.334792",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1181,7 +1181,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:25.853671",
+      "fetched_at": "2026-11-06T23:57:54.054818",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1210,7 +1210,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:14.996760",
+      "fetched_at": "2026-11-06T23:57:51.904114",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1239,7 +1239,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:15.511839",
+      "fetched_at": "2026-11-06T23:57:53.837142",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1268,7 +1268,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:14.821555",
+      "fetched_at": "2026-11-06T23:57:45.196314",
       "extra": {
         "feed_type": "rss20"
       },
@@ -1523,8 +1523,8 @@
       "source": "Tim Challies",
       "source_url": "https://www.challies.com/feed/",
       "published": "2026-11-06",
-      "summary": "When you feel guilty about your giving / The missing piece in John Mark Comer’s quiet time / A manifesto for phone-free church / The pull of Rome / 4 Misconceptions about spiritual warfare / Slouching toward Narnia / Kindle deals, and more See Also A La Carte (June 27) Weekend A La Carte (October 25) Kindle Deals for Christian Readers",
-      "summary_zh": "当您对自己的奉献感到内疚时/约翰·马克·科默（ John Mark Comer ）的安静时光中缺失的一部分/免费电话教堂的宣言/罗马的吸引力/对精神战的4种误解/对纳尼亚/Kindle优惠的懒散态度等另请参阅单点菜肴（ 6月27日）周末单点菜肴（ 10月25日）基督教读者的Kindle优惠",
+      "summary": "When you feel guilty about your giving / The missing piece in John Mark Comer’s quiet time / A manifesto for phone-free church / The pull of Rome / 4 Misconceptions about spiritual warfare / Slouching toward Narnia / Kindle deals, and more See Also A La Carte (March 28) Weekend A La Carte (October 25) Kindle Deals for Christian Readers",
+      "summary_zh": "当您对自己的奉献感到内疚时/约翰·马克·科默（ John Mark Comer ）的安静时光中缺失的一部分/免费电话教堂的宣言/罗马的吸引力/对精神战的4种误解/对纳尼亚/Kindle优惠的懒散态度等另请参阅单点菜肴（ 3月28日）周末单点菜肴（ 10月25日）基督教读者的Kindle优惠",
       "title_zh": "点菜（ 11月5日）",
       "content": "May the Lord be with you and bless you today, my friends. Sales & Deals Today’s Kindle deals include a couple of Christmas devotionals, a Greg Koukl classic, and Seth Lewis’s Dream Small , among others. In case it’s of interest, Audible continues to offer a great deal—three months of service plus a $20 bonus for $0.99/month. You can unsubscribe at any time. Recommended Reading A Manifesto for Phone-Free Church. This article offers a lot to think about when it comes to the consequences of using our phones in church. “Distractions in worship will be with us always, but that does not mean we ought to go out into the highways and the hedges and invite as many distractions as possible. And here, we should note that there are good distractions in church—I am thinking of those babies that cry and fuss and laugh at all the wrong moments. Good distractions remind us that church is more than our personal ‘alone time’ with God. We are part of a family.” The Missing Piece in John Mark Comer’s Quiet Time. I think Matthew Bingham’s review of John Mark Comer’s book is bang on in both what it praises and what it criticizes. “Though Comer identifies as a Protestant, he relies on numerous quotations from ‘desert fathers and mothers,’ medieval mystics, and modern Roman Catholic and Eastern Orthodox theologians to justify his cafeteria approach to spirituality. As in his previous work, he engages with few heirs of the Reformation. Comer insists that Scripture is essential, but, for him, it doesn’t stand alone. Consistent with this non-Protestant mystical tradition, the book strongly emphasizes subjective, immediate communication from God apart from God’s inspired words in Scripture.” Free Chick-fil-A For a Year. Did you know that Midwestern Seminary is home to Spurgeon College, which is an undergraduate school that exists to equip students for the Kingdom? This November, they’re giving away a year’s supply of Chick-fil-A! Head over here to enter to win and discover other opportunities to grow deeper in Christ this month! (Sponsored) The Pull of Rome and the Promise of Grace. Chris Castaldo writes about those who are drawn to Rome. “A member of your small group confesses, seemingly out of the blue, that he’s been attending Mass. Next, you hear a deacon wonder aloud if we really needed to break with Rome. Then a family member announces that she has ‘crossed the Tiber,’ meaning she has converted to Roman Catholicism. Such conversations seem to be happening with greater frequency in Protestant circles. But why?” 4 Misconceptions About Spiritual Warfare. Costi Hinn outlines four fairly common misconceptions about spiritual warfare. “There is a short list of Christian beliefs that have as much mystery as spiritual warfare. While some things are really clear in the Bible regarding demons and demonic activity, there is a supernatural element to the unseen realm that humbles even the most educated theological student! At the same time, it seems that many people have a variety of opinions based on their experiences, which is not necessarily a negative thing, but it can lead to a lot of misconceptions.” Slouching Toward Narnia. Personally I’ve been enjoying reading all the different perspectives on the growing information we have about the forthcoming Narnia film(s). I think Nicholas McDonald’s article is one of the best so far. He explains his formula for a successful film adaptation (Faithfulness to Theme + Thoughtful Innovations = Great Film Adaptation) and tells whether he’s feeling hopeful as he considers The Magician’s Nephew in that way. Four Corrections to Make When You Feel Guilty About Your Giving. I think most people feel guilty about their giving from time to time. When that’s true of you, here are some ways you can correct the way you think and act. What I’m Enjoying Every week I ask the readers of this site to tell me what they are enjoying and, therefore, what they recommend to others. Sometimes I like to give my own perspective on it. A Retr",
       "content_zh": "愿主与你同在,今天祝福你,我的朋友们. 销售与交易今日的Kindle交易包括几个圣诞奉献,一个是格雷格·克克(Greg Koukl)经典,以及赛斯·刘易斯的\"梦想之小\"等. 如果有兴趣,Audible继续提供大量服务——3个月服务,再加上0.99美元的20美元奖金。 随时可以取消订阅.\n\n推荐阅读无电话教会宣言. 这篇文章对于在教堂使用我们的电话的后果,提供了很多思考的机会. “崇拜中的分裂将永远与我们同在,但这并不意味着我们应当走进高速公路和树篱并尽可能多地分散注意力。\n\n在这里,我们应当注意到,教会中有一些良好的分心——我想到那些婴儿哭出大惊小怪并嘲笑所有错误的时刻。 良好分心提醒我们,教会不仅仅是我们与上帝的\"单独时间\"。 我们是家庭的一部分。” 约翰·马克·科默尔的\"安静时间\"中的\"失踪的碎片\".\n\n我认为马修·宾汉姆对约翰·马克·科梅尔(John Mark Comer)书的评论, 无论是赞美还是批评, 都令人振奋。 “尽管科默确定自己是一位新教徒,但他依靠许多来自`沙漠之父和母亲'、中世纪神秘论以及现代罗马天主教和东方东正教神学家的引文来证明他对精神的食堂方法是合理的。\n\n和他之前的作品一样,他与改革派的少数继承人交往. 但对于他来说, 这并非孤立无援。 这本书与这种非抗议性的神秘传统一致,除了《圣经》中上帝所启示的文字外,大力强调主观的、与上帝的直接沟通。 一年免费小鸡\n\n你知道中西部神学院是斯普琴学院的所在地吗? 斯普琴学院是一所为王国培养学生的本科学校。 今年十一月, 头到这里进入赢 并发现其他机会 在基督这个月更深了! (赞助)罗马的拉动和恩典的承诺.\n\n克里斯·卡斯塔多(Chris Castaldo)写道那些被引向罗马的人. “你们小团体的一名成员承认, 接下来,你听到一个执事 大声问我们是否真的需要 与罗马决裂。 她已经皈依了罗马天主教。\n\n这种对话似乎在新教圈子里更加频繁地发生。 为什么?” Costi Hinn概述了对精神战争的四个相当普遍的错误认识。 “有一份基督教信仰的简短清单,其神秘之处与精神战一样多。\n\n虽然《圣经》中有些关于恶魔和恶魔活动的内容是十分清楚的,但是在幽灵世界中却有一种超自然的元素,即使最受过教育的神学学生也是谦卑的!\n\n同时,看来许多人根据自己的经历有各种观点,这不一定是负面的东西,但会导致许多误解\". 向纳尼亚走去 我个人一直喜欢阅读关于纳尼亚电影的不断增长的信息,\n\n我认为Nicholas McDonald的文章是目前为止最好的一篇文章。 他解释了自己成功改编电影的公式(Faithinity to the Electric + Thought Innoversations = Great Film Refect),并说明了他是否觉得自己对魔术师的侄女有希望。 4个惩罚 当你觉得有罪 为你付出。\n\n我认为大多数人对不时的奉献感到内疚. 当你这样做的时候,你可以用一些方法纠正你的思想和行动方式。 我要求这个网站的读者告诉我他们喜欢什么, 有时候,我喜欢自己来看待它。 调试器",
@@ -1539,11 +1539,338 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:14.298275",
+      "fetched_at": "2026-11-06T23:57:49.843436",
       "extra": {
         "feed_type": "rss20"
       },
       "id": "6e381df33670e405"
+    },
+    {
+      "title": "LA pilgrims’ encounter with pope brings together California history, Christian unity, White Sox",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUFXQU1ieUp2VGF6eW5JTklsS1NkbTlmNmhIQjNOUVNYQWhVUG02MkxFN2xwOVFIVU1HTFlGMUtTVkJxck5JNjZZYzlDOS03WENteUhWOWY2N3BkdXZmdmlscUxueTRZbm1qbmNCYV81c2R3Q0twTE9pYU5uVlZzblNIVFRpQUZhc1JEQ2t2Q01PRTRPdHNrTXQ3QThoMTNpS203THZJVG0wNklRaFdYWjdaelJjamVv?oc=5",
+      "category": "giant",
+      "source": "5 Minutes in Church History",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-06",
+      "summary": "LA pilgrims’ encounter with pope brings together California history, Christian unity, White Sox OSV News",
+      "summary_zh": "洛杉矶朝圣者与教皇的相遇汇集了加州历史，基督教团结，白袜队OSV新闻",
+      "title_zh": "洛杉矶朝圣者与教皇的相遇汇集了加州历史、基督教团结、白袜队",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "OSV News",
+      "tags": [],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T23:57:43.802085",
+      "extra": {
+        "provider": "google_news",
+        "query": "5 Minutes in Church History",
+        "publisher": "OSV News"
+      },
+      "id": "4eb502bc3ce0eac3"
+    },
+    {
+      "title": "Repentance: Recognizing How It All Went Wrong",
+      "url": "https://theaquilareport.com/repentance-recognizing-how-it-all-went-wrong/",
+      "category": "giant",
+      "source": "The Aquila Report",
+      "source_url": "https://theaquilareport.com/feed/",
+      "published": "2026-11-06",
+      "summary": "Deuteronomy 30 establishes biblical repentance as a wholehearted return to God. Yet this turning is never merely an exercise of human determination. God graciously works in the heart, enabling His people to love Him and walk in His ways. In June 1942, the Japanese navy sailed toward Midway Island with tremendous confidence. After a...  Continue Reading",
+      "summary_zh": "申命记第30章将圣经的悔改确立为全心全意归向神。然而，这种转变绝不仅仅是人类决心的表现。神慷慨地在心中作工，使祂的子民能够爱祂，并行祂的道。1942年6月，日本海军满怀信心地驶向中途岛。在...之后继续阅读",
+      "title_zh": "悔改：认识到一切都错了",
+      "content": "Deuteronomy 30 establishes biblical repentance as a wholehearted return to God. Yet this turning is never merely an exercise of human determination. God graciously works in the heart, enabling His people to love Him and walk in His ways.   In June 1942, the Japanese navy sailed toward Midway Island with tremendous confidence. After a... Continue Reading",
+      "content_zh": "申命记第30章将圣经的悔改确立为全心全意归向神。然而，这种转变绝不仅仅是人类决心的表现。神慷慨地在心中作工，使祂的子民能够爱祂，并行祂的道。1942年6月，日本海军满怀信心地驶向中途岛。在...之后继续阅读",
+      "image": "https://1ar.s3.amazonaws.com/2022/07/mountains_landscape_nature_mountain_lake_forest_1200.jpg",
+      "author": "Ben Heffernan",
+      "tags": [
+        "Biblical and Theological",
+        "Featured"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T23:57:56.274379",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "901c251df602995b"
+    },
+    {
+      "title": "The Christian’s Family Badge",
+      "url": "https://theaquilareport.com/the-christians-family-badge/",
+      "category": "giant",
+      "source": "The Aquila Report",
+      "source_url": "https://theaquilareport.com/feed/",
+      "published": "2026-11-06",
+      "summary": "In the midst of the ever-wakeful storms through which we are passing to the Kingdom, there is peace—deep peace, too deep for any storm of earth to reach. In the world we have tribulation, but in Jesus we have peace. The following is an adapted excerpt from The Night of Weeping. It is for...  Continue Reading",
+      "summary_zh": "在我们进入王国的不断清醒的风暴中，有和平深沉的和平，太深了，地球上的任何风暴都无法到达。在世上我们有苦难，但在耶稣里我们有平安。以下是《哭泣之夜》的改编节选。用于...继续阅读",
+      "title_zh": "基督徒的家庭徽章",
+      "content": "In the midst of the ever-wakeful storms through which we are passing to the Kingdom, there is peace—deep peace, too deep for any storm of earth to reach. In the world we have tribulation, but in Jesus we have peace.    The following is an adapted excerpt from The Night of Weeping. It is for... Continue Reading",
+      "content_zh": "在我们进入王国的不断清醒的风暴中，有和平深沉的和平，太深了，地球上的任何风暴都无法到达。在世上我们有苦难，但在耶稣里我们有平安。以下是《哭泣之夜》的改编节选。用于...继续阅读",
+      "image": "https://1ar.s3.amazonaws.com/2022/07/mountains_landscape_nature_mountain_lake_forest_1200.jpg",
+      "author": "Horatio Bonar",
+      "tags": [
+        "Biblical and Theological",
+        "Featured"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T23:57:56.698858",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "46f45af73347a0e2"
+    },
+    {
+      "title": "Trust Christ. Serve God. Fall Asleep.",
+      "url": "https://theaquilareport.com/trust-christ-serve-god-fall-asleep/",
+      "category": "giant",
+      "source": "The Aquila Report",
+      "source_url": "https://theaquilareport.com/feed/",
+      "published": "2026-11-06",
+      "summary": "To fall asleep here is to wake in His likeness there. To behold His face in righteousness. It makes all the serving worth it. It turns death into rest. It takes the view off of ourselves and onto Him. May God help us to be faithful in this generation. For David, after he had...  Continue Reading",
+      "summary_zh": "在这里入睡，就是在那里以祂的形象醒来。在正义中看见祂的脸。它让所有的服务都值得。它将死亡转化为休息。它将我们的视线从我们自己身上带到祂身上。愿上帝帮助我们在这一代保持忠诚。对于David来说，在他……继续阅读",
+      "title_zh": "信靠基督。事奉上帝。入睡。",
+      "content": "To fall asleep here is to wake in His likeness there. To behold His face in righteousness. It makes all the serving worth it. It turns death into rest. It takes the view off of ourselves and onto Him. May God help us to be faithful in this generation.   For David, after he had... Continue Reading",
+      "content_zh": "在这里入睡，就是在那里以祂的形象醒来。在正义中看见祂的脸。它让所有的服务都值得。它将死亡转化为休息。它将我们的视线从我们自己身上带到祂身上。愿上帝帮助我们在这一代保持忠诚。对于David来说，在他……继续阅读",
+      "image": "https://1ar.s3.amazonaws.com/2022/07/mountains_landscape_nature_mountain_lake_forest_1200.jpg",
+      "author": "Jacob Crouch",
+      "tags": [
+        "Biblical and Theological",
+        "Featured"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T23:57:57.047686",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "85f034acf0b0cc7c"
+    },
+    {
+      "title": "The Foolish, Isolated Pastor",
+      "url": "https://theaquilareport.com/the-foolish-isolated-pastor/",
+      "category": "giant",
+      "source": "The Aquila Report",
+      "source_url": "https://theaquilareport.com/feed/",
+      "published": "2026-11-06",
+      "summary": "Pastors need to be pastored. We need someone to use the rod and staff to guide and correct us through the Word of God. Don’t become the foolish, isolated Christians who, one day, look up and find their life in shambles, with their family and ministry forfeited because they refused to listen. And you...  Continue Reading",
+      "summary_zh": "牧师需要被牧养。我们需要有人使用杖和杖，通过神的话来引导和纠正我们。不要成为愚蠢、孤立的基督徒，有一天，他们抬头一看，发现自己的生活一团糟，他们的家庭和事工因拒绝倾听而被剥夺。而你...继续阅读",
+      "title_zh": "愚蠢、孤立的牧师",
+      "content": "Pastors need to be pastored. We need someone to use the rod and staff to guide and correct us through the Word of God. Don’t become the foolish, isolated Christians who, one day, look up and find their life in shambles, with their family and ministry forfeited because they refused to listen.   And you... Continue Reading",
+      "content_zh": "牧师需要被牧养。我们需要有人使用杖和杖，通过神的话来引导和纠正我们。不要成为愚蠢、孤立的基督徒，有一天，他们抬头一看，发现自己的生活一团糟，他们的家庭和事工因拒绝倾听而被剥夺。而你...继续阅读",
+      "image": "https://1ar.s3.amazonaws.com/2022/07/mountains_landscape_nature_mountain_lake_forest_1200.jpg",
+      "author": "Richard Bargas",
+      "tags": [
+        "Biblical and Theological",
+        "Featured"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T23:57:57.512127",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "3fd630f334b6bf5a"
+    },
+    {
+      "title": "Who Do You Say That I Am?",
+      "url": "https://theaquilareport.com/who-do-you-say-that-i-am-4/",
+      "category": "giant",
+      "source": "The Aquila Report",
+      "source_url": "https://theaquilareport.com/feed/",
+      "published": "2026-11-06",
+      "summary": "The purpose of creeds was not to replace Scripture, but to help the Church understand, summarize, confess, and defend what Scripture teaches. Scripture is the supreme and infallible norm of the Christian faith; creeds are subordinate confessions that summarize what the Church understands Scripture to teach. All human beings have a core set of...  Continue Reading",
+      "summary_zh": "信经的目的不是取代圣经，而是帮助教会理解、总结、承认和捍卫圣经的教导。圣经是基督教信仰的至高无上和万无一失的规范；信条是从属的忏悔，总结了教会理解圣经要教导的内容。所有人类都有一套核心的...继续阅读",
+      "title_zh": "你说我是谁？",
+      "content": "The purpose of creeds was not to replace Scripture, but to help the Church understand, summarize, confess, and defend what Scripture teaches. Scripture is the supreme and infallible norm of the Christian faith; creeds are subordinate confessions that summarize what the Church understands Scripture to teach.   All human beings have a core set of... Continue Reading",
+      "content_zh": "信经的目的不是取代圣经，而是帮助教会理解、总结、承认和捍卫圣经的教导。圣经是基督教信仰的至高无上和万无一失的规范；信条是从属的忏悔，总结了教会理解圣经要教导的内容。所有人类都有一套核心的...继续阅读",
+      "image": "https://1ar.s3.amazonaws.com/2022/07/mountains_landscape_nature_mountain_lake_forest_1200.jpg",
+      "author": "Daniel Guzmán",
+      "tags": [
+        "Biblical and Theological",
+        "Featured"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T23:57:57.927543",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "3b12def3237411ef"
+    },
+    {
+      "title": "Did Classical Dispensationalism Teach More Than One Way of Salvation",
+      "url": "https://theaquilareport.com/did-classical-dispensationalism-teach-more-than-one-way-of-salvation/",
+      "category": "giant",
+      "source": "The Aquila Report",
+      "source_url": "https://theaquilareport.com/feed/",
+      "published": "2026-11-06",
+      "summary": "The question is not whether every dispensationalist teaches multiple ways of salvation, but whether the classical system’s division of Scripture and God’s people could consistently avoid that conclusion. Admittedly, most dispensationalists today do not believe that Old Testament believers earned salvation by law-keeping. But that does not settle the historical question: What did the founders...  Continue Reading",
+      "summary_zh": "问题不在于每个时代论者是否教导多种救赎方式，而在于古典制度对圣经和神子民的划分能否始终如一地避免这一结论。诚然，今天大多数时代论者不相信旧约信徒通过遵守律法来获得救恩。但这并不能解决历史问题：创始人做了什么...继续阅读",
+      "title_zh": "古典时代主义是否教导了不止一种救赎方式",
+      "content": "The question is not whether every dispensationalist teaches multiple ways of salvation, but whether the classical system’s division of Scripture and God’s people could consistently avoid that conclusion. Admittedly, most dispensationalists today do not believe that Old Testament believers earned salvation by law-keeping. But that does not settle the historical question: What did the founders... Continue Reading",
+      "content_zh": "问题不在于每个时代论者是否教导多种救赎方式，而在于古典制度对圣经和神子民的划分能否始终如一地避免这一结论。诚然，今天大多数时代论者不相信旧约信徒通过遵守律法来获得救恩。但这并不能解决历史问题：创始人做了什么...继续阅读",
+      "image": "https://1ar.s3.amazonaws.com/2022/07/mountains_landscape_nature_mountain_lake_forest_1200.jpg",
+      "author": "John B. Carpenter",
+      "tags": [
+        "Biblical and Theological",
+        "Featured"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T23:57:58.365924",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "ca1beef1026e4283"
+    },
+    {
+      "title": "A Candy Shop Owner, a Customs Officer, and a Beloved Family",
+      "url": "https://theaquilareport.com/a-candy-shop-owner-a-customs-officer-and-a-beloved-family/",
+      "category": "giant",
+      "source": "The Aquila Report",
+      "source_url": "https://theaquilareport.com/feed/",
+      "published": "2026-11-06",
+      "summary": "We all want ourselves, our families, and our churches to shine the light of Christ through our good works. But we will short-circuit that effort if we do so with legalistic, anxious, or fearful hearts. We stepped into the candy shop and could feel it immediately. We were welcome here. And no, it wasn’t...  Continue Reading",
+      "summary_zh": "我们都希望自己、家人和教会通过我们的善行来照耀基督的光。但是，如果我们用律法主义、焦虑或恐惧的心来做这件事，我们就会缩短这一努力。我们走进糖果店，马上就能感觉到。我们在这里受到欢迎。不，这不是...继续阅读",
+      "title_zh": "一位糖果店老板、一位海关官员和一个心爱的家庭",
+      "content": "We all want ourselves, our families, and our churches to shine the light of Christ through our good works. But we will short-circuit that effort if we do so with legalistic, anxious, or fearful hearts.   We stepped into the candy shop and could feel it immediately. We were welcome here. And no, it wasn’t... Continue Reading",
+      "content_zh": "我们都希望自己、家人和教会通过我们的善行来照耀基督的光。但是，如果我们用律法主义、焦虑或恐惧的心来做这件事，我们就会缩短这一努力。我们走进糖果店，马上就能感觉到。我们在这里受到欢迎。不，这不是...继续阅读",
+      "image": "https://1ar.s3.amazonaws.com/2022/07/mountains_landscape_nature_mountain_lake_forest_1200.jpg",
+      "author": "John Beeson",
+      "tags": [
+        "Biblical and Theological",
+        "Featured"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T23:57:58.640650",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "963435466695c337"
+    },
+    {
+      "title": "Reformed Worship and Its Justification—Part 2",
+      "url": "https://theaquilareport.com/reformed-worship-and-its-justification-part-2/",
+      "category": "giant",
+      "source": "The Aquila Report",
+      "source_url": "https://theaquilareport.com/feed/",
+      "published": "2026-11-06",
+      "summary": "Liturgical worship remains the most clearly reflective of God’s holiness, love, beauty, and mystery that we have from the Christian era. The work of Calvin and his followers in the Reformation and later can perhaps best be understood as a needed corrective to the ritualistic worship of the late medieval period, which focused on ceremony...  Continue Reading",
+      "summary_zh": "礼仪崇拜仍然是我们从基督教时代开始，最清楚地反映出神的圣洁、爱、美丽和奥秘。加尔文和他的追随者在宗教改革和后来的工作，也许最好被理解为对中世纪晚期仪式崇拜的必要纠正，这种崇拜侧重于仪式……继续阅读",
+      "title_zh": "改革宗崇拜及其理由--第2部分",
+      "content": "Liturgical worship remains the most clearly reflective of God’s holiness, love, beauty, and mystery that we have from the Christian era. The work of Calvin and his followers in the Reformation and later can perhaps best be understood as a needed corrective to the ritualistic worship of the late medieval period, which focused on ceremony... Continue Reading",
+      "content_zh": "礼仪崇拜仍然是我们从基督教时代开始，最清楚地反映出神的圣洁、爱、美丽和奥秘。加尔文和他的追随者在宗教改革和后来的工作，也许最好被理解为对中世纪晚期仪式崇拜的必要纠正，这种崇拜侧重于仪式……继续阅读",
+      "image": "https://1ar.s3.amazonaws.com/2022/07/mountains_landscape_nature_mountain_lake_forest_1200.jpg",
+      "author": "Rick Plasterer",
+      "tags": [
+        "Biblical and Theological",
+        "Featured"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T23:57:59.069147",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "44a0759686ddde45"
+    },
+    {
+      "title": "I Regret to Inform You That Heaven Tourism Is Back",
+      "url": "https://www.challies.com/book-reviews/i-regret-to-inform-you-that-heaven-tourism-is-back/",
+      "category": "giant",
+      "source": "Tim Challies",
+      "source_url": "https://www.challies.com/feed/",
+      "published": "2026-11-06",
+      "summary": "I regret to inform you, dear reader, that heaven tourism is back. The genre possibly never went away entirely, but it did at least disappear from the bestseller lists for several years. Sadly, it has returned in Gabe Poirot’s 18 Days in Heaven. See Also My Top Book Reviews of All-Time Greetings From Heaven: A Modern History of Heaven Tourism The Glory of Heaven",
+      "summary_zh": "亲爱的读者，很遗憾地通知您，天堂旅游又回来了。这种风格可能永远不会完全消失，但它至少在畅销书榜上消失了好几年。可悲的是，它在加布·波洛的《天堂18天》中又回来了。另请参阅我的热门书评《来自天堂的问候：天堂旅游的现代历史》《天堂的荣耀》",
+      "title_zh": "很遗憾地通知您，天堂旅游又回来了",
+      "content": "I regret to inform you, dear reader, that heaven tourism is back. The genre possibly never went away entirely, but it did at least disappear from the bestseller lists for several years. Sadly, it has returned in Gabe Poirot’s 18 Days in Heaven , which was one of the bestselling Christian books last month and even made its way to the New York Times list of bestsellers—a feat most authors can only dream of. Out of sheer magnanimity (and perhaps a morbid sense of curiosity), I read it so you don’t have to. 18 Days in Heaven Gabe Poirot Before I tell you what it’s all about, here’s a brief history of heaven tourism. Don Piper kicked off the genre in 2004 with 90 Minutes in Heaven , and it proved a surprise hit that quickly dominated the sales charts, eventually tallying upwards of 8 million copies sold. Todd Burpo’s Heaven Is for Real followed in 2010 with over 10 million copies sold. That same year brought Kevin and Alex Malarkey’s The Boy Who Came Back from Heaven , which sold more than a million copies before Alex recanted his story and the publisher pulled it. The genre went on to deliver many more heaven books and a handful of less-popular hell books like Bill Wiese’s 23 Minutes in Hell , though none ever reached the same heights as the first few—no pun intended. My contribution to the genre was little more than reviewing several of the books and coining the snarky phrase “heaven tourism,” which, much to my delight, soon caught on . The genre inevitably ran its course, but has now returned in Gabe Poirot’s 18 Days in Heaven: I Left My Body. I Met Jesus. What He Told Me Will Alter Your Eternity . Sadly, but not surprisingly, it is just as bad as its predecessors, mixing truth with errors and documented facts with spurious speculations until it is as confusing and unreliable as any of them. 18 Days in Heaven follows the standard pattern by beginning with an account of a terrible accident—in this case, a head injury that resulted from a skateboarding mishap. Poirot, a young evangelist with a sizable YouTube following, was rendered comatose and remained hovering between life and death for 18 days. But while his body was inert, his soul was transported to heaven, where it experienced heavenly wonders, not the least of which was spending time with Jesus. What did he see and experience there? Many things, of course, some of which he is able to describe and many of which he insists he cannot, either because God told him not to or because they defy description. What can he describe? Jesus’s eyes, in which “I saw all the colors that had ever existed or could exist, all in one. He was the deepest ocean of liquid love that had no end. A spectrum of intensity that only increased the longer I stared. His eyebrows, hair, jawline, arms, chest, heart, stature, ears, forehead, eyelashes, teeth, mouth, skin, and complexion all said the same thing: I love you, I love you, I love you.” He describes Jesus’s scars which “were like an ocean that had no floor,” and had the name “Gabriel” written immediately above them. He learned from them that Jesus has completely and eternally forgotten his sins so that he could no longer remember them even if he wanted to. He smelled Jesus and observed that his “fragrance wasn’t like the humidity of the Florida Everglades. No, this was something eternal—an everlasting fountain of fire, not just surrounding me but burning into me. Wrapping around me like a robe, like a living garment of pure, unending presence. It felt burning hot and freezing cold at the same time.” He heard Jesus say many words and noted that his “words were not just a separate entity that He ‘released.’ They were like the sharpest spears that went right into the core of my very being. But these spears were not separate from Him—they were Him.” Poirot even saw his own conception: “The light from Father God united with the earthly seed from my father and the egg of my mother in that moment, and I began my existence on earth. I was not born just on",
+      "content_zh": "我很遗憾地告诉你,亲爱的读者 天堂旅游又回来了 流派可能从未完全消失,但至少从畅销书榜上消失了几年.\n\n不幸的是,它回到了Gabe Poirot的\"天堂18天\"中,这是上个月最畅销的基督教书籍之一,甚至走进了纽约时报畅销书榜,这是大多数作者只能梦想的功绩。 我读了这篇文章,\n\n同年,凯文和亚历克丝·马拉克的\"从天堂回来的男孩\"(The Boy Who Came from Heaven)也带来了,后者在亚历克丝收回他的故事并被出版商拉出之前就售出超过一百万份. 虽然没有人能达到与前几本书相同的高度,\n\n我对这个流派的贡献不过是回顾几本书, 但现在又回到了Gabe Poirot在天堂的18天:我离开了我的身体。 我遇见了耶稣。 他告诉我 Will 改变你的永恒\n\n可悲但并不令人惊讶的是,它同其前身一样糟糕,把事实与错误相混淆,把有记录的事实同虚假的猜测相混淆,直到它同其中任何一个都一样令人困惑和不可靠。 18天的\"天堂\"遵循了标准模式,首先讲述了一起可怕的事故——在此情况下,由于滑板出事而造成头部受伤.\n\nPoirot是一位年轻的福音传播者,他带着一个庞大的YouTube跟随,因此被昏迷并徘徊在生与死之间长达18天. 但虽然他的身体是惰性的,他的灵魂被运到了天堂,在那里它经历了天堂的奇事,其中最起碼是和耶稣一起度过. 他在那里看到了什么? 体验什么?\n\n当然,许多事情,有些是他能够描述的,有些是他坚持不能描述的,要么是因为上帝告诉他不要描述,要么是因为他们藐视描述。 他能描述什么? 耶稣的眼睛,其中,“我看到了曾经存在或可能存在的所有颜色,都是一种颜色。 他是无尽的液体爱最深的海洋\n\n强度的光谱 只会增加我恒星的长度 他的眉毛、发型、下巴、手臂、胸部、心、身高、耳朵、额头、睫毛、牙齿、口腔、皮肤和相貌都说了同样的话:我爱你,我爱你,我爱你。” 他描述了耶稣的伤疤,这些伤疤 \" 像一片没有地的海洋 \" ,上面写有 \" Gabriel \" 的名字。\n\n他从他们那里得知,耶稣已经彻底地,永远地忘记了自己的罪过,这样即使他愿意也再也记不住了. 他闻到耶稣的气味并观察到他的\"香气不像佛罗里达埃弗格拉德河的湿润. 不,这是永恒的东西, 一个永恒的火焰喷泉, 不仅包围着我,而且燃烧在我身上。\n\n缠绕我就像长袍一样 像纯洁无尽的活衣 它同时感到被烧得发热而冷冻。” 他听到耶稣说出许多话,并指出他的\"词不仅是一个他‘释放'的独立实体. 他们就像最锋利的长矛 直入我生命的核心\n\n这些长矛,不是与他分开的,他们确是他。 波洛甚至看到了自己的构想:“神父所赐的光与我父亲所赐的地上种子和母亲的卵合而为一,我开始了我在地上的存在。 我不是刚出生",
+      "image": "https://www.challies.com/media/2026/11/Vintage-Suitcase-and-Open-Books.png",
+      "author": "Tim Challies",
+      "tags": [
+        "Book Reviews"
+      ],
+      "language": "en",
+      "country": "CA",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T23:57:46.343679",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "34c370d646be8ed1"
+    },
+    {
+      "title": "A La Carte (November 6)",
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-november-6-2026/",
+      "category": "giant",
+      "source": "Tim Challies",
+      "source_url": "https://www.challies.com/feed/",
+      "published": "2026-11-06",
+      "summary": "Don’t despise the red flags / Your thoughts are shaping your life / Can’t you just love everyone? / Selfies are not the self: forming embodied youth in a disembodied age / Effective altruists and the spreadsheet gospel / 4 Applications for the order of love—from the home to the ends of the earth / Kindle deals, and more See Also Weekend A La Carte (July 19) Weekend A La Carte (March 1) A La Carte (February 3)",
+      "summary_zh": "不要轻视危险信号/你的思想正在塑造你的生活/你不能只爱每个人吗？/Selfies are not the self: forming embodied youth in a unembodied age/Effective altruists and the spreadsheet gospel/4申请爱的顺序-从家到地球的尽头/Kindle优惠等另请参阅周末点菜（ 7月19日）周末点菜（ 3月1日）点菜（ 2月3日）",
+      "title_zh": "点菜（ 11月6日）",
+      "content": "Good morning. I’ve got A La Carte and a regretful book review for you today. Over the weekend you’ll find Saturday’s Weekend A La Carte plus Sunday’s Works & Wonders, which shares content that is just right for a Sunday morning. I hope you enjoy reading it all as much as I have enjoyed putting it together. Sales & Deals Today’s Kindle deals are headlined by Joel Beeke’s A Radical, Comprehensive Call to Holiness . You may also be interested in a book about women who overcame a difficult past or a biography written for a younger audience. Recommended Reading Selfies Are Not the Self: Forming Embodied Youth in a Disembodied Age. This article from Harvest USA has some helpful insights about young people and their mobile devices. “Increasingly, research shows that teenagers know their technology is making them miserable. They don’t love their phones, but they hate missing out. They know the noise is making them sick, but they’re terrified of the silence. When teenagers are so thirsty for connection and validation that they’ll go to a well they know is poisoned just to get a drink, what an amazing opportunity we have as the church to offer something better, something truly beautiful. We don’t want our youth ministries to be known for what they lack. We want them to be known for their abundance.” Can’t You Just Love Everyone? Jeremy Walker addresses churches that think their calling is to “just love everyone.” “Why not just love one another? Why build walls, make distinctions, establish boundaries, and draw lines? Why confront sins? Why not welcome all equally? Can’t you just love everyone?” 4 Applications for the Order of Love—From the Home to the Ends of the Earth. Speaking of love, Alex Kocman addresses the necessity of rightly ordering our love. “Augustine’s idea of ordo amoris —the ‘order of love’—reflects the Scriptural pattern of directing our affections to first love God, then to love our families, and then to extend that love outward to others. This theme of ordered love has wide-ranging implications—from the home to the ends of the earth. But just as preaching without application is lifeless, so too is a study of love without practical exhortation. Here are four admonitions…” Effective Altruists and the Spreadsheet Gospel. Writing for TGC, Nathan Leamer addresses the effective altruism ideology that is so influential in Silicon Valley. “Over the past decade, an emergent secular philosophy has taken root in Silicon Valley. It now drives many conversations around politics and technology, particularly as its ideas shape how our society approaches artificial intelligence. Known as ‘effective altruism,’ this worldview is having a moment. The Economist recently called the philosophy ‘this century’s biggest idea’ and labeled the movement as ‘admirable, but dangerous.'” Your Thoughts Are Shaping Your Life. “Your thoughts are shaping your life.” That might sound like the kind of thing Joel Osteen or a New Age practitioner would say, but there is truth to it. “Our thought life matters more than we often realize. The conversations we replay in our minds, the offenses we revisit, and the fears we entertain can shape how we see our circumstances and respond to the people around us. I know how easily my thoughts can become consumed by something that has happened or something I fear might happen. Before long, I find myself responding to the present through the lens of thoughts I have been rehearsing.” Don’t Despise the Red Flags. Katie Laitkep writes to those who are dating, and to young women specifically, to warn them not to ignore or despise the red flags. “When we see signs marking a dangerous road, we respond immediately, knowing we need to find a different path. But when it comes to red flags in dating relationships, we don’t always view the warning signs as clearly.” Reviews I like to share the occasional reminder that it is tremendously helpful to authors if you post even brief reviews of their books at Amazon. On that note, it wo",
+      "content_zh": "早上好,你好吗? 今天我为你们准备了一本《La Carte》, 在周末, 你会发现周六的周末A La Carte 加上周日的作品与奇事, 我希望你喜欢阅读这一切 就像我喜欢把它拼凑在一起。\n\n今天的销售和交易由Joel Beeke的激进、全面呼吁宗座作标题。 你也许也对一本关于克服了困难的过去的妇女的书或一本为年轻观众所写的传记感兴趣。 推荐阅读的自我不是自我:在身体衰弱的时代培养健康青年.\n\n“收获美国”的这篇文章对年轻人及其移动设备有一些有益的见解。 “令人不安的是,研究表明,青少年知道他们的技术正在使他们痛苦地生活。 他们不喜欢手机, 但他们对沉默感到恐惧。\n\n当青少年渴求联系和验证, 他们就会去井里, 我们不希望我们的青年部因缺乏什么而出名。 我们要使他们富足而闻名。” 你不能只爱每个人吗?\n\n杰里米,你好吗? Walker)在教会发表演说, “为什么不只是彼此相爱呢? 为何要建起围墙,作出区分,确定界限,并划定界限? 为什么要面对罪恶? 为什么不平等地欢迎所有人? 你不能只爱每一个人吗?”\n\n说到爱情,亚历克丝·克曼谈到 正确订购我们的爱的必要性。 \" 奥古斯丁对ordo amoris的想法——`爱的顺序'——反映了将我们的感情引导到首先爱上帝,然后爱我们的家人,然后将这种爱向外延伸的文字模式。 这个有秩序的爱情主题有着从家到地底的广泛影响.\n\n但是,正如没有应用的传道一样,没有实际劝告的爱的研究也是没有生命的. 以下是四点忠告...\"有效的 Altruists和\"电子表格福音\". 为TGC写作,内森·莱默(Nathan Leamer)谈到了在硅谷有如此影响力的有效利他主义意识形态. “过去十年来,一种新兴的世俗哲学在硅谷扎根。\n\n它现在推动了许多关于政治和技术的对话,特别是它的思想决定了我们社会如何对待人工智能。 这个世界观被称为“有效的利他主义”, 经济学人最近称这个哲学为\"本世纪最大的思想\"并称这个运动为\"可喜而危险\". 你的思想正在塑造你的人生\n\n“你的思想正在塑造你的生活。” 听起来像乔尔·奥斯丁 或者新时代的实践者会说的 但事实确实如此 “我们的思想生活比我们经常意识到的更重要。 我们在思想中重现的谈话,我们重温的罪恶,以及我们所娱乐的恐惧,可以塑造我们如何看待我们的情况并回应周围的人.\n\n我知道我的思想很容易被 已经发生的事情或我担心的事情所消耗 在不久之前,我发现自己通过我所听到的思维的镜头对现在作出反应。” 不要让红旗队失望。 凯蒂·莱特克普(Katie Laitkep)给那些正在约会的人写信,并特别给年轻妇女写信,警告她们不要忽视或轻视红旗.\n\n“当我们看到标志一条危险道路的迹象时,我们立即作出反应,知道我们需要找到另一条道路。 但对于恋爱关系中的红旗, 作者若在亚马逊发表简短的评论, 如此一来,它就",
+      "image": "https://www.challies.com/media/2026/05/Friday-1.jpg",
+      "author": "Tim Challies",
+      "tags": [
+        "A La Carte"
+      ],
+      "language": "en",
+      "country": "CA",
+      "region": "",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-06T23:57:47.103376",
+      "extra": {
+        "feed_type": "rss20"
+      },
+      "id": "936d9f2dc9e3a956"
     },
     {
       "title": "A La Carte (October 30)",
@@ -3779,7 +4106,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-05T00:45:06.056467",
+      "fetched_at": "2026-11-06T23:57:43.850730",
       "extra": {
         "provider": "google_news",
         "query": "Ligonier Ministries",
@@ -3924,7 +4251,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:15.234564",
+      "fetched_at": "2026-11-06T23:57:45.083697",
       "extra": {
         "provider": "google_news",
         "query": "Christian historical biography saint church history",
@@ -4011,7 +4338,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:13.912857",
+      "fetched_at": "2026-11-06T23:57:43.802485",
       "extra": {
         "provider": "google_news",
         "query": "5 Minutes in Church History",
@@ -4098,7 +4425,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:15.234755",
+      "fetched_at": "2026-11-06T23:57:45.083888",
       "extra": {
         "provider": "google_news",
         "query": "Christian historical biography saint church history",
@@ -4127,7 +4454,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-06T00:45:14.020205",
+      "fetched_at": "2026-11-06T23:57:43.850911",
       "extra": {
         "provider": "google_news",
         "query": "Ligonier Ministries",
