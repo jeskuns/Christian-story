@@ -41,7 +41,23 @@ REJECT_PATTERNS = [
     r"^\d+ (ways|things|reasons|lessons)", r"top \d+", r"quiz:",
     r"观点", r"社论", r"评论", r"公开信", r"\d+个方法", r"几个建议", r"问答",
 ]
-REJECT_RE = [re.compile(p, re.IGNORECASE) for p in REJECT_PATTERNS]
+
+# 非英语源的「非故事形态」标题：否则多语言条目放宽后会混进新闻与活动通知
+I18N_REJECT = [
+    # 法语
+    r"communiqué", r"revue de presse", r"inscription", r"conférence", r"nouveau livre",
+    r"podcast", r"à télécharger", r"brèves",
+    # 葡语
+    r"comunicado", r"inscrições", r"inscreva-se", r"novo livro", r"resenha", r"podcast",
+    # 西语
+    r"rueda de prensa", r"comunicado", r"inscripción", r"inscríbete", r"nuevo libro", r"reseña",
+    # 印尼语
+    r"siaran pers", r"pendaftaran", r"buku baru", r"ulasan buku", r"podcast", r"agenda acara",
+    # 日语
+    r"書評", r"新刊", r"講演会", r"集会案内", r"寄付のお願い", r"ポッドキャスト",
+    # 韩语
+    r"서평", r"신간", r"강연", r"행사 안내", r"후원 요청", r"팟캐스트",
+]
 
 # ---------- 故事正向信号 ----------
 # 3 分：几乎可以确定是一篇人物故事 / 见证
@@ -55,6 +71,23 @@ STRONG = [
     r"从.{1,20}到.{1,20}", r"他(如何|怎样|曾|在|被|带着)", r"她(如何|怎样|曾|在|被|带着)",
     r"蒙召", r"殉道", r"宣教士的", r"传道人的",
 ]
+I18N_STRONG = [
+    # 法语
+    r"témoignage", r"témoignages", r"mon histoire", r"récit de vie", r"histoire de vie",
+    r"biographie", r"la vie de", r"comment dieu a",
+    # 葡语
+    r"testemunho", r"testemunhos", r"minha história", r"história de vida",
+    r"biografia", r"a vida de", r"como deus",
+    # 西语
+    r"testimonio", r"testimonios", r"mi historia", r"historia de vida",
+    r"biografía", r"la vida de", r"cómo dios",
+    # 印尼语
+    r"kesaksian", r"kisah hidup", r"riwayat hidup", r"biografi", r"kisah tentang", r"hidupnya",
+    # 日语
+    r"証言", r"証し", r"生涯", r"伝記", r"宣教師の", r"物語",
+    # 韩语
+    r"간증", r"인생 이야기", r"전기", r"선교사의", r"이야기",
+]
 # 2 分：典型故事题材
 MEDIUM = [
     r"missionary", r"missionaries", r"mission field", r"church planting", r"evangeli[sz]",
@@ -64,6 +97,25 @@ MEDIUM = [
     r"宣教", r"差会", r"拓荒", r"植堂", r"逼迫", r"患难", r"囚", r"难民", r"孤儿",
     r"乡村", r"部落", r"复兴", r"祷告", r"受洗", r"布道", r"传福音",
 ]
+I18N_MEDIUM = [
+    # 法语
+    r"missionnaire", r"persécut", r"martyr", r"prison", r"réfugié", r"orphelin",
+    r"village", r"tribu", r"église", r"évangile", r"baptême", r"réveil", r"hôpital",
+    r"foi", r"converti",
+    # 葡语
+    r"missionário", r"persegui", r"mártir", r"prisão", r"refugiado", r"órfão",
+    r"aldeia", r"tribo", r"igreja", r"evangelho", r"batismo", r"avivamento", r"hospital", r"fé",
+    # 西语
+    r"misionero", r"persecución", r"mártir", r"prisión", r"refugiado", r"huérfano",
+    r"aldea", r"tribu", r"iglesia", r"evangelio", r"bautismo", r"avivamiento", r"hospital", r"fe",
+    # 印尼语
+    r"misionaris", r"penganiayaan", r"martir", r"penjara", r"pengungsi", r"yatim",
+    r"desa", r"suku", r"gereja", r"injil", r"baptisan", r"kebangunan", r"iman",
+    # 日语
+    r"宣教師", r"宣教", r"迫害", r"殉教", r"投獄", r"難民", r"孤児", r"教会", r"福音", r"洗礼", r"信仰",
+    # 韩语
+    r"선교사", r"선교", r"박해", r"순교", r"투옥", r"난민", r"고아", r"교회", r"복음", r"세례", r"신앙",
+]
 # 1 分：叙事语气 / 时间线
 NARRATIVE = [
     r"\bwhen\b", r"\bafter\b", r"\byears later\b", r"\beventually\b", r"\bone day\b",
@@ -71,28 +123,41 @@ NARRATIVE = [
     r"\bher (husband|mother|father|family|son|daughter)\b", r"\bin \d{4}\b",
     r"那年", r"后来", r"多年以后", r"有一天", r"小时候", r"临终", r"去世", r"终于",
 ]
-STRONG_RE = [re.compile(p, re.IGNORECASE) for p in STRONG]
-MEDIUM_RE = [re.compile(p, re.IGNORECASE) for p in MEDIUM]
-NARRATIVE_RE = [re.compile(p, re.IGNORECASE) for p in NARRATIVE]
+I18N_NARRATIVE = [
+    r"\bquand\b", r"\baprès\b", r"\bplus tard\b", r"\bun jour\b", r"\bdes années\b",
+    r"\bquando\b", r"\bdepois\b", r"\banos depois\b", r"\bum dia\b", r"\bdurante anos\b",
+    r"\bcuando\b", r"\bdespués\b", r"\baños después\b", r"\bdurante años\b",
+    r"\bketika\b", r"\bsetelah\b", r"\bsuatu hari\b", r"\bbeberapa tahun\b", r"\bpada usia\b",
+    r"その後", r"数年後", r"ある日", r"幼少期", r"歳のとき",
+    r"그 후", r"몇 년 후", r"어느 날", r"어린 시절",
+]
+REJECT_RE = [re.compile(p, re.IGNORECASE) for p in REJECT_PATTERNS + I18N_REJECT]
+STRONG_RE = [re.compile(p, re.IGNORECASE) for p in STRONG + I18N_STRONG]
+MEDIUM_RE = [re.compile(p, re.IGNORECASE) for p in MEDIUM + I18N_MEDIUM]
+NARRATIVE_RE = [re.compile(p, re.IGNORECASE) for p in NARRATIVE + I18N_NARRATIVE]
 
 # ---------- 地区识别（全世界） ----------
 REGION_RULES = [
-    ("非洲", [r"\bafrica", r"nigeria", r"kenya", r"uganda", r"tanzania", r"ghana", r"zambia",
-              r"malawi", r"congo", r"rwanda", r"burundi", r"ethiopia", r"sudan", r"senegal",
-              r"cameroun", r"cameroon", r"côte d'ivoire", r"ivory coast", r"mozambique",
-              r"madagascar", r"angola", r"zimbabwe", r"botswana", r"namibia", r"liberia",
-              r"sierra leone", r"sahel", r"非洲", r"尼日利亚", r"肯尼亚", r"乌干达", r"刚果",
-              r"埃塞俄比亚", r"苏丹", r"加纳", r"赞比亚", r"马拉维", r"坦桑尼亚"]),
+    ("非洲", [r"\bafrica", r"afrique", r"\báfrica", r"nigeria", r"nigéria", r"kenya", r"uganda",
+              r"tanzania", r"ghana", r"zambia", r"malawi", r"congo", r"rwanda", r"burundi",
+              r"ethiopia", r"sudan", r"senegal", r"sénégal", r"cameroun", r"cameroon",
+              r"côte d'ivoire", r"ivory coast", r"mozambique", r"madagascar", r"angola",
+              r"zimbabwe", r"botswana", r"namibia", r"liberia", r"sierra leone", r"sahel",
+              r"アフリカ", r"아프리카",
+              r"非洲", r"尼日利亚", r"肯尼亚", r"乌干达", r"刚果", r"埃塞俄比亚", r"苏丹",
+              r"加纳", r"赞比亚", r"马拉维", r"坦桑尼亚"]),
     ("中国", [r"\bchina\b", r"chinese", r"\btaiwan", r"hong kong", r"\bshanghai\b", r"\bbeijing\b",
               r"中国", r"华人", r"台灣", r"台湾", r"香港", r"山西", r"云南", r"内地会"]),
     ("中东", [r"\biran\b", r"\biraq\b", r"\bsyria\b", r"lebanon", r"\bisrael\b", r"\bgypt\b",
               r"egypt", r"\bturkey\b", r"\byemen\b", r"\bjordan\b", r"saudi", r"middle east",
               r"中东", r"伊朗", r"叙利亚", r"黎巴嫩", r"土耳其", r"埃及"]),
-    ("亚洲", [r"\bindia\b", r"\bkorea\b", r"\bjapan\b", r"indonesia", r"philippines", r"vietnam",
-              r"thailand", r"myanmar", r"bangladesh", r"pakistan", r"nepal", r"cambodia",
-              r"asia", r"亚洲", r"印度", r"韩国", r"日本", r"印尼", r"菲律宾", r"越南", r"缅甸"]),
-    ("拉美", [r"brazil", r"mexico", r"argentina", r"colombia", r"peru", r"chile", r"bolivia",
-              r"ecuador", r"guatemala", r"honduras", r"venezuela", r"latin america", r"amazon",
+    ("亚洲", [r"\bindia\b", r"\bkorea\b", r"\bjapan\b", r"indonesia", r"indonésie", r"philippines",
+              r"vietnam", r"thailand", r"myanmar", r"bangladesh", r"pakistan", r"nepal",
+              r"cambodia", r"asia", r"日本", r"韓国", r"한국", r"インドネシア",
+              r"亚洲", r"印度", r"韩国", r"日本", r"印尼", r"菲律宾", r"越南", r"缅甸"]),
+    ("拉美", [r"brazil", r"brasil", r"brésil", r"mexico", r"méxico", r"argentina", r"colombia",
+              r"peru", r"chile", r"bolivia", r"ecuador", r"guatemala", r"honduras",
+              r"venezuela", r"latin america", r"amazon", r"amazônia", r"ブラジル",
               r"拉美", r"巴西", r"墨西哥", r"阿根廷", r"哥伦比亚", r"亚马逊"]),
     ("欧洲", [r"\buk\b", r"britain", r"england", r"scotland", r"germany", r"france", r"spain",
               r"italy", r"poland", r"ukraine", r"russia", r"europe", r"英国", r"德国", r"法国",
@@ -104,13 +169,18 @@ REGION_RE = [(name, [re.compile(p, re.IGNORECASE) for p in pats]) for name, pats
 
 # ---------- 主题分类 ----------
 TOPIC_RULES = [
-    ("africa", [r"africa", r"nigeria", r"kenya", r"uganda", r"congo", r"非洲"]),
+    ("africa", [r"africa", r"afrique", r"áfrica", r"nigeria", r"nigéria", r"kenya", r"uganda",
+                r"congo", r"アフリカ", r"아프리카", r"非洲"]),
     ("china", [r"china", r"chinese", r"中国", r"华人", r"台湾", r"香港"]),
-    ("trial", [r"persecut", r"martyr", r"imprison", r"prison", r"camp", r"torture", r"killed",
+    ("trial", [r"persecut", r"persécut", r"persegui", r"persecución", r"penganiayaan",
+               r"martyr", r"mártir", r"imprison", r"prison", r"prisión", r"prisão", r"penjara",
+               r"camp", r"torture", r"killed", r"迫害", r"殉教", r"박해", r"순교",
                r"逼迫", r"殉道", r"集中营", r"囚禁", r"患难", r"受苦"]),
-    ("giant", [r"biography", r"church history", r"\bsaint\b", r"reformer", r"theologian",
-               r"传记", r"属灵伟人", r"教会历史", r"生平"]),
-    ("missionary", [r"missionary", r"missionari", r"mission field", r"church planting",
+    ("giant", [r"biography", r"biographie", r"biografía", r"biografia", r"church history",
+               r"\bsaint\b", r"reformer", r"theologian", r"伝記", r"전기", r"传记", r"属灵伟人",
+               r"教会历史", r"生平"]),
+    ("missionary", [r"missionary", r"missionari", r"missionnaire", r"missionário", r"misionero",
+                    r"misionaris", r"宣教師", r"선교사", r"mission field", r"church planting",
                     r"宣教", r"差会", r"拓荒", r"植堂"]),
 ]
 
@@ -126,12 +196,20 @@ REGION_LABELS = ["非洲", "中国", "中东", "亚洲", "拉美", "欧洲", "�
 
 
 def _text_of(article) -> str:
-    parts = [
-        article.title or "", article.title_zh or "",
-        article.summary or "", article.summary_zh or "",
-        (article.content or article.content_zh or "")[:1200],
-    ]
+    if isinstance(article, dict):
+        parts = [article.get("title", ""), article.get("title_zh", ""),
+                 article.get("summary", ""), article.get("summary_zh", ""),
+                 (article.get("content") or article.get("content_zh") or "")[:1200]]
+    else:
+        parts = [article.title or "", article.title_zh or "",
+                 article.summary or "", article.summary_zh or "",
+                 (article.content or article.content_zh or "")[:1200]]
     return " ".join(str(p) for p in parts)
+
+
+def _lang_of(article) -> str:
+    raw = article.get("language", "en") if isinstance(article, dict) else getattr(article, "language", "en")
+    return (raw or "en").lower()[:2]
 
 
 def _hits(patterns, text: str) -> int:
@@ -141,7 +219,9 @@ def _hits(patterns, text: str) -> int:
 def score_story(article) -> (int, str):
     """返回 (分数, 判拒理由)。分数 < 阈值即不是故事"""
     text = _text_of(article)
-    title = (article.title or "") + " " + (article.title_zh or "")
+    title = ((article.get("title", "") if isinstance(article, dict) else article.title) or "") + " " + \
+            ((article.get("title_zh", "") if isinstance(article, dict) else article.title_zh) or "")
+    i18n = _lang_of(article) not in ("en", "zh")
 
     for p in REJECT_RE:
         if p.search(title):
@@ -152,16 +232,28 @@ def score_story(article) -> (int, str):
     narrative = _hits(NARRATIVE_RE, text)
     score = strong * 3 + medium * 2 + narrative
 
-    # 没有正文时（Google News 只给标题+摘要），要求标题本身就是故事
-    has_body = len(article.content or article.content_zh or "") >= 350
+    # 没有正文时（Google News 只给标题+摘要），要求标题本身有故事信号。
+    # 非英语标题即使译中前也未必命中「见证 / 生平」这类强信号，
+    # 所以允许题材词（missionnaire / missionário / 선교사…）作为信号并补 2 分；
+    # 英语 / 中文仍按原来的严格规则，避免把新闻简讯放进来。
+    has_body = len((article.get("content") or "") if isinstance(article, dict)
+                   else (article.content or article.content_zh or "")) >= 350
     if not has_body:
-        title_strong = _hits(STRONG_RE, title)
-        if title_strong == 0:
-            return 0, "无正文且标题不是人物故事"
-        score += 1
+        if i18n:
+            if _hits(STRONG_RE, title) + _hits(MEDIUM_RE, title) == 0:
+                return 0, "无正文且标题不是人物故事"
+            score += 2
+        else:
+            if _hits(STRONG_RE, title) == 0:
+                return 0, "无正文且标题不是人物故事"
+            score += 1
 
     # 太短的条目不收（避免只剩一句导语）
-    if len((article.summary or "") + (article.content or "")) < 90 and not has_body:
+    if isinstance(article, dict):
+        short_len = len((article.get("summary") or "") + (article.get("content") or ""))
+    else:
+        short_len = len((article.summary or "") + (article.content or ""))
+    if short_len < 90 and not has_body:
         return 0, "内容过短"
 
     return score, ""
@@ -195,16 +287,16 @@ def infer_tags(article, region: str, category: str) -> List[str]:
     tags: List[str] = []
     text = _text_of(article)
     tag_rules = [
-        ("非洲宣教", r"africa|missionary|非洲|宣教"),
-        ("见证", r"testimony|见证|信主|conversion"),
-        ("逼迫", r"persecut|martyr|prison|逼迫|殉道|集中营"),
-        ("孤儿", r"orphan|children|孤儿|孩子"),
-        ("祷告", r"pray|祷告"),
-        ("复兴", r"revival|复兴"),
-        ("传记", r"biography|生平|传记"),
-        ("医疗", r"hospital|clinic|leprosy|医院|麻风"),
-        ("译经", r"bible translation|translate|译经|翻译圣经"),
-        ("家庭", r"family|marriage|家庭|婚姻"),
+        ("非洲宣教", r"africa|afrique|áfrica|missionary|missionnaire|missionário|misionero|非洲|宣教"),
+        ("见证", r"testimony|testemunho|testimonio|témoignage|kesaksian|간증|証し|见证|信主|conversion"),
+        ("逼迫", r"persecut|persécut|persegui|persecución|penganiayaan|迫害|박해|逼迫|殉道|集中营"),
+        ("孤儿", r"orphan|orphelin|órfão|huérfano|yatim|孤児|고아|孤儿|孩子"),
+        ("祷告", r"pray|prier|oração|oración|doa|祈り|기도|祷告"),
+        ("复兴", r"revival|réveil|avivamento|kebangunan|リバイバル|부흥|复兴"),
+        ("传记", r"biography|biographie|biografia|biografía|伝記|전기|生平|传记"),
+        ("医疗", r"hospital|hôpital|clinic|leprosy|病院|병원|医院|麻风"),
+        ("译经", r"bible translation|translate|traduction|traducción|译经|翻译圣经"),
+        ("家庭", r"family|marriage|famille|família|familia|keluarga|家族|가족|家庭|婚姻"),
     ]
     for label, pat in tag_rules:
         if re.search(pat, text, re.IGNORECASE):
@@ -213,7 +305,8 @@ def infer_tags(article, region: str, category: str) -> List[str]:
         tags.insert(0, region)
     if CATEGORY_LABELS.get(category):
         tags.insert(1 if tags else 0, CATEGORY_LABELS[category])
-    for t in (article.tags or [])[:3]:
+    extra_tags = (article.get("tags") or [])[:3] if isinstance(article, dict) else (article.tags or [])[:3]
+    for t in extra_tags:
         if t and t not in tags:
             tags.append(t)
     return tags[:8]
@@ -240,15 +333,27 @@ def filter_and_classify(articles: List[Any], min_score: int = 4,
             key = reason.split("：")[0]
             rejected[key] = rejected.get(key, 0) + 1
             continue
-        region = infer_region(a, getattr(a, "region", "") or "")
-        category = infer_category(a, region, getattr(a, "category", "") or "")
-        a.region = region
-        a.category = category
-        a.tags = infer_tags(a, region, category)
-        extra = dict(getattr(a, "extra", None) or {})
-        extra["story_score"] = score
-        extra["domain"] = _domain(a.url or "")
-        a.extra = extra
+        if isinstance(a, dict):
+            url = a.get("url") or ""
+            region = infer_region(a, a.get("region", "") or "")
+            category = infer_category(a, region, a.get("category", "") or "")
+            a["region"] = region
+            a["category"] = category
+            a["tags"] = infer_tags(a, region, category)
+            extra = dict(a.get("extra") or {})
+            extra["story_score"] = score
+            extra["domain"] = _domain(url)
+            a["extra"] = extra
+        else:
+            region = infer_region(a, getattr(a, "region", "") or "")
+            category = infer_category(a, region, getattr(a, "category", "") or "")
+            a.region = region
+            a.category = category
+            a.tags = infer_tags(a, region, category)
+            extra = dict(getattr(a, "extra", None) or {})
+            extra["story_score"] = score
+            extra["domain"] = _domain(a.url or "")
+            a.extra = extra
         if extra["domain"]:
             domains.add(extra["domain"])
         kept.append(a)

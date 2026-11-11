@@ -210,6 +210,29 @@ class Collector:
         self.articles = new_articles
         logger.info(f"After title dedup: {len(self.articles)} new articles")
 
+        # 判别前先把非英语标题 / 摘要译中：判别器有完整中文词表（见证 / 生平 / 宣教…），
+        # 而法 / 葡 / 西 / 日 / 韩 / 印尼原文不命中任何英文信号，否则会被整批误杀。
+        # 只处理非英语短文本，成本很小；后面统一翻译会自动跳过这些已有译文的条目。
+        i18n_targets = [a for a in self.articles
+                        if (a.language or "en").lower()[:2] not in ("en", "zh")
+                        and (a.title or a.summary)]
+        if i18n_targets:
+            pre = Translator(os.path.join(self.data_dir, "translation_cache.json"))
+            pre_done = 0
+            for a in i18n_targets:
+                lang = (a.language or "en").lower()[:2]
+                if a.title and not a.title_zh:
+                    zh = pre.translate(a.title, lang)
+                    if zh:
+                        a.title_zh = zh
+                        pre_done += 1
+                if a.summary and not a.summary_zh:
+                    zh = pre.translate(a.summary[:450], lang)
+                    if zh:
+                        a.summary_zh = zh
+            pre.save_cache()
+            logger.info(f"判别前预译中：{pre_done}/{len(i18n_targets)} 条非英语标题")
+
         # 故事判别：只留真正的故事，把新闻简讯、书评书摘、灵修小品、神学评论、
         # 活动通知等挡在外面；同时推断主题分类、地区与标签。
         self.articles, self.filter_stats = filter_and_classify(
