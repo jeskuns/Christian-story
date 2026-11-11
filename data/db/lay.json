@@ -1,8 +1,8 @@
 {
   "category": "lay",
   "label": "平凡人的见证",
-  "count": 3,
-  "updated_at": "2026-11-11T15:26:34.122929+08:00",
+  "count": 6,
+  "updated_at": "2026-11-11T16:21:50.153374+08:00",
   "articles": [
     {
       "title": "Wikipedia Founder Embraces Christianity: Larry Sanger’s Testimony Highlights",
@@ -29,7 +29,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:00.379774",
+      "fetched_at": "2026-11-11T08:14:24.267402",
       "extra": {
         "provider": "google_news",
         "query": "India Christian conversion testimony story",
@@ -40,6 +40,43 @@
         "domain": "news.google.com"
       },
       "id": "24bb3a1cd1c66aa1"
+    },
+    {
+      "title": "Série ‘Santidade Brasileira’ destaca o testemunho do Padre Rodolfo Komorek",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXllOU5NM1dMTDBJRWRNTlI4RldBbEU1RHJOM00wWFlFMWdVLWVzYkhoTk53TWVXa3ZwYjA4VGE2amxOM3JfZDZKVzdMaENGREFScXdKM3NkZEhwLUtFSnpoenEzeDhsMTlWVnZYMlIzNXhLeVpoRFFia18zU0VjVlU3dE83WndidFNiN0N3elYzNWpIZFJRS2JGUFQyeHpCVWlRRFhCZFU?oc=5",
+      "category": "lay",
+      "source": "巴西信仰见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2025-02-09",
+      "summary": "Série ‘Santidade Brasileira’ destaca o testemunho do Padre Rodolfo Komorek Jornal O São Paulo",
+      "summary_zh": "“巴西圣洁”系列突出了Rodolfo Komorek Jornal O São Paulo神父的证词",
+      "title_zh": "“巴西圣洁”系列突出了鲁道夫·科莫雷克神父的证词",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Jornal O São Paulo",
+      "tags": [
+        "拉美",
+        "平凡人的见证",
+        "见证"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.526077",
+      "extra": {
+        "provider": "google_news",
+        "query": "testemunho missionário Brasil história de fé",
+        "publisher": "Jornal O São Paulo",
+        "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXllOU5NM1dMTDBJRWRNTlI4RldBbEU1RHJOM00wWFlFMWdVLWVzYkhoTk53TWVXa3ZwYjA4VGE2amxOM3JfZDZKVzdMaENGREFScXdKM3NkZEhwLUtFSnpoenEzeDhsMTlWVnZYMlIzNXhLeVpoRFFia18zU0VjVlU3dE83WndidFNiN0N3elYzNWpIZFJRS2JGUFQyeHpCVWlRRFhCZFU?oc=5",
+        "resolved": false,
+        "story_score": 5,
+        "domain": "news.google.com"
+      },
+      "id": "4ef31df234e70f86"
     },
     {
       "title": "Strange Phenomena and Spiritual Warfare: A Catholic Convert’s Testimony",
@@ -66,7 +103,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:01.769160",
+      "fetched_at": "2026-11-11T08:14:25.033591",
       "extra": {
         "provider": "google_news",
         "query": "Christian conversion testimony story",
@@ -102,7 +139,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:02.098137",
+      "fetched_at": "2026-11-11T08:14:25.099143",
       "extra": {
         "provider": "google_news",
         "query": "orphan rescued missionary story",
@@ -113,6 +150,79 @@
         "domain": "news.google.com"
       },
       "id": "a759b9e9aac0ba75"
+    },
+    {
+      "title": "18º Congresso Eucarístico Nacional: Testemunho público de fé e de vida eclesial",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGwxeXR0UjFtM20yaU1EVWcyQnhIUzZFd1VHREd2WE9peFRuc2E3OWM0OWN1b3RfUmdnVWluTFVtR0dWemRuLTJfOU5QNGxkZTk5bEhNelNlSlMxQjN0YWNiMmlmdmFrdEJRcG5manpwUlM4Z3NwN3BuNUlpaUhFS2hQeENTMGJkTmZrZ3pXN09jbUJZQmx3eGpBUXdHSTRMUHJWXzZrNHhDakI0anNZY3VrTVB6VlU?oc=5",
+      "category": "lay",
+      "source": "巴西信仰见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2022-11-11",
+      "summary": "18º Congresso Eucarístico Nacional: Testemunho público de fé e de vida eclesial Portal A12",
+      "summary_zh": "第十八届全国圣体大会：信仰和教会生活的公开见证门户网站A12",
+      "title_zh": "第十八届全国圣体大会：信仰和教会生活的公开见证",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Portal A12",
+      "tags": [
+        "拉美",
+        "平凡人的见证",
+        "见证"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.526613",
+      "extra": {
+        "provider": "google_news",
+        "query": "testemunho missionário Brasil história de fé",
+        "publisher": "Portal A12",
+        "google_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGwxeXR0UjFtM20yaU1EVWcyQnhIUzZFd1VHREd2WE9peFRuc2E3OWM0OWN1b3RfUmdnVWluTFVtR0dWemRuLTJfOU5QNGxkZTk5bEhNelNlSlMxQjN0YWNiMmlmdmFrdEJRcG5manpwUlM4Z3NwN3BuNUlpaUhFS2hQeENTMGJkTmZrZ3pXN09jbUJZQmx3eGpBUXdHSTRMUHJWXzZrNHhDakI0anNZY3VrTVB6VlU?oc=5",
+        "resolved": false,
+        "story_score": 14,
+        "domain": "news.google.com"
+      },
+      "id": "8b42adcfa73cc8b9"
+    },
+    {
+      "title": "Kisah Seorang Pendeta Yang Dibunuh Setelah Membagikan Injil Kepada 1000 Orang Korea Utara",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdVFWdVRlMnprTnctZjE2aW5BMS1ZRDNIdVpMWUFtc0pNWUVrcExneWU3aWp6VHp5dDcyMEdubVEycWR6MW1XM01malNhcDZ3YUlhU1gzb29rM2Y3QUR3ZmljME0ydDUzeE4wUGhNal90VzdVTFhFNHItdFdON21hU0JkTFZZSkVvU1JaRWIxVloyV0pEbU1LRHFnSThGbUVIMHNuMm0xRFVmcGJXX1QydTNaRGZESXhXX0gtMnBxWVdjT3lxcV9Ic1owczVsbHJLSDNGMWcyNlYxLW9pUVlNUUFLVzFna2NoRW5V?oc=5",
+      "category": "lay",
+      "source": "印尼与东南亚见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2019-10-09",
+      "summary": "Kisah Seorang Pendeta Yang Dibunuh Setelah Membagikan Injil Kepada 1000 Orang Korea Utara Jawaban.com",
+      "summary_zh": "一位牧师在与1000名朝鲜人分享福音后被谋杀的故事Answers.com",
+      "title_zh": "一名牧师在与1000名朝鲜人分享福音后被谋杀的故事",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Jawaban.com",
+      "tags": [
+        "亚洲",
+        "平凡人的见证"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.310673",
+      "extra": {
+        "provider": "google_news",
+        "query": "kesaksian misionaris kisah",
+        "publisher": "Jawaban.com",
+        "google_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdVFWdVRlMnprTnctZjE2aW5BMS1ZRDNIdVpMWUFtc0pNWUVrcExneWU3aWp6VHp5dDcyMEdubVEycWR6MW1XM01malNhcDZ3YUlhU1gzb29rM2Y3QUR3ZmljME0ydDUzeE4wUGhNal90VzdVTFhFNHItdFdON21hU0JkTFZZSkVvU1JaRWIxVloyV0pEbU1LRHFnSThGbUVIMHNuMm0xRFVmcGJXX1QydTNaRGZESXhXX0gtMnBxWVdjT3lxcV9Ic1owczVsbHJLSDNGMWcyNlYxLW9pUVlNUUFLVzFna2NoRW5V?oc=5",
+        "resolved": false,
+        "story_score": 10,
+        "domain": "news.google.com"
+      },
+      "id": "d21e74b4320441e5"
     }
   ]
 }

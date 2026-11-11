@@ -1,8 +1,8 @@
 {
   "category": "africa",
   "label": "非洲宣教与见证",
-  "count": 9,
-  "updated_at": "2026-11-11T15:26:34.121584+08:00",
+  "count": 21,
+  "updated_at": "2026-11-11T16:21:50.149834+08:00",
   "articles": [
     {
       "title": "The Journey Through Persecution to Graduation",
@@ -32,7 +32,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:54.587445",
+      "fetched_at": "2026-11-11T08:14:18.274422",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -68,10 +68,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:54.978520",
+      "fetched_at": "2026-11-11T08:14:19.117791",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 4,
+        "story_score": 8,
         "domain": "persecution.org"
       },
       "id": "ba3d38e76404e071"
@@ -104,10 +104,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:23:01.025820",
+      "fetched_at": "2026-11-11T08:14:23.301990",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 4,
+        "story_score": 6,
         "domain": "wycliffe.org"
       },
       "id": "bda1f24811bb0f7c"
@@ -137,10 +137,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:56.028425",
+      "fetched_at": "2026-11-11T08:14:19.181131",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 6,
+        "story_score": 10,
         "domain": "rss.desiringgod.org"
       },
       "id": "94b3b05d69e8e475"
@@ -174,13 +174,152 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:53.778634",
+      "fetched_at": "2026-11-11T08:14:17.452209",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
         "domain": "imb.org"
       },
       "id": "b24b5f992e0637b1"
+    },
+    {
+      "title": "Three Reasons Billy Graham Captured the World’s Attention",
+      "url": "https://www.christianitytoday.com/2026/11/three-reasons-billy-graham-captured-worlds-attention/",
+      "category": "africa",
+      "source": "Christianity Today",
+      "source_url": "https://www.christianitytoday.com/feed/",
+      "published": "2026-11-11",
+      "summary": "Recently my wife, Katherine, and I moved into a senior living complex in our hometown of Cary, North Carolina. Soon afterward the building manager, a young man from Ghana named Godfred, knocked on our apartment door. He had seen a stack of books about Billy Graham outside the door and wondered if he could borrow  Read more...   The post  Three Reasons Billy Graham Captured the World’s Attention  appeared first on  Christianity Today .",
+      "summary_zh": "最近，我和妻子凯瑟琳搬进了我们家乡北卡罗来纳州卡里市的一个养老院。不久之后，大楼经理，一个来自加纳的名叫戈弗雷德的年轻人，敲了我们的公寓门。他在门外看到一堆关于比利·葛培理（ Billy Graham ）的书，想知道他是否可以借阅更多……帖子《比利·葛培理吸引世界注意力的三个原因》（ Three Reasons Billy Graham Captured the World's Attention ）首先出现在《今日基督教",
+      "title_zh": "比利·格雷厄姆吸引世界注意力的三个原因",
+      "content": "Recently my wife, Katherine, and I moved into a senior living complex in our hometown of Cary, North Carolina. Soon afterward the building manager, a young man from Ghana named Godfred, knocked on our apartment door. He had seen a stack of books about Billy Graham outside the door and wondered if he could borrow Read more... The post Three Reasons Billy Graham Captured the World’s Attention appeared first on Christianity Today .",
+      "content_zh": "最近，我和妻子凯瑟琳搬进了我们家乡北卡罗来纳州卡里市的一个养老院。不久之后，大楼经理，一个来自加纳的名叫戈弗雷德的年轻人，敲了我们的公寓门。他在门外看到一堆关于比利·葛培理（ Billy Graham ）的书，想知道他是否可以借阅更多……帖子《比利·葛培理吸引世界注意力的三个原因》（ Three Reasons Billy Graham Captured the World's Attention ）首先出现在《今日基督教",
+      "image": "https://www.christianitytoday.com/wp-content/uploads/2026/11/billy-graham-legacy.jpg?resize=1200,628",
+      "author": "Grant Wacker",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "History",
+        "Billy Graham",
+        "Christian History"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-11T08:14:18.369769",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 5,
+        "domain": "christianitytoday.com"
+      },
+      "id": "4addd3d40bbfae2c"
+    },
+    {
+      "title": "More than 30 Killed in Latest ADF Attack",
+      "url": "https://persecution.org/2026/11/10/more-than-30-killed-in-latest-adf-attack/",
+      "category": "africa",
+      "source": "Persecution.org · 受逼迫教会见证",
+      "source_url": "https://www.persecution.org/feed/",
+      "published": "2026-11-11",
+      "summary": "Fear, bloodshed, and devastation have once again descended upon communities in eastern Democratic Republic of the Congo (DRC). The Allied Democratic Forces (ADF) stormed Cantine in the Madiwe sector of Beni territory, in the North Kivu Province during the night of Thursday, Nov. 5, into the early hours of Nov. 6, leaving civilians dead, homes…   The post  More than 30 Killed in Latest ADF Attack  first appeared on  International Christian Concern .",
+      "summary_zh": "刚果民主共和国东部的社区再次受到恐惧、流血和破坏。 民主同盟军(民主同盟军)于11月5日星期四夜间在北基伍省贝尼县马迪韦地段向11月初猛攻坎廷。\n\n6,让平民死亡,家园... 30多篇在最新ADF攻击中被击毙的文章,",
+      "title_zh": "在最近的ADF攻击中超过30人死亡",
+      "content": "Fear, bloodshed, and devastation have once again descended upon communities in eastern Democratic Republic of the Congo (DRC). The Allied Democratic Forces (ADF) stormed Cantine in the Madiwe sector of Beni territory, in the North Kivu Province during the night of Thursday, Nov. 5, into the early hours of Nov. 6, leaving civilians dead, homes burning, and an already vulnerable population gripped by terror. Justin Paluku, president of the Civil Society Forces Vives of Madiwe, confirmed that the provisional death toll stood at more than 30 civilians. “For families that went to bed hoping to wake up to another ordinary morning, the night turned into a nightmare of unimaginable suffering,” Paluku said. “We are deeply concerned about the safety of our population. Christian Civilians cannot continue living like prisoners in their own communities, constantly wondering when armed men will strike again. Our people deserve protection, peace and the freedom to live without fear.” Seeking Safety As news of the attack spread, residents began fleeing Cantine toward neighboring areas considered relatively safer. Children, women, and the elderly are among those facing the uncertainty of displacement, leaving behind homes, livelihoods, and personal belongings. For Christian survivors, the immediate concern is no longer what tomorrow will bring, but whether they will survive another attack . “We heard the sounds of violence, and fear immediately took control of us,” a survivor of the attack said. “We had no time to collect our belongings. All we wanted was to escape with our lives. We have lost our sense of security, and we do not know whether we will ever return to our homes again.” The reported burning of homes and looting of property represent more than material destruction. They strip Christian families of their dignity, deepen their vulnerability, and leave children exposed to hunger, insecurity, and psychological trauma. The wider Beni region has endured years of repeated attacks, killings, abductions, and displacement attributed to armed groups, particularly the ADF. Each new incident adds another painful chapter to the suffering of communities that continue to demand protection and justice. To read more news stories, visit the ICC Newsroom . For interviews, please email us . To support ICC’s work around the world, please give to our Where Most Needed Fund . The post More than 30 Killed in Latest ADF Attack first appeared on International Christian Concern .",
+      "content_zh": "刚果民主共和国东部的社区再次受到恐惧、流血和破坏。 民主同盟军(民主同盟军)于11月5日星期四夜间在北基伍省贝尼县马迪韦地段向11月初猛攻坎廷。\n\n6,造成平民死亡,房屋被烧毁,以及本已脆弱的民众被恐怖所困. Madiwe的民间社会力量活者组织主席Justin Paluku证实,临时死亡人数为30多名平民。 Paluku说,“对于希望醒来再过一个平凡的早晨而上床的家庭来说,夜晚变成了难以想象的痛苦的噩梦。”\n\n“我们对我国人民的安全深感关切。 基督教平民不能像囚犯一样继续生活在他们自己的社区,不断想,什么时候武装人员会再次出击.\n\n我们的人民应该得到保护、和平和无所畏惧地生活的自由。” 寻求安全 随着攻击消息的传出,居民们开始从Cantine逃到相对安全的邻近地区. 儿童、妇女和老年人是面临流离失所、留下家园、生计和个人物品等不确定因素的人。\n\n对基督教幸存者来说,眼前的关注不再是明天会带来什么,而是他们是否会在另一次袭击后幸存下来。 一位袭击幸存者说,“我们听到了暴力的声音,恐惧立即控制了我们。” “我们没有时间收集我们的物品。 我们想要的就是带着生命逃走\n\n我们失去了安全感,而且我们不知道我们是否会再次返回家园。” 据报告,焚烧房屋和抢劫财产不仅仅是物质破坏。 他们剥夺了基督教家庭的尊严,加深了他们的脆弱性,使儿童面临饥饿、不安全和心理创伤。\n\n更广大的贝尼地区多年来多次遭受武装团伙,特别是民主同盟军的袭击、杀戮、绑架和流离失所。 每一起新事件都给继续要求保护和正义的社区的痛苦增添了又一痛苦的篇章。 更多新闻报导, 采访,请通过电子邮件。\n\n支持电算中心在世界各地的工作, 30多篇在最新ADF攻击中被击毙的文章,",
+      "image": "https://persecution.org/wp-content/uploads/2026/11/DRC-attack-2.jpg",
+      "author": "commsmanager",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "ICC News",
+        "News & Reports",
+        "Newsroom & Reports"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-11T08:14:17.825589",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 7,
+        "domain": "persecution.org"
+      },
+      "id": "ddbbadffe5c94d22"
+    },
+    {
+      "title": "ADF Returns to Lubero, Spreading Fear Amid Ebola Crisis",
+      "url": "https://persecution.org/2026/11/05/adf-returns-to-lubero-spreading-fear-amid-ebola-crisis/",
+      "category": "africa",
+      "source": "Persecution.org · 受逼迫教会见证",
+      "source_url": "https://www.persecution.org/feed/",
+      "published": "2026-11-11",
+      "summary": "After nearly half a year away, fighters from the Allied Democratic Forces (ADF) have returned to Lubero territory in North Kivu, Democratic Republic of the Congo (DRC). On Tuesday morning, Nov. 3, the Islamic extremist ADF attacked Maikengu village, terrorizing the community. According to local authorities, “the attackers looted homes and businesses before setting fire to houses, shops,…   The post  ADF Returns to Lubero, Spreading Fear Amid Ebola Crisis   first appeared on  International Christ",
+      "summary_zh": "在将近半年后,民主同盟军的战斗人员已返回刚果民主共和国北基伍的卢贝罗县。 11月3日星期二上午,民主同盟军伊斯兰极端主义分子袭击了Maikengu村,恐吓社区。\n\n据地方当局称,“袭击者在放火焚烧房屋、商店之前,抢劫了房屋和企业......民主同盟军返回卢贝罗后,在埃博拉危机中散布恐惧。",
+      "title_zh": "民主同盟军重返卢贝罗，在埃博拉危机中散布恐惧",
+      "content": "After nearly half a year away, fighters from the Allied Democratic Forces (ADF) have returned to Lubero territory in North Kivu, Democratic Republic of the Congo (DRC). On Tuesday morning, Nov. 3, the Islamic extremist ADF attacked Maikengu village, terrorizing the community. According to local authorities, “the attackers looted homes and businesses before setting fire to houses, shops, and pharmacies. As news of the attack spread, residents began fleeing for safety. Some are heading toward Kambau and Nziapanda, leaving behind their homes and everything they worked hard to build. In this attack, one Christian was found killed with a machete alongside many others who remain untraceable.” For many families, this is another painful reminder that nowhere feels truly safe. While people are already worried about Ebola and the loss of loved ones due to this disease, they are now once again facing the fear of being killed, kidnapped, or forced to flee by Islamist terrorists. “We have already lost so much to Ebola disease, and now we are afraid of losing even more,” a woman named Jannette said. “Doctors, church leaders and local leaders are advising us to avoid crowded places, or avoid unnecessary visits, but today, with the new ADF attack, we were obliged to run for our lives. Every day, we worry about our families; we just want to live in peace and feel safe in our villages.” Renewed Trauma Maikengu is no stranger to this suffering because during the ADF’s first invasion of Bapere in June 2024, the ADF Islamist killed 42 people in many villages around it. The group’s return has reopened painful memories and renewed fears among residents who had hoped to rebuild their lives and worship God peacefully in their churches. The Congolese army has begun deploying troops to the area to stop the militants’ advance. However, for local Christians and other vulnerable civilians, the urgent need is for lasting protection, peace, and the chance to live without fear. The ADF’s return comes amid growing concerns over its activities in the region, including allegations that the group is exploiting local gold resources to finance its violence. According to a report by The Sentry , “the ADF generates approximately $1 million to $1.6 million annually from gold mines it controls in the Manguredjipa area alone, and it controls several other gold-rich territories. Abduction remains the backbone of the ADF’s manpower, supplying labor, recruits, and dependents, while reinforcing control through systematic violence.” To read more news stories, visit the ICC Newsroom . For interviews, please email us . To support ICC’s work around the world, please give to our Where Most Needed Fund . The post ADF Returns to Lubero, Spreading Fear Amid Ebola Crisis first appeared on International Christian Concern .",
+      "content_zh": "在将近半年后,民主同盟军的战斗人员已返回刚果民主共和国北基伍的卢贝罗县。 11月3日星期二上午,民主同盟军伊斯兰极端主义分子袭击了Maikengu村,恐吓社区。\n\n据地方当局称,“袭击者在放火焚烧房屋、商店和药店之前,抢劫了房屋和企业。 随着袭击消息的传出,居民开始为安全而出逃. 有些人正向坎包和恩齐阿潘达行进,留下了他们的家园和他们努力建造的一切。\n\n在这次袭击中,一名基督教徒被砍刀打死,还有许多人至今下落不明。” 对许多家庭来说,这是另一个痛苦的提醒,没有任何地方真正感到安全。 虽然人们已经担心埃博拉和由于这一疾病而失去亲人,但他们现在再次面临被伊斯兰恐怖分子杀害、绑架或被强迫逃离的恐惧。\n\n“我们已经因埃博拉疾病而损失了这么多,现在我们害怕失去更多,”一位叫Jannette的妇女说。 “医生、教会领导人和地方领导人建议我们避免拥挤的地方,或避免不必要的探访,但今天,随着民主同盟军的新袭击,我们不得不奔跑。 我们每天都在担心家人;\n\n我们只想和平地生活,在我们村庄中感到安全。” 由于民主同盟军于2024年6月第一次入侵巴佩尔,民主同盟军的伊斯兰教徒在附近许多村庄杀害了42人,所以再次遭受创伤的Maikengu并不陌生。\n\n该团体的返回使那些希望重建自己生活并和平地在教堂中崇拜上帝的居民重燃了痛苦的记忆和恐惧。 刚果军队已开始在该地区部署部队来阻止好战分子的前进。\n\n然而,对于当地基督徒和其他弱势平民来说,迫切需要持久的保护、和平和无所畏惧地生活的机会。 民主同盟军的返回正值人们对其在该地区的活动日益关切之时,包括据称该团体正在利用当地黄金资源来资助其暴力。\n\n根据《哨兵报》的一份报告,“民主同盟军从它仅控制Manguredjipa地区的金矿中每年产生大约100万至160万美元的收入,它控制着其他几个黄金丰富的领土。\n\n绑架仍然是民主同盟军提供劳动力、新兵和家属的骨干,同时通过系统的暴力加强控制。 更多新闻报导, 采访,请通过电子邮件。 支持电算中心在世界各地的工作,\n\n民主同盟军返回卢贝罗后,",
+      "image": "https://persecution.org/wp-content/uploads/2026/11/ADF-attack-DRC.jpg",
+      "author": "commsmanager",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "ICC News",
+        "News & Reports",
+        "Newsroom & Reports"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-11T08:14:20.740974",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 7,
+        "domain": "persecution.org"
+      },
+      "id": "5a25003b54d7996d"
+    },
+    {
+      "title": "Félix Lungu : É muito difícil ser cristão em países fundamentais",
+      "url": "https://sol.iol.pt/sociedade/noticias/felix-lungu-e-muito-dificil-ser-cristao-em-paises-fundamentais/20261021/6ad864020cf23b0ed4fdedbb",
+      "category": "africa",
+      "source": "GDELT · 受逼迫教会",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-10-21",
+      "summary": "É a maior comunidade religiosa, mas também a mais perseguida do mundo. Os cristãos são notícia quase diariamente por serem alvo de ataques ou assassínios; ou por as suas instalações e símbolos terem s",
+      "summary_zh": "É a maior comunidade religiosa, mas também a mais perseguida do mundo. Os cristãos são notícia quase diariamente por serem alvo de ataques ou assassínios ； ou por as suas instalações e símbolos terem s",
+      "title_zh": "Félix Lungu ： É muito difícil ser cristão em países fundamentais",
+      "content": "É a maior comunidade religiosa, mas também a mais perseguida do mundo. Os cristãos são notícia quase diariamente por serem alvo de ataques ou assassínios; ou por as suas instalações e símbolos terem sido danificados. Só em setembro, o Observatory on Intolerance and Discrimination against Christians dá conta de 30 casos na Europa, entre atos de vandalismo a igrejas, cemitérios, ataques a sacerdotes - um foi assassinado - ou mesmo a discriminação profissional por se ser cristão. Se a Nigéria é considerada o país mais perigoso para os católicos, o México é o inferno para padres, pois é aí que mais são assassinados. O Nascer do SOL entrevista Félix Lungu, um romeno a viver em Portugal há 31 anos, porta-voz, em Portugal, da fundação Ajuda à Igreja que Sofre (AIS). Esta organização faz relatórios sobre a liberdade religiosa no mundo, e tenta explicar onde as religiões são mais perseguidas e quais os desafios que enfrentam, com especial ênfase na Igreja Católica. Félix Langu, à semelhança dos seus chefes - a organização tem sede na Alemanha -, procura não alimentar divisões, mas é impossível fugir a factos: no Paquistão, só muito recentemente é que os empresários do lixo deixaram de recrutar obrigatoriamente cristãos; não faltam países fundamentalistas onde meninas de 10 anos são violadas e obrigadas a casar, ‘adquirindo’ automaticamente a religião islâmica; e são ainda muitas as nações onde os católicos não podem desempenhar cargos na função pública. O Vaticano calcula que, anualmente, são mortos cerca de cinco mil cristãos, mas a liberdade religiosa afeta também os muçulmanos moderados, que são alvo da ira dos fundamentalistas, acabando muitos deles assassinados. Qual o papel da Fundação Ajuda à Igreja que Sofre? A Ajuda à Igreja que Sofre, fundação Pontifícia, é uma organização que tem quase 80 anos e foi criada na Alemanha. Nasceu no final da Segunda Guerra Mundial para ajudar os refugiados alemães que se deslocavam pela Europa. Depois, pouco a pouco, ajudou cristãos dos países do Leste, por causa do comunismo, do ateísmo, de toda essa situação. Ou seja, não somos como a Cáritas, ou outras ONGs, no sentido de dar ajuda social, ou educação, ou saúde. Também chegamos a estas áreas, o foco, contudo, é a ajuda pastoral, ajudar a Igreja, ajudar sacerdotes, construir igrejas, formação de seminaristas, ajudar nas missões os missionários, com carros, com rádios, televisões, bíblias, o que é necessário para fazer a evangelização. Basicamente é isso e estamos em 24 países. A sede é na Alemanha, onde se faz a gestão de tudo isso. E nos outros 24 secretariados fazemos a angariação de fundos. Para fazer a angariação de fundos é preciso saber por que se pede dinheiro, por que se pede esta ajuda. Temos três pilares, digamos assim, da nossa missão: informar, rezar e ajudar. Informar é tentar dizer qual é a situação no mundo, sobretudo onde há carências, que tipo de carências, sempre com foco nesta dimensão pastoral ou de evangelização. Nos últimos anos, a Ajuda à Igreja que Sofre dedica-se ao estudo ou análise da situação da liberdade religiosa no mundo. Porque se nós somos uma organização da Igreja, e se temos parceiros em todo o mundo, em 186 países, é importante saber onde há carências, que tipo de carências são. E temos percebido que, por exemplo, no Médio Oriente, junto com as carências materiais, falta de escola, de saúde, da alimentação, há também esta dimensão da perseguição. Falta algo que valorizamos muito, que é a questão da liberdade religiosa, dos direitos, que estão valorizados no ocidente. O que fazem nesses países onde os cristão são perseguidos? Na Arábia Saudita, por exemplo, não há hipótese de haver uma igreja? Não, na Arábia Saudita não temos uma presença. A única presença nesses países é através da representação consular. É na capela de uma embaixada, por exemplo, de França ou de Itália, que se pode celebrar a missa, porque não há possibilidade de ter uma igreja na Arábia Saudita. Considerado o país do profeta, terra sagrada",
+      "content_zh": "宗教事务委员会(maior communidade religiosa, mas também a mais perseguida do mundo)是法国的宗教事务委员会(maior communidade religiosa, mas também a mais perseguida do mundo.),简称\"宗教事务委员会\"(mais perseguida do mundo.). os cristãos são Notícia squase diariamente por serem alvo de ataques ou assassínios; ou por as suas instalações e símbolos terem sido danificados. 中国植物物种信息数据库.\n\nSó em setembro, 《对基督教徒的不容忍和歧视观察》, 30 casos na Europa, entre atos de surfaceo a igrejas, cemitérios, ataques a sacerdotes - um foi assetrado - ou mesmo a discriminationaço por se ser cristão。\n\na Nigéria e considerada o país mais perigoso para os católicos, o México o inferno para perres, pouis é que mais são sasseriados. 中国植物物种信息数据库. O Nascer do SOL Entervista Félix Lungu, um romeno a viver em Portugal há 31 anos, porta-voz, em Portugal, da fundação Ajuda à Igreja que Sofre (AIS).\n\nfélix Langu, de semelhança dos seus Cespees -- -- 一个组织 -- -- 一个组织 -- -- Procura não alimentar divisães, mas é impossível fugir a factors: no Paquistão, só mito e que que que empresários do lixo deixaram de rerrutar obrigatoriamente cristãos; 互联网档案馆的存檔,存档日期2013-12-03-04.\n\ne são ainda muitas as de os católicos não podem desempenhar grops na função pública.\n\n(原始内容存档于2018-06-26) (英语). Nasseu no final da Segunda Guerra Mundial para audar os refugiados alemães que se deslocavam pela Europa. Depois, pouco a pouco, ajudou cristãos dos país do Eastyp, por causa do commoniso, do ateísmo, de toda essa siteação. 中国植物物种信息数据库. o seja, não somos como a Cáritas, ou extras ONGs, no sentido de dar ajuda social, ou educação, ou saúde. 中国主题 政治主题\n\nTambém chegamos a estas áreas, o foco, contudo, é ajuda 牧地, a judar a Igreja, a judar sacerdotes, construel igrejas, formação de leministas, a judar smiss os missários, com carros, com rádios, terovises, bíblias, o que é necessário para fazer a evngelização. Basicamente é isso e estamos em 24 países. 中国植物物种信息数据库. 阿勒曼哈之地,阿勒曼哈之地,阿勒曼哈之地,\n\nE nos outros 24 seculariados fazemos a agariação de fundos. 中国植物物种信息数据库. (原始内容存档于2018-09-25) (英语). Para fazer a angariação de fundos é preciso saber por que s pede dinheiro, por que se pede esta ajuda. Temos três pilares, digamos assim, da nossa missão: 告密者, rezar e judar.\n\n(原始内容存档于2018-06-29) (英语). Informer é tentar dizer qual é site a site ação no mundo, sobretudo on de há carências, que tipo de carências, sempre com foco colesa fentnsão derser ou de evengerização. (原始内容存档于2018-09-25). Nos últimos anos, a Ajuda à Igreja que Sofre dedica-se ao estudo ou análise da siteação da liberdade religiosa no mundo.\n\nigreja, e se temos parceiros em todo o mundo, em 186 países, é saber onde há carências, que tipo de carências são. (原始内容存档于2013-10-12). Etemos percebido que, por exemplo, no Médio Oriente, junto com as carências materiais, falta de escola, de saude, da alimentação, hátam esta dinesão da perseguição.\n\nfalta algo que valorizamos mito, que as a trustão da liberdade religiosa, dos deritos, que estão valorizados no cociente. 中国植物物种信息数据库. 爱的爱的爱的爱的爱的爱? Na Arábia Saudita, por exemplo, não há hóótese de harer uma igreja? 萨德塔, por exemplo, não há hiótese de humar uma igreja? 萨德塔, 萨德塔 萨德塔, por exemplo, não há hiótese de humar uma igreja? (原始内容存档于2018-10-21). Não, na Arábia Saudita não temos uma presença. 代表领馆。\n\n(原始内容存档于2013-12-10). É na capela de uma embaixada, por exemplo, de França ou de Itália, que se colebrar a missa, porque não há possibilidade de ter uma igreja na Arábia Saudita. 考虑 o país do profeta, terra sagrada (英语).",
+      "image": "https://img.iol.pt/preset/6ad863f00cf299bc29542d62/og/sol",
+      "author": "sol.iol.pt",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "逼迫"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:51.296639",
+      "extra": {
+        "provider": "gdelt",
+        "query": "persecuted Christian testimony",
+        "domain": "sol.iol.pt",
+        "story_score": 12
+      },
+      "id": "104b4ba98b233c8c"
     },
     {
       "title": "Bear Grylls: 'Sharing the story of Jesus is the proudest thing I've ever done'",
@@ -206,7 +345,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:22:58.225826",
+      "fetched_at": "2026-11-11T08:14:22.010043",
       "extra": {
         "provider": "google_news",
         "query": "Christian testimony South Africa story",
@@ -217,6 +356,80 @@
         "domain": "news.google.com"
       },
       "id": "f79e110c9ed21ba3"
+    },
+    {
+      "title": "De Cabo Delgado para o Mundo: o testemunho do bispo Luiz Lisboa em Moçambique",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGEyazF3RlZYWUZmTmlwX1NkMkxlelhXemVZYWJENTNya2FCZFN0bjc2OXZSRlRGX0dfZjZscm04NmVsT2RHX1p1VnJia2JwQ3hmRzI0WEZWa0NSSWd6Q2x5czhKNnNYMDhjeWpNdEh0MHQyeEtHdExpeGtQSTJiRTNXVGRyaTEybzJLZXN6c0ZKS0ZHSXhORXJsbEN6YUZHZklB?oc=5",
+      "category": "africa",
+      "source": "葡语非洲／巴西宣教见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2025-01-17",
+      "summary": "De Cabo Delgado para o Mundo: o testemunho do bispo Luiz Lisboa em Moçambique Sete Margens",
+      "summary_zh": "从德尔加多角到世界：路易斯·里斯本主教在莫桑比克的见证",
+      "title_zh": "从德尔加多角到世界：路易斯·里斯本主教在莫桑比克的见证",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Sete Margens",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "见证"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:23.800761",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionário África testemunho história",
+        "publisher": "Sete Margens",
+        "google_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGEyazF3RlZYWUZmTmlwX1NkMkxlelhXemVZYWJENTNya2FCZFN0bjc2OXZSRlRGX0dfZjZscm04NmVsT2RHX1p1VnJia2JwQ3hmRzI0WEZWa0NSSWd6Q2x5czhKNnNYMDhjeWpNdEh0MHQyeEtHdExpeGtQSTJiRTNXVGRyaTEybzJLZXN6c0ZKS0ZHSXhORXJsbEN6YUZHZklB?oc=5",
+        "resolved": false,
+        "story_score": 11,
+        "domain": "news.google.com"
+      },
+      "id": "33b3b9ab79e91901"
+    },
+    {
+      "title": "Testemunhos de vidas entregues: vitalidade missionária e vocacional de Angola",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDJoS0VrSmZkUlJWdjNETGM5VmFyZ04zdm1BM19vcEYzWGRldHktUHE1SkNJVWdPNW5jcjRnOUt6QVc4Z1dzd3VjMGtjdjdEVmVRTGxDVEVNUVlqQldzaTdTOXlVeWVPNENMVHNKazJqN290WjBhcElCSmUxREU5MVlXSEF6Z1NING90bnpuYU1oNFpiYjBzQUdSLThBZlJKTUpxVkQ5OEVuLW90TEZRSVExeHF3NTE0V0E?oc=5",
+      "category": "africa",
+      "source": "葡语非洲／巴西宣教见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2022-08-18",
+      "summary": "Testemunhos de vidas entregues: vitalidade missionária e vocacional de Angola Vatican News",
+      "summary_zh": "生命的见证：安哥拉的传教士和职业活力梵蒂冈新闻",
+      "title_zh": "生活见证：安哥拉的传教士和职业活力",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Vatican News",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "见证"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:23.615580",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionário África testemunho história",
+        "publisher": "Vatican News",
+        "google_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDJoS0VrSmZkUlJWdjNETGM5VmFyZ04zdm1BM19vcEYzWGRldHktUHE1SkNJVWdPNW5jcjRnOUt6QVc4Z1dzd3VjMGtjdjdEVmVRTGxDVEVNUVlqQldzaTdTOXlVeWVPNENMVHNKazJqN290WjBhcElCSmUxREU5MVlXSEF6Z1NING90bnpuYU1oNFpiYjBzQUdSLThBZlJKTUpxVkQ5OEVuLW90TEZRSVExeHF3NTE0V0E?oc=5",
+        "resolved": false,
+        "story_score": 11,
+        "domain": "news.google.com"
+      },
+      "id": "2df7370bcb7b6ae1"
     },
     {
       "title": "Historic commitment signed to send missionaries from Asia to Africa - International Mission Board",
@@ -243,7 +456,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:39.189631",
+      "fetched_at": "2026-11-11T08:15:04.445417",
       "extra": {
         "provider": "google_news",
         "query": "missionary Africa testimony",
@@ -280,7 +493,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:22:56.766569",
+      "fetched_at": "2026-11-11T08:14:20.325769",
       "extra": {
         "provider": "google_news",
         "query": "missionary Nigeria testimony story",
@@ -291,6 +504,119 @@
         "domain": "news.google.com"
       },
       "id": "d883da2efb122df2"
+    },
+    {
+      "title": "A vida de uma jovem missionária em Moçambique – país africano que voltou a ser alvo de ataques terroristas desde 2017",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOZ3Izcnlfd3lSN21jNExyYUVCemRlaFo4TWIzLWlaVGtvQ3BidUZHMndJeWR0NWlXdUZVZW1maDFESTVNcllidVZ0a2xfM1k5NlVWQnI3R1FESkcwZUpONHJBSmpVQkU2N3RNcWU3NFNGMEdiYzVsZVBHT2FmQ0hyMXV0X1hQTkhZVXdRV3djU2pMd0d1bU9PMXd6c3R5VzYwaHQ3X2dEZ0owZnpreE9RWWZTY3VnUGtMN3VzMmtmSlpYRmJ6WmZrSS1OSTFtQU8xTmhMaHpOS2tiRXJPMkVSOHhXTDFIYnE4RmNhNGR2cEpjMmRucHYwZWNvMkRoT1BvV3RtcFZWM0l4QnVDQ1pwRjFMWUlkNkJMNGxMbGotZk80ZkZIazlOMzg3c2VUd1VzNU1WZVFR?oc=5",
+      "category": "africa",
+      "source": "葡语非洲／巴西宣教见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2021-06-25",
+      "summary": "A vida de uma jovem missionária em Moçambique – país africano que voltou a ser alvo de ataques terroristas desde 2017 CNBB",
+      "summary_zh": "一名年轻传教士在莫桑比克的生活--自2017年以来，莫桑比克再次成为恐怖袭击的目标",
+      "title_zh": "一名年轻传教士在莫桑比克的生活--自2017年以来，莫桑比克再次成为恐怖袭击的目标",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "CNBB",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "非洲宣教"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:23.224979",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionário África testemunho história",
+        "publisher": "CNBB",
+        "google_url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOZ3Izcnlfd3lSN21jNExyYUVCemRlaFo4TWIzLWlaVGtvQ3BidUZHMndJeWR0NWlXdUZVZW1maDFESTVNcllidVZ0a2xfM1k5NlVWQnI3R1FESkcwZUpONHJBSmpVQkU2N3RNcWU3NFNGMEdiYzVsZVBHT2FmQ0hyMXV0X1hQTkhZVXdRV3djU2pMd0d1bU9PMXd6c3R5VzYwaHQ3X2dEZ0owZnpreE9RWWZTY3VnUGtMN3VzMmtmSlpYRmJ6WmZrSS1OSTFtQU8xTmhMaHpOS2tiRXJPMkVSOHhXTDFIYnE4RmNhNGR2cEpjMmRucHYwZWNvMkRoT1BvV3RtcFZWM0l4QnVDQ1pwRjFMWUlkNkJMNGxMbGotZk80ZkZIazlOMzg3c2VUd1VzNU1WZVFR?oc=5",
+        "resolved": false,
+        "story_score": 5,
+        "domain": "news.google.com"
+      },
+      "id": "b0fcbcce4182adf3"
+    },
+    {
+      "title": "Soudan du Sud – Le témoignage du P. Nakholi : « Servir les jeunes pauvres, en particulier les lépreux de Tonj, m'a donné beaucoup de bonheur » - ANS",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMGlod3IxYWdlX3RuZC0tYkNNSUQ4WWt5TmVlSC13c1R1dnFQOFJrWlUxemxnRkZuTVlJak9BRzRaVjhMT0FNWThYcWU0OWF5ZVprWlVpcTFNYndQWVJ2RzhtOTI5R0w0akVLWm9lRWQ4TGk1eHlRU1NnUV9SbDd0Rjh4VjY1eDhYOFVUam9fSzVkWEItb0xGa21ZNVFsd2Z5NmxndVBDWHBKaHJPN2JsSUpCdGRxSHVMNWZWNzY3VzFBbWtPRjVsTWVsTXR1ckhHdjdaWHBOdGJ6cDhORXg4dzJLSUlZY3NDaDRHUHRxbGZ3QXQzaUtkemNvSHNxdWpmODZlY1owdEhXN2RUWU8xbVM0cy03ZDBT?oc=5",
+      "category": "africa",
+      "source": "法语非洲见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2021-06-03",
+      "summary": "Soudan du Sud – Le témoignage du P. Nakholi : « Servir les jeunes pauvres, en particulier les lépreux de Tonj, m'a donné beaucoup de bonheur » ANS - Agenzia iNfo Salesiana",
+      "summary_zh": "南苏丹– Nakholi神父的证词： “为贫穷的年轻人，特别是Tonj的麻风病人服务，给了我很多幸福” - Agenzia iNfo Salesiana",
+      "title_zh": "南苏丹– Nakholi神父的证词： “为贫穷的年轻人，特别是Tonj的麻风病人服务，给了我很多幸福” -",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Agenzia iNfo Salesiana",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "见证",
+        "医疗"
+      ],
+      "language": "fr",
+      "country": "SN",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:22.350812",
+      "extra": {
+        "provider": "google_news",
+        "query": "témoignage missionnaire Afrique histoire",
+        "publisher": "Agenzia iNfo Salesiana",
+        "google_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMGlod3IxYWdlX3RuZC0tYkNNSUQ4WWt5TmVlSC13c1R1dnFQOFJrWlUxemxnRkZuTVlJak9BRzRaVjhMT0FNWThYcWU0OWF5ZVprWlVpcTFNYndQWVJ2RzhtOTI5R0w0akVLWm9lRWQ4TGk1eHlRU1NnUV9SbDd0Rjh4VjY1eDhYOFVUam9fSzVkWEItb0xGa21ZNVFsd2Z5NmxndVBDWHBKaHJPN2JsSUpCdGRxSHVMNWZWNzY3VzFBbWtPRjVsTWVsTXR1ckhHdjdaWHBOdGJ6cDhORXg4dzJLSUlZY3NDaDRHUHRxbGZ3QXQzaUtkemNvSHNxdWpmODZlY1owdEhXN2RUWU8xbVM0cy03ZDBT?oc=5",
+        "resolved": false,
+        "story_score": 5,
+        "domain": "news.google.com"
+      },
+      "id": "b05a4b3886d7a096"
+    },
+    {
+      "title": "AFRIQUE - Journée des vocations : pour les Comboniens \"le bon témoignage est contagieux",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN2lLSUwxYnBQRVpvLUk5M1FueF9ZRWN5azF2V2JyVXdWLVZ1ejlJaXdTanVqUVFwUjRDVXY3ZUFnci1BX0praUFkNkVNU01XbHJ2MnhyQXZ6ZkJ2QUFfMHVLdnFNcmhqYllONEQ0N2haRDFxbjNsZ3ZJRWRma0UxRUNnOHcySVhOS2RuRU85S25wcUtLcHJORVB0Z1MwXzBlTThYS2p1dm94ejJxUS13RXE3N09PRklqVEE?oc=5",
+      "category": "africa",
+      "source": "法语非洲见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2021-04-24",
+      "summary": "AFRIQUE - Journée des vocations : pour les Comboniens \"le bon témoignage est contagieux Agenzia Fides",
+      "summary_zh": "非洲-职业日：对于Comboni人来说，良好的证词具有传染性Agenzia Fides",
+      "title_zh": "非洲-职业日：对于Comboni人来说，良好的证词具有传染性",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Agenzia Fides",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "非洲宣教",
+        "见证"
+      ],
+      "language": "fr",
+      "country": "SN",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:21.622269",
+      "extra": {
+        "provider": "google_news",
+        "query": "témoignage missionnaire Afrique histoire",
+        "publisher": "Agenzia Fides",
+        "google_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN2lLSUwxYnBQRVpvLUk5M1FueF9ZRWN5azF2V2JyVXdWLVZ1ejlJaXdTanVqUVFwUjRDVXY3ZUFnci1BX0praUFkNkVNU01XbHJ2MnhyQXZ6ZkJ2QUFfMHVLdnFNcmhqYllONEQ0N2haRDFxbjNsZ3ZJRWRma0UxRUNnOHcySVhOS2RuRU85S25wcUtLcHJORVB0Z1MwXzBlTThYS2p1dm94ejJxUS13RXE3N09PRklqVEE?oc=5",
+        "resolved": false,
+        "story_score": 5,
+        "domain": "news.google.com"
+      },
+      "id": "6ab5b75c7e85f9be"
     },
     {
       "title": "AFRICA/MOROCCO - Testimony of three nuns of the Missionary Company of the Sacred Heart of Jesus and their friendship with the Muslims of Taza",
@@ -318,7 +644,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:39.189736",
+      "fetched_at": "2026-11-11T08:15:04.445584",
       "extra": {
         "provider": "google_news",
         "query": "missionary Africa testimony",
@@ -329,6 +655,120 @@
         "domain": "news.google.com"
       },
       "id": "443a06a4db933562"
+    },
+    {
+      "title": "AFRIQUE/MAROC - Témoignage de trois religieuses de la Compagnie missionnaire du Sacré-Cœur de Jésus et leur amitié avec les musulmans de Taza",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVnJKWDlTdDB3TGNmN1YwSXZYY3pZV3JDcTFjdXZxUngyWFd4RHdiLS1hM1d6Z1NwUGpHZHVyXzdUOHdvQ284REloc0RGYXI3ZHI1bHJJUW5VclhfY1pZbGRmdy13Q2Z6cTAzVEtUc3VuSGRjRm5oNnZrc25SZGVVaDNqWUxzc3hOd2RTb0lZdXlkZ3NpWG13Y2NhV2hCWDJiR25KekJsWFUzQkZhVl9tdHJ6c1F5d1FnQ0t4YzJuVkhkMEdBU3d5dHZCSGJhSkd6eDBId1QyTWpSSlV6U29hd0xWdjFiUjlSNk5vWHBJTWJEaS1nbXlHeENCSnp1THQ4RDVaT2liWQ?oc=5",
+      "category": "africa",
+      "source": "法语非洲见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2021-03-11",
+      "summary": "AFRIQUE/MAROC - Témoignage de trois religieuses de la Compagnie missionnaire du Sacré-Cœur de Jésus et leur amitié avec les musulmans de Taza Agenzia Fides",
+      "summary_zh": "非洲/摩洛哥-耶稣圣心传教士公司的三位修女的见证以及他们与塔扎阿根齐亚信仰穆斯林的友谊",
+      "title_zh": "非洲/摩洛哥-耶稣圣心传教团三位修女的见证以及他们与塔扎穆斯林的友谊",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Agenzia Fides",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "非洲宣教",
+        "见证"
+      ],
+      "language": "fr",
+      "country": "SN",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:22.614956",
+      "extra": {
+        "provider": "google_news",
+        "query": "témoignage missionnaire Afrique histoire",
+        "publisher": "Agenzia Fides",
+        "google_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVnJKWDlTdDB3TGNmN1YwSXZYY3pZV3JDcTFjdXZxUngyWFd4RHdiLS1hM1d6Z1NwUGpHZHVyXzdUOHdvQ284REloc0RGYXI3ZHI1bHJJUW5VclhfY1pZbGRmdy13Q2Z6cTAzVEtUc3VuSGRjRm5oNnZrc25SZGVVaDNqWUxzc3hOd2RTb0lZdXlkZ3NpWG13Y2NhV2hCWDJiR25KekJsWFUzQkZhVl9tdHJ6c1F5d1FnQ0t4YzJuVkhkMEdBU3d5dHZCSGJhSkd6eDBId1QyTWpSSlV6U29hd0xWdjFiUjlSNk5vWHBJTWJEaS1nbXlHeENCSnp1THQ4RDVaT2liWQ?oc=5",
+        "resolved": false,
+        "story_score": 12,
+        "domain": "news.google.com"
+      },
+      "id": "aa15455719e2eda1"
+    },
+    {
+      "title": "L’histoire de sang, de sueur, de larmes derrière les vocations grandissantes de l'Afrique : Le témoignages de spiritains",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY2pIR3p3QTkzck4zdl9mRUc5Ylp6Ul9RVXd6OElTUzNMT0xDUk9uMUJLWWtZZGM2eU9OVW0xeU9jQVVqNFp2dnNOS09vMTg2YVNObEM2bF9HZ0UxZEg5RlpZbU9qRDBEcnhsYU9BQ3FEV2hYTjc4eDg3WHZ6cE4yRFl4U1FBamlDSVIyVlJianJEd1RMYnF2YjN0cWJZZjBhRjJxS1B6YTR0UGNTMXhVdXhzbWJhRGVOajJaMFVrTE9wUW1NZnFQTHQ4YjlQcDlJVXBYSVZFbFlJMVlTT2NlZVBkbmxxQdIB6wFBVV95cUxOMk92TTkzZF9ITnhidWJYR3pDWmNFUlhqUFpScXpVSGRWaWVRd3JDT2tNSU1VWXNxb3lVVnpHWFgzY2ZOMDY2SlN6b0RjXzRyX3N0RE1PZmNJRHc0TExTSS16Nzl1cW1jN08yLTZVb0UwbDhlVVlTZnRzeV9NOU5USFRybTduT2NBeVBWY1E3NmtCSlRTSVI5SEttYTJGSXE3bGdYc0ZWLWFxVDAzTXZHbEhVelNXeFNjU3RDRVI3WXdReWlkSWRZcjE2d0hPM2UzRS1XWkxkN19HNG82d2xmeFIzdkZQV1htZU1Z?oc=5",
+      "category": "africa",
+      "source": "法语非洲见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2020-09-25",
+      "summary": "L’histoire de sang, de sueur, de larmes derrière les vocations grandissantes de l'Afrique : Le témoignages de spiritains ACI Afrique",
+      "summary_zh": "非洲不断增长的职业背后的鲜血、汗水和眼泪的故事： Spiritains ACI Africa的证词",
+      "title_zh": "非洲不断增长的职业背后的鲜血、汗水和眼泪的故事：灵性的见证",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "ACI Afrique",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "非洲宣教",
+        "见证"
+      ],
+      "language": "fr",
+      "country": "SN",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:21.754536",
+      "extra": {
+        "provider": "google_news",
+        "query": "témoignage missionnaire Afrique histoire",
+        "publisher": "ACI Afrique",
+        "google_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY2pIR3p3QTkzck4zdl9mRUc5Ylp6Ul9RVXd6OElTUzNMT0xDUk9uMUJLWWtZZGM2eU9OVW0xeU9jQVVqNFp2dnNOS09vMTg2YVNObEM2bF9HZ0UxZEg5RlpZbU9qRDBEcnhsYU9BQ3FEV2hYTjc4eDg3WHZ6cE4yRFl4U1FBamlDSVIyVlJianJEd1RMYnF2YjN0cWJZZjBhRjJxS1B6YTR0UGNTMXhVdXhzbWJhRGVOajJaMFVrTE9wUW1NZnFQTHQ4YjlQcDlJVXBYSVZFbFlJMVlTT2NlZVBkbmxxQdIB6wFBVV95cUxOMk92TTkzZF9ITnhidWJYR3pDWmNFUlhqUFpScXpVSGRWaWVRd3JDT2tNSU1VWXNxb3lVVnpHWFgzY2ZOMDY2SlN6b0RjXzRyX3N0RE1PZmNJRHc0TExTSS16Nzl1cW1jN08yLTZVb0UwbDhlVVlTZnRzeV9NOU5USFRybTduT2NBeVBWY1E3NmtCSlRTSVI5SEttYTJGSXE3bGdYc0ZWLWFxVDAzTXZHbEhVelNXeFNjU3RDRVI3WXdReWlkSWRZcjE2d0hPM2UzRS1XWkxkN19HNG82d2xmeFIzdkZQV1htZU1Z?oc=5",
+        "resolved": false,
+        "story_score": 14,
+        "domain": "news.google.com"
+      },
+      "id": "64c3e4b1e32c3fd6"
+    },
+    {
+      "title": "AFRIQUE/CAMEROUN - Témoignage des missionnaires clarétains libérés après leur enlèvement",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUxDTURhSnRVbmhxZUZKemlPM0g5SHktM242RWlNVnZWcXp4OFhzMmlybVh4WEt2OXUyNXJ4b3BkdXBaSlEwa2lQMFI5aXI0X2g4VVBRd3V0MnIxUWplRkllbFlQQTZKMTZLOTBraEZ3Z3VrZDhRSHc2alJiV3JpNGU3OWJuV1ZWUUtqcDY4U2YxNmdFT0N2eHZZQkV5U3pQaVltN3c0bVF2d04zRXdpb19ma0hGUjR1YkZtZW52MA?oc=5",
+      "category": "africa",
+      "source": "法语非洲见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2018-11-30",
+      "summary": "AFRIQUE/CAMEROUN - Témoignage des missionnaires clarétains libérés après leur enlèvement Agenzia Fides",
+      "summary_zh": "非洲/喀麦隆-克拉雷特传教士在被绑架后获释的证词",
+      "title_zh": "非洲/喀麦隆-克拉雷特传教士被绑架后获释的证词",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Agenzia Fides",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "非洲宣教",
+        "见证"
+      ],
+      "language": "fr",
+      "country": "SN",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:22.762224",
+      "extra": {
+        "provider": "google_news",
+        "query": "témoignage missionnaire Afrique histoire",
+        "publisher": "Agenzia Fides",
+        "google_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUxDTURhSnRVbmhxZUZKemlPM0g5SHktM242RWlNVnZWcXp4OFhzMmlybVh4WEt2OXUyNXJ4b3BkdXBaSlEwa2lQMFI5aXI0X2g4VVBRd3V0MnIxUWplRkllbFlQQTZKMTZLOTBraEZ3Z3VrZDhRSHc2alJiV3JpNGU3OWJuV1ZWUUtqcDY4U2YxNmdFT0N2eHZZQkV5U3pQaVltN3c0bVF2d04zRXdpb19ma0hGUjR1YkZtZW52MA?oc=5",
+        "resolved": false,
+        "story_score": 8,
+        "domain": "news.google.com"
+      },
+      "id": "3f1b86a8409f36e0"
     }
   ]
 }

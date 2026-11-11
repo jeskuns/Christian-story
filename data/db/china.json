@@ -1,8 +1,8 @@
 {
   "category": "china",
   "label": "中国故事",
-  "count": 2,
-  "updated_at": "2026-11-11T15:26:34.122755+08:00",
+  "count": 3,
+  "updated_at": "2026-11-11T16:21:50.152969+08:00",
   "articles": [
     {
       "title": "Chinese church elder released after 16 months, two pastors remain jailed",
@@ -21,7 +21,6 @@
       "tags": [
         "中国",
         "中国故事",
-        "逼迫",
         "Persecution",
         "persecution china",
         "china persecution of christians"
@@ -32,10 +31,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:55.445234",
+      "fetched_at": "2026-11-11T08:14:17.587883",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 5,
+        "story_score": 7,
         "domain": "assistnews.net"
       },
       "id": "cd253f2a2afdffe2"
@@ -67,13 +66,48 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:23:02.443522",
+      "fetched_at": "2026-11-11T08:14:22.479983",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
         "domain": "banneroftruth.org"
       },
       "id": "0d2df85f695a0c13"
+    },
+    {
+      "title": "Why does China still regard woman executed in 1968 a threat?",
+      "url": "https://www.assistnews.net/why-does-china-still-regard-woman-executed-in-1968-a-threat/",
+      "category": "china",
+      "source": "Assist News Service · 宣教通讯",
+      "source_url": "https://www.assistnews.net/feed/",
+      "published": "2026-11-11",
+      "summary": "By Josh Shepherd — Nearly six decades after Mao Zedong’s government executed Lin Zhao, a 36-year-old Christian journalist who stood against Communist rule, Chinese authorities still regard her as a threat. “Lin Zhao poses a serious challenge to the Chinese regime,” said historian Lian Xi, a distinguished professor of world Christianity at Duke Divinity School […]",
+      "summary_zh": "乔希·谢泼德（ Josh Shepherd ） —在毛泽东政府处决了反对共产党统治的36岁基督教记者林昭（ Lin Zhao ）近六十年后，中国当局仍然将她视为威胁。“林昭对中国政权提出了严峻挑战，”杜克神学院世界基督教杰出教授、历史学家连熙说。[…]",
+      "title_zh": "为什么中国仍然认为1968年被处决的妇女是一种威胁？",
+      "content": "By Josh Shepherd — Nearly six decades after Mao Zedong’s government executed Lin Zhao, a 36-year-old Christian journalist who stood against Communist rule, Chinese authorities still regard her as a threat. “Lin Zhao poses a serious challenge to the Chinese regime,” said historian Lian Xi, a distinguished professor of world Christianity at Duke Divinity School […]",
+      "content_zh": "乔希·谢泼德（ Josh Shepherd ） —在毛泽东政府处决了反对共产党统治的36岁基督教记者林昭（ Lin Zhao ）近六十年后，中国当局仍然将她视为威胁。“林昭对中国政权提出了严峻挑战，”杜克神学院世界基督教杰出教授、历史学家连熙说。[…]",
+      "image": "https://www.assistnews.net/wp-content/uploads/2024/02/assistnewslogo-350x92.png",
+      "author": "Mark Ellis",
+      "tags": [
+        "中国",
+        "中国故事",
+        "Persecution",
+        "persecution china",
+        "lin zhao freedom award"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-11T08:14:17.088432",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "assistnews.net"
+      },
+      "id": "2a7509a26f5b5d21"
     }
   ]
 }

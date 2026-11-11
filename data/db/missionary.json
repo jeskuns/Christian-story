@@ -1,8 +1,8 @@
 {
   "category": "missionary",
   "label": "宣教士故事",
-  "count": 18,
-  "updated_at": "2026-11-11T15:26:34.119497+08:00",
+  "count": 40,
+  "updated_at": "2026-11-11T16:21:50.145114+08:00",
   "articles": [
     {
       "title": "How We Saw God’s Goodness Through Our Child’s Cancer",
@@ -33,10 +33,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:52.720853",
+      "fetched_at": "2026-11-11T08:14:15.786763",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 9,
+        "story_score": 15,
         "domain": "thegospelcoalition.org"
       },
       "id": "148dcf893fa7cf8a"
@@ -58,7 +58,6 @@
       "tags": [
         "全球",
         "宣教士故事",
-        "孤儿",
         "祷告",
         "家庭",
         "Biblical Generosity",
@@ -71,10 +70,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:56.936904",
+      "fetched_at": "2026-11-11T08:14:18.866122",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 9,
+        "story_score": 11,
         "domain": "wycliffe.org"
       },
       "id": "43cef12ad7716463"
@@ -96,6 +95,7 @@
       "tags": [
         "全球",
         "宣教士故事",
+        "家庭",
         "Scripture Engagement",
         "advent",
         "christmas"
@@ -106,10 +106,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:59.295144",
+      "fetched_at": "2026-11-11T08:14:21.327391",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 10,
+        "story_score": 12,
         "domain": "wycliffe.org"
       },
       "id": "ea269bc24b8b89a3"
@@ -142,10 +142,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:59.577464",
+      "fetched_at": "2026-11-11T08:14:21.831932",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 4,
+        "story_score": 10,
         "domain": "wycliffe.org"
       },
       "id": "92e996dcda482bd7"
@@ -179,10 +179,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:23:00.759146",
+      "fetched_at": "2026-11-11T08:14:23.040306",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 8,
+        "story_score": 10,
         "domain": "wycliffe.org"
       },
       "id": "f71f307cb107dedb"
@@ -213,7 +213,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:23:03.271228",
+      "fetched_at": "2026-11-11T08:14:25.993537",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -249,10 +249,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:55.614236",
+      "fetched_at": "2026-11-11T08:14:19.705104",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 9,
+        "story_score": 11,
         "domain": "imb.org"
       },
       "id": "b66b1a05cbabd2d1"
@@ -285,7 +285,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:56.367914",
+      "fetched_at": "2026-11-11T08:14:20.825873",
       "extra": {
         "feed_type": "rss20",
         "story_score": 14,
@@ -321,10 +321,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:22:58.753544",
+      "fetched_at": "2026-11-11T08:14:22.603331",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 9,
+        "story_score": 11,
         "domain": "imb.org"
       },
       "id": "60bf77b5c206076b"
@@ -356,10 +356,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:23:00.092709",
+      "fetched_at": "2026-11-11T08:14:24.633966",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 10,
+        "story_score": 12,
         "domain": "imb.org"
       },
       "id": "45afccccf808b5c6"
@@ -392,10 +392,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:23:00.905889",
+      "fetched_at": "2026-11-11T08:14:25.376574",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 11,
+        "story_score": 13,
         "domain": "imb.org"
       },
       "id": "c76895cfe6657cf1"
@@ -428,10 +428,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:23:01.657759",
+      "fetched_at": "2026-11-11T08:14:26.153561",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 16,
+        "story_score": 18,
         "domain": "imb.org"
       },
       "id": "76e2a25446321ffd"
@@ -464,10 +464,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:23:02.786566",
+      "fetched_at": "2026-11-11T08:14:27.024997",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 6,
+        "story_score": 8,
         "domain": "imb.org"
       },
       "id": "4930fa7cdc92c919"
@@ -498,13 +498,121 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T07:23:04.268229",
+      "fetched_at": "2026-11-11T08:14:23.357999",
       "extra": {
         "feed_type": "rss20",
-        "story_score": 6,
+        "story_score": 8,
         "domain": "banneroftruth.org"
       },
       "id": "569f81736ab0b56d"
+    },
+    {
+      "title": "God remains faithful through IMB missionaries in Italy",
+      "url": "https://www.imb.org/2026/10/22/god-remains-faithful-through-imb-missionaries-in-italy/",
+      "category": "missionary",
+      "source": "IMB Stories · 国际宣教部",
+      "source_url": "https://www.imb.org/feed/",
+      "published": "2026-11-11",
+      "summary": "In the city where Jason and Lizzy Davis serve, some steps have a lot of meaning. And the meaning is different for them than it is for the thousands who travel there to visit that site. “If you come to Rome, you can come to a place called the Holy Steps,” Jason said. “People go there, and they’ll crawl up on their knees and pray the rosary all the way up.” From the top of the steps, a mural depicting Jesus on the Cross looks down on those making the pilgrimage. For Jason and Lizzy, it’s a spiritu",
+      "summary_zh": "在杰森和丽西·戴维斯所服务的城市中,一些台阶具有很多意义. 对他们来说,意义是不同的, 而对于前往那里的成千上万人来说,意义是不同的。 Jason说,“如果你来到罗马,你可以来到一个叫做神圣步骤的地方。” “人们会爬到那里, 从台阶上方取出一幅描绘十字架上耶稣的壁画来俯瞰做朝圣的人. 对Jason和Lizzy来说,",
+      "title_zh": "神通过IMB在意大利的传教士保持忠诚",
+      "content": "The eastern face of St. Peter's Basilica in the Vatican City in Rome, Italy, is famous for its central balcony from which popes give their papal addresses. Most people in Rome have at least a cultural connection to Roman Catholicism as the city is “the heart of Catholicism.” IMB Photo In the city where Jason and Lizzy Davis serve, some steps have a lot of meaning. And the meaning is different for them than it is for the thousands who travel there to visit that site. “If you come to Rome, you can come to a place called the Holy Steps,” Jason said. “People go there, and they’ll crawl up on their knees and pray the rosary all the way up.” From the top of the steps, a mural depicting Jesus on the Cross looks down on those making the pilgrimage. For Jason and Lizzy, it’s a spiritual experience, a picture of a religion that asks people to earn their way to Jesus. “That’s really the opposite of what the gospel is. The gospel is Jesus saying, ‘No, you can’t do it . . . no matter how good you think you are,’” they said. Most people in Rome have at the very least a cultural connection to Roman Catholicism, as the city is “the heart of Catholicism.” Jason explained, “It’s where the Pope lives in the Vatican. It’s very much part of the religion and culture. It’s all intertwined here.” An ‘unavoidable’ call Jason and Lizzy are investing their lives as International Mission Board missionaries in Rome, Italy, to share the truth of the gospel. The Davises partner with national believers through a new church plant, and they’re seeking to plant more churches within the city. Lizzy said for her, the call to missions was unavoidable. “I grew up as a third culture kid, or a missionary kid. My parents were on the mission field, as were my grandparents, all with the International Mission Board.” Then her family moved to Virginia for her dad to work for IMB’s home office staff. As a middle schooler and high schooler, every time Lizzy heard about the need for the gospel to go forth, she felt a burden, a “burning” in her heart. She didn’t know what God would do with that, but she had a feeling she would see one day. Now, years later, she and Jason spend their time trying to find as many opportunities as they can to invite people into their home so they can share the hope of Jesus with them. That can mean Bible study or simply sharing a meal. ‘Completely lost’ Jason has been surprised by just how often people are willing to talk about faith. “You can get into spiritual conversations very quickly with people, especially if you’re just open and honest with them.” Lizzy shared that one of the easiest ways to do this is to be willing to let your day be interrupted. “That’s something I’ve seen Jason do firsthand in our neighborhood. He walks down the street, and everybody knows him because he stops and takes the time to ask them questions about their families, gets to know people, gets to know the newspaper stand guy and the guy at the fruit stand and the grocery store ladies.” She emphasized that caring about people is “what Christ would do.” The Davises, whose previous mission service prevents their photos from being published, live in a neighborhood of about 130,000 people. Their church of 15 people is the only evangelical congregation there. Lizzy said the area is “truly a lost, completely lost, dark neighborhood” with people who have never heard the gospel. Thousands more come to their area on a religious quest. The Davis family’s neighborhood is home to the Basilica Papale di San Paolo (the Papal Basilica of Saint Paul), one of the city’s four major basilicas. “So we get a lot of people coming on spiritual journeys, visiting our neighborhood, seeking some sort of spiritual experience. And oftentimes it’s just trying to earn their salvation,” she added. Jason described this environment as “a genuine need for people to actually hear the gospel and know that their sins can be forgiven and they can have an assurance of that.” IMB missionaries Jason and Liz",
+      "content_zh": "意大利罗马梵蒂冈城的圣彼得巴西利卡的东面相貌以它的中央阳台而出名,教皇们从中给出了他们的教宗地址. 罗马的大多数人至少与罗马天主教有文化联系,因为这座城市是\"天主教的核心\". IMB 相片 在杰森和丽西·戴维斯所服务的城市中,一些台阶具有很多意义. 对他们来说,意义是不同的, 而对于前往那里的成千上万人来说,意义是不同的。 Jason说,“如果你来到罗马,你可以来到一个叫做神圣步骤的地方。” “人们会爬到那里, 从台阶上方取出一幅描绘十字架上耶稣的壁画来俯瞰做朝圣的人. 对Jason和Lizzy来说, 这是一种精神体验, 一种要求人们为耶稣而努力的宗教。 这与福音相反。 福音是耶稣说:\"不,你不能这样做.\"他们说:\"不管你认为你有多优秀\". 罗马的大多数人至少与罗马天主教有着文化联系,因为这座城市是\"天主教的核心\". 杰森解释道:\"这是教宗在梵蒂冈所住的地方. 也是宗教与文化的一部分。 这都是相互交织在一起的。 Jason和Lizzy作为国际传教委员会传教士在意大利罗马投入生命, Davises通过新的教堂工厂与全国信徒合作, 他们试图在城市内种植更多的教堂。 丽西为她说,给特派团打电话是不可避免的. “我是第三个文化儿童,或传教儿童。 我的父母和我的外祖父母都参加了特派团实地工作,他们都参加了国际特派团委员会。” 后来她的家人搬到了弗吉尼亚州,为她的父亲为IMB的家庭办公室工作人员工作. 作为一名中学生和高中生,每次丽西听到福音必须出道时,她都感到一个负担,心中是\"燃烧\". 她不知道上帝会怎么做, 现在,多年后,她和杰森花时间尽量多地寻找机会,邀请人们入住自己的家去,这样他们就能与他们分享耶稣的希望. 这可以指: 圣经研究或简单的分享一顿饭. Jason对人们经常愿意谈论信仰感到惊讶。 “你可以很快地与人们进行精神对话, Lizzy说 最简单的方法就是 愿意让你的一天被打断 我亲眼目睹Jason在我们附近地区亲身经历, 他走在街上, 每个人都认识他, 因为他停下来, 花时间问他们关于家人的问题, 她强调,关心人民是“基督会做的事”。 戴维斯人(The Davises),其先前的传教服务阻止了他们的照片被发表,住在大约13万人的附近. 他们的15人的教堂是那里唯一的福音会会. Lizzy说,该地区与从未听到福音的人“简直是一个迷路、完全迷路和黑暗的街区”。 又有上千人在他们的地区进行宗教活动。 戴维斯家族的街区是圣保禄教区(Basilica Papale di San Paolo)的所在地,是该市四大巴西里卡斯之一. “所以,我们有很多人走上了精神之旅,参观我们的社区,寻求某种精神经验。 她补充说, Jason将这种环境描述为“真正需要人们真正听到福音,知道他们的罪可以被宽恕,并且他们可以保证这一点。” IMB传教士Jason和Liz",
+      "image": "https://www.imb.org/wp-content/uploads/2026/10/20180825MP0609-2048x1365-1.jpg",
+      "author": "Grace Thornton",
+      "tags": [
+        "欧洲",
+        "宣教士故事",
+        "祷告",
+        "European Peoples - Featured",
+        "European Peoples - Updates",
+        "News"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "欧洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-11T08:14:21.710215",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "imb.org"
+      },
+      "id": "2dc2bafa33d39002"
+    },
+    {
+      "title": "IMB missionaries use home, cafes, apps to open doors for gospel conversations in Spain",
+      "url": "https://www.imb.org/2026/10/15/imb-missionaries-use-home-cafes-apps-to-open-doors-for-gospel-conversations-in-spain/",
+      "category": "missionary",
+      "source": "IMB Stories · 国际宣教部",
+      "source_url": "https://www.imb.org/feed/",
+      "published": "2026-11-11",
+      "summary": "Across Spain, people looking for connection and meaningful conversation turn to the internet to find groups where they can meet others. At a café by the river, Caleb and Carina Beaty engage in conversations about finding purpose, beauty and “what’s wrong with the world.” A website called Meetup allows people to search for groups to meet in person. The description of the Beatys’ group indicates that it discusses spiritual topics. People come expecting to talk about faith, so it’s not a surprise w",
+      "summary_zh": "在西班牙各地, Caleb和Carina Beaty在河边的一家咖啡馆里, 一个名为\"Metup\"的网站允许人们亲自搜索团体. 对Beatys团体的描述表明,它讨论的是精神主题。 人们希望谈论信仰,",
+      "title_zh": "IMB传教士使用家庭、咖啡馆、应用程序为西班牙的福音对话敞开大门",
+      "content": "Men and women gather to discuss spiritual topics with Caleb and Carina Beaty, International Mission Board missionaries who serve in Madrid. IMB Photo Across Spain, people looking for connection and meaningful conversation turn to the internet to find groups where they can meet others. At a café by the river, Caleb and Carina Beaty engage in conversations about finding purpose, beauty and “what’s wrong with the world.” A website called Meetup allows people to search for groups to meet in person. The description of the Beatys’ group indicates that it discusses spiritual topics. People come expecting to talk about faith, so it’s not a surprise when they arrive. Caleb said he always has a list of questions that begin broadly and funnel into questions such as, “If there were a God …” or “What do you think Christians believe about that?” or “Why do you think religions have such different perspectives?” The Beatys’ goal in these conversations is to work toward deeper worldview questions within 45 minutes to an hour. Most of the people who attend their Meetup group are from Madrid, but they also have conversations with people from other countries. During one Meetup, Caleb and Carina shared how creation was perfect, but sin led to a world separated from the Father. God offers salvation through the death and resurrection of Jesus, they explained. “There are times we’re able to get to a clear gospel presentation with a group of people, and sometimes we’re doing pre-evangelism.” Caleb said. Some repeat attendees who have been attending for more than a year quickly jump to the heart of the discussion. “All right, Caleb, what’s the Bible say about suffering?” they’ll ask. Caleb and Carina then have the opportunity to share the Christian perspective. IMB missionaries Caleb and Carina Beaty and their children pose for a photo in a park in Madrid, Spain.  IMB Photo Spain has secularized rapidly since the 1990s, Caleb said. While many may think of it as a Catholic nation, many people do not know the basic tenets of Christianity. “We’ve got all the churches, we’ve got the cathedrals, and they do processions, but the average person on the street does not know anything about the gospel and does not know anything about Jesus,” Caleb said. Younger Spaniards are drawn to their group and are receptive to the gospel because they don’t have a spiritual foundation or know anyone who does. “There’s just this curiosity because, for a lot of them, they’ve never met someone who actually believes that God exists, and that changes your life,” Carina said. “I’ve had people completely shocked that we believe in God. ‘You really believe that God exists?’ They can’t wrap their mind around that.” During one Meetup, a man contrasted Protestant and Catholic beliefs by saying Protestants focus on Jesus’ suffering and Catholics on Mary’s grief. Caleb responded that evangelicals focus on the resurrection. When Caleb said Jesus rose from the dead, the man replied that he needed to look into that. Caleb said encounters like that reveal how little many Spaniards know about the gospel. Caleb noted the irony of the man’s sharing the Catholic perspective without truly understanding it. He is not the only person the Beatys have met who has missed the heart of the gospel. A friend of the Beatys told them she’d heard Jesus died, but she hadn’t heard he rose from the dead. A man reads a passage of Scripture during a Bible study hosted by IMB missionaries Caleb and Carina Beaty at their family’s apartment in Madrid, Spain. Five atheists began attending their Bible study after attending the couple’s Meetup group. IMB Photo The Beatys also host seasonal outreach events through the Meetup. Members from their church in Madrid have started attending the Meetup to learn how the Beatys lead discussions. Their group has become so popular, a waitlist has formed. Caleb and Carina host a small-group Bible study in their home. Five atheists who joined their Meetup now attend the Bible study. ",
+      "content_zh": "男子和妇女聚集一堂,与在马德里服务的国际传教委员会传教士Caleb和Carina Beaty讨论精神主题。 IMB照片在西班牙各地, Caleb和Carina Beaty在河边的一家咖啡馆里, 一个名为\"Metup\"的网站允许人们亲自搜索团体. 对Beatys团体的描述表明,它讨论的是精神主题。 人们期待谈论信仰, Caleb 说,他总是有一系列问题,这些问题从广义上开始,进入诸如“如果有上帝......”或“你认为基督徒相信什么?” 或“你为什么认为宗教有这种不同的观点?” Beatys在这些对话中的目标是在45分钟至1小时之内致力于更深入的世界观问题。 参加其\"相会\"团体的人大多来自马德里,但他们也与其他国家的人有对话. 在一次相遇中,迦勒和卡莉娜分享了创造是如何完美的,但罪恶导致了一个与父亲相分离的世界. 他们解释道,上帝通过耶稣的死亡和复活提供救赎. “有时候我们能够与一群人一起获得明确的福音, 迦勒说. 一些已参加一年多的重复与会者迅速跳入讨论的中心。 “好吧,凯勒布,圣经对苦难有什么看法?” Caleb和Carina随后有机会分享基督教的观点。 IMB传教士Caleb和Carina Beaty及其子女在西班牙马德里的一个公园里摆出一张照片. Caleb说,IMB Photo Spain自1990年代起便迅速世俗化。 虽然许多人可能认为它是一个天主教国家,但许多人并不了解基督教的基本原则. Caleb说:「我们拥有所有的教堂、教堂、游行, 年轻西班牙人被吸引到他们的团体中, 卡琳娜说, “只有这种好奇心, “我让人民对我们相信上帝深感震惊。 你真的相信上帝存在吗? 他们不能把想法绕在一边。 在一次会面中,一位男子与新教和天主教信仰形成对比,说新教徒关注耶稣的痛苦,天主教徒关注玛丽的悲痛。 Caleb回应道:福音派关注复活. 当Caleb说耶稣从死地复活时,那人回答说,他需要调查一下. Caleb说,这样的相遇揭示了多少西班牙人对福音的了解. Caleb指出,这个人在不真正理解天主教观点的情况下分享天主教观点具有讽刺意味。 他不是贝娅蒂唯一一个 错过福音的人 Beatys的一位朋友告诉他们她听说耶稣死了, 一名男子在IMB的传教士Caleb和Carina Beaty在西班牙马德里的家中主持进行圣经研究, 五名无神论者在参加了夫妇的\"相会\"小组后开始参加他们的\"圣经\"研究. IMB Photo The Beatys也通过\"Methup\"主持季节性外联活动. 来自马德里的教会成员开始参加\"Methup\",学习\"Beatys\"如何领导讨论. 他们的团体变得如此受欢迎,一个等待者已经形成. 凯勒布和卡琳娜在自己家里主持一个小群体\"圣经\"研究. 五个无神论者加入了他们的Metup 现在参加圣经研究。",
+      "image": "https://www.imb.org/wp-content/uploads/2026/10/DSC_2554-5web-1024x770.jpg",
+      "author": "Tessa Sanchez",
+      "tags": [
+        "欧洲",
+        "宣教士故事",
+        "European Peoples - Featured",
+        "European Peoples - Updates",
+        "General"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "欧洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-11T08:14:23.687738",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 7,
+        "domain": "imb.org"
+      },
+      "id": "c824dbb94e199d56"
+    },
+    {
+      "title": "Quiso ser sacerdote católico, pero se convirtió en el primer misionero de su país",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONGNiRXVjRXBEYWV4RXNNQ0hDa2xldkNqak44QVhLa242WFRCSXNiX1E0d1NKMVNoZDZDRHpBZUgxcFZyaGtEVEVBLWJpbTN6LXI2WFB0eXhDazFYR2tYWTJUckJPRHlLUGR4ZFBWQ2MxYWlQaVMwQy1BZDY0bDRXV0xjOXZHYkZYVnlQcGlnN2I?oc=5",
+      "category": "missionary",
+      "source": "西语拉美宣教故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-29",
+      "summary": "Quiso ser sacerdote católico, pero se convirtió en el primer misionero de su país masfe.org",
+      "summary_zh": "他想成为一名天主教神父，但却成为自己国家masfe.org的第一位传教士",
+      "title_zh": "他想成为一名天主教神父，但却成为自己国家的第一位传教士",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "masfe.org",
+      "tags": [
+        "拉美",
+        "宣教士故事",
+        "非洲宣教"
+      ],
+      "language": "es",
+      "country": "MX",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.656093",
+      "extra": {
+        "provider": "google_news",
+        "query": "testimonio misionero historia de fe",
+        "publisher": "masfe.org",
+        "google_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONGNiRXVjRXBEYWV4RXNNQ0hDa2xldkNqak44QVhLa242WFRCSXNiX1E0d1NKMVNoZDZDRHpBZUgxcFZyaGtEVEVBLWJpbTN6LXI2WFB0eXhDazFYR2tYWTJUckJPRHlLUGR4ZFBWQ2MxYWlQaVMwQy1BZDY0bDRXV0xjOXZHYkZYVnlQcGlnN2I?oc=5",
+        "resolved": false,
+        "story_score": 6,
+        "domain": "news.google.com"
+      },
+      "id": "abbfaa84533d7961"
     },
     {
       "title": "RMG – “Becoming a missionary is what I’ve always dreamed of doing”: the testimony of seminarian Impraim - ANS",
@@ -532,7 +640,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:39.188909",
+      "fetched_at": "2026-11-11T08:15:04.444320",
       "extra": {
         "provider": "google_news",
         "query": "missionary Africa testimony",
@@ -569,7 +677,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:00.717904",
+      "fetched_at": "2026-11-11T08:14:24.481184",
       "extra": {
         "provider": "google_news",
         "query": "Philippines missionary testimony story",
@@ -580,6 +688,155 @@
         "domain": "news.google.com"
       },
       "id": "17b5ef477a30a22f"
+    },
+    {
+      "title": "200 años del “Rosario Viviente”. El cardenal Tagle: la oración abre las puertas al testimonio misionero",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmlGY3JkaFpIN1VPSGwyN1Ytdllfc2duU3FucUgyMk14WG1yWnpManV4ZVk3U3A3VEJlM0xDZzZMVTdqOWlnRWI5RFhfUW5iZWVmR1ZvV0EtaXZIRllYOHlMTU9MVDN6MHRnZTdwY190Wld5cUIxYWtUVzVib0dHTERQOUJBNWRLdUl4aWtPNW9MZmZfYzM5MjkzX0R0cEI1RkhJbExmTjNpRUtsSjV0elJSMnQ4NUdLVndoekdhV3lnQ0ZUMlk1clpXbUJkUUtN?oc=5",
+      "category": "missionary",
+      "source": "西语拉美宣教故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-06-14",
+      "summary": "200 años del “Rosario Viviente”. El cardenal Tagle: la oración abre las puertas al testimonio misionero Agenzia Fides",
+      "summary_zh": "200年的“活玫瑰经”。塔格勒枢机：祈祷为传教士见证人阿根齐亚·菲德斯（ Agenzia Fides ）打开了大门",
+      "title_zh": "200年的“活玫瑰经”。塔格勒枢机：祈祷为传教士见证人敞开大门",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Agenzia Fides",
+      "tags": [
+        "拉美",
+        "宣教士故事",
+        "非洲宣教",
+        "见证",
+        "祷告"
+      ],
+      "language": "es",
+      "country": "MX",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.655721",
+      "extra": {
+        "provider": "google_news",
+        "query": "testimonio misionero historia de fe",
+        "publisher": "Agenzia Fides",
+        "google_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmlGY3JkaFpIN1VPSGwyN1Ytdllfc2duU3FucUgyMk14WG1yWnpManV4ZVk3U3A3VEJlM0xDZzZMVTdqOWlnRWI5RFhfUW5iZWVmR1ZvV0EtaXZIRllYOHlMTU9MVDN6MHRnZTdwY190Wld5cUIxYWtUVzVib0dHTERQOUJBNWRLdUl4aWtPNW9MZmZfYzM5MjkzX0R0cEI1RkhJbExmTjNpRUtsSjV0elJSMnQ4NUdLVndoekdhV3lnQ0ZUMlk1clpXbUJkUUtN?oc=5",
+        "resolved": false,
+        "story_score": 10,
+        "domain": "news.google.com"
+      },
+      "id": "ce47b23ccd6962b0"
+    },
+    {
+      "title": "Creer y sobrevivir: historias de fe en territorios donde ser cristiano es un riesgo",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc2lFUThtN0pLYXRaSTN3cDI4a3BUcWpYOFFzRUN4cXc4V21xZkQ0UWVWd1ZBLXNPNVFhQmdIaWUzYXlZWkdrTjdqQ0lnSktmRFZIOUgtbXBaZXZyLTFKTDI3elZjRzBFZ1lVQTBoalBqc1hQdHU5dVFvdFRMRkRyZ1piSXMwNzJuVVAzb0g2akswd1d5Z2E4eTZ5Y1VYbk1CZ1ZnTlJSWExFVE4zaV9JSXB1UnNvUjcwYndOMFpaX1hvMTlpZGc?oc=5",
+      "category": "missionary",
+      "source": "西语拉美宣教故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-03-29",
+      "summary": "Creer y sobrevivir: historias de fe en territorios donde ser cristiano es un riesgo Teletica",
+      "summary_zh": "相信并生存：在成为基督徒是一种风险的领土上的信仰故事Teletica",
+      "title_zh": "相信并生存：成为基督徒有风险的地区的信仰故事",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Teletica",
+      "tags": [
+        "拉美",
+        "宣教士故事"
+      ],
+      "language": "es",
+      "country": "MX",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.656300",
+      "extra": {
+        "provider": "google_news",
+        "query": "testimonio misionero historia de fe",
+        "publisher": "Teletica",
+        "google_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc2lFUThtN0pLYXRaSTN3cDI4a3BUcWpYOFFzRUN4cXc4V21xZkQ0UWVWd1ZBLXNPNVFhQmdIaWUzYXlZWkdrTjdqQ0lnSktmRFZIOUgtbXBaZXZyLTFKTDI3elZjRzBFZ1lVQTBoalBqc1hQdHU5dVFvdFRMRkRyZ1piSXMwNzJuVVAzb0g2akswd1d5Z2E4eTZ5Y1VYbk1CZ1ZnTlJSWExFVE4zaV9JSXB1UnNvUjcwYndOMFpaX1hvMTlpZGc?oc=5",
+        "resolved": false,
+        "story_score": 6,
+        "domain": "news.google.com"
+      },
+      "id": "c43c8e66e76220e9"
+    },
+    {
+      "title": "Menjadi Misionaris Cilik: Hari Anak Misioner Sedunia ke-183 di Paroki St. Yoseph Palembang",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmN5TlQtMV9uU1Yya1NxUExDcmhYQUxBVlNHSzhYU0gyNmV3NGpZVmswSVM1LWtkRmxOWHBhTTBrVFlldGRpZXJ6VFNnYmRqYmVaRktmTGRoZ1VVV04zUEN6czFaTzVEQjVlalpvM3pxanA4ZXVPRGk0X29vbmFPcjhMYUoyTFZHRHNmVjJsemtSRWxVNUVBNWxDOERNZjU3d1ZFLTltN1NTajNsclNrZGh6c3VNWTI3N01YcFI0YWhfOGVHQmtuNVZZNTVycVdGc0NYVGZaNzRRWTEwYmROUlR2X25Ed2RhOUhxYg?oc=5",
+      "category": "missionary",
+      "source": "印尼与东南亚见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-01-05",
+      "summary": "Menjadi Misionaris Cilik: Hari Anak Misioner Sedunia ke-183 di Paroki St. Yoseph Palembang katolikana",
+      "summary_zh": "成为一名小传教士：第183届世界传教士儿童节在圣约瑟夫教区Palembang katolikana",
+      "title_zh": "成为一名小传教士：第183届世界传教士儿童节在旧金山圣约瑟夫教区",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "katolikana",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.310135",
+      "extra": {
+        "provider": "google_news",
+        "query": "kesaksian misionaris kisah",
+        "publisher": "katolikana",
+        "google_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmN5TlQtMV9uU1Yya1NxUExDcmhYQUxBVlNHSzhYU0gyNmV3NGpZVmswSVM1LWtkRmxOWHBhTTBrVFlldGRpZXJ6VFNnYmRqYmVaRktmTGRoZ1VVV04zUEN6czFaTzVEQjVlalpvM3pxanA4ZXVPRGk0X29vbmFPcjhMYUoyTFZHRHNmVjJsemtSRWxVNUVBNWxDOERNZjU3d1ZFLTltN1NTajNsclNrZGh6c3VNWTI3N01YcFI0YWhfOGVHQmtuNVZZNTVycVdGc0NYVGZaNzRRWTEwYmROUlR2X25Ed2RhOUhxYg?oc=5",
+        "resolved": false,
+        "story_score": 4,
+        "domain": "news.google.com"
+      },
+      "id": "3f21a37dff8c411a"
+    },
+    {
+      "title": "AUDIENCE JUBILAIRE - Léon XIV raconte « l'histoire missionnaire » d'Isidore Bakanja, « témoin de l'espérance chrétienne »",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdjZBNlBtREJFbEJ3VUdvb19JRTE0SnVGdThuN0prSjdhM2Z0WnYxc1psbF9pSzdhZ192NjRNckZ5SnpwalRWU0NMUk05Q1BvdmQ3M2JUcUFRLUhRRmZ0UVdJRTAyb0VfOHdFRURvU05fNndVZHJZMUs2TVpoT0lIWElNb1U0b01yMGkyMjNBX0hSbEtjbFlFeGtWQ0FlSDZ4VjdoS0hHY3hnaWFOYXduN0ZkUzlkeXlvSWNzRFpSQVZ0SUxfalk4MDRjWHJKOGo0TjJYSk11bDdORzBoTWdv?oc=5",
+      "category": "missionary",
+      "source": "法语非洲见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2025-11-08",
+      "summary": "AUDIENCE JUBILAIRE - Léon XIV raconte « l'histoire missionnaire » d'Isidore Bakanja, « témoin de l'espérance chrétienne » Agenzia Fides",
+      "summary_zh": "禧年观众-利奥十四世讲述伊西多尔·巴坎贾（ Isidore Bakanja ）的“传教士故事” ， “基督徒希望的见证者”阿根齐亚·菲德斯（ Agenzia",
+      "title_zh": "禧年观众--利奥十四世讲述伊西多尔·巴坎贾的“传教故事” ， “基督徒希望的见证”",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Agenzia Fides",
+      "tags": [
+        "非洲",
+        "宣教士故事",
+        "非洲宣教",
+        "见证"
+      ],
+      "language": "fr",
+      "country": "SN",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:22.487456",
+      "extra": {
+        "provider": "google_news",
+        "query": "témoignage missionnaire Afrique histoire",
+        "publisher": "Agenzia Fides",
+        "google_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdjZBNlBtREJFbEJ3VUdvb19JRTE0SnVGdThuN0prSjdhM2Z0WnYxc1psbF9pSzdhZ192NjRNckZ5SnpwalRWU0NMUk05Q1BvdmQ3M2JUcUFRLUhRRmZ0UVdJRTAyb0VfOHdFRURvU05fNndVZHJZMUs2TVpoT0lIWElNb1U0b01yMGkyMjNBX0hSbEtjbFlFeGtWQ0FlSDZ4VjdoS0hHY3hnaWFOYXduN0ZkUzlkeXlvSWNzRFpSQVZ0SUxfalk4MDRjWHJKOGo0TjJYSk11bDdORzBoTWdv?oc=5",
+        "resolved": false,
+        "story_score": 7,
+        "domain": "news.google.com"
+      },
+      "id": "7a5275381251fe0d"
     },
     {
       "title": "From stethoscope to teacups, the unseen work of a healthcare missionary - International Mission Board",
@@ -606,7 +863,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:02.343507",
+      "fetched_at": "2026-11-11T08:14:25.335629",
       "extra": {
         "provider": "google_news",
         "query": "medical missionary Africa hospital story",
@@ -617,6 +874,117 @@
         "domain": "news.google.com"
       },
       "id": "85160a8df75586bb"
+    },
+    {
+      "title": "Servo de Deus Padre Ezequiel Ramin – Um missionário da esperança no Brasil – Aliança de Misericórdia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzBheXNVVFZ6a0ZDWWlGcktxbFBmOUNxNkc2UHZSdXR6SHFqLXZLWVBEU3JYVFg3Ymx0djVJMVRHZ0ZkTUljbXlYWURuWGRRQTY5bHNzTmoxeDQxT1ZTMVhlYVpNS2xGZ3VJdlpSaGc3bjZYQkFVSHRyalFRNFRxeE1OdVJrMUYtMFRFbTl6aEQ3dVVmdzBrMHRwdUVnUUIxbGZz?oc=5",
+      "category": "missionary",
+      "source": "巴西信仰见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2025-03-27",
+      "summary": "Servo de Deus Padre Ezequiel Ramin – Um missionário da esperança no Brasil – Aliança de Misericórdia Aliança de Misericórdia",
+      "summary_zh": "神父以西结·拉明（ Ezekiel Ramin ）的仆人–巴西的希望传教士–慈悲联盟慈悲联盟",
+      "title_zh": "神父埃塞奎尔·拉明（ Ezequiel Ramin ）的仆人–巴西的希望传教士–慈悲联盟",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Aliança de Misericórdia",
+      "tags": [
+        "拉美",
+        "宣教士故事",
+        "非洲宣教"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.525729",
+      "extra": {
+        "provider": "google_news",
+        "query": "testemunho missionário Brasil história de fé",
+        "publisher": "Aliança de Misericórdia",
+        "google_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzBheXNVVFZ6a0ZDWWlGcktxbFBmOUNxNkc2UHZSdXR6SHFqLXZLWVBEU3JYVFg3Ymx0djVJMVRHZ0ZkTUljbXlYWURuWGRRQTY5bHNzTmoxeDQxT1ZTMVhlYVpNS2xGZ3VJdlpSaGc3bjZYQkFVSHRyalFRNFRxeE1OdVJrMUYtMFRFbTl6aEQ3dVVmdzBrMHRwdUVnUUIxbGZz?oc=5",
+        "resolved": false,
+        "story_score": 4,
+        "domain": "news.google.com"
+      },
+      "id": "ba822cbe93706ab6"
+    },
+    {
+      "title": "Testimonio de un misionero valenciano en Mozambique: «El misionero es el que evangeliza pero también es agricultor, enfermero o taxista» Este domingo, jornada del DOMUND",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVENQQ2VNNF84QmRJOFM4NGYxUFdvMGxIbURwUlFzYjBMaUhFWTZJVzUxLWdxRGxoa0ZVU2lkcmRrWkFUeTd1UVBxdERQRWlaa2k0b0xRUjI1bnY1X3Y5MU9fVkVmcjNoSEtPdktBT0g5a1hBZmd4TTRWRVlDemhURHFhVkU4dzFMUFY0M0M5R3pEbExwdzhfUUFfUUdscWxNQ0hVQU1Fc3FDYVlVQXhwdVFnUDhhQmcyNWNVcnlJNzhYSjhMdEdPdFpub2F1cHUxSk1ra093d3lJb0pYdC1QcFhpSU1KRVJyQi0yUVc1Tjh4Qjc5S1E?oc=5",
+      "category": "missionary",
+      "source": "西语拉美宣教故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2024-10-18",
+      "summary": "Testimonio de un misionero valenciano en Mozambique: «El misionero es el que evangeliza pero también es agricultor, enfermero o taxista» Este domingo, jornada del DOMUND Archidiócesis de Valencia",
+      "summary_zh": "莫桑比克巴伦西亚传教士的证词： “传教士是传福音的人，但也是农民、护士或出租车司机”本周日，瓦伦西亚DOMUND大主教管区的日子",
+      "title_zh": "莫桑比克巴伦西亚传教士的证词： “传教士是传福音的人，但也是农民，护士或出租车司机”本周日， DOMUND的日子",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Archidiócesis de Valencia",
+      "tags": [
+        "非洲",
+        "宣教士故事",
+        "非洲宣教",
+        "见证"
+      ],
+      "language": "es",
+      "country": "MX",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.657185",
+      "extra": {
+        "provider": "google_news",
+        "query": "testimonio misionero historia de fe",
+        "publisher": "Archidiócesis de Valencia",
+        "google_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVENQQ2VNNF84QmRJOFM4NGYxUFdvMGxIbURwUlFzYjBMaUhFWTZJVzUxLWdxRGxoa0ZVU2lkcmRrWkFUeTd1UVBxdERQRWlaa2k0b0xRUjI1bnY1X3Y5MU9fVkVmcjNoSEtPdktBT0g5a1hBZmd4TTRWRVlDemhURHFhVkU4dzFMUFY0M0M5R3pEbExwdzhfUUFfUUdscWxNQ0hVQU1Fc3FDYVlVQXhwdVFnUDhhQmcyNWNVcnlJNzhYSjhMdEdPdFpub2F1cHUxSk1ra093d3lJb0pYdC1QcFhpSU1KRVJyQi0yUVc1Tjh4Qjc5S1E?oc=5",
+        "resolved": false,
+        "story_score": 15,
+        "domain": "news.google.com"
+      },
+      "id": "dcb83a83776e95a8"
+    },
+    {
+      "title": "Eksekusi 55 Misionaris oleh Shogun Kekaisaran Jepang, Apa Sebabnya?",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPamlmQXU2OWtCNXhOVE90UDZId3NrUGh0VnpfYll1V296UE9NNzZYVVNjcmNSTHNxbzFzQnRHTThJa2FHQ01sY2ZmdjI2NVZBdGQyODJha3pKOFNITWVXbVR4M0Z2Um1vZnZUTFExUUxyUXB5SGxiOHBsb3VWdGRTeS1ZZ3Nra0h2X3ZmeDNqUVplZGh5YzBoXzVIVlpRLW0xVjhqeTdFRWdRczNINWRGbFp0MlVfWmZFSFo5WWpDelpLUdIBtAFBVV95cUxNMDdQc1NRekJManhkV3U4aEZ2dkxQenQtZXBsdTcwdzFIVUxIZFdoa3VEMVVEbVFhUEtyUGxSc3Y5bVdUTmt1QlNBUFE3UEZtM0RxdDkxNS1GcWVFNVJ2SFJwQ0VSd182dC1RdWZMeW9Pb3JuTldGLV9IOFFwRzAzWUt0VDRqejJGbkRrelM5cktyWi1wOTZYam1wMUNWazNsWDJSMWlCY0dDZlBYSUk1cGNDbkg?oc=5",
+      "category": "missionary",
+      "source": "印尼与东南亚见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2024-09-13",
+      "summary": "Eksekusi 55 Misionaris oleh Shogun Kekaisaran Jepang, Apa Sebabnya? nationalgeographic.grid.id",
+      "summary_zh": "日本帝国幕府处决55名传教士，原因是什么？ nationalgeographic.grid.id",
+      "title_zh": "大日本帝国将军处决55名传教士的原因是什么？",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "nationalgeographic.grid.id",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.309637",
+      "extra": {
+        "provider": "google_news",
+        "query": "kesaksian misionaris kisah",
+        "publisher": "nationalgeographic.grid.id",
+        "google_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPamlmQXU2OWtCNXhOVE90UDZId3NrUGh0VnpfYll1V296UE9NNzZYVVNjcmNSTHNxbzFzQnRHTThJa2FHQ01sY2ZmdjI2NVZBdGQyODJha3pKOFNITWVXbVR4M0Z2Um1vZnZUTFExUUxyUXB5SGxiOHBsb3VWdGRTeS1ZZ3Nra0h2X3ZmeDNqUVplZGh5YzBoXzVIVlpRLW0xVjhqeTdFRWdRczNINWRGbFp0MlVfWmZFSFo5WWpDelpLUdIBtAFBVV95cUxNMDdQc1NRekJManhkV3U4aEZ2dkxQenQtZXBsdTcwdzFIVUxIZFdoa3VEMVVEbVFhUEtyUGxSc3Y5bVdUTmt1QlNBUFE3UEZtM0RxdDkxNS1GcWVFNVJ2SFJwQ0VSd182dC1RdWZMeW9Pb3JuTldGLV9IOFFwRzAzWUt0VDRqejJGbkRrelM5cktyWi1wOTZYam1wMUNWazNsWDJSMWlCY0dDZlBYSUk1cGNDbkg?oc=5",
+        "resolved": false,
+        "story_score": 4,
+        "domain": "news.google.com"
+      },
+      "id": "037707b53ddd2266"
     },
     {
       "title": "Missionaries hear promises, strong testimony from Elder Cook across the Pacific Area",
@@ -643,7 +1011,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:01.874520",
+      "fetched_at": "2026-11-11T08:14:25.192563",
       "extra": {
         "provider": "google_news",
         "query": "Pacific islands missionary story testimony",
@@ -654,6 +1022,449 @@
         "domain": "news.google.com"
       },
       "id": "685eff660f0da368"
+    },
+    {
+      "title": "Kisah misionaris gereja dari Korea Selatan yang berperan di balik meningkat pesatnya penganut Kristen di Nepal",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xSkxpNGcxU3pRTnpfcDdhTzF5ZmlNX20zQWItMHJhU3N5bGZ1ZHRyMVROZVRldWVUOTB4VExiRWlIX242aFNRd1pWSFRtaDJpOC1oX2xUUdIBXEFVX3lxTE5ZMDVMSmpuQk4yWGZpOGN2d21tdWF1UXUyblpNRUJvcTJfNmRpWlVzUlRLVVVCMGhpZ2h4cWVaUXg2TkZUMWswSnJTYVJfZW5OZGdLMHVWbXlIZHZ3?oc=5",
+      "category": "missionary",
+      "source": "印尼与东南亚见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2023-01-15",
+      "summary": "Kisah misionaris gereja dari Korea Selatan yang berperan di balik meningkat pesatnya penganut Kristen di Nepal BBC",
+      "summary_zh": "来自韩国的教会传教士的故事，他们在尼泊尔基督徒的迅速崛起中发挥了作用",
+      "title_zh": "韩国教会传教士的故事，他们在尼泊尔基督徒的迅速崛起中发挥了作用",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "BBC",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.309059",
+      "extra": {
+        "provider": "google_news",
+        "query": "kesaksian misionaris kisah",
+        "publisher": "BBC",
+        "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xSkxpNGcxU3pRTnpfcDdhTzF5ZmlNX20zQWItMHJhU3N5bGZ1ZHRyMVROZVRldWVUOTB4VExiRWlIX242aFNRd1pWSFRtaDJpOC1oX2xUUdIBXEFVX3lxTE5ZMDVMSmpuQk4yWGZpOGN2d21tdWF1UXUyblpNRUJvcTJfNmRpWlVzUlRLVVVCMGhpZ2h4cWVaUXg2TkZUMWswSnJTYVJfZW5OZGdLMHVWbXlIZHZ3?oc=5",
+        "resolved": false,
+        "story_score": 11,
+        "domain": "news.google.com"
+      },
+      "id": "d4c5e6d16357cb3c"
+    },
+    {
+      "title": "Conheça histórias de missionários que doam a vida pela evangelização - Notícias",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmRTaWowVDB6ci1TZkNaRDI1RUVPQ1p3dzF5NmYtckNTenAtRWR4ekMyVXptMFVlektUTFdXX3A1ckd6NVcwd0RfOG91VEQzS3ZaT3JEVXZYaTdyT2xVeThwLVRTTnNvLWwxQWRsUngzRDd6OUpSbTBCVDhQSTBNeTFESDRyaWpLYngtSFVTeWI2QWQtR3BFVlJvVFRsYWg2WG5hek9ZV2NJTmxK?oc=5",
+      "category": "missionary",
+      "source": "葡语非洲／巴西宣教见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2021-10-29",
+      "summary": "Conheça histórias de missionários que doam a vida pela evangelização Notícias - Canção Nova",
+      "summary_zh": "了解为布道献出生命的传教士的故事新闻- Canção Nova",
+      "title_zh": "了解为传福音献出生命的传教士的故事-新闻",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Canção Nova",
+      "tags": [
+        "非洲",
+        "宣教士故事",
+        "非洲宣教",
+        "祷告"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:23.800942",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionário África testemunho história",
+        "publisher": "Canção Nova",
+        "google_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmRTaWowVDB6ci1TZkNaRDI1RUVPQ1p3dzF5NmYtckNTenAtRWR4ekMyVXptMFVlektUTFdXX3A1ckd6NVcwd0RfOG91VEQzS3ZaT3JEVXZYaTdyT2xVeThwLVRTTnNvLWwxQWRsUngzRDd6OUpSbTBCVDhQSTBNeTFESDRyaWpLYngtSFVTeWI2QWQtR3BFVlJvVFRsYWg2WG5hek9ZV2NJTmxK?oc=5",
+        "resolved": false,
+        "story_score": 15,
+        "domain": "news.google.com"
+      },
+      "id": "4e038a1c8805221f"
+    },
+    {
+      "title": "Obediencia extrema: el testimonio de dos misioneros que lo dejaron todo a los 70 años",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94cXhoY3BjbmNRUVNiQS1BbmEyVXREZUxtRkhrQndkQ1ZGR2FFZXNFUHRscmNTekhCREJlOHZERHVMcGk4N2VTTjRFZVd3SC1sNWg0YXFlZ1JIOElxVHZWRjc4VU1NZVAy?oc=5",
+      "category": "missionary",
+      "source": "西语拉美宣教故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2021-10-02",
+      "summary": "Obediencia extrema: el testimonio de dos misioneros que lo dejaron todo a los 70 años La Corriente | Una voz en movimiento",
+      "summary_zh": "极度服从：两位在70 La Corriente留下一切的传教士的见证|行动中的声音",
+      "title_zh": "极度服从：两位70岁时离开一切的传教士的见证",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "La Corriente | Una voz en movimiento",
+      "tags": [
+        "拉美",
+        "宣教士故事",
+        "非洲宣教",
+        "见证"
+      ],
+      "language": "es",
+      "country": "MX",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.656832",
+      "extra": {
+        "provider": "google_news",
+        "query": "testimonio misionero historia de fe",
+        "publisher": "La Corriente | Una voz en movimiento",
+        "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94cXhoY3BjbmNRUVNiQS1BbmEyVXREZUxtRkhrQndkQ1ZGR2FFZXNFUHRscmNTekhCREJlOHZERHVMcGk4N2VTTjRFZVd3SC1sNWg0YXFlZ1JIOElxVHZWRjc4VU1NZVAy?oc=5",
+        "resolved": false,
+        "story_score": 10,
+        "domain": "news.google.com"
+      },
+      "id": "e5a3efdb864f4dfd"
+    },
+    {
+      "title": "Portugal: Igreja Católica celebra outubro «missionário» com convite ao testemunho concreto da fé",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3NkZTZvd3NOOVNZWDdWT2tQV0YtYjFLYnlxekg5LWVWNjlGMEZLRjNFZzA2ZjExbXBvZ3JDSURUaklvOFJ1dmo3XzJZcTE3TUFJaE44S1A2WW85Z2JuMzNKbnBIYVFnNGVWcjk5UzBndzZKMmY5V0ZSeGxaMkh5cnJLS1RDTTBtTDBYSGczRVFHRWVrZjNZTjZxTkRaeFZ0cHRoMVJMSHhiRTB3cjZERTBxUlhMM0RqcG9JZHFBcnMyUzJZazQzSg?oc=5",
+      "category": "missionary",
+      "source": "巴西信仰见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2021-09-28",
+      "summary": "Portugal: Igreja Católica celebra outubro «missionário» com convite ao testemunho concreto da fé Agência ECCLESIA",
+      "summary_zh": "葡萄牙：天主教会庆祝“传教士”十月，邀请具体见证Agência ECCLESIA的信仰",
+      "title_zh": "葡萄牙：天主教会庆祝“传教士”十月，邀请为信仰作具体见证",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Agência ECCLESIA",
+      "tags": [
+        "拉美",
+        "宣教士故事",
+        "非洲宣教",
+        "见证"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.526783",
+      "extra": {
+        "provider": "google_news",
+        "query": "testemunho missionário Brasil história de fé",
+        "publisher": "Agência ECCLESIA",
+        "google_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3NkZTZvd3NOOVNZWDdWT2tQV0YtYjFLYnlxekg5LWVWNjlGMEZLRjNFZzA2ZjExbXBvZ3JDSURUaklvOFJ1dmo3XzJZcTE3TUFJaE44S1A2WW85Z2JuMzNKbnBIYVFnNGVWcjk5UzBndzZKMmY5V0ZSeGxaMkh5cnJLS1RDTTBtTDBYSGczRVFHRWVrZjNZTjZxTkRaeFZ0cHRoMVJMSHhiRTB3cjZERTBxUlhMM0RqcG9JZHFBcnMyUzJZazQzSg?oc=5",
+        "resolved": false,
+        "story_score": 18,
+        "domain": "news.google.com"
+      },
+      "id": "9a4d9caeaee5ec33"
+    },
+    {
+      "title": "Filme conta a história de Kanani, criança que nasceu com problema de tireoide e sobreviveu a infanticídio em tribo indígena",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPczJxVG43akFCcnZOczVtWEUwVlgtTFJYUXR4Tk8yVFA2bjVRRkFoYlVfOEVubS1BMGVqV3BXLU1qRGFFSUJPV21tSk9jNlFUZEtabk1TZ3NfWS05dFkzVTdnTzFoRVZycTRRQU5iN2FUMlp2U3JCRkJtMFpOME8ta3BIYnAtREN3a2Q5TnZab0kwSnJCdmRDRjZtYXVMV1BQYmlZNFB0T0ZFNURLQWJEYVBsUW1aN0NhSU1XZ3hRUnY1V3N2bWtwVnV1Y0VaajAxS3ZWLUwtSGpvU0VoTEtlYmFzMUlCV05nSThNcFdiRkZ4aVk5RUY3TWxTM3RrbUZh0gGPAkFVX3lxTE41dEZMem9XbnU1S1dpUDRoeWFpZlNJSGEtTF9sTGpWb0lpaUFOUThfWFdURmk2akVTSS1SemZtVFZDaHVVZ3JoWnVJYzJCRFhFandJeFNGMG9WY1ZTSktiN2VjU2pWR2hZQmJnM25QbTI4SjFsbzlULTlVWHRSUFlHeS1SZnh6UFluM2F3bUF0NWdRdTBEcHlIdFVrbkYxVUphMmV4aW5BSnRZdHROcGhzTzFzVkRfemdLUUFOT1VEcHR6ZG5haTFSX3hFa0dvcjRIeDhjM3ViY0R4aDhlN0ZHRlVrUFNtVWs2UF8xZVdEMmstRXhGNzhqMHRTNURDNlFLWWJpdWlXUWpkVzlSZWs?oc=5",
+      "category": "missionary",
+      "source": "亚马逊部落宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2021-09-28",
+      "summary": "Filme conta a história de Kanani, criança que nasceu com problema de tireoide e sobreviveu a infanticídio em tribo indígena O GLOBO",
+      "summary_zh": "电影讲述了Kanani的故事， Kanani是一个出生时患有甲状腺疾病的孩子，在土著部落O Globo的杀婴事件中幸存下来",
+      "title_zh": "电影讲述了Kanani的故事， Kanani是一个出生时患有甲状腺疾病的孩子，在一个土著部落中幸存下来",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "O GLOBO",
+      "tags": [
+        "拉美",
+        "宣教士故事",
+        "孤儿"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.672195",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionário tribo Amazônia história",
+        "publisher": "O GLOBO",
+        "google_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPczJxVG43akFCcnZOczVtWEUwVlgtTFJYUXR4Tk8yVFA2bjVRRkFoYlVfOEVubS1BMGVqV3BXLU1qRGFFSUJPV21tSk9jNlFUZEtabk1TZ3NfWS05dFkzVTdnTzFoRVZycTRRQU5iN2FUMlp2U3JCRkJtMFpOME8ta3BIYnAtREN3a2Q5TnZab0kwSnJCdmRDRjZtYXVMV1BQYmlZNFB0T0ZFNURLQWJEYVBsUW1aN0NhSU1XZ3hRUnY1V3N2bWtwVnV1Y0VaajAxS3ZWLUwtSGpvU0VoTEtlYmFzMUlCV05nSThNcFdiRkZ4aVk5RUY3TWxTM3RrbUZh0gGPAkFVX3lxTE41dEZMem9XbnU1S1dpUDRoeWFpZlNJSGEtTF9sTGpWb0lpaUFOUThfWFdURmk2akVTSS1SemZtVFZDaHVVZ3JoWnVJYzJCRFhFandJeFNGMG9WY1ZTSktiN2VjU2pWR2hZQmJnM25QbTI4SjFsbzlULTlVWHRSUFlHeS1SZnh6UFluM2F3bUF0NWdRdTBEcHlIdFVrbkYxVUphMmV4aW5BSnRZdHROcGhzTzFzVkRfemdLUUFOT1VEcHR6ZG5haTFSX3hFa0dvcjRIeDhjM3ViY0R4aDhlN0ZHRlVrUFNtVWs2UF8xZVdEMmstRXhGNzhqMHRTNURDNlFLWWJpdWlXUWpkVzlSZWs?oc=5",
+        "resolved": false,
+        "story_score": 9,
+        "domain": "news.google.com"
+      },
+      "id": "3c1cc472f4352547"
+    },
+    {
+      "title": "Kisah Misionaris Indonesia di Negeri Orang (2): Tantangan adalah Kesempatan, Nikmati Prosesnya",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTzk4dUs3YVo1YXNDNXlnRkxxd3dQbm4yS1U4TFQzbWJMMDJlQzR1eFRwVmh4OHp0aGlTYlptdi1EdWxXUFFKY3p6cEJaSXEtMldLbGlFYW9FM1lqbzgwRzVaRWVMdi1pa0ZYRzcyTWtOd1hyeDhtMGZvV0Faa21xanhxcjVySV9Ndm9EVFNIWHFXYzlaN1Z3Umlya0poQXNMM0FNNDVwWG91ZktuVURNVjNGa2hoN1Zpclp3MVdIX25sdG40V1RfNg?oc=5",
+      "category": "missionary",
+      "source": "印尼与东南亚见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2020-08-12",
+      "summary": "Kisah Misionaris Indonesia di Negeri Orang (2): Tantangan adalah Kesempatan, Nikmati Prosesnya katolikana",
+      "summary_zh": "印度尼西亚传教士在人民土地上的故事（ 2 ） ：挑战是机遇，享受卡托利卡纳过程",
+      "title_zh": "印度尼西亚传教士在人民土地上的故事（ 2 ） ：挑战是机遇，享受过程",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "katolikana",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.309277",
+      "extra": {
+        "provider": "google_news",
+        "query": "kesaksian misionaris kisah",
+        "publisher": "katolikana",
+        "google_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTzk4dUs3YVo1YXNDNXlnRkxxd3dQbm4yS1U4TFQzbWJMMDJlQzR1eFRwVmh4OHp0aGlTYlptdi1EdWxXUFFKY3p6cEJaSXEtMldLbGlFYW9FM1lqbzgwRzVaRWVMdi1pa0ZYRzcyTWtOd1hyeDhtMGZvV0Faa21xanhxcjVySV9Ndm9EVFNIWHFXYzlaN1Z3Umlya0poQXNMM0FNNDVwWG91ZktuVURNVjNGa2hoN1Zpclp3MVdIX25sdG40V1RfNg?oc=5",
+        "resolved": false,
+        "story_score": 7,
+        "domain": "news.google.com"
+      },
+      "id": "a867aa3957123a3b"
+    },
+    {
+      "title": "Coordenador de índios isolados da Funai omite atuação em projeto missionário de evangelização",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTDB1VmdaXy1FbmpmTThBR0MzaFZ3UlZJTEE4MnFBVGNId2xOMlhlOG1DcHhySTREcjdPQ0R3Yi1NcFQ4aFdycjZLbDlrUUJjNndnaUEzTmJZSS1iQ2tKQXVkNi04ZERYUThNMHY2Nmc2ZlF6dUdPX2pTNjFVOVpFX3RobHFjcnhLcFE3S25qTnVrQUQ5RGxMYjY0X2JscmVlVlFTZDI4V29HMXVIa1I0QWJUcG56cjZtUGUtSXhJTUQzM25tYmRMN1ZvNTh6RlhBNlHSAeABQVVfeXFMTWVPaXRWWXg1RXJYajZSaDVNOTA2VVhNMkdGREUweHBDSF85RUZ1cS1EZE0zYWp6T2x4WmZhRno1YWRhanVqeU5fckRlazJNek9GN3RiODRpd1dYS0JSUC13N2RkazdnNW5jcndGaXdCQmdGRWdFRG9iQnJwRWdpYTdjSjVmeDhxaE9Gd1JSeENWbzJobVdKbElMb2xad25lb1hXa0FTQkFBVHdXbjNrZUZtSmpBbV9SNjk3SVpyRUU0dzE4S1dXQ1FicUZ3a29yblNRdjR6Tnd6TDY1VjdmM3Q?oc=5",
+      "category": "missionary",
+      "source": "亚马逊部落宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2020-04-22",
+      "summary": "Coordenador de índios isolados da Funai omite atuação em projeto missionário de evangelização O GLOBO",
+      "summary_zh": "FUNAI孤立印第安人协调员忽略了传教项目O Globo的表现",
+      "title_zh": "FUNAI孤立印第安人协调员忽略了福传传教士项目的表现",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "O GLOBO",
+      "tags": [
+        "拉美",
+        "宣教士故事",
+        "非洲宣教"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.671511",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionário tribo Amazônia história",
+        "publisher": "O GLOBO",
+        "google_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTDB1VmdaXy1FbmpmTThBR0MzaFZ3UlZJTEE4MnFBVGNId2xOMlhlOG1DcHhySTREcjdPQ0R3Yi1NcFQ4aFdycjZLbDlrUUJjNndnaUEzTmJZSS1iQ2tKQXVkNi04ZERYUThNMHY2Nmc2ZlF6dUdPX2pTNjFVOVpFX3RobHFjcnhLcFE3S25qTnVrQUQ5RGxMYjY0X2JscmVlVlFTZDI4V29HMXVIa1I0QWJUcG56cjZtUGUtSXhJTUQzM25tYmRMN1ZvNTh6RlhBNlHSAeABQVVfeXFMTWVPaXRWWXg1RXJYajZSaDVNOTA2VVhNMkdGREUweHBDSF85RUZ1cS1EZE0zYWp6T2x4WmZhRno1YWRhanVqeU5fckRlazJNek9GN3RiODRpd1dYS0JSUC13N2RkazdnNW5jcndGaXdCQmdGRWdFRG9iQnJwRWdpYTdjSjVmeDhxaE9Gd1JSeENWbzJobVdKbElMb2xad25lb1hXa0FTQkFBVHdXbjNrZUZtSmpBbV9SNjk3SVpyRUU0dzE4S1dXQ1FicUZ3a29yblNRdjR6Tnd6TDY1VjdmM3Q?oc=5",
+        "resolved": false,
+        "story_score": 6,
+        "domain": "news.google.com"
+      },
+      "id": "7a31887878f51542"
+    },
+    {
+      "title": "Missão evangélica vai contatar povos isolados na Amazônia; risco de coronavírus",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTUwRmtXVXpTcU96OEc4RUhLbXZkMENwNHBFUTNpQzBQTHZaeVpNVjBJcG1WR1JjeFNPN3ZqRnIwTFBnazZYRnRhSGxwUGJ6Sm9ScGFJX0FFdVNRbmVvX3oyaF9xOFVySjBiSnZuM01xdkJWZlgtXzVwazBUdWFZMERqeVh5ZC1Ec2dxaGMwemg2YTVrZ0dXdVJ5TmR5VzR5VWFTQkRaU1JxdnhYY0wtaHFLZVRQTnYzWnF5TVFnRHJuaEtva2VN?oc=5",
+      "category": "missionary",
+      "source": "亚马逊部落宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2020-03-19",
+      "summary": "Missão evangélica vai contatar povos isolados na Amazônia; risco de coronavírus Mongabay Brasil",
+      "summary_zh": "福音传教士将接触亚马逊地区的孤立民族；巴西Mongabay冠状病毒的风险",
+      "title_zh": "福音传教士将接触亚马逊地区与世隔绝的人群；冠状病毒的风险",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Mongabay Brasil",
+      "tags": [
+        "拉美",
+        "宣教士故事"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.670945",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionário tribo Amazônia história",
+        "publisher": "Mongabay Brasil",
+        "google_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTUwRmtXVXpTcU96OEc4RUhLbXZkMENwNHBFUTNpQzBQTHZaeVpNVjBJcG1WR1JjeFNPN3ZqRnIwTFBnazZYRnRhSGxwUGJ6Sm9ScGFJX0FFdVNRbmVvX3oyaF9xOFVySjBiSnZuM01xdkJWZlgtXzVwazBUdWFZMERqeVh5ZC1Ec2dxaGMwemg2YTVrZ0dXdVJ5TmR5VzR5VWFTQkRaU1JxdnhYY0wtaHFLZVRQTnYzWnF5TVFnRHJuaEtva2VN?oc=5",
+        "resolved": false,
+        "story_score": 4,
+        "domain": "news.google.com"
+      },
+      "id": "dd9534d3473deb21"
+    },
+    {
+      "title": "Quem é o ex-missionário evangélico nomeado para a chefia do órgão de proteção a índios isolados da Funai",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Mb1g5V0FLNVZZaUc3MllhUkVNWlVuNWhPRGJxaVFnSVZ1bnViRzFlR09TX05xT1Z3enNCM05LMkY3MV9aWmpITDVrY0JvZWluemV3WmVLMmlHQdIBX0FVX3lxTE9GM01yTjRuUm5nVXNrckVGZ3ZFdU9uUzdQc3M0VzNKMjlGenFFTGVfZEFCb0hjR0dpZWNMSmxiZ0JxMUpKX2Zqc3Eyai1mLU1zZDdWVUQ1MS02ZFY3cHM4?oc=5",
+      "category": "missionary",
+      "source": "亚马逊部落宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2020-01-31",
+      "summary": "Quem é o ex-missionário evangélico nomeado para a chefia do órgão de proteção a índios isolados da Funai BBC",
+      "summary_zh": "谁是被任命为FUNAI BBC孤立印第安人保护机构负责人的前福音派传教士",
+      "title_zh": "谁是被任命为FUNAI孤立印第安人保护机构负责人的前福音派传教士",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "BBC",
+      "tags": [
+        "拉美",
+        "宣教士故事",
+        "非洲宣教"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.671679",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionário tribo Amazônia história",
+        "publisher": "BBC",
+        "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Mb1g5V0FLNVZZaUc3MllhUkVNWlVuNWhPRGJxaVFnSVZ1bnViRzFlR09TX05xT1Z3enNCM05LMkY3MV9aWmpITDVrY0JvZWluemV3WmVLMmlHQdIBX0FVX3lxTE9GM01yTjRuUm5nVXNrckVGZ3ZFdU9uUzdQc3M0VzNKMjlGenFFTGVfZEFCb0hjR0dpZWNMSmxiZ0JxMUpKX2Zqc3Eyai1mLU1zZDdWVUQ1MS02ZFY3cHM4?oc=5",
+        "resolved": false,
+        "story_score": 6,
+        "domain": "news.google.com"
+      },
+      "id": "e257091f993a30eb"
+    },
+    {
+      "title": "O missionário que virou ateu ao viver com índios brasileiros e fez surpreendente 'descoberta' sobre história da linguagem",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mQUh0U0VLYmVVWUx1SjlUQ3BKQ2FQZEVRZGxNeFZHeWw5eG9pWkFiN2M0S0VlemtmV2NFdUVxMnRLOFdQQ1Y1VTRCQW1oQl9WM0V3dzFNR2PSAV5BVV95cUxQUG1UNUdpWHdXSDk4blZOU3lIWU00UFRWTE9IUFBuUmNfVWE3dUpmSlMwWnNWekZpUzdyQjJuMG04RG1hUTB1RHdxV3Y4OTZwTnhaLWRFbk9zSVpvZ3BB?oc=5",
+      "category": "missionary",
+      "source": "亚马逊部落宣教",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2019-11-03",
+      "summary": "O missionário que virou ateu ao viver com índios brasileiros e fez surpreendente 'descoberta' sobre história da linguagem BBC",
+      "summary_zh": "这位传教士在与巴西印第安人生活在一起时成为无神论者，并对BBC语言的历史做出了令人惊讶的“发现”",
+      "title_zh": "这位传教士在与巴西印第安人生活在一起时成为无神论者，并对语言的历史做出了令人惊讶的“发现”",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "BBC",
+      "tags": [
+        "拉美",
+        "宣教士故事",
+        "非洲宣教"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.670749",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionário tribo Amazônia história",
+        "publisher": "BBC",
+        "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mQUh0U0VLYmVVWUx1SjlUQ3BKQ2FQZEVRZGxNeFZHeWw5eG9pWkFiN2M0S0VlemtmV2NFdUVxMnRLOFdQQ1Y1VTRCQW1oQl9WM0V3dzFNR2PSAV5BVV95cUxQUG1UNUdpWHdXSDk4blZOU3lIWU00UFRWTE9IUFBuUmNfVWE3dUpmSlMwWnNWekZpUzdyQjJuMG04RG1hUTB1RHdxV3Y4OTZwTnhaLWRFbk9zSVpvZ3BB?oc=5",
+        "resolved": false,
+        "story_score": 6,
+        "domain": "news.google.com"
+      },
+      "id": "13d5d1a5d7f207fc"
+    },
+    {
+      "title": "Kisah antropolog yang berhasil 'bertemu' suku terasing yang membunuh pemuda misionaris Amerika",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQUWNNUjZxbzktSk1lSXJVRjhzVm1TWXZSRHlTZS1iZ3gzYnZlcjlvTzZVTDdxekZod0x5SWZ5c1hVTl9JMHdmS3ctRVpoNXMzd0pyVEk1TdIBXEFVX3lxTE9mcmVfVnBqMF9zSVpfZGpjQ3BCZU1EOVFQcm10YkFBb1ZDeVhYUVVqMFhpZ0ozQWVRd2Y2bzNLVUtCN2FQVFo3Y1FMV1BrTEIwWXd3OERyaDIyQ1pY?oc=5",
+      "category": "missionary",
+      "source": "印尼与东南亚见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2018-11-27",
+      "summary": "Kisah antropolog yang berhasil 'bertemu' suku terasing yang membunuh pemuda misionaris Amerika BBC",
+      "summary_zh": "人类学家的故事，他设法“遇见”了一个疏远的部落，杀死了年轻的美国传教士英国广播公司",
+      "title_zh": "人类学家设法“遇见”一个杀害美国传教士青年的疏远部落的故事",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "BBC",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:24.310514",
+      "extra": {
+        "provider": "google_news",
+        "query": "kesaksian misionaris kisah",
+        "publisher": "BBC",
+        "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQUWNNUjZxbzktSk1lSXJVRjhzVm1TWXZSRHlTZS1iZ3gzYnZlcjlvTzZVTDdxekZod0x5SWZ5c1hVTl9JMHdmS3ctRVpoNXMzd0pyVEk1TdIBXEFVX3lxTE9mcmVfVnBqMF9zSVpfZGpjQ3BCZU1EOVFQcm10YkFBb1ZDeVhYUVVqMFhpZ0ozQWVRd2Y2bzNLVUtCN2FQVFo3Y1FMV1BrTEIwWXd3OERyaDIyQ1pY?oc=5",
+        "resolved": false,
+        "story_score": 11,
+        "domain": "news.google.com"
+      },
+      "id": "ec7534d2e05dbab4"
+    },
+    {
+      "title": "Missionários Combonianos no Brasil são homenageados pelos seus 60 anos",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91OTFSeS00R2QwOWFHUm11SEQ5OHdSdURfdmtvWGQxMTVINFg4ejJvMmszRE9SekE3VUNXV3JJZUtoU19RTFc5SU0zUFJJSV9tRll3amZB?oc=5",
+      "category": "missionary",
+      "source": "葡语非洲／巴西宣教见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2012-08-27",
+      "summary": "Missionários Combonianos no Brasil são homenageados pelos seus 60 anos Assembleia Legislativa do Estado de São Paulo",
+      "summary_zh": "巴西的康博尼传教士在圣保罗州立法议会获得了60年的荣誉",
+      "title_zh": "巴西的康博尼传教士因其60年的历史而受到表彰",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Assembleia Legislativa do Estado de São Paulo",
+      "tags": [
+        "非洲",
+        "宣教士故事",
+        "非洲宣教"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-11T08:14:23.800236",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionário África testemunho história",
+        "publisher": "Assembleia Legislativa do Estado de São Paulo",
+        "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91OTFSeS00R2QwOWFHUm11SEQ5OHdSdURfdmtvWGQxMTVINFg4ejJvMmszRE9SekE3VUNXV3JJZUtoU19RTFc5SU0zUFJJSV9tRll3amZB?oc=5",
+        "resolved": false,
+        "story_score": 4,
+        "domain": "news.google.com"
+      },
+      "id": "e90d4b4ced453721"
     }
   ]
 }
