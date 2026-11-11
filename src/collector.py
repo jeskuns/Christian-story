@@ -2,7 +2,6 @@
 多源数据采集引擎
 """
 import os
-import yaml
 import json
 import logging
 from datetime import datetime, timedelta
@@ -12,8 +11,11 @@ import hashlib
 
 from .models import Article, SourceConfig, DailySnapshot
 from .parsers import parse_feed, parse_generic, parse_wikipedia, parse_news_search
-from .utils import ensure_dir, save_json, today_hk, now_hk
+from .parsers.extract import extract_article
+from .utils import ensure_dir, save_json, today_hk, now_hk, normalize_content
 from .translator import Translator
+from .story_filter import filter_and_classify
+from .config_loader import load_sources
 
 logger = logging.getLogger(__name__)
 
@@ -25,10 +27,12 @@ PARSER_MAP = {
 }
 
 CATEGORY_LABELS = {
+    "africa": "非洲宣教与见证",
+    "china": "中国故事",
     "missionary": "宣教士故事",
     "giant": "属灵伟人",
-    "lay": "平信徒见证",
-    "devotional": "灵修小品",
+    "trial": "患难中的信心",
+    "lay": "平凡人的见证",
 }
 
 # 来源立场推断：按名称关键词识别与福音派传统不同的来源（用于阅读提示）
@@ -111,11 +115,11 @@ class Collector:
         self.articles: List[Article] = []
         self.errors: List[str] = []
         self.zero_sources: List[str] = []
+        self.filter_stats: Dict[str, Any] = {}
         self._load_sources()
 
     def _load_sources(self):
-        with open(self.config_path, "r", encoding="utf-8") as f:
-            raw = yaml.safe_load(f)
+        raw = load_sources(self.config_path)
         for item in raw.get("sources", []):
             self.sources.append(SourceConfig.from_dict(item))
         logger.info(f"Loaded {len(self.sources)} sources from {self.config_path}")
@@ -206,14 +210,62 @@ class Collector:
         self.articles = new_articles
         logger.info(f"After title dedup: {len(self.articles)} new articles")
 
-        # 英文标题自动翻译为中文（带本地缓存；失败则保留原标题）
+        # 故事判别：只留真正的故事，把新闻简讯、书评书摘、灵修小品、神学评论、
+        # 活动通知等挡在外面；同时推断主题分类、地区与标签。
+        self.articles, self.filter_stats = filter_and_classify(
+            self.articles,
+            min_score=4,
+            discovered_path=os.path.join(self.db_dir, "discovered_domains.json"),
+        )
+        logger.info(f"After story filter: {len(self.articles)} real stories")
+
+        # 检索发现的条目往往只有标题与摘要；解出原文直链后补抓全文，
+        # 才能在站内把整个故事读完（限量并发，避免把采集拖垮）。
+        self._enrich_content(max_items=160)
+
+        # 标题 / 摘要 / 正文译中（带缓存；失败保留原文）
         translator = Translator(os.path.join(self.data_dir, "translation_cache.json"))
         translator.translate_articles(self.articles)
 
-        # 为涉及争议公共议题的条目打标记（福音派视角阅读提示）
-        flag_articles(self.articles)
+        try:
+            ensure_dir(self.db_dir)
+            save_json(os.path.join(self.db_dir, "filter_stats.json"), {
+                "updated_at": now_hk(),
+                "in": self.filter_stats.get("in", 0),
+                "kept": self.filter_stats.get("kept", 0),
+                "rejected": self.filter_stats.get("rejected", {}),
+                "sources_count": len(self.sources),
+            })
+        except Exception as e:
+            logger.warning(f"保存判别统计失败：{e}")
 
         return self.articles
+
+    def _enrich_content(self, max_items: int = 160):
+        """对没有正文的故事补抓原文全文与配图"""
+        targets = [
+            a for a in self.articles
+            if len(a.content or "") < 350 and a.url and "news.google.com" not in a.url
+        ][:max_items]
+        if not targets:
+            return
+
+        def work(a: Article) -> int:
+            try:
+                content, image = extract_article(a.url, timeout=15)
+                if content and len(content) > 250:
+                    a.content = normalize_content(content)[:6000]
+                if image and not a.image:
+                    a.image = image
+                if not a.summary and a.content:
+                    a.summary = a.content[:200]
+                return 1 if a.content else 0
+            except Exception:
+                return 0
+
+        with ThreadPoolExecutor(max_workers=self.workers) as executor:
+            done = sum(executor.map(work, targets))
+        logger.info(f"正文补抓：{done}/{len(targets)} 条拿到全文")
 
     def save_raw(self):
         """保存原始采集结果按日期归档"""
@@ -230,6 +282,7 @@ class Collector:
             articles,
             key=lambda a: (
                 a.get("priority", 2),
+                (a.get("extra") or {}).get("story_score", 0),
                 (a.get("published") or a.get("fetched_at") or "")[:10],
             ),
             reverse=True,
@@ -255,7 +308,7 @@ class Collector:
                 picked_ids.add(a.get("id"))
         return picked[:limit]
 
-    def build_database(self, retention_days: int = 90, max_articles: int = 8000):
+    def build_database(self, retention_days: int = 365, max_articles: int = 12000):
         """构建数据库：与历史数据合并（按 id 去重），并保留最近 retention_days 天"""
         ensure_dir(self.db_dir)
         db_path = os.path.join(self.db_dir, "articles.json")
@@ -266,6 +319,9 @@ class Collector:
                 with open(db_path, "r", encoding="utf-8") as f:
                     old = json.load(f)
                 for a in old.get("articles", []):
+                    # 旧新闻聚合库没有故事判别分数：一律不回流，避免新闻重新混进故事站
+                    if not (a.get("extra") or {}).get("story_score"):
+                        continue
                     key = hashlib.sha256(
                         f"{a.get('url','')}|{a.get('title','')}".encode("utf-8")
                     ).hexdigest()[:16]
@@ -279,7 +335,8 @@ class Collector:
         cutoff = (datetime.now() - timedelta(days=retention_days)).strftime("%Y-%m-%d")
         kept = []
         for a in merged.values():
-            date = (a.get("published") or "")[:10] or (a.get("fetched_at") or "")[:10]
+            # 按「采集时间」保留，而不是按文章发表日期：经典老故事也要长期留住
+            date = (a.get("fetched_at") or "")[:10] or (a.get("published") or "")[:10]
             if date and date >= cutoff:
                 kept.append(a)
         kept.sort(key=lambda a: ((a.get("published") or a.get("fetched_at") or "")[:10]), reverse=True)

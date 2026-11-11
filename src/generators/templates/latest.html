@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% from "macros.html" import book_card, searchbar %}
+{% block title %}最新搜罗 - 基督教故事{% endblock %}
+{% block content %}
+<section class="hero hero--compact">
+  <div class="home-hero-main">
+    <h1>最新搜罗</h1>
+    <p class="hero-sub">按发布时间倒序，共 {{ latest|length }} 篇。故事可以是最新的，也可以是几十年前的；这里只是把最近找到的排在前面。</p>
+  </div>
+  <div class="hero-tools">
+    <a class="link-pill" href="regions.html">按地区浏览 →</a>
+    <a class="link-pill" href="all.html">全部 {{ total }} 篇</a>
+  </div>
+</section>
+
+{{ searchbar('在最新搜罗里搜索…') }}
+
+<section class="tag-row">
+  {% for t in tag_cloud %}<button type="button" class="tag-chip" data-tag="{{ t.name }}">{{ t.name }}<span>{{ t.count }}</span></button>{% endfor %}
+</section>
+
+<div class="home-layout">
+  <div class="main-col">
+    {% if latest %}
+    <section class="featured">
+      <div class="book-grid">
+        {% for s in latest %}{{ book_card(s, '') }}{% endfor %}
+      </div>
+    </section>
+    {% else %}
+    <div class="first-run-note">
+      <strong>还没有搜罗到故事</strong>
+      <p>每日定时任务或在 GitHub Actions 手动 Run workflow 后，这里会按发布时间列出全球新找到的故事；本机无法访问 Google News 时由 CI 的美国 IP 完成。</p>
+    </div>
+    {% endif %}
+    <div class="empty-state" id="empty-state" hidden>没有找到相符的故事，换个词试试。</div>
+  </div>
+  <aside class="sidebar">
+    <div class="widget note-widget">
+      <h3>关于「最新」</h3>
+      <p>每日自动搜罗，新故事会不断追加；判别不合格的（新闻、书评、灵修、活动通知）不会进列表。</p>
+      <a href="about.html">搜罗与判别规则 →</a>
+    </div>
+    <div class="widget">
+      <h3>数据</h3>
+      <p class="widget-plain">已收录搜罗故事 {{ stats.collected }} 篇，来自 {{ stats.domains }} 个站点域名。</p>
+    </div>
+  </aside>
+</div>
+{% endblock %}

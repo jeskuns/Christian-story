@@ -1,42 +1,40 @@
 {% extends "base.html" %}
-{% from "macros.html" import story_card %}
-{% block title %}全部故事 - 基督教世界故事{% endblock %}
+{% from "macros.html" import shelf, searchbar %}
+{% block title %}全部故事 - 基督教故事{% endblock %}
 {% block content %}
-<section class="hero">
-  <div class="hero-main">
-    <h1>全部故事</h1>
-    <p class="hero-sub">共 {{ total }} 篇（不受精选上限限制）· 按发布日期排列</p>
+<section class="hero hero--compact">
+  <div class="home-hero-main">
+    <h1>全部 {{ total }} 篇故事</h1>
+    <p class="hero-sub">按主题书架排列，不按热度。现有搜罗故事 {{ stats.collected }} 篇；老故事不会因为旧了就被换掉。</p>
   </div>
   <div class="hero-tools">
-    <a class="link-pill" href="index.html">← 返回首页（精选）</a>
+    <a class="link-pill" href="latest.html">最新搜罗 →</a>
+    <a class="link-pill" href="index.html">← 回首页</a>
   </div>
+</section>
+
+{{ searchbar('在全部故事里搜索人物、地区或主题…') }}
+
+<section class="tag-row">
+  {% for t in tag_cloud %}<button type="button" class="tag-chip" data-tag="{{ t.name }}">{{ t.name }}<span>{{ t.count }}</span></button>{% endfor %}
 </section>
 
 <div class="home-layout">
   <div class="main-col">
-    <section class="timeline">
-      {% for date, items in date_groups.items() %}
-      <div class="date-section" id="date-{{ date }}">
-        <div class="date-header">
-          <h2>
-            <span class="date-badge">{{ date }}</span>
-            <span class="date-label">{{ date_weekday[date] }}</span>
-          </h2>
-          <span class="date-count">{{ items|length }} 篇</span>
-        </div>
-        <div class="story-list">
-          {% for article in items %}
-          {{ story_card(article, category_labels) }}
-          {% endfor %}
-        </div>
-      </div>
-      {% endfor %}
-    </section>
+    {% for c in categories %}{{ shelf(c, by_cat[c.key], '') }}{% endfor %}
+    <div class="empty-state" id="empty-state" hidden>没有找到相符的故事，换个词试试。</div>
   </div>
   <aside class="sidebar">
+    <div class="widget note-widget">
+      <h3>本站只收故事</h3>
+      <p class="widget-plain">新闻简讯、书评书摘、灵修小品、神学评论、讲章、活动通知与募捐信息由判别器自动拦截；剩下的才译成中文、抓回全文。</p>
+      <a href="about.html">搜罗说明 →</a>
+    </div>
     <div class="widget">
-      <h3>说明</h3>
-      <p>此页为全部采集故事，未做精选裁剪。首页默认展示按「优先级 + 新鲜度 + 分类均衡」精选出的 250 篇。</p>
+      <h3>接下来想收进来的</h3>
+      <ul class="coming-list">
+        {% for t in coming_soon[:8] %}<li>{{ t }}</li>{% endfor %}
+      </ul>
     </div>
   </aside>
 </div>

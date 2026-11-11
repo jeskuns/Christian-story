@@ -1,30 +1,42 @@
 {% extends "base.html" %}
-{% from "macros.html" import story_card %}
-{% block title %}{{ label }} - 基督教世界故事{% endblock %}
+{% from "macros.html" import book_card, searchbar %}
+{% block title %}{{ cat.label }} - 基督教故事{% endblock %}
 {% block content %}
 <section class="hero hero--compact">
-  <div class="hero-main">
-    <h1>{{ icon }} {{ label }}</h1>
-    <p class="hero-sub">精选 {{ count }} 篇 / 共 {{ total }} 篇，来自 {{ sources|length }} 个信息源。</p>
+  <div class="main-col">
+    <div class="story-kicker">{{ cat.icon }} 主题分类</div>
+    <h1>{{ cat.label }}</h1>
+    <p class="hero-sub">{{ cat.desc }} 共 {{ stories|length }} 篇，全部来自全球网站搜罗，每篇都可点开完整阅读。</p>
   </div>
   <div class="hero-tools">
-    <a class="link-pill" href="../all.html">查看全部 {{ total }} 篇</a>
+    <a class="link-pill" href="../regions.html">按地区 →</a>
+    <a class="link-pill" href="../all.html">全部 {{ total }} 篇</a>
   </div>
 </section>
 
-<section class="filters">
-  <input type="text" id="filter-input" placeholder="搜索标题或正文…">
-  <select id="source-filter">
-    <option value="">全部来源</option>
-    {% for s in sources %}
-    <option value="{{ s }}">{{ s }}</option>
-    {% endfor %}
-  </select>
-</section>
+{{ searchbar('在「' ~ cat.label ~ '」里搜索…') }}
 
-<section class="story-list" id="story-list">
-  {% for article in articles %}
-  {{ story_card(article, category_labels) }}
-  {% endfor %}
-</section>
+<div class="home-layout">
+  <div class="main-col">
+    <div class="book-grid">
+      {% for s in stories %}{{ book_card(s, '../') }}{% endfor %}
+    </div>
+    <div class="empty-state" id="empty-state" hidden>没有找到相符的故事，换个词试试。</div>
+  </div>
+  <aside class="sidebar">
+    <div class="widget">
+      <h3>换个主题读</h3>
+      <div class="cat-nav">
+        {% for c in categories %}
+        <a class="cat-link cat-{{ c.key }}" href="{{ c.key }}.html">{{ c.icon }} {{ c.label }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="widget note-widget">
+      <h3>来源说明</h3>
+      <p>每篇末尾都有原文链接与原始网站名称；中文为自动翻译，引用请以原文为准。</p>
+      <a href="../about.html">搜罗与判别规则 →</a>
+    </div>
+  </aside>
+</div>
 {% endblock %}

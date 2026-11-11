@@ -4,11 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="theme-color" content="#9c4a2e">
-  <title>{% block title %}基督教世界故事{% endblock %}</title>
+  <title>{% block title %}基督教故事 · 全球真实故事搜罗{% endblock %}</title>
+  <meta name="description" content="从全世界的网站搜罗真实发生过的生命故事：宣教士、非洲宣教、人物见证、患难中的信心。可以是最新的，也可以是几十年前的经典。">
   <link rel="preconnect" href="https://fonts.googleapis.cn">
   <link rel="preconnect" href="https://fonts.gstatic.cn" crossorigin>
   <link href="https://fonts.googleapis.cn/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ root }}assets/css/style.css?v=20261102a">
+  <link rel="stylesheet" href="{{ root }}assets/css/style.css?v=20261111c">
 <script data-palette-init>(function(){try{var n=localStorage.getItem('story-palette');if(n&&n.length){document.documentElement.setAttribute('data-palette',n);}}catch(e){}})();</script>
 </head>
 <body>
@@ -16,16 +17,15 @@
     <div class="container header-inner">
       <a href="{{ root }}index.html" class="logo">
         <span class="logo-mark">✚</span>
-        <span class="logo-text">基督教<em>世界故事</em></span>
+        <span class="logo-text">基督教<em>故事</em></span>
       </a>
       <button class="nav-toggle" id="navToggle" aria-label="菜单" aria-expanded="false">☰</button>
       <nav class="main-nav" id="mainNav">
-        <a href="{{ root }}index.html">首页</a>
-        <a href="{{ root }}categories/missionary.html">宣教士</a>
-        <a href="{{ root }}categories/giant.html">属灵伟人</a>
-        <a href="{{ root }}categories/lay.html">平信徒</a>
-        <a href="{{ root }}categories/devotional.html">灵修小品</a>
-        <a href="{{ root }}sources.html">信息源</a>
+        <a href="{{ root }}index.html"{% if page == 'home' %} class="active"{% endif %}>首页</a>
+        <a href="{{ root }}latest.html"{% if page == 'latest' %} class="active"{% endif %}>最新搜罗</a>
+        <a href="{{ root }}regions.html"{% if page == 'regions' %} class="active"{% endif %}>按地区</a>
+        <a href="{{ root }}all.html"{% if page == 'all' %} class="active"{% endif %}>全部故事</a>
+        <a href="{{ root }}about.html"{% if page == 'about' %} class="active"{% endif %}>关于搜罗</a>
       </nav>
     <div class="palette-picker"><button class="palette-dot" type="button" data-palette="monet" title="莫奈" aria-label="莫奈配色" aria-pressed="false"></button><button class="palette-dot" type="button" data-palette="matisse" title="马蒂斯" aria-label="马蒂斯配色" aria-pressed="false"></button><button class="palette-dot" type="button" data-palette="morandi" title="莫兰迪" aria-label="莫兰迪配色" aria-pressed="false"></button><button class="palette-dot" type="button" data-palette="macaron" title="马卡龙" aria-label="马卡龙配色" aria-pressed="false"></button><button class="palette-dot" type="button" data-palette="rococo" title="洛可可" aria-label="洛可可配色" aria-pressed="false"></button><button class="palette-dot" type="button" data-palette="vangogh" title="梵高·星夜" aria-label="梵高·星夜配色" aria-pressed="false"></button><button class="palette-dot" type="button" data-palette="hokusai" title="北斋·普鲁士蓝" aria-label="北斋·普鲁士蓝配色" aria-pressed="false"></button></div>
     </div>
@@ -37,10 +37,14 @@
 
   <footer class="site-footer">
     <div class="container">
-      <p>基督教世界故事 · 每日自动采集全球属灵小故事 · 共 {{ total }} 篇资料</p>
-      <p class="disclaimer">本站为静态聚合示例，故事正文版权归原始来源所有；内容仅供个人灵修与讲道参考，请以官方来源为准。</p>
+      <p>基督教故事 · 全球网站自动搜罗 · 现有 {{ total }} 篇故事 · 每日更新</p>
+      <p class="footer-links">
+        {% for c in categories %}<a href="{{ root }}categories/{{ c.key }}.html">{{ c.label }}</a>{% endfor %}
+        <a href="{{ root }}about.html">搜罗说明</a>
+      </p>
+      <p class="disclaimer">正文为自动搜罗后译成的中文，版权归原作者与原始网站所有；每篇均附原文链接，引用请以原文为准。本站只收真实故事，不收新闻简讯、书评与灵修短文。</p>
     </div>
   </footer>
-  <script src="{{ root }}assets/js/main.js?v=20261102a"></script>
+  <script src="{{ root }}assets/js/main.js?v=20261111b"></script>
 </body>
 </html>

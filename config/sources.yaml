@@ -1,437 +1,670 @@
-# 基督教世界故事 · 信息源配置
-# category 取值: missionary(宣教士故事), giant(属灵伟人), lay(平信徒见证), devotional(灵修小品)
-# parser 取值: rss(优先，含正文与配图，直接摘抄), news_search(关键词发现，以链接+摘要呈现)
+# 基督教故事 · 全球故事搜罗源
 #
-# 说明：
-#   - 故事站以「直接摘抄正文 + 配图」为核心。真实 RSS 源（Desiring God、TGC、Our Daily Bread、
-#     Banner of Truth、Challies、5 Minutes、MNN 等）多数在订阅中带有完整正文，采集时会一并抽取，
-#     无需跳转即可在站内阅读。
-#   - 少数 news_search 源用于全球范围「发现」新故事（Google News / GDELT），以链接形式呈现，
-#     其中 GDELT 直链会尝试抓取正文。
-#   - 可按需启用/禁用、增删源或调整关键词。
+# 目标：从全世界的网站里搜罗「真正的故事」——真人、真事、有经历和转折的
+# 宣教纪实、人物见证、传记与患难中的信心。可以是刚发生的，也可以是几十年前的。
+# 不是新闻简讯、不是书评书摘、不是灵修小品、不是神学评论；这些由
+# src/story_filter.py 在采集后判别并拦截。
+#
+# category（主题倾向，采集后由 story_filter 复核）:
+#   africa 非洲宣教与见证 / china 中国故事 / missionary 宣教士故事
+#   giant 属灵伟人 / trial 患难中的信心 / lay 平凡人的见证
+# region: 非洲 / 中国 / 中东 / 亚洲 / 拉美 / 欧洲 / 北美 / 大洋洲 / 全球
+# parser:
+#   rss          直连 RSS，订阅里带全文的优先，站内可直接读完整故事
+#   news_search  Google News / GDELT 检索发现（全球范围、多语言、多地区版位）
+#
+# 想加一个源：照抄一段改 name / url / query / country / language 即可。
+# 站点会自动把新发现的域名记录到 data/db/discovered_domains.json，便于继续扩源。
 
 sources:
-  # ==================== 灵修小品（每日可读的短篇灵修/讲道素材） ====================
-  - name: Desiring God
-    url: https://www.desiringgod.org/blog.rss
-    category: devotional
+  # ================================================================
+  # A. 直连 RSS：带全文的故事型站点（跨洲）
+  # ================================================================
+  - name: I Am Second · 名人见证
+    url: https://www.iamsecond.com/feed/
+    category: lay
     parser: rss
     language: en
     country: US
+    region: 北美
+    priority: 3
     max_items: 15
 
-  - name: The Gospel Coalition
-    url: https://www.thegospelcoalition.org/feed/
-    category: devotional
-    parser: rss
-    language: en
-    country: US
-    max_items: 15
-
-  - name: Crossway
-    url: https://news.google.com/rss/search
-    category: devotional
-    parser: news_search
-    language: en
-    country: US
-    max_items: 12
-    extra:
-      provider: google
-      query: "Crossway"
-
-  - name: Our Daily Bread (English)
-    url: https://odb.org/feed/
-    category: devotional
-    parser: rss
-    language: en
-    country: US
-    max_items: 12
-
-  - name: 每日灵粮 (Our Daily Bread 中文)
-    url: https://news.google.com/rss/search
-    category: devotional
-    parser: news_search
-    language: zh
-    country: TW
-    max_items: 12
-    extra:
-      provider: google
-      query: "每日灵粮"
-
-  # ==================== 属灵伟人（圣徒传记 / 教会历史 / 神学家） ====================
-  - name: Desiring God Biographies
-    url: https://news.google.com/rss/search
-    category: giant
-    parser: news_search
-    language: en
-    country: US
-    max_items: 12
-    extra:
-      provider: google
-      query: "Desiring God Biographies"
-
-  - name: The Gospel Coalition Biographies
-    url: https://news.google.com/rss/search
-    category: giant
-    parser: news_search
-    language: en
-    country: US
-    max_items: 12
-    extra:
-      provider: google
-      query: "The Gospel Coalition Biographies"
-
-  - name: Banner of Truth
-    url: https://www.banneroftruth.org/us/feed/
-    category: giant
-    parser: rss
-    language: en
-    country: GB
-    max_items: 12
-
-  - name: Tim Challies
-    url: https://www.challies.com/feed/
-    category: giant
-    parser: rss
-    language: en
-    country: CA
-    max_items: 12
-
-  - name: 5 Minutes in Church History
-    url: https://news.google.com/rss/search
-    category: giant
-    parser: news_search
-    language: en
-    country: US
-    max_items: 10
-    extra:
-      provider: google
-      query: "5 Minutes in Church History"
-
-  - name: Monergism
-    url: https://www.monergism.com/blog/feed
-    category: giant
-    parser: rss
-    language: en
-    country: US
-    max_items: 10
-
-  - name: Ligonier Ministries
-    url: https://news.google.com/rss/search
-    category: giant
-    parser: news_search
-    language: en
-    country: US
-    max_items: 10
-    extra:
-      provider: google
-      query: "Ligonier Ministries"
-
-  # ==================== 宣教士故事（宣教运动 / 跨文化见证） ====================
-  - name: Mission Network News
+  - name: Mission Network News · 宣教现场
     url: https://www.mnnonline.org/feed/
     category: missionary
     parser: rss
     language: en
     country: US
+    region: 全球
+    priority: 3
     max_items: 15
 
-  - name: The Gospel Coalition Missions
-    url: https://news.google.com/rss/search
-    category: missionary
-    parser: news_search
-    language: en
-    country: US
-    max_items: 12
-    extra:
-      provider: google
-      query: "The Gospel Coalition Missions"
-
-  - name: Desiring God Missions
-    url: https://news.google.com/rss/search
-    category: missionary
-    parser: news_search
-    language: en
-    country: US
-    max_items: 12
-    extra:
-      provider: google
-      query: "missionary biography"
-
-  - name: 宣教士故事（全球发现）
-    url: https://news.google.com/rss/search
-    category: missionary
-    parser: news_search
-    language: en
-    country: US
-    max_items: 10
-    extra:
-      provider: google
-      query: "Christian missionary biography story testimony"
-
-  # ==================== 平信徒见证（普通信徒的生命故事） ====================
-  - name: Revive Our Hearts
-    url: https://news.google.com/rss/search
-    category: lay
-    parser: news_search
-    language: en
-    country: US
-    max_items: 12
-    extra:
-      provider: google
-      query: "Revive Our Hearts"
-
-  - name: I Am Second
-    url: https://news.google.com/rss/search
-    category: lay
-    parser: news_search
-    language: en
-    country: US
-    max_items: 12
-    extra:
-      provider: google
-      query: "I Am Second"
-
-  - name: Relevant Magazine
-    url: https://relevantmagazine.com/feed/
-    category: lay
-    parser: rss
-    language: en
-    country: US
-    max_items: 12
-
-  - name: 平信徒见证（全球发现）
-    url: https://news.google.com/rss/search
-    category: lay
-    parser: news_search
-    language: en
-    country: US
-    max_items: 10
-    extra:
-      provider: google
-      query: "Christian conversion testimony personal story faith"
-
-  - name: 属灵伟人（全球发现）
-    url: https://news.google.com/rss/search
-    category: giant
-    parser: news_search
-    language: en
-    country: US
-    max_items: 10
-    extra:
-      provider: google
-      query: "Christian historical biography saint church history"
-
-  # ==================== 新增：更多权威来源（扩充信息源，提升量与质） ====================
-  - name: Christianity Today
-    url: https://www.christianitytoday.com/feed/
-    category: devotional
-    parser: rss
-    language: en
-    country: US
-    max_items: 12
-
-  - name: 9Marks
-    url: https://9marks.org/feed/
-    category: devotional
-    parser: rss
-    language: en
-    country: US
-    max_items: 10
-
-  - name: CBMW
-    url: https://cbmw.org/feed/
-    category: devotional
-    parser: rss
-    language: en
-    country: US
-    max_items: 8
-
-  - name: 福音联盟中文
-    url: https://cn.thegospelcoalition.org/feed/
-    category: devotional
-    parser: rss
-    language: zh
-    country: CN
-    max_items: 12
-
-  - name: Reformation21
-    url: https://reformation21.org/feed
-    category: giant
-    parser: rss
-    language: en
-    country: US
-    max_items: 10
-
-  - name: Christian History (CT)
-    url: https://news.google.com/rss/search
-    category: giant
-    parser: news_search
-    language: en
-    country: US
-    max_items: 8
-    extra:
-      provider: google
-      query: "Christian History Magazine"
-
-  - name: Servants of Grace
-    url: https://news.google.com/rss/search
-    category: giant
-    parser: news_search
-    language: en
-    country: US
-    max_items: 8
-    extra:
-      provider: google
-      query: "Servants of Grace"
-
-  - name: The Aquila Report
-    url: https://theaquilareport.com/feed/
-    category: giant
-    parser: rss
-    language: en
-    country: US
-    max_items: 8
-
-  - name: Mockingbird
-    url: https://news.google.com/rss/search
-    category: lay
-    parser: news_search
-    language: en
-    country: US
-    max_items: 10
-    extra:
-      provider: google
-      query: '"mockingbird" law and gospel'
-
-  - name: Radical (David Platt)
-    url: https://radical.net/feed/
-    category: missionary
-    parser: rss
-    language: en
-    country: US
-    max_items: 8
-
-  - name: IMB
+  - name: IMB Stories · 国际宣教部
     url: https://www.imb.org/feed/
     category: missionary
     parser: rss
     language: en
     country: US
-    max_items: 10
+    region: 全球
+    priority: 3
+    max_items: 15
 
-  - name: Wycliffe
-    url: https://www.wycliffe.net/feed/
+  - name: Assist News Service · 宣教通讯
+    url: https://www.assistnews.net/feed/
     category: missionary
     parser: rss
     language: en
     country: US
-    max_items: 8
+    region: 全球
+    priority: 3
+    max_items: 12
 
-  # ==================== 新增：东亚与东南亚华人信仰聚集地 ====================
-  # 台/港/星/马/印尼/日/韩。语言只用 zh / en（翻译管线目前只有英→中，日韩文条目整条不译）。
-  # country 会传给 Google News 的 gl/ceid，因此写 TW 就是台湾版结果、HK 就是港版。
-  - name: 台灣教會見證
-    url: https://news.google.com/rss/search
+  - name: The Gospel Coalition
+    url: https://www.thegospelcoalition.org/feed/
+    category: giant
+    parser: rss
+    language: en
+    country: US
+    region: 北美
+    priority: 3
+    max_items: 12
+
+  - name: Desiring God
+    url: https://www.desiringgod.org/blog.rss
+    category: giant
+    parser: rss
+    language: en
+    country: US
+    region: 北美
+    priority: 3
+    max_items: 12
+
+  - name: Banner of Truth · 教会历史
+    url: https://www.banneroftruth.org/us/feed/
+    category: giant
+    parser: rss
+    language: en
+    country: GB
+    region: 欧洲
+    priority: 3
+    max_items: 12
+
+  - name: Christianity Today
+    url: https://www.christianitytoday.com/feed/
     category: lay
+    parser: rss
+    language: en
+    country: US
+    region: 北美
+    priority: 3
+    max_items: 12
+
+  - name: The Christian Post
+    url: https://www.christianpost.com/feed/
+    category: lay
+    parser: rss
+    language: en
+    country: US
+    region: 北美
+    priority: 3
+    max_items: 12
+
+  - name: Tim Challies · 人物与传记
+    url: https://www.challies.com/feed/
+    category: giant
+    parser: rss
+    language: en
+    country: CA
+    region: 北美
+    priority: 3
+    max_items: 10
+
+  - name: Persecution.org · 受逼迫教会见证
+    url: https://www.persecution.org/feed/
+    category: trial
+    parser: rss
+    language: en
+    country: US
+    region: 全球
+    priority: 3
+    max_items: 12
+
+  - name: Voice of the Martyrs · 殉道者故事
+    url: https://www.vom.org/feed/
+    category: trial
+    parser: rss
+    language: en
+    country: US
+    region: 全球
+    priority: 3
+    max_items: 10
+
+  - name: Revive Our Hearts · 女性见证
+    url: https://www.reviveourhearts.com/feed/
+    category: lay
+    parser: rss
+    language: en
+    country: US
+    region: 北美
+    priority: 3
+    max_items: 10
+
+  - name: Wycliffe Bible Translators · 译经故事
+    url: https://www.wycliffe.org/feed/
+    category: missionary
+    parser: rss
+    language: en
+    country: US
+    region: 全球
+    priority: 3
+    max_items: 10
+
+  # ================================================================
+  # B. Google News 全球检索矩阵（全世界网站 · 多地区 · 多语言）
+  #    每个源 = 一个地区版位 + 一组故事关键词；命中后由故事判别器筛
+  # ================================================================
+  # ---- 非洲（用户点名：非洲宣教故事） ----
+  - name: 非洲宣教故事（尼日利亚）
+    url: https://news.google.com/rss/search
+    category: africa
     parser: news_search
-    language: zh
-    country: TW
-    region: 亚洲
+    language: en
+    country: NG
+    region: 非洲
+    priority: 2
     max_items: 12
     extra:
       provider: google
-      query: "台灣 基督徒 見證 生命 故事"
+      query: "missionary Nigeria testimony story"
 
-  - name: 香港教會見證
+  - name: 非洲宣教故事（肯尼亚／东非）
     url: https://news.google.com/rss/search
-    category: lay
+    category: africa
+    parser: news_search
+    language: en
+    country: KE
+    region: 非洲
+    priority: 2
+    max_items: 12
+    extra:
+      provider: google
+      query: "missionary Kenya Uganda testimony story"
+
+  - name: 非洲宣教故事（南非／南部非洲）
+    url: https://news.google.com/rss/search
+    category: africa
+    parser: news_search
+    language: en
+    country: ZA
+    region: 非洲
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "Christian testimony South Africa story"
+
+  - name: 非洲逼迫与信心（西非）
+    url: https://news.google.com/rss/search
+    category: africa
+    parser: news_search
+    language: en
+    country: NG
+    region: 非洲
+    priority: 2
+    max_items: 12
+    extra:
+      provider: google
+      query: "Christian persecution Nigeria survived story"
+
+  - name: 法语非洲见证
+    url: https://news.google.com/rss/search
+    category: africa
+    parser: news_search
+    language: fr
+    country: SN
+    region: 非洲
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "témoignage missionnaire Afrique histoire"
+
+  - name: 葡语非洲／巴西宣教见证
+    url: https://news.google.com/rss/search
+    category: africa
+    parser: news_search
+    language: pt
+    country: BR
+    region: 非洲
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "missionário África testemunho história"
+
+  - name: 非洲教会人物故事（泛非）
+    url: https://news.google.com/rss/search
+    category: africa
+    parser: news_search
+    language: en
+    country: GH
+    region: 非洲
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "African Christian life story faith"
+
+  # ---- 中国与华人 ----
+  - name: 华人宣教士见证（台湾版位）
+    url: https://news.google.com/rss/search
+    category: china
+    parser: news_search
+    language: zh
+    country: TW
+    region: 中国
+    priority: 2
+    max_items: 12
+    extra:
+      provider: google
+      query: "宣教士 見證 故事"
+
+  - name: 华人见证故事（大陆版位）
+    url: https://news.google.com/rss/search
+    category: china
+    parser: news_search
+    language: zh
+    country: CN
+    region: 中国
+    priority: 2
+    max_items: 12
+    extra:
+      provider: google
+      query: "基督徒 見證 故事 生命"
+
+  - name: 中国教会人物（香港版位）
+    url: https://news.google.com/rss/search
+    category: china
     parser: news_search
     language: zh
     country: HK
-    region: 亚洲
-    max_items: 12
-    extra:
-      provider: google
-      query: "香港 基督徒 見證 信主 故事"
-
-  - name: 星馬華人見證
-    url: https://news.google.com/rss/search
-    category: lay
-    parser: news_search
-    language: zh
-    country: SG
-    region: 亚洲
-    max_items: 12
-    extra:
-      provider: google
-      query: "新加坡 OR 馬來西亞 華人 见证 信主 故事"
-
-  - name: 東南亞逼迫見証
-    url: https://news.google.com/rss/search
-    category: lay
-    parser: news_search
-    language: zh
-    country: ID
-    region: 亚洲
+    region: 中国
+    priority: 2
     max_items: 10
     extra:
       provider: google
-      query: "印尼 基督徒 逼迫 见证 教会"
+      query: "教會 見證 生命故事"
 
-  - name: 日韓華人教会故事
+  - name: 华人非洲宣教
     url: https://news.google.com/rss/search
-    category: missionary
-    parser: news_search
-    language: zh
-    country: JP
-    region: 亚洲
-    max_items: 10
-    extra:
-      provider: google
-      query: "華人 宣教 日本 OR 韓國 教会 团契"
-
-  - name: 亞洲禾場宣教士故事
-    url: https://news.google.com/rss/search
-    category: missionary
+    category: china
     parser: news_search
     language: zh
     country: TW
-    region: 亚洲
+    region: 非洲
+    priority: 2
     max_items: 10
     extra:
       provider: google
-      query: "宣教士 故事 亞洲 禾場 差派"
+      query: "非洲 宣教 見證"
 
-  - name: 華人屬靈偉人與復臨史
+  - name: 中国宣教史人物（英文）
+    url: https://news.google.com/rss/search
+    category: china
+    parser: news_search
+    language: en
+    country: US
+    region: 中国
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "China missionary biography story"
+
+  # ---- 亚洲 ----
+  - name: 印度信主见证
+    url: https://news.google.com/rss/search
+    category: lay
+    parser: news_search
+    language: en
+    country: IN
+    region: 亚洲
+    priority: 2
+    max_items: 12
+    extra:
+      provider: google
+      query: "India Christian conversion testimony story"
+
+  - name: 韩国宣教士故事
+    url: https://news.google.com/rss/search
+    category: missionary
+    parser: news_search
+    language: ko
+    country: KR
+    region: 亚洲
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "선교사 간증 이야기"
+
+  - name: 日本信仰见证
+    url: https://news.google.com/rss/search
+    category: lay
+    parser: news_search
+    language: ja
+    country: JP
+    region: 亚洲
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "宣教師 証言 物語"
+
+  - name: 印尼与东南亚见证
+    url: https://news.google.com/rss/search
+    category: lay
+    parser: news_search
+    language: id
+    country: ID
+    region: 亚洲
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "kesaksian misionaris kisah"
+
+  - name: 菲律宾宣教故事
+    url: https://news.google.com/rss/search
+    category: missionary
+    parser: news_search
+    language: en
+    country: PH
+    region: 亚洲
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "Philippines missionary testimony story"
+
+  # ---- 中东 ----
+  - name: 中东信主见证
+    url: https://news.google.com/rss/search
+    category: trial
+    parser: news_search
+    language: en
+    country: AE
+    region: 中东
+    priority: 2
+    max_items: 12
+    extra:
+      provider: google
+      query: "Iran Muslim conversion testimony story Jesus"
+
+  - name: 中东难民与教会
+    url: https://news.google.com/rss/search
+    category: trial
+    parser: news_search
+    language: en
+    country: TR
+    region: 中东
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "Syria refugee Christian testimony story"
+
+  # ---- 拉美 ----
+  - name: 巴西信仰见证
+    url: https://news.google.com/rss/search
+    category: lay
+    parser: news_search
+    language: pt
+    country: BR
+    region: 拉美
+    priority: 2
+    max_items: 12
+    extra:
+      provider: google
+      query: "testemunho missionário Brasil história de fé"
+
+  - name: 西语拉美宣教故事
+    url: https://news.google.com/rss/search
+    category: missionary
+    parser: news_search
+    language: es
+    country: MX
+    region: 拉美
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "testimonio misionero historia de fe"
+
+  - name: 亚马逊部落宣教
+    url: https://news.google.com/rss/search
+    category: missionary
+    parser: news_search
+    language: pt
+    country: BR
+    region: 拉美
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "missionário tribo Amazônia história"
+
+  # ---- 欧洲 ----
+  - name: 英国信仰故事
     url: https://news.google.com/rss/search
     category: giant
     parser: news_search
-    language: zh
-    country: TW
-    region: 亚洲
+    language: en
+    country: GB
+    region: 欧洲
+    priority: 2
     max_items: 10
     extra:
       provider: google
-      query: "牧师 传记 屬靈 伟人 倪柝聲 OR 王明道 OR 宋尚節"
+      query: "Christian biography church history story"
 
-  - name: 台港澳每日靈修
+  - name: 法语欧洲见证
     url: https://news.google.com/rss/search
-    category: devotional
+    category: lay
+    parser: news_search
+    language: fr
+    country: FR
+    region: 欧洲
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "témoignage chrétien histoire de vie"
+
+  - name: 乌克兰战火中的信心
+    url: https://news.google.com/rss/search
+    category: trial
+    parser: news_search
+    language: en
+    country: UA
+    region: 欧洲
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "Ukraine Christian testimony story church"
+
+  # ---- 北美 / 大洋洲 ----
+  - name: 北美信主见证
+    url: https://news.google.com/rss/search
+    category: lay
+    parser: news_search
+    language: en
+    country: US
+    region: 北美
+    priority: 2
+    max_items: 12
+    extra:
+      provider: google
+      query: "Christian conversion testimony story"
+
+  - name: 宣教士传记与生平
+    url: https://news.google.com/rss/search
+    category: missionary
+    parser: news_search
+    language: en
+    country: US
+    region: 全球
+    priority: 2
+    max_items: 12
+    extra:
+      provider: google
+      query: "missionary biography life story"
+
+  - name: 澳大利亚／太平洋宣教
+    url: https://news.google.com/rss/search
+    category: missionary
+    parser: news_search
+    language: en
+    country: AU
+    region: 大洋洲
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "Pacific islands missionary story testimony"
+
+  # ---- 全球主题检索（不限地区） ----
+  - name: 全球：殉道与患难见证
+    url: https://news.google.com/rss/search
+    category: trial
+    parser: news_search
+    language: en
+    country: US
+    region: 全球
+    priority: 2
+    max_items: 12
+    extra:
+      provider: google
+      query: "persecuted Christian testimony story"
+
+  - name: 全球：孤儿与救助故事
+    url: https://news.google.com/rss/search
+    category: lay
+    parser: news_search
+    language: en
+    country: US
+    region: 全球
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "orphan rescued missionary story"
+
+  - name: 全球：译经与部落故事
+    url: https://news.google.com/rss/search
+    category: missionary
+    parser: news_search
+    language: en
+    country: US
+    region: 全球
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "Bible translator tribe story"
+
+  - name: 全球：医疗宣教故事
+    url: https://news.google.com/rss/search
+    category: missionary
+    parser: news_search
+    language: en
+    country: US
+    region: 全球
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "medical missionary Africa hospital story"
+
+  - name: 全球：复兴与祷告故事
+    url: https://news.google.com/rss/search
+    category: giant
+    parser: news_search
+    language: en
+    country: US
+    region: 全球
+    priority: 2
+    max_items: 10
+    extra:
+      provider: google
+      query: "revival prayer church history story"
+
+  # ================================================================
+  # C. GDELT 全球文档库：返回原文直链，可抓正文（Google 之外的兜底）
+  # ================================================================
+  - name: GDELT · 非洲宣教
+    url: https://api.gdeltproject.org/api/v2/doc/doc
+    category: africa
+    parser: news_search
+    language: en
+    country: US
+    region: 非洲
+    priority: 2
+    max_items: 8
+    extra:
+      provider: gdelt
+      query: "missionary Africa testimony"
+
+  - name: GDELT · 全球信主见证
+    url: https://api.gdeltproject.org/api/v2/doc/doc
+    category: lay
+    parser: news_search
+    language: en
+    country: US
+    region: 全球
+    priority: 2
+    max_items: 8
+    extra:
+      provider: gdelt
+      query: "Christian testimony conversion story"
+
+  - name: GDELT · 受逼迫教会
+    url: https://api.gdeltproject.org/api/v2/doc/doc
+    category: trial
+    parser: news_search
+    language: en
+    country: US
+    region: 全球
+    priority: 2
+    max_items: 8
+    extra:
+      provider: gdelt
+      query: "persecuted Christian testimony"
+
+  - name: GDELT · 拉美与亚洲宣教
+    url: https://api.gdeltproject.org/api/v2/doc/doc
+    category: missionary
+    parser: news_search
+    language: en
+    country: US
+    region: 全球
+    priority: 2
+    max_items: 8
+    extra:
+      provider: gdelt
+      query: "missionary story Latin America Asia"
+
+  - name: GDELT · 中国与华人见证
+    url: https://api.gdeltproject.org/api/v2/doc/doc
+    category: china
     parser: news_search
     language: zh
-    country: HK
-    region: 亚洲
-    max_items: 10
+    country: CN
+    region: 中国
+    priority: 2
+    max_items: 8
     extra:
-      provider: google
-      query: "靈修 每日 禱告 靈糧 親近神"
-
-  - name: City Harvest Church (Singapore)
-    url: https://chc.org/feed/
-    category: devotional
-    parser: rss
-    language: en
-    country: SG
-    region: 亚洲
-    max_items: 10
+      provider: gdelt
+      query: "Christian testimony China church story"

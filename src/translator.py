@@ -1,8 +1,9 @@
 """
-英文标题自动翻译（免费接口 + 本地缓存）
+多语言标题 / 摘要 / 正文自动译中（云端免费接口 + 本地离线模型 + 磁盘缓存）
 
-提供者顺序：MyMemory（免密钥，实测可用）→ Google 非官方端点（备用）
-翻译失败一律返回空字符串，调用方保留原标题，绝不阻塞采集流程。
+提供者顺序：MyMemory（免密钥）→ Google 非官方端点 → argos 离线（英译中长正文）
+非英语长正文按句切块走云端，避免 argos 缺少「非英语→中文」模型。
+翻译失败一律返回空字符串，调用方保留原文，绝不阻塞采集流程。
 """
 import os
 import re
@@ -72,7 +73,7 @@ GOOGLE_API = "https://translate.googleapis.com/translate_a/single"
 
 
 class Translator:
-    """英文标题转中文，带磁盘缓存避免重复请求"""
+    """多语言文章译中，带磁盘缓存避免重复请求"""
 
     def __init__(self, cache_path: str, timeout: int = 12, delay: float = 0.1, use_offline: bool = True):
         self.cache_path = cache_path
@@ -81,6 +82,7 @@ class Translator:
         self.use_offline = use_offline
         self.cache: Dict[str, str] = {}
         self._argos_cache: Dict[str, tuple] = {}  # src_lang -> (src_lang_obj, tgt_lang_obj, translation)
+        self._cloud_dead = False  # 云端接口完全不可达时熔断，避免长文逐块超时拖垮采集
         self._load_cache()
 
     def _load_cache(self):
@@ -139,25 +141,64 @@ class Translator:
         # 缓存命中但为退化输出（历史长文复读乱码），丢弃缓存重新翻译
 
         result = ""
-        # 长文本（正文摘抄）直走本地离线翻译，避免云端接口 500 字符限制与配额
-        if len(text) <= 450:
+        # 短文本直走云端，质量稳定且无长度限制问题
+        if len(text) <= 450 and not self._cloud_dead:
+            errors = 0
             for provider in ("mymemory", "google"):
                 try:
                     result = getattr(self, f"_{provider}")(text, src)
                 except Exception as e:
                     logger.debug(f"翻译源 {provider} 失败: {e}")
+                    errors += 1
                     result = ""
-                if result:
+                if result and not _is_degenerate(result):
                     break
+                result = ""
                 time.sleep(self.delay)
+            if errors == 2:
+                self._cloud_dead = True
+                logger.warning("云端翻译接口连续失败，本次运行跳过云端翻译")
 
-        # 云端失败或长文本，回退本地离线翻译（不限量、无配额）
-        if not result and self.use_offline:
+        # 长正文优先用本地离线模型（不限量、无配额）。argos 基本只有「英语→中文」包，
+        # 其它语言不去尝试下载模型，直接交给下面的云端分块。
+        if not result and self.use_offline and src == "en":
             result = self._argos_translate(text, src)
+
+        # 云端失败 / 长文本且离线不可用：按句切块逐块走云端，块级失败自动跳过
+        if not result and not self._cloud_dead:
+            result = self._cloud_chunked(text, src)
 
         if result and not _is_degenerate(result):
             self.cache[key] = result
         return result
+
+    def _cloud_chunked(self, text: str, src: str, max_chunks: int = 12) -> str:
+        """非英语长正文兜底：切块逐段走云端，规避单次长度限制与离线模型缺失"""
+        if self._cloud_dead:
+            return ""
+        parts: List[str] = []
+        errors = 0
+        for ch in _chunk_text(text, 400)[:max_chunks]:
+            out = ""
+            for provider in ("mymemory", "google"):
+                try:
+                    cand = getattr(self, f"_{provider}")(ch, src)
+                except Exception as e:
+                    logger.debug(f"分块翻译源 {provider} 失败: {e}")
+                    errors += 1
+                    cand = ""
+                if cand and not _is_degenerate(cand):
+                    out = cand
+                    break
+                time.sleep(self.delay)
+            if errors >= 8:
+                self._cloud_dead = True
+                logger.warning("云端分块翻译连续失败，停止本轮云端请求")
+                break
+            if out:
+                parts.append(out)
+            time.sleep(self.delay)
+        return "\n\n".join(parts).strip()
 
     # ---------- 离线翻译（argos-translate，本地运行、无配额） ----------
     def _get_argos(self, src: str = "en"):
@@ -225,8 +266,8 @@ class Translator:
             logger.debug(f"argos 翻译失败: {e}")
             return ""
 
-    # 支持翻译的源语言列表（除中文外，中文文章跳过翻译）
-    TRANSLATABLE_LANGS = ("en", "ja", "ko", "id")
+    # 支持译中的源语言（与 config/sources.yaml 的非中文源一致；中文文章跳过翻译）
+    TRANSLATABLE_LANGS = ("en", "fr", "pt", "es", "ja", "ko", "id")
 
     @staticmethod
     def _article_lang(a: "Article") -> str:
@@ -264,7 +305,7 @@ class Translator:
                 sdone += 1
             time.sleep(self.delay)
 
-        # 正文摘抄翻译（离线 argos，长文本直走本地、无配额限制）
+        # 正文译中：英文长文走离线 argos，其它语言走云端分块，均无配额硬限制
         ctext = [
             a for a in articles
             if self._article_lang(a) in self.TRANSLATABLE_LANGS
@@ -274,7 +315,7 @@ class Translator:
         cdone = 0
         for a in clist:
             lang = self._article_lang(a)
-            zh = self.translate(a.content, lang)  # 离线 argos 全量翻译，不再截断前 2200 字
+            zh = self.translate(a.content, lang)
             if zh:
                 a.content_zh = zh
                 cdone += 1

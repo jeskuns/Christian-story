@@ -1,17 +1,29 @@
-name: Daily Collect & Deploy
+name: Global Story Collection & Deploy
 
-# 每天 UTC 20:00 = 北京时间次日 04:00 自动采集、生成并发布到 Cloudflare Pages
-# （GitHub 的 schedule 触发本身可能延迟数小时，以实际运行时间为准）
+# 每天 UTC 20:00（北京时间次日 04:00）从全世界网站搜罗故事并发布。
+# push 时如果数据库里还没有任何判别通过的故事，也先跑一次完整搜罗，避免部署空站；
+# 已有数据则只离线重建，不重复采集。
 "on":
   schedule:
     - cron: "0 20 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - "config/**"
+      - "src/**"
+      - "site/assets/**"
+      - "run.py"
+      - "requirements.txt"
+      - "_headers"
+      - ".github/workflows/deploy.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: daily-collect
+  group: story-collect
   cancel-in-progress: false
 
 jobs:
@@ -33,16 +45,34 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Collect sources and build site
+      - name: Decide whether a fresh collection is needed
+        id: need_collect
+        run: |
+          if [ "${{ github.event_name }}" != "push" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if python -c 'import json,sys; a=json.load(open("data/db/articles.json",encoding="utf-8")).get("articles",[]); sys.exit(0 if any((x.get("extra") or {}).get("story_score") for x in a) else 1)'; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "库里还没有判别通过的故事，本次 push 先跑完整搜罗"
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Collect stories from global sources
         id: collect
+        if: steps.need_collect.outputs.run == 'true'
         run: python run.py full --workers 8
+
+      - name: Rebuild site from existing data
+        if: steps.need_collect.outputs.run != 'true'
+        run: python run.py generate
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      # 确保 Pages 项目存在（首次部署时创建；已存在则忽略）
       - name: Ensure Pages project exists
         run: npx --yes wrangler@latest pages project create "christian-story" --production-branch=master || echo "project exists (ok)"
         env:
@@ -55,7 +85,7 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
-      # 提交刷新后的站点与翻译缓存：保留历史，同时让计划任务不因仓库长期无提交而被自动停用
+      # 把每日新搜罗的故事与译文缓存回推仓库，保留历史
       - name: Commit refreshed content
         if: steps.collect.outcome == 'success'
         run: |
@@ -65,7 +95,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No content changes to commit"
           else
-            git commit -m "chore: daily auto update $(date -u +%Y-%m-%d)"
+            git commit -m "chore: daily global story collection $(date -u +%Y-%m-%d)"
             pushed=false
             for attempt in 1 2 3; do
               if git pull --rebase origin master && git push origin master; then
@@ -76,7 +106,7 @@ jobs:
               sleep 5
             done
             if [ "$pushed" != true ]; then
-              echo "::error::刷新内容未能推回仓库（站点已部署成功，仅仓库数据未更新）"
+              echo "::error::搜罗结果未能推回仓库（站点已部署成功）"
               exit 1
             fi
           fi

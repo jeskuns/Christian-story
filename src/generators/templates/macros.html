@@ -1,29 +1,60 @@
-{% macro story_card(article, category_labels) %}
-<article class="story-card cat-{{ article.category }}" data-source="{{ article.source }}">
-  {% if article.image %}
-  <a class="cover-link" href="{{ article.url }}" target="_blank" rel="noopener">
-    <img class="cover" src="{{ article.image }}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">
-  </a>
-  {% endif %}
-  <div class="body">
-    <div class="story-meta">
-      <span class="category-tag cat-{{ article.category }}">{{ category_labels.get(article.category, article.category) }}</span>
-      <span class="source">{{ article.source }}</span>
-      {% if article.published %}<span class="date">{{ article.published }}</span>{% endif %}
+{% macro book_card(s, root='') %}
+<a class="book-card cat-{{ s.category }}" href="{{ root }}{{ s.url }}" data-search="{{ s.search }}">
+  <span class="book-spine"></span>
+  <span class="book-inner">
+    <span class="book-kicker">{{ s.cat.icon }} {{ s.cat.label }}<i>·</i>{{ s.region }}{% if s.published %}<i>·</i>{{ s.published }}{% endif %}</span>
+    <span class="book-title">{{ s.title }}</span>
+    <span class="book-hook">{{ s.hook }}</span>
+    <span class="book-foot">
+      <span class="book-place">{{ s.source_name }}</span>
+      <span class="book-read">读故事 →</span>
+    </span>
+  </span>
+</a>
+{% endmacro %}
+
+{% macro shelf(cat, items, root='') %}
+<section class="shelf" id="shelf-{{ cat.key }}">
+  <div class="shelf-head">
+    <div class="shelf-title">
+      <span class="shelf-icon">{{ cat.icon }}</span>
+      <div>
+        <h2>{{ cat.label }}</h2>
+        <p>{{ cat.desc }}</p>
+      </div>
     </div>
-    <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title_zh or article.title }}</a></h3>
-    {% if article.title_zh %}<div class="title-original">{{ article.title }}</div>{% endif %}
-    {% set _body = article.content_zh %}
-    {% if _body %}
-    <div class="story-text">
-      {% for _p in _body.split('\n') %}{% if _p.strip() %}
-      <p>{{ _p }}</p>
-      {% endif %}{% endfor %}
-    </div>
-    {% elif article.summary_zh or article.summary %}
-    <p class="story-excerpt">{{ article.summary_zh or article.summary }}</p>
-    {% endif %}
-    <a class="read-more" href="{{ article.url }}" target="_blank" rel="noopener">阅读全文 →</a>
+    <a class="shelf-more" href="{{ root }}categories/{{ cat.key }}.html">{{ items|length }} 篇 · 进入分类 →</a>
   </div>
-</article>
+  <div class="book-grid">
+    {% for s in items %}{{ book_card(s, root) }}{% endfor %}
+  </div>
+</section>
+{% endmacro %}
+
+{% macro region_shelf(region, items, root='') %}
+<section class="shelf" id="region-{{ region }}">
+  <div class="shelf-head">
+    <div class="shelf-title">
+      <span class="shelf-icon">📍</span>
+      <div>
+        <h2>{{ region }}</h2>
+        <p>{{ items|length }} 篇来自这一地区的搜罗故事</p>
+      </div>
+    </div>
+  </div>
+  <div class="book-grid">
+    {% for s in items %}{{ book_card(s, root) }}{% endfor %}
+  </div>
+</section>
+{% endmacro %}
+
+{% macro searchbar(placeholder='搜索人物、地区、主题或故事标题…') %}
+<section class="searchbar">
+  <div class="search-field">
+    <span class="search-icon">⌕</span>
+    <input type="search" id="filter-input" placeholder="{{ placeholder }}" autocomplete="off">
+    <button type="button" id="filter-clear" class="filter-clear" aria-label="清除搜索">×</button>
+  </div>
+  <span class="search-hint">可搜：非洲、艾伟德、宣教士、见证、集中营、孤儿，或直接输入国家与网站名…</span>
+</section>
 {% endmacro %}

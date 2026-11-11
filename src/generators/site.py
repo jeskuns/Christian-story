@@ -8,8 +8,8 @@ import shutil
 import logging
 from datetime import datetime
 from typing import Dict, List, Any
-import yaml
 from jinja2 import Environment, FileSystemLoader
+from ..config_loader import load_sources
 
 from ..utils import ensure_dir, now_hk
 
@@ -105,8 +105,7 @@ class SiteGenerator:
         if not os.path.exists(self.sources_config):
             logger.warning(f"Sources config not found: {self.sources_config}")
             return []
-        with open(self.sources_config, "r", encoding="utf-8") as f:
-            return yaml.safe_load(f).get("sources", []) or []
+        return load_sources(self.sources_config).get("sources", []) or []
 
     def _load_db(self):
         path = os.path.join(self.db_dir, "articles.json")

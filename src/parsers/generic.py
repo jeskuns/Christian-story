@@ -5,14 +5,21 @@ import logging
 import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
-from fake_useragent import UserAgent
 from typing import List
 
 from ..models import Article, SourceConfig
 from ..utils import clean_text, normalize_date, abs_url
 
 logger = logging.getLogger(__name__)
-ua = UserAgent(fallback="Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
+
+try:
+    from fake_useragent import UserAgent
+    ua = UserAgent(fallback="Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
+except Exception:
+    class _FallbackUA:
+        random = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+    ua = _FallbackUA()
 
 
 def parse_generic(config: SourceConfig) -> List[Article]:

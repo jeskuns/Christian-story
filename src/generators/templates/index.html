@@ -1,75 +1,126 @@
 {% extends "base.html" %}
-{% from "macros.html" import story_card %}
-{% block title %}基督教世界故事 - 首页{% endblock %}
+{% from "macros.html" import book_card, shelf, region_shelf, searchbar %}
+{% block title %}基督教故事 · 从全世界网站搜罗真实故事{% endblock %}
 {% block content %}
-<section class="hero">
-  <div class="hero-main">
-    <h1>基督教世界故事</h1>
-    <p class="hero-sub">每日采集全球宣教士、属灵伟人与平信徒的属灵小故事 · 共 {{ total }} 篇，长期保留、不作滚动替换，可作灵修与讲道参考</p>
+<section class="home-hero">
+  <div class="home-hero-main">
+    <span class="hero-eyebrow">全球搜罗 · 每日更新</span>
+    <h1>从全世界的网站，<br>把真正的故事找出来</h1>
+    <p class="hero-lede">不是新闻简讯，不是书评书摘，不是灵修短文——是真实发生过的生命故事：宣教士的跋涉、非洲村落里的教会、战火中不丢下一个孩子的坚持、普通人悔改的那一天。可以有最新的，也可以是几十年前的老故事；只要它真的打动人。</p>
+    <div class="hero-stats">
+      {% if stats.collected %}
+      <span><strong>{{ stats.collected }}</strong> 篇搜罗故事</span>
+      <span><strong>{{ stats.domains }}</strong> 个站点域名</span>
+      <span><strong>{{ region_stats|length }}</strong> 个地区</span>
+      {% else %}
+      <span><strong>{{ stats.sources_count }}</strong> 个全球源已配置</span>
+      <span>等待首次搜罗运行</span>
+      {% endif %}
+      <span>每日自动搜罗 · 译中 · 长期保留</span>
+    </div>
+    <div class="hero-actions">
+      <a class="btn-primary" href="#shelves">开始读故事 ↓</a>
+      <a class="btn-ghost" href="latest.html">最新搜罗</a>
+      <a class="btn-ghost" href="regions.html">按地区浏览</a>
+      <a class="btn-ghost" href="about.html">搜罗说明</a>
+    </div>
   </div>
-  <div class="hero-tools">
-    <span class="updated-pill">更新于 {{ updated_at }}</span>
-    <a class="link-pill" href="all.html">查看全部 {{ total }} 篇</a>
-  </div>
+  <aside class="hero-note">
+    <span class="hero-note-mark">“</span>
+    <p>故事不必是最新的，但必须是真的；不必惊天动地，但要让人记住一个人。</p>
+    <span class="hero-note-by">本站体例 · <a href="about.html">怎样判别一篇「故事」→</a></span>
+  </aside>
 </section>
 
-<div class="home-layout">
-  <div class="main-col">
-    <section class="classic-section">
-      <div class="section-head">
-        <h2>经典故事</h2>
-        <span class="sub">宣教士与属灵伟人的生平见证 · 特别经典</span>
-      </div>
-      <div class="story-list">
-        {% for article in classic_items %}
-        {{ story_card(article, category_labels) }}
-        {% endfor %}
-      </div>
-    </section>
+{% if not stats.collected %}
+<div class="first-run-note">
+  <strong>全球搜罗正在等待首次运行</strong>
+  <p>已配置 {{ stats.sources_count }} 个覆盖各大洲、多语种的源。每日定时任务（或在 GitHub Actions 手动 Run workflow）会在海外网络环境完成首次搜罗，之后这里会自动出现最新故事、地区书架与来源域名。站内全部内容均为搜罗结果，没有人工编写的篇目。</p>
+</div>
+{% endif %}
 
-    <section class="timeline">
-      {% for date, items in date_groups.items() %}
-      <div class="date-section" id="date-{{ date }}">
-        <div class="date-header">
-          <h2>
-            <span class="date-badge">{{ date }}</span>
-            <span class="date-label">{{ date_weekday[date] }}</span>
-          </h2>
-          <span class="date-count">{{ items|length }} 篇</span>
-        </div>
-        <div class="story-list">
-          {% for article in items %}
-          {{ story_card(article, category_labels) }}
-          {% endfor %}
-        </div>
-      </div>
-      {% endfor %}
-    </section>
+{{ searchbar() }}
+
+{% if tag_cloud %}
+<section class="tag-row">
+  {% for t in tag_cloud %}<button type="button" class="tag-chip" data-tag="{{ t.name }}">{{ t.name }}<span>{{ t.count }}</span></button>{% endfor %}
+</section>
+{% endif %}
+
+{% if featured %}
+<section class="featured">
+  <div class="section-head">
+    <h2>先读这几篇</h2>
+    <span class="sub">从全球网站里判别分数最高、最像故事的一些</span>
   </div>
+  <div class="book-grid book-grid--featured">
+    {% for s in featured %}{{ book_card(s, '') }}{% endfor %}
+  </div>
+</section>
+{% endif %}
 
+{% if region_stats %}
+<section class="region-band">
+  <div class="section-head">
+    <h2>按地区找故事</h2>
+    <span class="sub">非洲宣教、中国、中东、拉美、亚洲……点击地区即可筛选，或进 <a href="regions.html">地区页</a></span>
+  </div>
+  <div class="region-chips">
+    {% for r in region_stats %}<button type="button" class="region-chip" data-tag="{{ r.name }}"><span>📍 {{ r.name }}</span><strong>{{ r.count }} 篇</strong></button>{% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% if latest %}
+<section class="featured" id="latest-preview">
+  <div class="section-head">
+    <h2>最新搜罗</h2>
+    <span class="sub">刚从各地网站找到的故事 · <a href="latest.html">看全部 →</a></span>
+  </div>
+  <div class="book-grid">
+    {% for s in latest[:9] %}{{ book_card(s, '') }}{% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="cat-cards">
+  {% for c in categories %}
+  <a class="cat-card cat-{{ c.key }}" href="categories/{{ c.key }}.html">
+    <span class="cat-icon">{{ c.icon }}</span>
+    <span class="cat-name">{{ c.label }}</span>
+    <span class="cat-count">{{ by_cat[c.key]|length }} 篇故事</span>
+    <span class="cat-desc">{{ c.desc }}</span>
+  </a>
+  {% endfor %}
+</section>
+
+<div class="home-layout" id="shelves">
+  <div class="main-col">
+    {% for c in categories %}{{ shelf(c, by_cat[c.key], '') }}{% endfor %}
+
+    <div class="empty-state" id="empty-state" hidden>没有找到相符的故事，换个词试试。</div>
+  </div>
   <aside class="sidebar">
     <div class="widget note-widget">
-      <h3>使用说明</h3>
-      <p>故事正文由系统自动采集并摘抄，标题、摘要与正文均已译为中文；原文链接置于「阅读全文」。</p>
-      <p>内容版权归原作者与来源所有，仅供个人灵修与讲道参考，请以官方来源为准。</p>
+      <h3>这里怎么搜罗</h3>
+      <p>每天从全球多语种的 RSS、Google News 各地区版位与 GDELT 文档库广撒网，抓到候选后由故事判别器筛掉新闻、书评、灵修、神学与活动通知。</p>
+      <p>留下的才译成中文、抓回全文，生成独立阅读页，并附原文链接。</p>
+      <a href="about.html">看完整搜罗规则 →</a>
     </div>
-
     <div class="widget">
-      <h3>热门地区</h3>
-      <div class="chip-cloud">
-        {% for r in hot_regions %}
-        <a class="chip" href="all.html">{{ r.name }}<span>{{ r.count }}</span></a>
-        {% endfor %}
-      </div>
+      <h3>最新一次判别</h3>
+      {% if stats.filter.get('in') %}
+      <p class="widget-plain">采到 {{ stats.filter.get('in') }} 条候选，判别后留下 {{ stats.filter.get('kept', 0) }} 篇真故事。{% if stats.latest_date %}最近一篇发布于 {{ stats.latest_date }}。{% endif %}</p>
+      {% else %}
+      <p class="widget-plain">首次运行后会显示判别统计。本机若无法访问 Google News 属正常，每日搜罗由 GitHub Actions 在美国 IP 上完成。</p>
+      {% endif %}
     </div>
-
     <div class="widget">
-      <h3>热门主题</h3>
-      <div class="chip-cloud">
-        {% for t in hot_topics %}
-        <a class="chip" href="all.html">{{ t.name }}<span>{{ t.count }}</span></a>
-        {% endfor %}
-      </div>
+      <h3>接下来想收进来的</h3>
+      <ul class="coming-list">
+        {% for t in coming_soon[:8] %}<li>{{ t }}</li>{% endfor %}
+      </ul>
+      <a class="widget-link" href="about.html">完整清单 →</a>
     </div>
   </aside>
 </div>

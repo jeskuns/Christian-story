@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% from "macros.html" import region_shelf, searchbar %}
+{% block title %}按地区搜罗 - 基督教故事{% endblock %}
+{% block content %}
+<section class="hero hero--compact">
+  <div class="home-hero-main">
+    <h1>按地区找故事</h1>
+    <p class="hero-sub">从非洲宣教到中国乡村，从中东难民到拉美部落。地区由故事内容自动判别，点标题可直接筛选。</p>
+  </div>
+  <div class="hero-tools"><a class="link-pill" href="latest.html">看最新 →</a></div>
+</section>
+
+{{ searchbar('搜索地区、国家或故事…') }}
+
+<section class="region-chips region-chips--page">
+  {% for r in region_stats %}<button type="button" class="region-chip" data-tag="{{ r.name }}"><span>📍 {{ r.name }}</span><strong>{{ r.count }} 篇</strong></button>{% endfor %}
+</section>
+
+<div class="home-layout">
+  <div class="main-col">
+    {% if region_stats %}
+    {% for r in region_stats %}{{ region_shelf(r.name, by_region[r.name][:30], '') }}{% endfor %}
+    {% else %}
+    <div class="first-run-note">
+      <strong>地区书架等待首次搜罗</strong>
+      <p>搜罗到的故事会按内容自动判别到非洲、中国、中东、亚洲、拉美、欧洲、北美、大洋洲等地区，首次运行后这里会自动分架。</p>
+    </div>
+    {% endif %}
+    <div class="empty-state" id="empty-state" hidden>没有找到相符的故事，换个词试试。</div>
+  </div>
+  <aside class="sidebar">
+    <div class="widget note-widget">
+      <h3>覆盖哪些地方</h3>
+      <p>非洲、中国、中东、亚洲、拉美、欧洲、北美、大洋洲与全球性故事；检索版位含英、中、法、葡、西、日、韩、印尼等语言。</p>
+      <a href="about.html">全球源清单说明 →</a>
+    </div>
+    <div class="widget">
+      <h3>想补某个地区？</h3>
+      <p class="widget-plain">在 <code>config/sources.yaml</code> 加一条该地区版位的检索词即可，第二天就会出现在对应地区下。</p>
+    </div>
+  </aside>
+</div>
+{% endblock %}

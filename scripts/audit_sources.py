@@ -9,7 +9,9 @@ from urllib.parse import urljoin, urlparse
 
 import feedparser
 import requests
-import yaml
+
+sys.path.insert(0, ".")
+from src.config_loader import load_sources
 
 HEADERS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -99,7 +101,7 @@ def audit(source):
             f"      GoogleNews q=\"{name}\" 可获 {g} 条")
 
 
-docs = yaml.safe_load(open("config/sources.yaml", encoding="utf-8"))
+docs = load_sources("config/sources.yaml")
 sources = docs["sources"]
 if len(sys.argv) > 1:
     sources = sources[:int(sys.argv[1])]

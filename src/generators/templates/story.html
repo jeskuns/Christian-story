@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% from "macros.html" import book_card %}
+{% block title %}{{ s.title }} - 基督教故事{% endblock %}
+{% block content %}
+<article class="story-page">
+  <nav class="breadcrumb">
+    <a href="{{ root }}index.html">首页</a><i>/</i>
+    <a href="{{ root }}categories/{{ s.category }}.html">{{ s.cat.label }}</a><i>/</i>
+    <span>正文</span>
+  </nav>
+
+  <header class="story-head">
+    <div class="story-kicker">
+      {{ s.cat.icon }} {{ s.cat.label }} <i>·</i> {{ s.region }}
+      <span class="origin-badge">全球搜罗</span>
+    </div>
+    <h1>{{ s.title }}</h1>
+    <p class="story-subtitle">{{ s.subtitle }}</p>
+    {% if s.image %}
+    <img class="story-cover" src="{{ s.image }}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">
+    {% endif %}
+    <div class="factbar">
+      <div><span>出处</span><strong>{{ s.source_name }}</strong></div>
+      <div><span>发布</span><strong>{{ s.era }}</strong></div>
+      <div><span>地区</span><strong>{{ s.place or s.region }}</strong></div>
+      <div><span>阅读</span><strong>约 {{ s.minutes }} 分钟</strong></div>
+    </div>
+  </header>
+
+  <p class="story-hook">{{ s.hook }}</p>
+
+  {% if s.machine %}
+  <div class="machine-note">本页正文由自动搜罗后译成中文，词句可能生硬；<a href="#source">文末有原文链接</a>，引用请以原文为准。故事内容未作人工改写。</div>
+  {% endif %}
+
+  <div class="prose">
+    {% for p in s.body %}
+      {% if p.startswith('## ') %}<h2>{{ p[3:] }}</h2>
+      {% else %}<p>{{ p }}</p>{% endif %}
+    {% endfor %}
+  </div>
+
+  <section class="source-list" id="source">
+    <h2>原文与出处</h2>
+    <ul>
+      {% for r in s.get('sources', []) %}{% if r %}
+      <li>
+        {% if r.startswith('http') %}<a href="{{ r }}" target="_blank" rel="noopener">{{ r }}</a>{% else %}{{ r }}{% endif %}
+      </li>
+      {% endif %}{% endfor %}
+    </ul>
+    {% if s.source_url %}
+    <a class="btn-primary source-link" href="{{ s.source_url }}" target="_blank" rel="noopener">到原始网站读原文 →</a>
+    {% endif %}
+    <p class="source-note">本文由本站从公开网页自动搜罗并译为中文，内容版权归原作者与原始网站所有。若原文失效或译文有误，请以原始网页为准。</p>
+  </section>
+
+  <div class="story-tags">
+    {% for t in s.get('tags', []) %}<span>#{{ t }}</span>{% endfor %}
+  </div>
+
+  <nav class="story-nav">
+    {% if prev %}<a class="story-nav-item" href="{{ root }}{{ prev.url }}"><span>← 上一篇</span><strong>{{ prev.title }}</strong></a>{% else %}<span></span>{% endif %}
+    {% if nxt %}<a class="story-nav-item story-nav-item--next" href="{{ root }}{{ nxt.url }}"><span>下一篇 →</span><strong>{{ nxt.title }}</strong></a>{% endif %}
+  </nav>
+
+  {% if more %}
+  <section class="more-stories">
+    <div class="section-head"><h2>同一主题，还有这些</h2></div>
+    <div class="book-grid">
+      {% for m in more %}{{ book_card(m, root) }}{% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</article>
+{% endblock %}

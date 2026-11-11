@@ -6,6 +6,7 @@
 
 故事类条目以「链接 + 摘要」呈现；GDELT 直链会尝试抓取正文与配图。
 """
+import base64
 import logging
 import re
 import threading
@@ -110,31 +111,91 @@ def _enrich(url: str) -> (str, str):
 
 # ---------- Google News RSS ----------
 
-def _google_locale_variants(config: SourceConfig) -> List[dict]:
-    """按配置的 country/language 给出 Google News 版位参数候选。
+# 各地区版位的界面语言 / 文字代码。全球搜罗要靠这些版位才能拿到本地网站的结果。
+HL_BY_LANG = {
+    "en": "en-US", "zh": "zh-CN", "ja": "ja", "ko": "ko", "id": "id",
+    "fr": "fr", "pt": "pt-BR", "es": "es-419", "de": "de", "it": "it",
+    "ru": "ru", "ar": "ar", "tr": "tr", "hi": "hi", "sw": "sw",
+    "nl": "nl", "pl": "pl", "uk": "uk",
+}
+SCRIPT_BY_LANG = {
+    "en": "en", "zh": "zh-Hans", "ja": "ja", "ko": "ko", "id": "id",
+    "fr": "fr", "pt": "pt-BR", "es": "es-419", "de": "de", "it": "it",
+    "ru": "ru", "ar": "ar", "tr": "tr", "hi": "hi", "sw": "sw",
+    "nl": "nl", "pl": "pl", "uk": "uk",
+}
 
-    gl 决定返回哪个地区版、hl 决定检索语言、ceid 是「地区:文字」。原实现只按语言
-    回落到 CN/US 两个版位，配置里写 TW/HK/SG/JP/KR 也照样抓回大陆版或美版结果，
-    东亚与东南亚的源因此出不来。若某个「地区:文字」组合 Google 不认（空 feed），
-    再退回按语言的通用版位，保证老源不会因参数变化而丢结果。
+
+def _google_locale_variants(config: SourceConfig) -> List[dict]:
+    """按 country/language 给出 Google News 版位候选，覆盖全球多语种版位。
+
+    gl 决定地区版、hl 决定检索语言、ceid 是「地区:文字」。中文繁体地区单独处理；
+    若某个组合 Google 不认（返回空 feed），再退回该语言的通用版位。
     """
     country = (config.country or "").strip().upper() or "US"
     lang = (config.language or "en").strip().lower().split("-")[0]
-    traditional = ("TW", "HK", "MO", "MY")
+
     if lang == "zh":
-        hl = {"TW": "zh-TW", "HK": "zh-HK", "MO": "zh-MO", "MY": "zh-TW"}.get(country, "zh-CN")
-        script = "zh-Hant" if country in traditional else "zh-Hans"
+        hl = {"TW": "zh-TW", "HK": "zh-HK", "MO": "zh-MO"}.get(country, "zh-CN")
+        script = "zh-Hant" if country in ("TW", "HK", "MO") else "zh-Hans"
+        generic = {"hl": "zh-CN", "gl": "CN", "ceid": "CN:zh-Hans"}
     else:
-        hl = {"ja": "ja", "ko": "ko", "id": "id"}.get(lang, "en-US")
-        script = {"ja": "ja", "ko": "ko", "id": "id"}.get(lang, "en")
+        hl = HL_BY_LANG.get(lang, "en-US")
+        script = SCRIPT_BY_LANG.get(lang, "en")
+        if lang == "es" and country == "ES":
+            hl, script = "es", "es"
+        generic = {"hl": "en-US", "gl": "US", "ceid": "US:en"}
 
     exact = {"hl": hl, "gl": country, "ceid": f"{country}:{script}"}
-    generic = {
-        "hl": "zh-CN" if lang == "zh" else "en-US",
-        "gl": "CN" if lang == "zh" else "US",
-        "ceid": "CN:zh-Hans" if lang == "zh" else "US:en",
-    }
-    return [exact] if exact == generic else [exact, generic]
+    variants = [exact] if exact == generic else [exact, generic]
+    # 另一个兜底：同语言但用美国版位，许多地区组合被 Google 拒时仍能出结果
+    if lang not in ("en", "zh"):
+        variants.append({"hl": hl, "gl": "US", "ceid": f"US:{script}"})
+    return variants
+
+
+# Google News RSS 的 link 是 /rss/articles/<base64>，不是原文地址。
+# 尽力解出真实 URL：先解 base64 里内嵌的链接，再跟随一次重定向（限量，避免拖慢采集）。
+_RESOLVE_BUDGET = [60]
+_RESOLVE_LOCK = threading.Lock()
+
+
+def _decode_google_url(url: str) -> str:
+    m = re.search(r"/articles/([A-Za-z0-9_\-]{8,})", url or "")
+    if not m:
+        return ""
+    token = m.group(1)
+    try:
+        raw = base64.urlsafe_b64decode(token + "=" * (-len(token) % 4))
+        for u in re.findall(rb"https?://[\x20-\x7e]+", raw):
+            candidate = re.split(r"[\x00-\x1f\x7f]", u.decode("utf-8", "ignore"))[0]
+            if "news.google.com" not in candidate and len(candidate) > 20:
+                return candidate
+    except Exception:
+        pass
+    return ""
+
+
+def _follow_redirect(url: str) -> str:
+    with _RESOLVE_LOCK:
+        if _RESOLVE_BUDGET[0] <= 0:
+            return ""
+        _RESOLVE_BUDGET[0] -= 1
+    try:
+        resp = requests.head(url, headers={"User-Agent": UA}, allow_redirects=True, timeout=5)
+        final = resp.url or ""
+        if final and "news.google.com" not in final:
+            return final
+    except Exception:
+        pass
+    return ""
+
+
+def _resolve_article_url(link: str) -> (str, str):
+    real = _decode_google_url(link)
+    if not real:
+        real = _follow_redirect(link)
+    return real, link
 
 
 def _fetch_google(query: str, config: SourceConfig) -> List[Article]:
@@ -179,9 +240,10 @@ def _fetch_google(query: str, config: SourceConfig) -> List[Article]:
         if not published:
             published = _structured_date(entry)
 
+        real_url, google_url = _resolve_article_url(link)
         articles.append(Article(
             title=title,
-            url=link,
+            url=real_url or link,
             category=config.category,
             source=config.name,
             source_url=config.url,
@@ -191,7 +253,10 @@ def _fetch_google(query: str, config: SourceConfig) -> List[Article]:
             language=config.language,
             country=config.country,
             region=config.region,
-            extra={"provider": "google_news", "query": query, "publisher": publisher},
+            extra={
+                "provider": "google_news", "query": query, "publisher": publisher,
+                "google_url": google_url, "resolved": bool(real_url),
+            },
         ))
     return articles
 

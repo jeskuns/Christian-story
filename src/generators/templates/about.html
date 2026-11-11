@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}全球搜罗说明 - 基督教故事{% endblock %}
+{% block content %}
+<div class="about-page">
+  <section class="hero hero--compact">
+    <div class="home-hero-main">
+      <h1>关于搜罗</h1>
+      <p class="hero-sub">每天从全世界的网站找真正的故事。{% if stats.collected %}现有 {{ stats.collected }} 篇搜罗故事，来自 {{ stats.domains }} 个站点域名。{% else %}已配置 {{ stats.sources_count }} 个全球源，等待首次搜罗运行。{% endif %}</p>
+    </div>
+    <div class="hero-tools"><a class="link-pill" href="latest.html">看最新 →</a></div>
+  </section>
+
+  <div class="prose about-prose">
+    <h2>这里做什么</h2>
+    <p><strong>搜罗，不是编写。</strong>本站每天自动扫描全球网站，把真实发生过的生命故事找出来：宣教士的跋涉、非洲村落与部落里的教会、战火中的坚持、逼迫下的信心、普通人悔改的那一天。可以是最新的，也可以是几十年前的老故事；不必追新，但也<strong>不排斥最新</strong>。站内所有篇目都是搜罗结果，没有人工编写或整理的篇目。</p>
+    <p>用户点名要的「马背上的讲道者」「艾伟德」「剑桥七杰」这类经典，以及<strong>非洲宣教故事</strong>，都在搜罗范围内；判别通过后长期保留，不按时间滚动替换。</p>
+
+    <h2>搜罗范围</h2>
+    <p>一、<strong>直连全文订阅</strong>：跨洲的见证、宣教、教会历史与逼迫见证站点，订阅里带全文的优先，直接抓回完整故事。二、<strong>全球检索矩阵</strong>：Google News 的多个地区版位，按地区 × 主题 × 语言组合检索，覆盖非洲（尼日利亚、肯尼亚、南非、加纳、法语非洲等）、中国与华人、亚洲、中东、拉美、欧洲、北美、大洋洲。三、<strong>GDELT 全球文档库</strong>：返回原文直链，作为 Google 之外的兜底，可抓正文。</p>
+    <p>语言含英、中、法、葡、西、日、韩、印尼等；每个搜到的新域名都会记进 <code>data/db/discovered_domains.json</code>，方便继续扩源。要加一个源，只需在 <code>config/sources.yaml</code> 里加一条地区版位与检索词。</p>
+
+    <h2>只留故事：判别规则</h2>
+    <p>搜得广，但收得严。每条候选都要过 <code>src/story_filter.py</code>：按人物叙事、生平时间线、见证 / 传记 / 宣教 / 患难等特征打分，低于阈值直接丢弃。</p>
+    <p><strong>会挡掉</strong>：新闻简讯、快讯与一周要闻；书评、书摘、新书介绍与荐书清单；每日灵修、讲章、查经与神学评论；播客、视频、活动通知、招聘、募捐、公告；观点社论与「几个方法」式清单。<strong>会留下</strong>：有名有姓、有经历与转折的人物故事、见证、传记、宣教纪实与患难记述。</p>
+    <p>判别后还会解出原文直链、补抓全文、译成中文，再生成独立阅读页。{% if stats.filter.get('in') %}最近一次采到 {{ stats.filter.get('in') }} 条候选，留下 {{ stats.filter.get('kept', 0) }} 篇。{% endif %}</p>
+
+    <h2>分类与地区</h2>
+    <p>主题分六类：中国故事、<strong>非洲宣教与见证</strong>、宣教士故事、属灵伟人、患难中的信心、平凡人的见证；地区另按非洲、中国、中东、亚洲、拉美、欧洲、北美、大洋洲、全球标注，可单独浏览或搜索。</p>
+
+    <h2>翻译与版权</h2>
+    <p>非中文故事由免费接口 / 本地离线模型自动译成中文，词句可能生硬，<strong>未作人工改写</strong>。每篇末尾都有原始网站名称与原文链接，正式引用请以原文为准。正文版权归原作者与原始网站所有，本站仅作索引、翻译与阅读呈现。</p>
+
+    <h2>接下来想收进来的</h2>
+    <ul class="coming-all">
+      {% for t in coming_soon %}<li>{{ t }}</li>{% endfor %}
+    </ul>
+  </div>
+
+  {% if domains %}
+  <section class="source-list">
+    <h2>已发现的站点域名（{{ domains|length }}）</h2>
+    <p class="source-note">自动记录，代表搜罗已经触达的网站；按字母序展示前 120 个。</p>
+    <div class="domain-cloud">
+      {% for d in domains[:120] %}<span>{{ d }}</span>{% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <p class="about-disclaimer">本站为自动搜罗与翻译的阅读索引，不生产新闻，也不转载书籍全文。内容仅供个人阅读、灵修与讲道参考。</p>
+</div>
+{% endblock %}
