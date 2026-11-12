@@ -1,8 +1,8 @@
 {
   "category": "china",
   "label": "中国故事",
-  "count": 3,
-  "updated_at": "2026-11-11T16:21:50.152969+08:00",
+  "count": 4,
+  "updated_at": "2026-11-12T08:30:09.101571+08:00",
   "articles": [
     {
       "title": "Chinese church elder released after 16 months, two pastors remain jailed",
@@ -10,7 +10,7 @@
       "category": "china",
       "source": "Assist News Service · 宣教通讯",
       "source_url": "https://www.assistnews.net/feed/",
-      "published": "2026-11-11",
+      "published": "2026-11-12",
       "summary": "By Gao Zhensai — A Chinese house church elder imprisoned for organizing religious gatherings outside the government-approved church system was released Wednesday after serving a 16-month sentence. Two pastors convicted in the same case remain behind bars. Ma Tao, an elder of Maizhong Reformed Church in Fuyang, a city in eastern China’s Anhui Province, returned […]",
       "summary_zh": "高振赛-一名因在政府批准的教会系统之外组织宗教集会而被监禁的中国家庭教会长老在服刑16个月后于周三获释。在同一案件中被定罪的两名牧师仍在服刑。中国东部安徽省阜阳市麦中归正教会长老马涛返回[…]",
       "title_zh": "中国教会长老16个月后获释，两名牧师仍被监禁",
@@ -31,7 +31,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T08:14:17.587883",
+      "fetched_at": "2026-11-12T00:25:31.052654",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -45,7 +45,7 @@
       "category": "china",
       "source": "Banner of Truth · 教会历史",
       "source_url": "https://www.banneroftruth.org/us/feed/",
-      "published": "2026-11-11",
+      "published": "2026-11-12",
       "summary": "Faith Cook’s Troubled Journey narrates her early experiences as the daughter of OMF missionaries to China. Honouring the faith, courage, and self-sacrifice of her parents, she also shines a compassionate light on the family deprivations brought about by long periods of separation from them. The excerpt below is Chapter 11 of the book in question, which […]   The post  Postal Parents: The Experience of a Missionary Child  appeared first on  Banner of Truth USA .",
       "summary_zh": "费丝·库克（ Faith Cook ）的《麻烦之旅》（ Troubled Journey ）讲述了她作为OMF中国传教士的女儿的早期经历。为了表彰父母的信仰、勇气和自我牺牲，她还富有同情心地揭示了与父母长期分离所带来的家庭剥夺。下面的摘录是该书的第11章，其中[…]邮政父母：传教士儿童的经历首先出现在美国真理旗帜上。",
       "title_zh": "邮政父母：传教士儿童的经历",
@@ -66,7 +66,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T08:14:22.479983",
+      "fetched_at": "2026-11-12T00:25:30.907430",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -80,7 +80,7 @@
       "category": "china",
       "source": "Assist News Service · 宣教通讯",
       "source_url": "https://www.assistnews.net/feed/",
-      "published": "2026-11-11",
+      "published": "2026-11-12",
       "summary": "By Josh Shepherd — Nearly six decades after Mao Zedong’s government executed Lin Zhao, a 36-year-old Christian journalist who stood against Communist rule, Chinese authorities still regard her as a threat. “Lin Zhao poses a serious challenge to the Chinese regime,” said historian Lian Xi, a distinguished professor of world Christianity at Duke Divinity School […]",
       "summary_zh": "乔希·谢泼德（ Josh Shepherd ） —在毛泽东政府处决了反对共产党统治的36岁基督教记者林昭（ Lin Zhao ）近六十年后，中国当局仍然将她视为威胁。“林昭对中国政权提出了严峻挑战，”杜克神学院世界基督教杰出教授、历史学家连熙说。[…]",
       "title_zh": "为什么中国仍然认为1968年被处决的妇女是一种威胁？",
@@ -101,13 +101,50 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-11T08:14:17.088432",
+      "fetched_at": "2026-11-12T00:25:29.225496",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
         "domain": "assistnews.net"
       },
       "id": "2a7509a26f5b5d21"
+    },
+    {
+      "title": "中国宣教の最前線、日本人宣教師が報告",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mbTVVRzhQcXg4YXV1czdZX3RCa3lNeE1ucjJvQ3QzTFJXMEJrMF9VTVlzb05YcXRzeFhfSW9nSzFHQmk5VWwtbmpzNGUxTGY0TW01WmpydjVvNzBpeWJ0blJzUDFvempjRHdudFBjZDFWNUE?oc=5",
+      "category": "china",
+      "source": "日本信仰见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2012-10-22",
+      "summary": "中国宣教の最前線、日本人宣教師が報告 クリスチャントゥデイ",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "クリスチャントゥデイ",
+      "tags": [
+        "中国",
+        "中国故事",
+        "非洲宣教"
+      ],
+      "language": "ja",
+      "country": "JP",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:25:32.762520",
+      "extra": {
+        "provider": "google_news",
+        "query": "宣教師 証し",
+        "publisher": "クリスチャントゥデイ",
+        "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mbTVVRzhQcXg4YXV1czdZX3RCa3lNeE1ucjJvQ3QzTFJXMEJrMF9VTVlzb05YcXRzeFhfSW9nSzFHQmk5VWwtbmpzNGUxTGY0TW01WmpydjVvNzBpeWJ0blJzUDFvempjRHdudFBjZDFWNUE?oc=5",
+        "resolved": false,
+        "story_score": 8,
+        "domain": "news.google.com"
+      },
+      "id": "882349a4e5857f0b"
     }
   ]
 }
