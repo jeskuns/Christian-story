@@ -135,6 +135,45 @@ class Collector:
             return []
         try:
             articles = parser(source)
+            # 源级关键词过滤：全站型媒体（如韩/日基督教新闻站）混入政治/社会新闻时，
+            # 用白名单只留见证/宣教类，用黑名单直接丢弃非故事内容。
+            # 配置里关键词支持 YAML 列表或逗号分隔字符串两种写法
+            # （简易 YAML 解析器不支持多行列表，逗号字符串是推荐写法）。
+            def _kw(v):
+                if isinstance(v, str):
+                    return [s.strip() for s in v.replace("，", ",").split(",") if s.strip()]
+                return list(v or [])
+            inc = [k.lower() for k in _kw(source.include_keywords)]
+            exc = [k.lower() for k in _kw(source.exclude_keywords)]
+            if inc or exc:
+                kept = []
+                for a in articles:
+                    text = f"{(a.title or '')} {(a.summary or '')}".lower()
+                    if exc and any(k in text for k in exc):
+                        continue
+                    if inc and not any(k in text for k in inc):
+                        continue
+                    kept.append(a)
+                dropped = len(articles) - len(kept)
+                if dropped:
+                    logger.info(f"[{source.name}] 关键词过滤丢弃 {dropped} 条，保留 {len(kept)} 条")
+                articles = kept
+            # generic 列表源（doxa/sabda 等）只产出标题+摘要，没有正文，
+            # 判别器会以「无正文且标题不是人物故事」整批误杀；
+            # 在判别前先对列表条目补抓详情页全文（限量，避免拖垮采集）。
+            if source.parser == "generic" and articles:
+                fetched = 0
+                for a in articles[:15]:
+                    try:
+                        content, image = extract_article(a.url, timeout=15)
+                        if content and len(content) > 250:
+                            a.content = normalize_content(content)[:6000]
+                            fetched += 1
+                        if image and not a.image:
+                            a.image = image
+                    except Exception:
+                        pass
+                logger.info(f"[{source.name}] generic 正文预抓取 {fetched}/{min(len(articles), 15)} 条")
             for a in articles:
                 a.category = source.category  # 强制按配置分类
                 if not a.region:

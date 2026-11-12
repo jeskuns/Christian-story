@@ -668,3 +668,122 @@ sources:
     extra:
       provider: gdelt
       query: "Christian testimony China church story"
+
+  # ================================================================
+  # D. 多语种专门故事站（直链全文 · 覆盖前十语种）
+  #    这些源返回的是站内原文直链，collector 会自动补抓全文，
+  #    正好解决「只能抓到 Google News 跳转链接、国内打不开、无正文」的问题。
+  #    关键词过滤用逗号分隔字符串写法（零依赖 YAML 解析器不支持多行列表）。
+  # ================================================================
+  # ---- 英语：Doxa Grace Record（1600+ 见证，每篇具名来源，分页 68 页） ----
+  - name: Doxa · Grace Record 见证库
+    url: https://doxa.app/grace/all
+    category: lay
+    parser: generic
+    language: en
+    country: US
+    region: 全球
+    priority: 3
+    max_items: 30
+    selector_items: "a.grace-card"
+    selector_title: "h3"
+    selector_link: "a"
+    selector_summary: "p"
+
+  # ---- 印尼语：SABDA Kesaksian（Drupal 列表，分页 59 页） ----
+  - name: SABDA · Kesaksian 见证
+    url: https://kesaksian.sabda.org/
+    category: lay
+    parser: generic
+    language: id
+    country: ID
+    region: 亚洲
+    priority: 3
+    max_items: 25
+    selector_items: ".views-field-title"
+    selector_title: "a"
+    selector_link: "a"
+
+  # ---- 韩语：ChristianToday 全站 RSS（白名单只留见证，黑名单挡娱乐/政治） ----
+  - name: 크리스천투데이 · 간증（韩）
+    url: https://www.christiantoday.co.kr/rss
+    category: lay
+    parser: rss
+    language: ko
+    country: KR
+    region: 亚洲
+    priority: 2
+    max_items: 20
+    include_keywords: "간증,증언,회심,전기,생애,고백,순교,제자,간증문,신앙의,영적"
+    exclude_keywords: "가수,배우,영화,드라마,콘서트,앨범,음악,아이돌,정치,대통령,국회,선거,북한,외교,군대,경제,코로나,사건,사고,재판,검찰,법원,기업,주식,부동산,기상,날씨,세미나,성황"
+
+  # ---- 日语：ChristianToday RSS（本站基督教媒体，偏访谈/宣教/专栏） ----
+  - name: クリスチャントゥデイ · 証し（日）
+    url: https://www.christiantoday.co.jp/feed/
+    category: lay
+    parser: rss
+    language: ja
+    country: JP
+    region: 亚洲
+    priority: 2
+    max_items: 20
+    include_keywords: "証し,証言,生涯,伝記,信仰,回心,悔い改め,宣教,奇跡,癒し,弟子,物語"
+
+  # ---- 中文：中華宣教聯盟 宣教故事1001（全站 RSS，判别器按标题筛） ----
+  - name: 中華宣教聯盟 · 宣教故事1001（中）
+    url: https://cma-mission.com/feed/
+    category: missionary
+    parser: rss
+    language: zh
+    country: TW
+    region: 中国
+    priority: 2
+    max_items: 20
+
+  # ---- 法语：Aleteia（全站 RSS，白名单只留见证/信仰类） ----
+  - name: Aleteia · témoignages（法）
+    url: https://fr.aleteia.org/feed/
+    category: lay
+    parser: rss
+    language: fr
+    country: FR
+    region: 欧洲
+    priority: 2
+    max_items: 15
+    include_keywords: "témoignage,témoignages,récit de vie,histoire de vie,biographie,conversion,foi,chrétien,mission,prière"
+
+  # ---- 英语/国际：GodReports（宣教故事 RSS，站点为英文） ----
+  - name: GodReports · 宣教故事（国际）
+    url: https://godreports.com/feed/
+    category: missionary
+    parser: rss
+    language: en
+    country: US
+    region: 全球
+    priority: 2
+    max_items: 15
+
+  # ---- 西语：Fundación CARF · Historias y Testimonios（栏目 RSS） ----
+  - name: CARF · Historias y Testimonios（西）
+    url: https://fundacioncarf.org/historias/feed/
+    category: lay
+    parser: rss
+    language: es
+    country: ES
+    region: 欧洲
+    priority: 2
+    max_items: 15
+
+  # ---- 俄语：Russian Pentecostal · People of Faith（列表页） ----
+  - name: Russian Pentecostal · Свидетельства（俄）
+    url: https://russianpentecostal.org/people-of-faith/testimony
+    category: lay
+    parser: generic
+    language: ru
+    country: RU
+    region: 欧洲
+    priority: 2
+    max_items: 20
+    selector_items: ".magazine-item"
+    selector_title: "h3, .item-title, a"
+    selector_link: "a"

@@ -77,6 +77,8 @@ class SourceConfig:
     stance: str = ""      # 信息源立场/传统（可选，留空则由采集器按名称推断）
     priority: int = 2      # 精选优先级（可选，留空则由采集器按名称推断）
     headers: Dict[str, str] = field(default_factory=dict)
+    include_keywords: List[str] = field(default_factory=list)  # 白名单：标题/摘要需命中其一才保留（多语言全站源用）
+    exclude_keywords: List[str] = field(default_factory=list)  # 黑名单：命中即丢弃（挡政治/社会新闻等非故事内容）
     extra: Dict[str, Any] = field(default_factory=dict)
 
     @classmethod
