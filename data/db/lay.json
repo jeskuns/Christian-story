@@ -1,8 +1,8 @@
 {
   "category": "lay",
   "label": "平凡人的见证",
-  "count": 16,
-  "updated_at": "2026-11-12T08:30:09.101980+08:00",
+  "count": 18,
+  "updated_at": "2026-11-12T08:45:20.392826+08:00",
   "articles": [
     {
       "title": "How a Conversation This Week Made Me Rethink How Grace Works",
@@ -31,7 +31,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:24.090053",
+      "fetched_at": "2026-11-12T00:42:54.474862",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -66,7 +66,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:24.637460",
+      "fetched_at": "2026-11-12T00:42:54.869881",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -143,6 +143,79 @@
       "id": "90b30a06523df272"
     },
     {
+      "title": "From Muslim Refugee to Catholic Priest and Other Beautiful Conversion Stories - ZENIT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWk0xRWR3NS0wR2dEejlxRTR3QjJmVXViWkM5Ykk1SVVLYlY1dVVLR3YwNGlaU1p5QWpaZG5RR1F3M2FLMGFKRDhDek5zS1luQVoyVUlFWWdVb29SdEp1NlBFd0I2SXZHdkxpcHJOQzhyYmxrc0xnQ19vTnFZOTNTamhyUUh5MThEcUdWWW1fZXRNdEJLeTlVWFplWFNqMWktMy0zSUdkSDZUSlE?oc=5",
+      "category": "lay",
+      "source": "GDELT · 全球信主见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-07-15",
+      "summary": "From Muslim Refugee to Catholic Priest and Other Beautiful Conversion Stories ZENIT - English",
+      "summary_zh": "从穆斯林难民到天主教神父，以及其他动人的皈依故事ZENIT - 英文",
+      "title_zh": "从穆斯林难民到天主教神父，以及其他动人的皈依故事——ZENIT",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "English",
+      "tags": [
+        "全球",
+        "平凡人的见证",
+        "见证"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "全球",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:04.219854",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian testimony conversion story",
+        "publisher": "English",
+        "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWk0xRWR3NS0wR2dEejlxRTR3QjJmVXViWkM5Ykk1SVVLYlY1dVVLR3YwNGlaU1p5QWpaZG5RR1F3M2FLMGFKRDhDek5zS1luQVoyVUlFWWdVb29SdEp1NlBFd0I2SXZHdkxpcHJOQzhyYmxrc0xnQ19vTnFZOTNTamhyUUh5MThEcUdWWW1fZXRNdEJLeTlVWFplWFNqMWktMy0zSUdkSDZUSlE?oc=5",
+        "resolved": false,
+        "story_score": 8,
+        "domain": "news.google.com"
+      },
+      "id": "cdbeb57083b88080"
+    },
+    {
+      "title": "Sala das Graças preserva histórias de fé, esperança e devoção - Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0dRUlN0MVRFd0wta3prS01BNkg3am1PaUZzTlNpZThOYU5xd3dab3RYNzNuanNkODRzUWRPUkVnU2VoNjQ0Ynh3dmxuNlJSbWZ5MDlCanQ4N1o2VEM0SG9ldWhhSFpTN2NDellIbkZTcVRzNW5Ja2lDUUtibU5DYmRURmtFYXdXVjFMY3FhaWxHcjhYRXNvQ2dmQ0NTZjJkYTViV1BlNVI?oc=5",
+      "category": "lay",
+      "source": "巴西信仰见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-05-28",
+      "summary": "Sala das Graças preserva histórias de fé, esperança e devoção Notícias - Canção Nova",
+      "summary_zh": "Sala das Graças保留了信仰、希望和奉献的故事新闻- Canção Nova",
+      "title_zh": "《恩典之屋》保留了信仰、希望和奉献的故事-新闻",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Canção Nova",
+      "tags": [
+        "拉美",
+        "平凡人的见证"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.810141",
+      "extra": {
+        "provider": "google_news",
+        "query": "testemunho missionário Brasil história de fé",
+        "publisher": "Canção Nova",
+        "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0dRUlN0MVRFd0wta3prS01BNkg3am1PaUZzTlNpZThOYU5xd3dab3RYNzNuanNkODRzUWRPUkVnU2VoNjQ0Ynh3dmxuNlJSbWZ5MDlCanQ4N1o2VEM0SG9ldWhhSFpTN2NDellIbkZTcVRzNW5Ja2lDUUtibU5DYmRURmtFYXdXVjFMY3FhaWxHcjhYRXNvQ2dmQ0NTZjJkYTViV1BlNVI?oc=5",
+        "resolved": false,
+        "story_score": 9,
+        "domain": "news.google.com"
+      },
+      "id": "234ec285b8384fc1"
+    },
+    {
       "title": "【早稲田大学歴史館】早稲田大学・美濃加茂市 文化交流事業 共催展「美濃のキリシタン 秘められた祈りの証し」2025.11.21-12.21",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYU50UHl1RnRPd0ZSclFkREtEcWU4R0RJeGhDUzNiaWs5V25jTlRqV01lZlRCamVac0JpbVRLRFc3VlZuX3F3VXdCWTJxVDdHRE15WmhkQ19JOHNJUU9CVw?oc=5",
       "category": "lay",
@@ -150,8 +223,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2025-11-15",
       "summary": "【早稲田大学歴史館】早稲田大学・美濃加茂市 文化交流事業 共催展「美濃のキリシタン 秘められた祈りの証し」2025.11.21-12.21 早稲田大学",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "【早稻田大学历史馆】早稻田大学与美浓加茂市文化交流项目联合举办展览“美浓的基督徒：隐秘祈祷的见证”2025年11月21日-12月21日 早稻田大学",
+      "title_zh": "【早稻田大学历史馆】早稻田大学与美浓加茂市文化交流项目联合举办展览“美浓的基督徒：隐藏的祈祷见证”2025年11月21日至12月21日",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -205,7 +278,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.504650",
+      "fetched_at": "2026-11-12T00:43:04.168537",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -242,7 +315,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.910839",
+      "fetched_at": "2026-11-12T00:43:03.492849",
       "extra": {
         "provider": "google_news",
         "query": "India Christian conversion testimony story",
@@ -279,7 +352,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128466",
+      "fetched_at": "2026-11-12T00:43:03.810743",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -316,7 +389,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128678",
+      "fetched_at": "2026-11-12T00:43:03.811004",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -389,7 +462,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.777534",
+      "fetched_at": "2026-11-12T00:43:04.490020",
       "extra": {
         "provider": "google_news",
         "query": "orphan rescued missionary story",
@@ -426,7 +499,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.505014",
+      "fetched_at": "2026-11-12T00:43:04.168834",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -462,7 +535,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844886",
+      "fetched_at": "2026-11-12T00:43:03.661774",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -499,7 +572,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128777",
+      "fetched_at": "2026-11-12T00:43:03.811130",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -535,7 +608,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845423",
+      "fetched_at": "2026-11-12T00:43:03.662453",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -555,8 +628,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2017-08-11",
       "summary": "【追悼】 羽鳥明さんを偲ぶ「病床でも『福音を伝えたい』というスピリット」 東裕之（太平洋放送協会） キリスト新聞社ホームページ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "【悼念】缅怀羽鸟明先生“即使在病榻上也有‘我想传福音’的精神”东裕之（太平洋广播协会）基督教新闻社官网",
+      "title_zh": "【悼念】缅怀羽鸟明先生“即使卧病在床，也‘想要传福音’的精神”东裕之（太平洋广播协会）",
       "content": "",
       "content_zh": "",
       "image": "",

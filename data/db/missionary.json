@@ -1,8 +1,8 @@
 {
   "category": "missionary",
   "label": "宣教士故事",
-  "count": 65,
-  "updated_at": "2026-11-12T08:30:09.094324+08:00",
+  "count": 68,
+  "updated_at": "2026-11-12T08:45:20.383241+08:00",
   "articles": [
     {
       "title": "How We Saw God’s Goodness Through Our Child’s Cancer",
@@ -33,7 +33,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.918942",
+      "fetched_at": "2026-11-12T00:42:53.946604",
       "extra": {
         "feed_type": "rss20",
         "story_score": 15,
@@ -70,7 +70,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.666684",
+      "fetched_at": "2026-11-12T00:42:56.798819",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -106,7 +106,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.986019",
+      "fetched_at": "2026-11-12T00:42:59.078110",
       "extra": {
         "feed_type": "rss20",
         "story_score": 12,
@@ -142,7 +142,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.285448",
+      "fetched_at": "2026-11-12T00:42:59.620118",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -179,7 +179,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:33.479392",
+      "fetched_at": "2026-11-12T00:43:00.974855",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -215,7 +215,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:25.097269",
+      "fetched_at": "2026-11-12T00:42:58.354994",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -251,7 +251,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:25.438103",
+      "fetched_at": "2026-11-12T00:42:59.515809",
       "extra": {
         "feed_type": "rss20",
         "story_score": 14,
@@ -287,7 +287,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.266521",
+      "fetched_at": "2026-11-12T00:43:00.898138",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -322,7 +322,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.589785",
+      "fetched_at": "2026-11-12T00:43:03.046927",
       "extra": {
         "feed_type": "rss20",
         "story_score": 12,
@@ -358,7 +358,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.507504",
+      "fetched_at": "2026-11-12T00:43:04.043149",
       "extra": {
         "feed_type": "rss20",
         "story_score": 13,
@@ -394,7 +394,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.415102",
+      "fetched_at": "2026-11-12T00:43:04.726874",
       "extra": {
         "feed_type": "rss20",
         "story_score": 18,
@@ -430,7 +430,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.171465",
+      "fetched_at": "2026-11-12T00:43:05.625076",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -464,7 +464,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:32.026220",
+      "fetched_at": "2026-11-12T00:43:00.432207",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -500,7 +500,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.602094",
+      "fetched_at": "2026-11-12T00:43:00.587107",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -535,7 +535,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.866649",
+      "fetched_at": "2026-11-12T00:43:01.935455",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -602,7 +602,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128573",
+      "fetched_at": "2026-11-12T00:43:03.810875",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -639,7 +639,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216280",
+      "fetched_at": "2026-11-12T00:43:03.862971",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -677,7 +677,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:26:09.247671",
+      "fetched_at": "2026-11-12T00:43:38.997915",
       "extra": {
         "provider": "google_news",
         "query": "missionary Africa testimony",
@@ -688,6 +688,43 @@
         "domain": "news.google.com"
       },
       "id": "5b37a39f080471f4"
+    },
+    {
+      "title": "[간증] 받은 은혜를 다시 흘려보내는 삶 : 오피니언 : 미주 종교신문1위",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQbnZJdUV1RG5KcWJIc0lkeWtHaVFiUWN2amNmMUROaUJxS1d1TVJ1VWZOT3VhMFM0NjA2RVBWbWw4Qzh2dU5uTEpWdjVXb3RfMHFJSlV3OEQ3bFM3b2FVeUxnLURhNU9mSkJ2bVkxd1VfM1E5dmRINTVuNFpCMTB5THo1VFdzTERkRGk0dHNzdmV1eVBiaXQ3VVhGNnNxRXJaWENaUC1zWHhZNy1IN2xiNzdJQlZ3TGhrdUtKMHdWdVdVdEtTR2FUVlNrSDV6Rk5aX3JyZkxNSVdzYU8yTW43WWhjcy1Id0xsTG04UXVNNUZFb1VsRmM3NUtkalBoTjlxSVRmM2dpZmREZk5DZlZ3S1ZyQjhBRzl0bHJQWmZMYzktUlV2MFdFZ25n?oc=5",
+      "category": "missionary",
+      "source": "韩国宣教士故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-17",
+      "summary": "[간증] 받은 은혜를 다시 흘려보내는 삶 : 오피니언 : 미주 종교신문1위 Christianity Daily",
+      "summary_zh": "【见证】《脱落的恩典》回传：观点：《美洲基督教日报》第一宗教报纸",
+      "title_zh": "【见证】脱离生命的恩典回归：观点：美洲排名第一的宗教报纸",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Christianity Daily",
+      "tags": [
+        "亚洲",
+        "宣教士故事",
+        "见证"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.362805",
+      "extra": {
+        "provider": "google_news",
+        "query": "선교사 간증 이야기",
+        "publisher": "Christianity Daily",
+        "google_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQbnZJdUV1RG5KcWJIc0lkeWtHaVFiUWN2amNmMUROaUJxS1d1TVJ1VWZOT3VhMFM0NjA2RVBWbWw4Qzh2dU5uTEpWdjVXb3RfMHFJSlV3OEQ3bFM3b2FVeUxnLURhNU9mSkJ2bVkxd1VfM1E5dmRINTVuNFpCMTB5THo1VFdzTERkRGk0dHNzdmV1eVBiaXQ3VVhGNnNxRXJaWENaUC1zWHhZNy1IN2xiNzdJQlZ3TGhrdUtKMHdWdVdVdEtTR2FUVlNrSDV6Rk5aX3JyZkxNSVdzYU8yTW43WWhjcy1Id0xsTG04UXVNNUZFb1VsRmM3NUtkalBoTjlxSVRmM2dpZmREZk5DZlZ3S1ZyQjhBRzl0bHJQWmZMYzktUlV2MFdFZ25n?oc=5",
+        "resolved": false,
+        "story_score": 8,
+        "domain": "news.google.com"
+      },
+      "id": "29e650de5a92ca3b"
     },
     {
       "title": "Sister Oaks and her friend reflect on 22 years spreading faith through ‘testimony gloves’",
@@ -727,6 +764,42 @@
       "id": "17b5ef477a30a22f"
     },
     {
+      "title": "Trilogi Buku Pendidikan Papua Diluncurkan, Kisahkan Dedikasi Guru Perintis dan Misionaris Pedalaman",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZVlWd0l1clpnN1BuSk8xQ1dveVRhT01lcjBUSTBFU2kwekVJQjF3UU9ZdHFYVW5vOUNMNVh6OWZsbmxBR2s3LXhRR1ZUeDlkdFljTThGaVpmdFlQMHozQS1lS0ljdWxHS1lRTGp5UmZPUTZVdTIycWZpc01SS19xNXN0TDdmcWZRSUpkcEJDdnhFalowRFVlTkZTX21vcFM1STNReW9SWGdJRXE5TDFBOUlEWWVILXhmeG5DNkttSHJsbFN0NWc4WUg3TzJzWE1oUXFJXzJ3b3kzRm8?oc=5",
+      "category": "missionary",
+      "source": "印尼与东南亚见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-03",
+      "summary": "Trilogi Buku Pendidikan Papua Diluncurkan, Kisahkan Dedikasi Guru Perintis dan Misionaris Pedalaman Surya.co.id",
+      "summary_zh": "《巴布亚教育三部曲》出版，讲述先驱教师和苏拉亚偏远地区传教士的奉献精神。Surya.co.id",
+      "title_zh": "巴布亚教育三部曲书籍发布，讲述先驱教师和内地传教士的奉献精神",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Surya.co.id",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.662574",
+      "extra": {
+        "provider": "google_news",
+        "query": "kesaksian misionaris kisah",
+        "publisher": "Surya.co.id",
+        "google_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZVlWd0l1clpnN1BuSk8xQ1dveVRhT01lcjBUSTBFU2kwekVJQjF3UU9ZdHFYVW5vOUNMNVh6OWZsbmxBR2s3LXhRR1ZUeDlkdFljTThGaVpmdFlQMHozQS1lS0ljdWxHS1lRTGp5UmZPUTZVdTIycWZpc01SS19xNXN0TDdmcWZRSUpkcEJDdnhFalowRFVlTkZTX21vcFM1STNReW9SWGdJRXE5TDFBOUlEWWVILXhmeG5DNkttSHJsbFN0NWc4WUg3TzJzWE1oUXFJXzJ3b3kzRm8?oc=5",
+        "resolved": false,
+        "story_score": 4,
+        "domain": "news.google.com"
+      },
+      "id": "69c15d9833f47795"
+    },
+    {
       "title": "CGNTV ‘더 뉴 하늘빛향기’ 출연 조원권 장로, 40년 교육선교 간증...‘흥미진진, 감동’",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5Zm04aUtSVV9uUHV4a3FDdC1PNTFaZ1RfSzZneEpBZVdSRXVydTk1MWl0alRCMVpISkdaZ1RPRFV2ZnpFS0JjY19ld3psSnpIU3BEaTBKdEYyTlItQ2JnbVRKdEVwS2FW0gFsQVVfeXFMUHh5X1dPZnhvUkZWVFhZXzZoZnVXUldGYVpzVjJrLV9tR0pOa3hxRnpscWxtcWhUeElpbEZhdm4zc3paQTdNc2dYMnhBZ2hHVmlwTkNJaVZvMWRkaU1TLTNEaG5tYVhJeWtSOWdO?oc=5",
       "category": "missionary",
@@ -751,7 +824,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786511",
+      "fetched_at": "2026-11-12T00:43:03.362941",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -788,7 +861,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.215888",
+      "fetched_at": "2026-11-12T00:43:03.862499",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -827,7 +900,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216034",
+      "fetched_at": "2026-11-12T00:43:03.862684",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -900,7 +973,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216149",
+      "fetched_at": "2026-11-12T00:43:03.862833",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -937,7 +1010,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216399",
+      "fetched_at": "2026-11-12T00:43:03.863119",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -974,7 +1047,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248394",
+      "fetched_at": "2026-11-12T00:43:04.055818",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -1010,7 +1083,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845107",
+      "fetched_at": "2026-11-12T00:43:03.662062",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -1048,7 +1121,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:31.275238",
+      "fetched_at": "2026-11-12T00:43:02.228345",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -1085,7 +1158,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.908995",
+      "fetched_at": "2026-11-12T00:43:04.610938",
       "extra": {
         "provider": "google_news",
         "query": "medical missionary Africa hospital story",
@@ -1122,7 +1195,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128241",
+      "fetched_at": "2026-11-12T00:43:03.810462",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -1158,7 +1231,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786049",
+      "fetched_at": "2026-11-12T00:43:03.362384",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -1195,7 +1268,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247957",
+      "fetched_at": "2026-11-12T00:43:04.055425",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -1233,7 +1306,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216818",
+      "fetched_at": "2026-11-12T00:43:03.863676",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -1269,7 +1342,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844780",
+      "fetched_at": "2026-11-12T00:43:03.661638",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -1306,7 +1379,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.597389",
+      "fetched_at": "2026-11-12T00:43:04.469272",
       "extra": {
         "provider": "google_news",
         "query": "Pacific islands missionary story testimony",
@@ -1319,6 +1392,42 @@
       "id": "685eff660f0da368"
     },
     {
+      "title": "김명혁 목사 “살면서 눈물의 감동 안겨줬던 8가지 이야기…” : 오피니언",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTMWJ6WjJuLWJBVGZ2aXNOeVBwaFhXTWdsNjA4THJ3UmdpeWMxRGFxS1IxdXRta09LSk82T0phVGRoV2R5NmhPcXAybi1iN2l3M2dmZmowdw?oc=5",
+      "category": "missionary",
+      "source": "韩国宣教士故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2023-03-22",
+      "summary": "김명혁 목사 “살면서 눈물의 감동 안겨줬던 8가지 이야기…” : 오피니언 크리스천투데이",
+      "summary_zh": "金明赫牧师“人生中让我感动落泪的八个故事……”：观点《基督教今日报》",
+      "title_zh": "金明赫牧师“在人生中让我感动落泪的八个故事……”：观点",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "크리스천투데이",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.363293",
+      "extra": {
+        "provider": "google_news",
+        "query": "선교사 간증 이야기",
+        "publisher": "크리스천투데이",
+        "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTMWJ6WjJuLWJBVGZ2aXNOeVBwaFhXTWdsNjA4THJ3UmdpeWMxRGFxS1IxdXRta09LSk82T0phVGRoV2R5NmhPcXAybi1iN2l3M2dmZmowdw?oc=5",
+        "resolved": false,
+        "story_score": 5,
+        "domain": "news.google.com"
+      },
+      "id": "6a34e21d96faab9f"
+    },
+    {
       "title": "薬物依存、売春、望まない妊娠 放蕩の末にキリストに人生を変えられた宣教師の娘の証し : 国際",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWc1b0lqOGtlanZXRUxJdm5UWE45eUxjT2lmaG9NTVZwVFFHTzJBVXlXMlJQS2t3eEctN2poVWdMaGZxNkJGRDJfXzBfWnNtS0lYY3ZEZHdDc2QxSXhyVTJqMEk3Y3E2VVBGZFJfNGNodm1SaDljb2U0TUpacnpMWWNUcHN4SnU5S3pHX2llWS1GWGhSemUwR1ZqU2JhNTJPV0F5Qm44UVI4MDN5WGlWRQ?oc=5",
       "category": "missionary",
@@ -1326,8 +1435,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2023-02-20",
       "summary": "薬物依存、売春、望まない妊娠 放蕩の末にキリストに人生を変えられた宣教師の娘の証し : 国際 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "吸毒成瘾、卖淫、意外怀孕 经历放荡生活后被基督改变人生的传教士女儿的见证：国际基督日报",
+      "title_zh": "吸毒成瘾、卖淫、意外怀孕 宣教士的女儿在放荡的生活之后被基督改变了人生的见证：国际",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -1416,7 +1525,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844662",
+      "fetched_at": "2026-11-12T00:43:03.661486",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -1454,7 +1563,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128098",
+      "fetched_at": "2026-11-12T00:43:03.810304",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -1568,7 +1677,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128877",
+      "fetched_at": "2026-11-12T00:43:03.811276",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -1605,7 +1714,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248599",
+      "fetched_at": "2026-11-12T00:43:04.056184",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -1642,7 +1751,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786407",
+      "fetched_at": "2026-11-12T00:43:03.362665",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -1678,7 +1787,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844518",
+      "fetched_at": "2026-11-12T00:43:03.661303",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -1715,7 +1824,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248060",
+      "fetched_at": "2026-11-12T00:43:04.055559",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -1752,7 +1861,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786185",
+      "fetched_at": "2026-11-12T00:43:03.362532",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -1788,7 +1897,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247739",
+      "fetched_at": "2026-11-12T00:43:04.055113",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -1825,7 +1934,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248282",
+      "fetched_at": "2026-11-12T00:43:04.055691",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -1862,7 +1971,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247604",
+      "fetched_at": "2026-11-12T00:43:04.054943",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -1899,7 +2008,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216614",
+      "fetched_at": "2026-11-12T00:43:03.863412",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -1935,7 +2044,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845222",
+      "fetched_at": "2026-11-12T00:43:03.662186",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -1971,7 +2080,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247854",
+      "fetched_at": "2026-11-12T00:43:04.055288",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -2007,7 +2116,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845324",
+      "fetched_at": "2026-11-12T00:43:03.662327",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2043,7 +2152,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844999",
+      "fetched_at": "2026-11-12T00:43:03.661919",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2080,7 +2189,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216914",
+      "fetched_at": "2026-11-12T00:43:03.863805",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -2100,8 +2209,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2015-09-30",
       "summary": "インターコープ、第１回世界宣教セミナー開催 ３０人が一度に救われたイラン短期宣教の証しも クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "InterCoop举办首届世界宣教研讨会，分享伊朗短期宣教见证，一次有30人得救——基督教今日报",
+      "title_zh": "国际合作社（InterCoop）举办首届世界宣教研讨会，分享伊朗短期宣教的见证，一次有30人得救",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -2155,7 +2264,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.785869",
+      "fetched_at": "2026-11-12T00:43:03.362181",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -2192,7 +2301,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.787124",
+      "fetched_at": "2026-11-12T00:43:03.363812",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -2229,7 +2338,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.579526",
+      "fetched_at": "2026-11-12T00:43:02.960375",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -2249,8 +2358,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2006-08-24",
       "summary": "「キリストの証し人として」 ＨＣＪＢ・尾崎一夫師 : 宣教 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "“作为基督的见证人”HCJB·尾崎一夫牧师：宣教《基督今日报》",
+      "title_zh": "“作为基督的见证人”HCJB·尾崎一夫牧师：宣教",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -2287,8 +2396,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2006-07-12",
       "summary": "ミラノ宣教師内村夫妻の証し 中野キリスト教会「ミラノ宣教の夕べ」 東京 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "米兰传教士内村夫妇的见证 中野基督教会“米兰传教之夜” 东京 基督今日报",
+      "title_zh": "米兰传教士内村夫妇的见证 中野基督教会“米兰传教之夜” 东京",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -2325,8 +2434,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2005-11-28",
       "summary": "腹話術宣教師ラマー氏来日 腹話術世界大会で証し : 宣教 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "腹语传教士拉玛先生访日 在世界腹语大会上作见证：传教 基督日报",
+      "title_zh": "腹语术传教士拉玛先生访日 在腹语术世界大会上作见证：传教",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -2379,7 +2488,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786815",
+      "fetched_at": "2026-11-12T00:43:03.363072",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",

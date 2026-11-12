@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-12T08:30:09.080509+08:00",
-  "total": 159,
-  "featured_count": 159,
+  "updated_at": "2026-11-12T08:45:20.365043+08:00",
+  "total": 170,
+  "featured_count": 170,
   "categories": {
-    "missionary": 65,
+    "missionary": 68,
     "giant": 18,
     "africa": 28,
-    "trial": 28,
-    "china": 4,
-    "lay": 16
+    "trial": 29,
+    "china": 9,
+    "lay": 18
   },
   "regions": {
     "大洋洲": 2,
     "北美": 18,
     "非洲": 35,
     "中东": 6,
-    "中国": 4,
-    "全球": 17,
-    "亚洲": 38,
+    "中国": 9,
+    "全球": 18,
+    "亚洲": 42,
     "欧洲": 10,
-    "拉美": 29
+    "拉美": 30
   },
   "sources": {
     "The Gospel Coalition": 7,
@@ -31,17 +31,18 @@
     "Banner of Truth · 教会历史": 7,
     "Tim Challies · 人物与传记": 5,
     "Christianity Today": 3,
-    "GDELT · 全球信主见证": 5,
-    "GDELT · 受逼迫教会": 9,
+    "GDELT · 中国与华人见证": 5,
+    "GDELT · 全球信主见证": 6,
+    "GDELT · 受逼迫教会": 10,
     "葡语非洲／巴西宣教见证": 7,
-    "巴西信仰见证": 9,
+    "巴西信仰见证": 10,
     "西语拉美宣教故事": 11,
     "GDELT · 非洲宣教": 3,
+    "韩国宣教士故事": 10,
     "菲律宾宣教故事": 1,
-    "韩国宣教士故事": 8,
+    "印尼与东南亚见证": 11,
     "乌克兰战火中的信心": 1,
     "亚马逊部落宣教": 8,
-    "印尼与东南亚见证": 10,
     "日本信仰见证": 9,
     "法语非洲见证": 9,
     "法语欧洲见证": 2,
@@ -85,7 +86,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.918942",
+      "fetched_at": "2026-11-12T00:42:53.946604",
       "extra": {
         "feed_type": "rss20",
         "story_score": 15,
@@ -121,7 +122,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.929680",
+      "fetched_at": "2026-11-12T00:42:53.960709",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -157,7 +158,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.161362",
+      "fetched_at": "2026-11-12T00:42:56.091609",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -193,7 +194,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.837975",
+      "fetched_at": "2026-11-12T00:42:57.079744",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -231,7 +232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.180610",
+      "fetched_at": "2026-11-12T00:42:57.660237",
       "extra": {
         "feed_type": "rss20",
         "story_score": 17,
@@ -268,7 +269,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.451142",
+      "fetched_at": "2026-11-12T00:42:58.186334",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -303,7 +304,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.052654",
+      "fetched_at": "2026-11-12T00:42:56.880748",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -340,7 +341,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.666684",
+      "fetched_at": "2026-11-12T00:42:56.798819",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -377,7 +378,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.318441",
+      "fetched_at": "2026-11-12T00:42:57.771408",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -413,7 +414,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.968235",
+      "fetched_at": "2026-11-12T00:42:58.786853",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -449,7 +450,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.986019",
+      "fetched_at": "2026-11-12T00:42:59.078110",
       "extra": {
         "feed_type": "rss20",
         "story_score": 12,
@@ -485,7 +486,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.285448",
+      "fetched_at": "2026-11-12T00:42:59.620118",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -521,7 +522,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.966663",
+      "fetched_at": "2026-11-12T00:43:00.543712",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -558,7 +559,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:33.479392",
+      "fetched_at": "2026-11-12T00:43:00.974855",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -594,7 +595,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:33.716618",
+      "fetched_at": "2026-11-12T00:43:02.642866",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -630,7 +631,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:34.593858",
+      "fetched_at": "2026-11-12T00:43:03.296155",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -663,7 +664,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.813857",
+      "fetched_at": "2026-11-12T00:42:58.498155",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -695,7 +696,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.263722",
+      "fetched_at": "2026-11-12T00:43:01.510137",
       "extra": {
         "feed_type": "rss20",
         "story_score": 14,
@@ -731,7 +732,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:24.186055",
+      "fetched_at": "2026-11-12T00:42:54.519788",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -768,7 +769,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:24.521234",
+      "fetched_at": "2026-11-12T00:42:55.549925",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -804,7 +805,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:25.097269",
+      "fetched_at": "2026-11-12T00:42:58.354994",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -840,7 +841,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:25.438103",
+      "fetched_at": "2026-11-12T00:42:59.515809",
       "extra": {
         "feed_type": "rss20",
         "story_score": 14,
@@ -876,7 +877,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.266521",
+      "fetched_at": "2026-11-12T00:43:00.898138",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -911,7 +912,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.589785",
+      "fetched_at": "2026-11-12T00:43:03.046927",
       "extra": {
         "feed_type": "rss20",
         "story_score": 12,
@@ -947,7 +948,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.507504",
+      "fetched_at": "2026-11-12T00:43:04.043149",
       "extra": {
         "feed_type": "rss20",
         "story_score": 13,
@@ -983,7 +984,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.415102",
+      "fetched_at": "2026-11-12T00:43:04.726874",
       "extra": {
         "feed_type": "rss20",
         "story_score": 18,
@@ -1019,7 +1020,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.171465",
+      "fetched_at": "2026-11-12T00:43:05.625076",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -1053,7 +1054,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.491299",
+      "fetched_at": "2026-11-12T00:42:57.108824",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -1088,7 +1089,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.907430",
+      "fetched_at": "2026-11-12T00:42:59.565887",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -1122,7 +1123,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.761076",
+      "fetched_at": "2026-11-12T00:43:00.141957",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -1156,7 +1157,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:32.026220",
+      "fetched_at": "2026-11-12T00:43:00.432207",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -1189,7 +1190,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.035907",
+      "fetched_at": "2026-11-12T00:42:58.107450",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -1225,7 +1226,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.361898",
+      "fetched_at": "2026-11-12T00:43:01.550865",
       "extra": {
         "feed_type": "rss20",
         "story_score": 13,
@@ -1258,7 +1259,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.355447",
+      "fetched_at": "2026-11-12T00:43:13.203397",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -1293,7 +1294,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.917267",
+      "fetched_at": "2026-11-12T00:42:53.944366",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -1328,7 +1329,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.922618",
+      "fetched_at": "2026-11-12T00:42:53.951309",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -1364,7 +1365,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.924548",
+      "fetched_at": "2026-11-12T00:42:53.953810",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -1398,7 +1399,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.925277",
+      "fetched_at": "2026-11-12T00:42:53.954748",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -1433,7 +1434,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.225496",
+      "fetched_at": "2026-11-12T00:42:56.281151",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -1468,7 +1469,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.126045",
+      "fetched_at": "2026-11-12T00:42:56.512449",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -1504,7 +1505,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:25.385332",
+      "fetched_at": "2026-11-12T00:42:55.388301",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -1539,7 +1540,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:25.818825",
+      "fetched_at": "2026-11-12T00:42:55.795537",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -1575,7 +1576,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.022118",
+      "fetched_at": "2026-11-12T00:42:57.345163",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -1610,7 +1611,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.686796",
+      "fetched_at": "2026-11-12T00:42:58.557898",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -1643,7 +1644,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.436103",
+      "fetched_at": "2026-11-12T00:42:58.224614",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -1676,7 +1677,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.805365",
+      "fetched_at": "2026-11-12T00:42:59.108014",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -1709,7 +1710,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.581236",
+      "fetched_at": "2026-11-12T00:42:59.226145",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -1741,7 +1742,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.014764",
+      "fetched_at": "2026-11-12T00:43:00.014726",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -1777,7 +1778,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.602094",
+      "fetched_at": "2026-11-12T00:43:00.587107",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -1812,7 +1813,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.866649",
+      "fetched_at": "2026-11-12T00:43:01.935455",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -1845,7 +1846,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.197630",
+      "fetched_at": "2026-11-12T00:42:58.420230",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -1879,7 +1880,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.720954",
+      "fetched_at": "2026-11-12T00:43:04.568237",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -1914,7 +1915,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:24.090053",
+      "fetched_at": "2026-11-12T00:42:54.474862",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -1949,7 +1950,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:24.637460",
+      "fetched_at": "2026-11-12T00:42:54.869881",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -2025,6 +2026,178 @@
         "domain": "thegospelcoalition.org"
       },
       "id": "2ebcff2eb00f498a"
+    },
+    {
+      "title": "No permitan que nada ni nadie les arrebate la libertad , pidió el Papa ante un millón de jóvenes « Diario La Capital de Mar del Plata",
+      "url": "https://www.lacapitalmdp.com/no-permitan-que-nada-ni-nadie-les-arrebate-la-libertad-pidio-el-papa-ante-un-millon-de-jovenes/",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-11",
+      "summary": "âNo permitan que nada ni nadie les arrebate la libertadâ, pidiÃ³ el Papa ante un millÃ³n de jÃ³venes En una noche histÃ³rica y conmovedora, LeÃ³n XIV protagonizÃ³ una multitudinaria vigilia en el cora",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "âNo permitan que nada ni nadie les arrebate la libertadâ, pidiÃ³ el Papa ante un millÃ³n de jÃ³venes En una noche histÃ³rica y conmovedora, LeÃ³n XIV protagonizÃ³ una multitudinaria vigilia en el corazÃ³n de Buenos Aires. El PontÃfice lanzÃ³ fuertes advertencias sobre las redes sociales, el dinero, las drogas, la pornografÃa y la obsesiÃ³n por el Ã©xito y cuestionÃ³ los nuevos Ãdolos de la sociedad. Fue una de esas noches destinadas a ocupar un lugar especial en la memoria de la Iglesia argentina. MÃ¡s de un millÃ³n de personas, en su inmensa mayorÃa jÃ³venes, se congregaron esta noche en el Monumento a los EspaÃ±oles, en el barrio porteÃ±o de Palermo, para participar de un encuentro histÃ³rico y profundamente conmovedor con el papa LeÃ³n XIV. La multitud, las ovaciones, las canciones, las emociones y los testimonios personales construyeron el escenario de una vigilia que se convirtiÃ³ en uno de los momentos mÃ¡s impactantes de la visita del PontÃfice a la Argentina. LeÃ³n XIV hablÃ³ de las preocupaciones de una generaciÃ³n atravesada por la tecnologÃa, las presiones sociales, las adicciones, la necesidad de reconocimiento y la incertidumbre frente al futuro. Y lo hizo con definiciones contundentes, que por momentos constituyeron una severa advertencia sobre los peligros de una sociedad que, segÃºn su mirada, confunde con frecuencia la felicidad con el consumo, la popularidad y el placer inmediato. âHay tambiÃ©n quienes hacen negocio ofreciendo placeres que terminan por esclavizarnos, como la pornografÃa y diversas sustanciasâ, afirmÃ³ el Papa, en uno de los pasajes mÃ¡s fuertes de su intervenciÃ³n. Cuando LeÃ³n XIV avanzÃ³ en el papamÃ³vil, los saludos y las ovaciones acompaÃ±aron su recorrido. El Papa se detuvo para bendecir a varios bebÃ©s y respondiÃ³ con gestos de afecto a quienes buscaban acercarse. La vigilia, que incluyÃ³ mÃºsica, oraciÃ³n y testimonios, tuvo desde el comienzo una atmÃ³sfera de celebraciÃ³n y recogimiento. La escena adquiriÃ³ una dimensiÃ³n singular cuando se encendieron las velas, un gesto que el propio PontÃfice utilizÃ³ para introducir el contenido de su reflexiÃ³n. El fuego, explicÃ³, representa el amor de Cristo, capaz de purificar el corazÃ³n y transformar la vida de las personas. Fue el punto de partida para un discurso en el que combinÃ³ referencias bÃblicas, advertencias sobre los riesgos contemporÃ¡neos y una invitaciÃ³n a recuperar la libertad interior. Los nuevos Ãdolos de la sociedad LeÃ³n XIV eligiÃ³ un episodio del Antiguo Testamento para explicar los desafÃos que enfrentan los jÃ³venes. RecordÃ³ la historia de AnanÃas, AzarÃas y Misael, los tres jÃ³venes que se negaron a adorar la estatua de oro levantada por el rey Nabucodonosor, aun cuando esa decisiÃ³n podÃa costarles la vida. La imagen de aquellos muchachos que permanecieron de pie frente al poder sirviÃ³ para establecer una comparaciÃ³n con el presente. El Papa sostuvo que los Ãdolos no desaparecieron, sino que adquirieron nuevas formas. Ya no se trata necesariamente de estatuas de oro, sino de modelos de Ã©xito, consumo y reconocimiento social que pueden terminar condicionando la libertad de las personas. âTambiÃ©n hoy se levantan Ãdolos que reclaman nuestra adoraciÃ³nâ, advirtiÃ³. En su enumeraciÃ³n incluyÃ³ el Ã©xito a cualquier precio, el dinero, la obsesiÃ³n por la apariencia, la popularidad y la bÃºsqueda desenfrenada del placer. La advertencia adquiriÃ³ especial intensidad cuando se refiriÃ³ al comportamiento de las personas en las redes sociales. SeÃ±alÃ³ que la necesidad de aprobaciÃ³n puede llevar a mentir, traicionar o humillar a otros, mientras que la envidia y el egoÃsmo pueden deteriorar los vÃnculos humanos. La referencia a la pornografÃa y las sustancias adictivas apareciÃ³ dentro de esa misma reflexiÃ³n sobre los negocios que explotan las debilidades humanas. El PontÃfice pidiÃ³ a los jÃ³venes que no entreguen su libertad a esas formas de dependencia y reivindicÃ³ la capacidad de resistir las presiones del entorno.",
+      "content_zh": "",
+      "image": "http://storage.lacapitalmdp.com/2026/11/noche1-1024x682.jpg",
+      "author": "lacapitalmdp.com",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:26.960974",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "lacapitalmdp.com",
+        "story_score": 8
+      },
+      "id": "d9ca5efb1d3c385f"
+    },
+    {
+      "title": "León XIV a la juventud argentina : Déjense transformar por Cristo",
+      "url": "https://www.aica.org/noticia-leon-xiv-a-los-jovenes-dejense-transformar-por-cristo",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-11",
+      "summary": "Ante 1.200.000 personas en Palermo, el Papa los convocó a vivir la fe sin miedo, comenzar de nuevo y llevar el Evangelio a las periferias. \"Todos hacia Cristo, todos con Cristo, todos como Cristo\". \"T",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "Ante 1.200.000 personas en Palermo, el Papa los convocó a vivir la fe sin miedo, comenzar de nuevo y llevar el Evangelio a las periferias. \"Todos hacia Cristo, todos con Cristo, todos como Cristo\". \"Todos hacia Cristo, todos con Cristo, todos como Cristo\". Con esta convocatoria, León XIV invitó a 1.200.000 jóvenes reunidos en el Monumento de los Españoles, en el barrio porteño de Palermo, a dejarse transformar por Jesús y hacer de sus vidas un testimonio de amor y misericordia. \"¡Déjense transformar por Cristo! No tengan miedo de acercarse al sacramento de la Reconciliación\", les pidió durante un encuentro marcado por la emoción, la alegría y la esperanza, en el que también escuchó historias de recuperación de las adicciones, discernimiento vocacional y compromiso con los más necesitados. La multitud llegó desde distintos puntos del país para participar del encuentro, que incluyó presentaciones musicales, momentos de oración y un recorrido del pontífice en papamóvil por la Avenida del Libertador. Antes de su discurso, cuatro jóvenes compartieron sus experiencias y otros dos plantearon preguntas sobre las dificultades del servicio a los más vulnerables y la integración de la fe con el trabajo y la vida cotidiana. Una Iglesia donde todos tienen lugar León XIV retomó las palabras de Francisco durante la Jornada Mundial de la Juventud de Lisboa, en 2023, cuando el Papa argentino insistió en que en la Iglesia hay lugar para \"todos, todos, todos\". A partir de aquella expresión, desarrolló tres dimensiones de la vida cristiana: \"Todos hacia Cristo, todos con Cristo, todos como Cristo\". El pontífice se dirigió especialmente a quienes crecieron lejos de la fe, dejaron de rezar, se alejaron de la Iglesia o fueron heridos por personas que debían acompañarlos. \"A cada uno quisiera decirle: ¡Hay un lugar para ti en la Iglesia! Con tus preguntas, tus heridas y tu historia. Esta es también tu casa\", afirmó. Y agregó: \"No tienes que fingir que todo está bien ni esperar a tener la vida resuelta para acercarte\". Para explicar esa posibilidad de comenzar de nuevo, recordó el encuentro de Jesús con Zaqueo y retomó una pregunta que había cambiado la historia vocacional de Guadalupe, una de las jóvenes que dio su testimonio: \"¿Quién te dijo que ya es tarde?\". \"Nadie ha caído tan bajo que Cristo no pueda levantarlo\", aseguró, al pedir comunidades cristianas con las puertas abiertas, capaces de recibir, auxiliar y acompañar. Permanecer de pie ante los ídolos de nuestro tiempo A partir del relato bíblico de los tres jóvenes que se negaron a adorar la estatua de oro del rey Nabucodonosor, León XIV advirtió sobre las falsas promesas que pueden condicionar la vida de las nuevas generaciones. \"También hoy se levantan ídolos que reclaman nuestra adoración: el éxito a cualquier precio, el dinero, la obsesión por la apariencia, la popularidad o la búsqueda desenfrenada del placer\", señaló. También cuestionó las formas de sometimiento vinculadas con las redes sociales y los negocios que lucran con la pornografía y las sustancias adictivas. \"Hay también quienes hacen negocio ofreciendo placeres que terminan por esclavizarnos\", afirmó. Frente a esas situaciones, exhortó: \"¡No se arrodillen ante aquello que no puede darles vida! Y si alguna vez han caído, ¡levántense! No permitan que nada ni nadie les arrebate la libertad que Dios les ha dado\". Historias que hablan de volver a empezar Uno de los testimonios que conmovió al Papa fue el de Cristian, de 25 años, quien relató su recuperación de las adicciones después de haber vivido en la calle. La Familia Grande del Hogar de Cristo lo recibió sin preguntarle por su pasado y le permitió comenzar de nuevo. \"Yo estaba en la calle y el piso de la calle es duro y frío. Soy como muchos que sufren el problema de las adicciones. La droga me aisló de mi familia\", contó. Hoy acompaña a otros jóvenes que atraviesan situaciones similares. También habló Guadalupe, postulante de una congregación religiosa, quien explicó que dura",
+      "content_zh": "",
+      "image": "https://www.aica.org/imagenes/noticias/leon-xiv-a-los-jovenes-dejense-transformar-por-cristo-sij4.jpeg",
+      "author": "aica.org",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证",
+        "祷告"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:27.993863",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "aica.org",
+        "story_score": 7
+      },
+      "id": "1cc04c061ac5c5f7"
+    },
+    {
+      "title": "Adicciones , vocación y solidaridad : los testimonios que escuchó León XIV en Palermo - Un joven que logró salir de las adicciones , una docente comprometida con niños vulnerables , una correntina que busca consagrar su vida a Dios y un periodista de...",
+      "url": "https://www.elliberal.com.ar/nota/97631/2026/11/adicciones-vocacion-y-solidaridad--los-testimonios-que-escucho-leon-xiv-en-palermo",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-11",
+      "summary": "La vigilia juvenil que encabezó el papa León XIV en el Monumento de los Españoles, en el barrio porteño de Palermo, tuvo momentos de profunda emoción. Cuatro jóvenes subieron al escenario para contar ",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "La vigilia juvenil que encabezó el papa León XIV en el Monumento de los Españoles, en el barrio porteño de Palermo, tuvo momentos de profunda emoción. Cuatro jóvenes subieron al escenario para contar sus historias, poner en palabras las dificultades que atravesaron y explicar cómo la fe transformó sus vidas. Cristian, Agustina, Guadalupe y Franco llegaron desde distintas realidades, pero coincidieron en un mismo mensaje: la posibilidad de encontrar un nuevo camino a partir del acompañamiento, el compromiso con los demás y la confianza en Dios. También te puede interesar: Sus testimonios permitieron acercar al Santo Padre las inquietudes de una generación que enfrenta desafíos sociales, personales y espirituales. Cristian: de vivir en la calle a encontrar una oportunidad para empezar de nuevo Uno de los relatos más conmovedores fue el de Cristian, quien habló abiertamente sobre su lucha contra las adicciones y las consecuencias que el consumo problemático tuvo en su vida. El joven recordó que llegó a alejarse de sus seres queridos y terminó viviendo en la calle, en una situación en la que su principal preocupación era conseguir drogas. \"Mi prioridad era el consumo. La droga me aisló de mi familia\", contó frente a León XIV. Su recuperación comenzó cuando encontró refugio en el Hogar de Cristo de Moreno Sur, donde recibió contención, alimento y un lugar donde dormir. Allí, según relató, pudo recuperar la esperanza y comenzar a reconstruir su vida. \"Hoy estoy de pie gracias a la familia grande del Hogar de Cristo, de Moreno Sur, que un día me recibió sin preguntarme quién era, me dio un abrazo y me invitó un plato de comida caliente y una cama para dormir. Yo estaba en la calle\", expresó. Cristian también destacó la importancia de la espiritualidad para afrontar los momentos más difíciles de su recuperación: \"Cuando me siento desbordado escucho a Jesús y la paz vuelve\". Agustina: dejó Buenos Aires para acompañar a chicos en Viedma La historia de Agustina estuvo marcada por su vocación de servicio. Nacida en Buenos Aires, es maestra de nivel primario y desde los 16 años participa en iniciativas de voluntariado y apoyo escolar. Hace un año tomó una decisión importante: trasladarse a Viedma, Río Negro, para continuar trabajando con niños que atraviesan situaciones de vulnerabilidad. Durante su testimonio, explicó que acompañar a quienes más lo necesitan también implica enfrentarse a situaciones que exceden las posibilidades de cualquier persona. La frustración aparece cuando, a pesar del esfuerzo y la dedicación, no siempre se consiguen los resultados esperados. Por eso, aprovechó el encuentro para plantearle una inquietud al Papa: \"Santo Padre, ¿cómo afrontar la frustración y nuestros límites cuando no logramos acompañar a los excluidos como quisiéramos? ¿Cómo seguir caminando junto a ellos cuando sentimos que lo que hacemos no alcanza?\". Su pregunta abrió un espacio de reflexión sobre la importancia de perseverar en las tareas solidarias, incluso cuando los frutos del trabajo no se manifiestan de inmediato. Guadalupe: una joven correntina que busca consagrar su vida a Dios Desde Corrientes llegó Guadalupe, quien atraviesa una etapa de formación para ingresar a la congregación de las Hermanas de la Presentación de la Virgen María de Granada. Frente a León XIV, recordó la influencia que tuvo su familia en la construcción de su fe. Sus padres le enseñaron desde pequeña que las capacidades y oportunidades que recibe cada persona deben ponerse al servicio de los demás. \"Mis padres me enseñaron que los dones que cada uno tiene no se deben guardar, sino dar a los demás\", relató. Sin embargo, también reconoció que el camino de discernimiento de su vocación estuvo acompañado por dudas y momentos de incertidumbre. En particular, habló del peso que pueden tener las opiniones ajenas al momento de tomar decisiones personales. \"Empezaron a pesar en mí las palabras de los demás\", recordó, al compartir las dificultades que debió afrontar mientras ",
+      "content_zh": "",
+      "image": "https://www.elliberal.com.ar/img/publicaciones/2026/11/10/alta/2229290.webp",
+      "author": "elliberal.com.ar",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:28.582434",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "elliberal.com.ar",
+        "story_score": 10
+      },
+      "id": "481f2ee3363c4388"
+    },
+    {
+      "title": "Papa León XIV pide renovar la vocación religiosa en Argentin | DIARIO DEL SUR",
+      "url": "http://diariodelsur.com.co/noticias/papa-leon-xiv-pide-renovar-la-vocacion-religiosa-en-argentina",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-11",
+      "summary": "El papa León XIV hizo un llamado a renovar el compromiso de la vida religiosa y fortalecer la labor evangelizadora de la Iglesia durante un encuentro con obispos, sacerdotes, diáconos, religiosos, rel",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "El papa León XIV hizo un llamado a renovar el compromiso de la vida religiosa y fortalecer la labor evangelizadora de la Iglesia durante un encuentro con obispos, sacerdotes, diáconos, religiosos, religiosas, seminaristas y agentes pastorales en la Catedral de Nuestra Señora de la Asunción, en Córdoba, Argentina. La reunión se realizó durante el tercer día de su viaje apostólico por el país sudamericano. En su intervención, el pontífice invitó a los representantes de la Iglesia a mantener viva la vocación, recuperar el entusiasmo de los primeros años de servicio y trabajar por comunidades más abiertas, solidarias y comprometidas con las necesidades de la población. Bajo el mensaje de “¡Sueñen con una Iglesia que siga haciendo lío!”, León XIV destacó que el testimonio cristiano no depende únicamente de las palabras o de las actividades religiosas, sino también de la manera en que cada persona vive su vocación y se relaciona con los demás. Recuperar el sentido de la vocación Durante su discurso, el Papa recordó que toda vocación nace de una llamada y de una decisión personal de seguir a Cristo. Señaló que, con el paso de los años, las responsabilidades, las obligaciones y el cansancio pueden hacer que algunos religiosos pierdan de vista el motivo que los llevó a dedicar su vida al servicio de la Iglesia. Por esta razón, invitó a los presentes a reflexionar sobre su relación con Dios y a evitar que la rutina, las rivalidades o la comodidad debiliten su compromiso. También destacó la importancia de mantener espacios de oración, revisar las propias acciones y reconocer los errores como parte del camino de crecimiento espiritual. El pontífice advirtió sobre el riesgo de trabajar constantemente para la Iglesia y dedicar cada vez menos tiempo a fortalecer la vida espiritual. Según expresó, la vocación necesita conservar el fuego que la impulsó desde el comienzo. Recordó a figuras religiosas de Argentina León XIV también hizo referencia a personajes que han marcado la historia religiosa del país, entre ellos Mama Antula, el santo Cura Brochero y el beato Ceferino Namuncurá. Sobre Mama Antula, destacó su esfuerzo por llevar los Ejercicios Espirituales a diferentes comunidades, recorriendo largas distancias para acercar a las personas a la fe. También recordó al Cura Brochero, quien desarrolló su labor pastoral en las sierras argentinas y continuó acompañando a su pueblo incluso durante sus años de enfermedad. El Papa mencionó además al beato Ceferino Namuncurá, cuya vida, aunque breve, dejó un testimonio de compromiso religioso. Estas figuras fueron presentadas como ejemplos de entrega, perseverancia y servicio a las comunidades. Una Iglesia que responda a las necesidades sociales Otro de los puntos centrales del encuentro fue la responsabilidad de la Iglesia frente a las dificultades que atraviesan las comunidades. El pontífice señaló que situaciones como la pobreza, la enfermedad, la soledad, el desempleo y la falta de vivienda digna requieren respuestas concretas. En ese sentido, pidió a los sacerdotes y agentes pastorales mantener una actitud de cercanía con las personas que necesitan acompañamiento, sin limitar su misión a las actividades tradicionales de las instituciones religiosas. También animó a los seminaristas y jóvenes que se preparan para la vida consagrada a mirar la realidad desde una perspectiva de servicio, reconociendo las necesidades de la población y estando dispuestos a asumir responsabilidades que quizá no habían imaginado inicialmente. Creatividad para llevar el mensaje a nuevas generaciones León XIV destacó la importancia de encontrar nuevas formas de transmitir el mensaje cristiano, especialmente en una sociedad donde las herramientas digitales y las transformaciones culturales modifican las maneras de comunicarse. El pontífice consideró que la tecnología puede convertirse en un recurso para continuar dando testimonio y acercar la palabra de Dios a diferentes públicos. Por ello, invitó a los religiosos a ser cr",
+      "content_zh": "",
+      "image": "https://gec.hsbnoticias.com/uploads/articles/099b1c43-e2a2-4049-83ab-b72899a951be.webp",
+      "author": "diariodelsur.com.co",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:30.502791",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "diariodelsur.com.co",
+        "story_score": 7
+      },
+      "id": "927041587ce4225d"
+    },
+    {
+      "title": "León XVI celebró misa en Córdoba y apuntó : Estamos llamados a la santidad – 4SEMANAS | Últimas noticias de Argentina y el mundo",
+      "url": "https://www.4semanas.com/leon-xvi-celebro-una-multitudinaria-misa-en-cordoba-y-apunto-estamos-llamados-a-la-santidad/",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-11",
+      "summary": "El papa León XIV encabezó este martes su segunda multitudinaria misa en el país en la Escuela de Aviación Militar de Córdoba, donde pronunció una sentida homilía centrada en la rica tradición de santi",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "El papa León XIV encabezó este martes su segunda multitudinaria misa en el país en la Escuela de Aviación Militar de Córdoba, donde pronunció una sentida homilía centrada en la rica tradición de santidad de la región y en el compromiso evangelizador de los fieles. Durante la ceremonia celebrada ante una multitud en el Polo Aeronáutico cordobés, el Sumo Pontífice destacó que la región “ha sido rica en frutos de santidad” y recordó que por sus calles transitaron personas que dieron la vida por el Evangelio, mencionando especialmente al cura Brochero y a Mama Antula. Además, nombró a todos los santos y beatos de la Argentina, en una homilía centrada estrictamente en lo religoso. “Todos somos simples servidores y tenemos que cumplir con la misión que el Señor nos encomienda; estamos todos llamados a la santidad”, afirmó León XIV. En esa línea, pidió tener presente que, habiendo sido arrancado del poder de las tinieblas, el creyente ha sido trasladado «a la luz de Dios». Ante los miles de peregrinos reunidos, el Pontífice advirtió: «El mundo espera de nosotros un compromiso de vida y un testimonio de oración». «Celebramos esta misa por la santificación del pueblo argentino», resaltó el Pontífice, que agregó: «Le pido a Dios, a través de san León Magno, que nos continúe bendiciendo y nos de la gracia de confesar siempre». Y afirmó: «Vayan y sean santos, abran sus corazones». A continuación, la homilía completa del papa León XIV en Córdoba: La confesión de Pedro, que a lo largo de la historia resuena en sus sucesores, nos manifiesta el misterio de Dios revelado en Cristo para nuestra salvación. Un mensaje de salvación que sigue siendo actual y que se apoya en la intercesión de tantos hermanos nuestros en la fe, que ahora nos acompañan desde el cielo. No en vano, la tierra que ahora nos acoge ha sido rica en frutos de santidad; el ejemplo de quienes nos han precedido en este camino nos sigue interpelando a vivir como ellos vivieron y a entregar la vida, como Cristo ha hecho por nosotros y ellos supieron imitar con perfección. La ciudad de Córdoba, heredera natural de la primera sede episcopal erigida en Argentina, ha sido tierra de santos. Por sus conventos e iglesias, por sus calles y hospitales transitaron hombres y mujeres que, enamorados de Jesús, dieron la vida por el Evangelio. En Argentina vivieron hombres y mujeres, como el Cura Brochero y Mama Antula —por poner solo dos ejemplos—, que fueron llamados por el Señor y enviados a la misión, sin que ellos mismos fueran siquiera conscientes de lo extraordinario que su labor evangelizadora llegaría a ser; porque todos los cristianos somos simples servidores, no hemos de hacer más que cumplir con nuestro deber. Gozoso deber, pues, el de cumplir con la misión que el Señor nos encomienda a cada uno de nosotros. Sí, queridos hermanos y hermanas. Estamos todos llamados a la santidad; en eso consiste nuestra labor en la tierra, en alcanzar la perfecta unión con Dios. Una llamada que, además, siempre es misionera: tenemos que dar a conocer a los demás la belleza que nosotros hemos conocido en Cristo. Como cristianos, debemos «enseñar todo lo que es conforme a la sana doctrina». En este sentido, hago mía ahora también esta exhortación de san León Magno, cuya memoria litúrgica hoy celebramos y a cuya protección me encomiendo: «Reconoce, oh cristiano, tu dignidad, pues participas de la divina naturaleza, y no quieras volver a la antigua vileza con una vida depravada. Recuerda de qué cabeza y de qué cuerpo eres miembro. Ten presente que habiendo sido arrancado del poder de las tinieblas has sido transportado a la luz y al reino de Dios». No hay mejor modo de enseñar que dando ejemplo con la propia vida, pues «el mundo espera de nosotros un compromiso de vida y un testimonio de oración». Esto exige una adhesión total a Jesucristo, sin fisuras. Este es el testimonio de los santos y es algo que nos hace vivir con esperanza, aún en medio de la dificultad. Hoy, desde Córdoba, centro geográfico del ",
+      "content_zh": "",
+      "image": "https://www.4semanas.com/wp-content/uploads/2026/11/LEONXVIENCORDOBA.jpg",
+      "author": "4semanas.com",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证",
+        "祷告"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:31.572158",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "4semanas.com",
+        "story_score": 7
+      },
+      "id": "8b7e5669bcdcd516"
     },
     {
       "title": "San León Magno : el Papa que defendió la fe y la civilización cristiana – INFOVATICANA",
@@ -2461,7 +2634,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.181549",
+      "fetched_at": "2026-11-12T00:43:02.474101",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -2498,7 +2671,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128573",
+      "fetched_at": "2026-11-12T00:43:03.810875",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2535,7 +2708,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216280",
+      "fetched_at": "2026-11-12T00:43:03.862971",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -2573,7 +2746,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:26:09.247671",
+      "fetched_at": "2026-11-12T00:43:38.997915",
       "extra": {
         "provider": "google_news",
         "query": "missionary Africa testimony",
@@ -2584,6 +2757,43 @@
         "domain": "news.google.com"
       },
       "id": "5b37a39f080471f4"
+    },
+    {
+      "title": "[간증] 받은 은혜를 다시 흘려보내는 삶 : 오피니언 : 미주 종교신문1위",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQbnZJdUV1RG5KcWJIc0lkeWtHaVFiUWN2amNmMUROaUJxS1d1TVJ1VWZOT3VhMFM0NjA2RVBWbWw4Qzh2dU5uTEpWdjVXb3RfMHFJSlV3OEQ3bFM3b2FVeUxnLURhNU9mSkJ2bVkxd1VfM1E5dmRINTVuNFpCMTB5THo1VFdzTERkRGk0dHNzdmV1eVBiaXQ3VVhGNnNxRXJaWENaUC1zWHhZNy1IN2xiNzdJQlZ3TGhrdUtKMHdWdVdVdEtTR2FUVlNrSDV6Rk5aX3JyZkxNSVdzYU8yTW43WWhjcy1Id0xsTG04UXVNNUZFb1VsRmM3NUtkalBoTjlxSVRmM2dpZmREZk5DZlZ3S1ZyQjhBRzl0bHJQWmZMYzktUlV2MFdFZ25n?oc=5",
+      "category": "missionary",
+      "source": "韩国宣教士故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-17",
+      "summary": "[간증] 받은 은혜를 다시 흘려보내는 삶 : 오피니언 : 미주 종교신문1위 Christianity Daily",
+      "summary_zh": "【见证】《脱落的恩典》回传：观点：《美洲基督教日报》第一宗教报纸",
+      "title_zh": "【见证】脱离生命的恩典回归：观点：美洲排名第一的宗教报纸",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Christianity Daily",
+      "tags": [
+        "亚洲",
+        "宣教士故事",
+        "见证"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.362805",
+      "extra": {
+        "provider": "google_news",
+        "query": "선교사 간증 이야기",
+        "publisher": "Christianity Daily",
+        "google_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQbnZJdUV1RG5KcWJIc0lkeWtHaVFiUWN2amNmMUROaUJxS1d1TVJ1VWZOT3VhMFM0NjA2RVBWbWw4Qzh2dU5uTEpWdjVXb3RfMHFJSlV3OEQ3bFM3b2FVeUxnLURhNU9mSkJ2bVkxd1VfM1E5dmRINTVuNFpCMTB5THo1VFdzTERkRGk0dHNzdmV1eVBiaXQ3VVhGNnNxRXJaWENaUC1zWHhZNy1IN2xiNzdJQlZ3TGhrdUtKMHdWdVdVdEtTR2FUVlNrSDV6Rk5aX3JyZkxNSVdzYU8yTW43WWhjcy1Id0xsTG04UXVNNUZFb1VsRmM3NUtkalBoTjlxSVRmM2dpZmREZk5DZlZ3S1ZyQjhBRzl0bHJQWmZMYzktUlV2MFdFZ25n?oc=5",
+        "resolved": false,
+        "story_score": 8,
+        "domain": "news.google.com"
+      },
+      "id": "29e650de5a92ca3b"
     },
     {
       "title": "Sister Oaks and her friend reflect on 22 years spreading faith through ‘testimony gloves’",
@@ -2623,6 +2833,42 @@
       "id": "17b5ef477a30a22f"
     },
     {
+      "title": "Trilogi Buku Pendidikan Papua Diluncurkan, Kisahkan Dedikasi Guru Perintis dan Misionaris Pedalaman",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZVlWd0l1clpnN1BuSk8xQ1dveVRhT01lcjBUSTBFU2kwekVJQjF3UU9ZdHFYVW5vOUNMNVh6OWZsbmxBR2s3LXhRR1ZUeDlkdFljTThGaVpmdFlQMHozQS1lS0ljdWxHS1lRTGp5UmZPUTZVdTIycWZpc01SS19xNXN0TDdmcWZRSUpkcEJDdnhFalowRFVlTkZTX21vcFM1STNReW9SWGdJRXE5TDFBOUlEWWVILXhmeG5DNkttSHJsbFN0NWc4WUg3TzJzWE1oUXFJXzJ3b3kzRm8?oc=5",
+      "category": "missionary",
+      "source": "印尼与东南亚见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-03",
+      "summary": "Trilogi Buku Pendidikan Papua Diluncurkan, Kisahkan Dedikasi Guru Perintis dan Misionaris Pedalaman Surya.co.id",
+      "summary_zh": "《巴布亚教育三部曲》出版，讲述先驱教师和苏拉亚偏远地区传教士的奉献精神。Surya.co.id",
+      "title_zh": "巴布亚教育三部曲书籍发布，讲述先驱教师和内地传教士的奉献精神",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Surya.co.id",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.662574",
+      "extra": {
+        "provider": "google_news",
+        "query": "kesaksian misionaris kisah",
+        "publisher": "Surya.co.id",
+        "google_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZVlWd0l1clpnN1BuSk8xQ1dveVRhT01lcjBUSTBFU2kwekVJQjF3UU9ZdHFYVW5vOUNMNVh6OWZsbmxBR2s3LXhRR1ZUeDlkdFljTThGaVpmdFlQMHozQS1lS0ljdWxHS1lRTGp5UmZPUTZVdTIycWZpc01SS19xNXN0TDdmcWZRSUpkcEJDdnhFalowRFVlTkZTX21vcFM1STNReW9SWGdJRXE5TDFBOUlEWWVILXhmeG5DNkttSHJsbFN0NWc4WUg3TzJzWE1oUXFJXzJ3b3kzRm8?oc=5",
+        "resolved": false,
+        "story_score": 4,
+        "domain": "news.google.com"
+      },
+      "id": "69c15d9833f47795"
+    },
+    {
       "title": "CGNTV ‘더 뉴 하늘빛향기’ 출연 조원권 장로, 40년 교육선교 간증...‘흥미진진, 감동’",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5Zm04aUtSVV9uUHV4a3FDdC1PNTFaZ1RfSzZneEpBZVdSRXVydTk1MWl0alRCMVpISkdaZ1RPRFV2ZnpFS0JjY19ld3psSnpIU3BEaTBKdEYyTlItQ2JnbVRKdEVwS2FW0gFsQVVfeXFMUHh5X1dPZnhvUkZWVFhZXzZoZnVXUldGYVpzVjJrLV9tR0pOa3hxRnpscWxtcWhUeElpbEZhdm4zc3paQTdNc2dYMnhBZ2hHVmlwTkNJaVZvMWRkaU1TLTNEaG5tYVhJeWtSOWdO?oc=5",
       "category": "missionary",
@@ -2647,7 +2893,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786511",
+      "fetched_at": "2026-11-12T00:43:03.362941",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -2658,6 +2904,43 @@
         "domain": "news.google.com"
       },
       "id": "17a3e38cf05bde4e"
+    },
+    {
+      "title": "From Muslim Refugee to Catholic Priest and Other Beautiful Conversion Stories - ZENIT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWk0xRWR3NS0wR2dEejlxRTR3QjJmVXViWkM5Ykk1SVVLYlY1dVVLR3YwNGlaU1p5QWpaZG5RR1F3M2FLMGFKRDhDek5zS1luQVoyVUlFWWdVb29SdEp1NlBFd0I2SXZHdkxpcHJOQzhyYmxrc0xnQ19vTnFZOTNTamhyUUh5MThEcUdWWW1fZXRNdEJLeTlVWFplWFNqMWktMy0zSUdkSDZUSlE?oc=5",
+      "category": "lay",
+      "source": "GDELT · 全球信主见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-07-15",
+      "summary": "From Muslim Refugee to Catholic Priest and Other Beautiful Conversion Stories ZENIT - English",
+      "summary_zh": "从穆斯林难民到天主教神父，以及其他动人的皈依故事ZENIT - 英文",
+      "title_zh": "从穆斯林难民到天主教神父，以及其他动人的皈依故事——ZENIT",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "English",
+      "tags": [
+        "全球",
+        "平凡人的见证",
+        "见证"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "全球",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:04.219854",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian testimony conversion story",
+        "publisher": "English",
+        "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWk0xRWR3NS0wR2dEejlxRTR3QjJmVXViWkM5Ykk1SVVLYlY1dVVLR3YwNGlaU1p5QWpaZG5RR1F3M2FLMGFKRDhDek5zS1luQVoyVUlFWWdVb29SdEp1NlBFd0I2SXZHdkxpcHJOQzhyYmxrc0xnQ19vTnFZOTNTamhyUUh5MThEcUdWWW1fZXRNdEJLeTlVWFplWFNqMWktMy0zSUdkSDZUSlE?oc=5",
+        "resolved": false,
+        "story_score": 8,
+        "domain": "news.google.com"
+      },
+      "id": "cdbeb57083b88080"
     },
     {
       "title": "De monaguillo católico a misionero: una conmovedora historia de conversión",
@@ -2684,7 +2967,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.215888",
+      "fetched_at": "2026-11-12T00:43:03.862499",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -2723,7 +3006,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216034",
+      "fetched_at": "2026-11-12T00:43:03.862684",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -2761,7 +3044,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128975",
+      "fetched_at": "2026-11-12T00:43:03.811401",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2772,6 +3055,42 @@
         "domain": "news.google.com"
       },
       "id": "379eaba0a0b90150"
+    },
+    {
+      "title": "Sala das Graças preserva histórias de fé, esperança e devoção - Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0dRUlN0MVRFd0wta3prS01BNkg3am1PaUZzTlNpZThOYU5xd3dab3RYNzNuanNkODRzUWRPUkVnU2VoNjQ0Ynh3dmxuNlJSbWZ5MDlCanQ4N1o2VEM0SG9ldWhhSFpTN2NDellIbkZTcVRzNW5Ja2lDUUtibU5DYmRURmtFYXdXVjFMY3FhaWxHcjhYRXNvQ2dmQ0NTZjJkYTViV1BlNVI?oc=5",
+      "category": "lay",
+      "source": "巴西信仰见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-05-28",
+      "summary": "Sala das Graças preserva histórias de fé, esperança e devoção Notícias - Canção Nova",
+      "summary_zh": "Sala das Graças保留了信仰、希望和奉献的故事新闻- Canção Nova",
+      "title_zh": "《恩典之屋》保留了信仰、希望和奉献的故事-新闻",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Canção Nova",
+      "tags": [
+        "拉美",
+        "平凡人的见证"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.810141",
+      "extra": {
+        "provider": "google_news",
+        "query": "testemunho missionário Brasil história de fé",
+        "publisher": "Canção Nova",
+        "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0dRUlN0MVRFd0wta3prS01BNkg3am1PaUZzTlNpZThOYU5xd3dab3RYNzNuanNkODRzUWRPUkVnU2VoNjQ0Ynh3dmxuNlJSbWZ5MDlCanQ4N1o2VEM0SG9ldWhhSFpTN2NDellIbkZTcVRzNW5Ja2lDUUtibU5DYmRURmtFYXdXVjFMY3FhaWxHcjhYRXNvQ2dmQ0NTZjJkYTViV1BlNVI?oc=5",
+        "resolved": false,
+        "story_score": 9,
+        "domain": "news.google.com"
+      },
+      "id": "234ec285b8384fc1"
     },
     {
       "title": "Creer y sobrevivir: historias de fe en territorios donde ser cristiano es un riesgo",
@@ -2834,7 +3153,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216149",
+      "fetched_at": "2026-11-12T00:43:03.862833",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -2872,7 +3191,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.535714",
+      "fetched_at": "2026-11-12T00:43:04.340935",
       "extra": {
         "provider": "google_news",
         "query": "Ukraine Christian testimony story church",
@@ -2947,7 +3266,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216399",
+      "fetched_at": "2026-11-12T00:43:03.863119",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -2984,7 +3303,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248394",
+      "fetched_at": "2026-11-12T00:43:04.055818",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -3020,7 +3339,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845107",
+      "fetched_at": "2026-11-12T00:43:03.662062",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -3031,6 +3350,44 @@
         "domain": "news.google.com"
       },
       "id": "3f21a37dff8c411a"
+    },
+    {
+      "title": "Pakistani Christian gives testimony of persecution in front of King Charles",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEFHekoxN1liVlRJYzk1Tnl3amx2VHJvLWQ3YjBWUnpQMEYwWEo1T1lOaDRqVlUzdEExT2Q3ZnNFN0VIeDJwUWZVa0tWRl94T0RFU21USEQ1WEloWmtqMzRtUXdNYUNSUjBoLWtIYnlaWDB1NFc4eGx2amJ2Z0EtVkhQaTVEMHNuV3BtQzFhOF9HUjAtbVBmMVRfMmZRNlE2dlZUeTZSMnk2dEhXWTlkYQ?oc=5",
+      "category": "trial",
+      "source": "GDELT · 受逼迫教会",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2025-12-12",
+      "summary": "Pakistani Christian gives testimony of persecution in front of King Charles www.christiantoday.com",
+      "summary_zh": "巴基斯坦基督徒在查尔斯国王面前作证遭受迫害 www.christiantoday.com",
+      "title_zh": "巴基斯坦基督徒在查尔斯国王面前作证遭受迫害",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "www.christiantoday.com",
+      "tags": [
+        "亚洲",
+        "患难中的信心",
+        "见证",
+        "逼迫"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:48.621386",
+      "extra": {
+        "provider": "google_news",
+        "query": "persecuted Christian testimony",
+        "publisher": "www.christiantoday.com",
+        "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEFHekoxN1liVlRJYzk1Tnl3amx2VHJvLWQ3YjBWUnpQMEYwWEo1T1lOaDRqVlUzdEExT2Q3ZnNFN0VIeDJwUWZVa0tWRl94T0RFU21USEQ1WEloWmtqMzRtUXdNYUNSUjBoLWtIYnlaWDB1NFc4eGx2amJ2Z0EtVkhQaTVEMHNuV3BtQzFhOF9HUjAtbVBmMVRfMmZRNlE2dlZUeTZSMnk2dEhXWTlkYQ?oc=5",
+        "resolved": false,
+        "story_score": 6,
+        "domain": "news.google.com"
+      },
+      "id": "1253f605a2b463b8"
     },
     {
       "title": "Cristãos perseguidos na África dão testemunho de uma fé inabalável",
@@ -3059,7 +3416,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:31.978394",
+      "fetched_at": "2026-11-12T00:43:02.295403",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -3079,8 +3436,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2025-11-15",
       "summary": "【早稲田大学歴史館】早稲田大学・美濃加茂市 文化交流事業 共催展「美濃のキリシタン 秘められた祈りの証し」2025.11.21-12.21 早稲田大学",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "【早稻田大学历史馆】早稻田大学与美浓加茂市文化交流项目联合举办展览“美浓的基督徒：隐秘祈祷的见证”2025年11月21日-12月21日 早稻田大学",
+      "title_zh": "【早稻田大学历史馆】早稻田大学与美浓加茂市文化交流项目联合举办展览“美浓的基督徒：隐藏的祈祷见证”2025年11月21日至12月21日",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -3135,7 +3492,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:31.275238",
+      "fetched_at": "2026-11-12T00:43:02.228345",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -3172,7 +3529,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.504650",
+      "fetched_at": "2026-11-12T00:43:04.168537",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -3209,7 +3566,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.908995",
+      "fetched_at": "2026-11-12T00:43:04.610938",
       "extra": {
         "provider": "google_news",
         "query": "medical missionary Africa hospital story",
@@ -3247,7 +3604,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128351",
+      "fetched_at": "2026-11-12T00:43:03.810602",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -3284,7 +3641,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.091226",
+      "fetched_at": "2026-11-12T00:43:03.748083",
       "extra": {
         "provider": "google_news",
         "query": "Iran Muslim conversion testimony story Jesus",
@@ -3320,7 +3677,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.091489",
+      "fetched_at": "2026-11-12T00:43:00.060127",
       "extra": {
         "provider": "google_news",
         "query": "Christian testimony South Africa story",
@@ -3357,7 +3714,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128241",
+      "fetched_at": "2026-11-12T00:43:03.810462",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -3395,7 +3752,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.622503",
+      "fetched_at": "2026-11-12T00:43:01.513381",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -3432,7 +3789,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.910839",
+      "fetched_at": "2026-11-12T00:43:03.492849",
       "extra": {
         "provider": "google_news",
         "query": "India Christian conversion testimony story",
@@ -3468,7 +3825,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786049",
+      "fetched_at": "2026-11-12T00:43:03.362384",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -3505,7 +3862,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128466",
+      "fetched_at": "2026-11-12T00:43:03.810743",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -3542,7 +3899,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247957",
+      "fetched_at": "2026-11-12T00:43:04.055425",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -3579,7 +3936,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.579879",
+      "fetched_at": "2026-11-12T00:43:02.960868",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -3617,7 +3974,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216818",
+      "fetched_at": "2026-11-12T00:43:03.863676",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -3637,8 +3994,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2024-10-01",
       "summary": "投獄経験した教会開拓者２人が証し 迫害下で急成長するイランの教会 : 国際 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "曾被监禁的两名教会开拓者作见证：伊朗教会于迫害中迅速发展：国际基督教今日报",
+      "title_zh": "曾被监禁的两名教会开拓者作见证：伊朗教会于迫害中迅猛发展：国际",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -3691,7 +4048,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844780",
+      "fetched_at": "2026-11-12T00:43:03.661638",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -3728,7 +4085,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.597389",
+      "fetched_at": "2026-11-12T00:43:04.469272",
       "extra": {
         "provider": "google_news",
         "query": "Pacific islands missionary story testimony",
@@ -3765,7 +4122,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128678",
+      "fetched_at": "2026-11-12T00:43:03.811004",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -3838,7 +4195,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.777534",
+      "fetched_at": "2026-11-12T00:43:04.490020",
       "extra": {
         "provider": "google_news",
         "query": "orphan rescued missionary story",
@@ -3875,7 +4232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216714",
+      "fetched_at": "2026-11-12T00:43:03.863540",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -3912,7 +4269,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:28.613323",
+      "fetched_at": "2026-11-12T00:42:59.523395",
       "extra": {
         "provider": "google_news",
         "query": "missionary Nigeria testimony story",
@@ -3923,6 +4280,42 @@
         "domain": "news.google.com"
       },
       "id": "6d0d7824b2928a7e"
+    },
+    {
+      "title": "김명혁 목사 “살면서 눈물의 감동 안겨줬던 8가지 이야기…” : 오피니언",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTMWJ6WjJuLWJBVGZ2aXNOeVBwaFhXTWdsNjA4THJ3UmdpeWMxRGFxS1IxdXRta09LSk82T0phVGRoV2R5NmhPcXAybi1iN2l3M2dmZmowdw?oc=5",
+      "category": "missionary",
+      "source": "韩国宣教士故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2023-03-22",
+      "summary": "김명혁 목사 “살면서 눈물의 감동 안겨줬던 8가지 이야기…” : 오피니언 크리스천투데이",
+      "summary_zh": "金明赫牧师“人生中让我感动落泪的八个故事……”：观点《基督教今日报》",
+      "title_zh": "金明赫牧师“在人生中让我感动落泪的八个故事……”：观点",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "크리스천투데이",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.363293",
+      "extra": {
+        "provider": "google_news",
+        "query": "선교사 간증 이야기",
+        "publisher": "크리스천투데이",
+        "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTMWJ6WjJuLWJBVGZ2aXNOeVBwaFhXTWdsNjA4THJ3UmdpeWMxRGFxS1IxdXRta09LSk82T0phVGRoV2R5NmhPcXAybi1iN2l3M2dmZmowdw?oc=5",
+        "resolved": false,
+        "story_score": 5,
+        "domain": "news.google.com"
+      },
+      "id": "6a34e21d96faab9f"
     },
     {
       "title": "Algérie : une Église diaconale",
@@ -3949,7 +4342,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.505014",
+      "fetched_at": "2026-11-12T00:43:04.168834",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -3969,8 +4362,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2023-02-20",
       "summary": "薬物依存、売春、望まない妊娠 放蕩の末にキリストに人生を変えられた宣教師の娘の証し : 国際 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "吸毒成瘾、卖淫、意外怀孕 经历放荡生活后被基督改变人生的传教士女儿的见证：国际基督日报",
+      "title_zh": "吸毒成瘾、卖淫、意外怀孕 宣教士的女儿在放荡的生活之后被基督改变了人生的见证：国际",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -4024,7 +4417,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:48.518119",
+      "fetched_at": "2026-11-12T00:43:48.622042",
       "extra": {
         "provider": "google_news",
         "query": "persecuted Christian testimony",
@@ -4096,7 +4489,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844886",
+      "fetched_at": "2026-11-12T00:43:03.661774",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -4133,7 +4526,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128777",
+      "fetched_at": "2026-11-12T00:43:03.811130",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -4170,7 +4563,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.373398",
+      "fetched_at": "2026-11-12T00:43:02.783344",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -4242,7 +4635,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844662",
+      "fetched_at": "2026-11-12T00:43:03.661486",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -4280,7 +4673,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128098",
+      "fetched_at": "2026-11-12T00:43:03.810304",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -4317,7 +4710,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:26:09.248383",
+      "fetched_at": "2026-11-12T00:43:38.998852",
       "extra": {
         "provider": "google_news",
         "query": "missionary Africa testimony",
@@ -4392,7 +4785,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:28.048102",
+      "fetched_at": "2026-11-12T00:42:58.753854",
       "extra": {
         "provider": "google_news",
         "query": "missionary Nigeria testimony story",
@@ -4468,7 +4861,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128877",
+      "fetched_at": "2026-11-12T00:43:03.811276",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -4505,7 +4898,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248599",
+      "fetched_at": "2026-11-12T00:43:04.056184",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -4542,7 +4935,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:31.769847",
+      "fetched_at": "2026-11-12T00:43:02.012705",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -4580,7 +4973,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.805361",
+      "fetched_at": "2026-11-12T00:43:01.758340",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -4618,7 +5011,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:29.855385",
+      "fetched_at": "2026-11-12T00:43:00.655824",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -4655,7 +5048,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786924",
+      "fetched_at": "2026-11-12T00:43:03.363668",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -4731,7 +5124,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:31.016418",
+      "fetched_at": "2026-11-12T00:43:01.989804",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -4769,7 +5162,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.070039",
+      "fetched_at": "2026-11-12T00:43:00.838903",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -4806,7 +5199,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786407",
+      "fetched_at": "2026-11-12T00:43:03.362665",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -4842,7 +5235,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844518",
+      "fetched_at": "2026-11-12T00:43:03.661303",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -4879,7 +5272,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248060",
+      "fetched_at": "2026-11-12T00:43:04.055559",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -4916,7 +5309,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786185",
+      "fetched_at": "2026-11-12T00:43:03.362532",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -4952,7 +5345,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247739",
+      "fetched_at": "2026-11-12T00:43:04.055113",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -4989,7 +5382,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248282",
+      "fetched_at": "2026-11-12T00:43:04.055691",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -5026,7 +5419,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247604",
+      "fetched_at": "2026-11-12T00:43:04.054943",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -5063,7 +5456,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216614",
+      "fetched_at": "2026-11-12T00:43:03.863412",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -5099,7 +5492,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845423",
+      "fetched_at": "2026-11-12T00:43:03.662453",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -5137,7 +5530,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:31.453348",
+      "fetched_at": "2026-11-12T00:43:02.511858",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -5173,7 +5566,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845222",
+      "fetched_at": "2026-11-12T00:43:03.662186",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -5209,7 +5602,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247854",
+      "fetched_at": "2026-11-12T00:43:04.055288",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -5246,7 +5639,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.424107",
+      "fetched_at": "2026-11-12T00:43:04.214657",
       "extra": {
         "provider": "google_news",
         "query": "Christian biography church history story",
@@ -5284,7 +5677,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.450181",
+      "fetched_at": "2026-11-12T00:43:01.289427",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -5320,7 +5713,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845324",
+      "fetched_at": "2026-11-12T00:43:03.662327",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -5356,7 +5749,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844999",
+      "fetched_at": "2026-11-12T00:43:03.661919",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -5376,8 +5769,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2017-08-11",
       "summary": "【追悼】 羽鳥明さんを偲ぶ「病床でも『福音を伝えたい』というスピリット」 東裕之（太平洋放送協会） キリスト新聞社ホームページ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "【悼念】缅怀羽鸟明先生“即使在病榻上也有‘我想传福音’的精神”东裕之（太平洋广播协会）基督教新闻社官网",
+      "title_zh": "【悼念】缅怀羽鸟明先生“即使卧病在床，也‘想要传福音’的精神”东裕之（太平洋广播协会）",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -5429,7 +5822,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216914",
+      "fetched_at": "2026-11-12T00:43:03.863805",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -5467,7 +5860,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.266544",
+      "fetched_at": "2026-11-12T00:43:01.069702",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -5487,8 +5880,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2015-09-30",
       "summary": "インターコープ、第１回世界宣教セミナー開催 ３０人が一度に救われたイラン短期宣教の証しも クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "InterCoop举办首届世界宣教研讨会，分享伊朗短期宣教见证，一次有30人得救——基督教今日报",
+      "title_zh": "国际合作社（InterCoop）举办首届世界宣教研讨会，分享伊朗短期宣教的见证，一次有30人得救",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -5542,7 +5935,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.785869",
+      "fetched_at": "2026-11-12T00:43:03.362181",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -5562,8 +5955,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2012-10-22",
       "summary": "中国宣教の最前線、日本人宣教師が報告 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "日本传教士报道中国宣教最前线《今日基督教》",
+      "title_zh": "日本传教士从中国传教的最前线发来报告",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -5616,7 +6009,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.787124",
+      "fetched_at": "2026-11-12T00:43:03.363812",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -5653,7 +6046,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.579526",
+      "fetched_at": "2026-11-12T00:43:02.960375",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -5673,8 +6066,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2006-08-24",
       "summary": "「キリストの証し人として」 ＨＣＪＢ・尾崎一夫師 : 宣教 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "“作为基督的见证人”HCJB·尾崎一夫牧师：宣教《基督今日报》",
+      "title_zh": "“作为基督的见证人”HCJB·尾崎一夫牧师：宣教",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -5711,8 +6104,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2006-07-12",
       "summary": "ミラノ宣教師内村夫妻の証し 中野キリスト教会「ミラノ宣教の夕べ」 東京 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "米兰传教士内村夫妇的见证 中野基督教会“米兰传教之夜” 东京 基督今日报",
+      "title_zh": "米兰传教士内村夫妇的见证 中野基督教会“米兰传教之夜” 东京",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -5749,8 +6142,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2005-11-28",
       "summary": "腹話術宣教師ラマー氏来日 腹話術世界大会で証し : 宣教 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "腹语传教士拉玛先生访日 在世界腹语大会上作见证：传教 基督日报",
+      "title_zh": "腹语术传教士拉玛先生访日 在腹语术世界大会上作见证：传教",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -5803,7 +6196,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786815",
+      "fetched_at": "2026-11-12T00:43:03.363072",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -5845,7 +6238,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.415102",
+      "fetched_at": "2026-11-12T00:43:04.726874",
       "extra": {
         "feed_type": "rss20",
         "story_score": 18,
@@ -5882,7 +6275,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.918942",
+      "fetched_at": "2026-11-12T00:42:53.946604",
       "extra": {
         "feed_type": "rss20",
         "story_score": 15,
@@ -5918,7 +6311,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:25.438103",
+      "fetched_at": "2026-11-12T00:42:59.515809",
       "extra": {
         "feed_type": "rss20",
         "story_score": 14,
@@ -5954,7 +6347,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.507504",
+      "fetched_at": "2026-11-12T00:43:04.043149",
       "extra": {
         "feed_type": "rss20",
         "story_score": 13,
@@ -5990,7 +6383,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.986019",
+      "fetched_at": "2026-11-12T00:42:59.078110",
       "extra": {
         "feed_type": "rss20",
         "story_score": 12,
@@ -6025,7 +6418,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.589785",
+      "fetched_at": "2026-11-12T00:43:03.046927",
       "extra": {
         "feed_type": "rss20",
         "story_score": 12,
@@ -6062,7 +6455,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.666684",
+      "fetched_at": "2026-11-12T00:42:56.798819",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -6098,7 +6491,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:25.097269",
+      "fetched_at": "2026-11-12T00:42:58.354994",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -6134,7 +6527,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.266521",
+      "fetched_at": "2026-11-12T00:43:00.898138",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -6204,7 +6597,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.285448",
+      "fetched_at": "2026-11-12T00:42:59.620118",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -6241,7 +6634,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:33.479392",
+      "fetched_at": "2026-11-12T00:43:00.974855",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -6277,7 +6670,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.171465",
+      "fetched_at": "2026-11-12T00:43:05.625076",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -6311,7 +6704,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:32.026220",
+      "fetched_at": "2026-11-12T00:43:00.432207",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -6346,7 +6739,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.866649",
+      "fetched_at": "2026-11-12T00:43:01.935455",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -6382,7 +6775,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.602094",
+      "fetched_at": "2026-11-12T00:43:00.587107",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -6416,7 +6809,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128877",
+      "fetched_at": "2026-11-12T00:43:03.811276",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -6453,7 +6846,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248394",
+      "fetched_at": "2026-11-12T00:43:04.055818",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -6491,7 +6884,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216818",
+      "fetched_at": "2026-11-12T00:43:03.863676",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -6566,7 +6959,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247957",
+      "fetched_at": "2026-11-12T00:43:04.055425",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -6586,8 +6979,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2023-02-20",
       "summary": "薬物依存、売春、望まない妊娠 放蕩の末にキリストに人生を変えられた宣教師の娘の証し : 国際 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "吸毒成瘾、卖淫、意外怀孕 经历放荡生活后被基督改变人生的传教士女儿的见证：国际基督日报",
+      "title_zh": "吸毒成瘾、卖淫、意外怀孕 宣教士的女儿在放荡的生活之后被基督改变了人生的见证：国际",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -6641,7 +7034,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786407",
+      "fetched_at": "2026-11-12T00:43:03.362665",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -6677,7 +7070,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247854",
+      "fetched_at": "2026-11-12T00:43:04.055288",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -6697,8 +7090,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2006-07-12",
       "summary": "ミラノ宣教師内村夫妻の証し 中野キリスト教会「ミラノ宣教の夕べ」 東京 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "米兰传教士内村夫妇的见证 中野基督教会“米兰传教之夜” 东京 基督今日报",
+      "title_zh": "米兰传教士内村夫妇的见证 中野基督教会“米兰传教之夜” 东京",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -6751,7 +7144,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786049",
+      "fetched_at": "2026-11-12T00:43:03.362384",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -6788,7 +7181,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786185",
+      "fetched_at": "2026-11-12T00:43:03.362532",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -6825,7 +7218,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.785869",
+      "fetched_at": "2026-11-12T00:43:03.362181",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -6862,7 +7255,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.787124",
+      "fetched_at": "2026-11-12T00:43:03.363812",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -6934,7 +7327,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845222",
+      "fetched_at": "2026-11-12T00:43:03.662186",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -6954,8 +7347,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2005-11-28",
       "summary": "腹話術宣教師ラマー氏来日 腹話術世界大会で証し : 宣教 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "腹语传教士拉玛先生访日 在世界腹语大会上作见证：传教 基督日报",
+      "title_zh": "腹语术传教士拉玛先生访日 在腹语术世界大会上作见证：传教",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -7009,7 +7402,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786511",
+      "fetched_at": "2026-11-12T00:43:03.362941",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -7048,7 +7441,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216034",
+      "fetched_at": "2026-11-12T00:43:03.862684",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -7086,7 +7479,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128098",
+      "fetched_at": "2026-11-12T00:43:03.810304",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -7161,7 +7554,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.215888",
+      "fetched_at": "2026-11-12T00:43:03.862499",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -7198,7 +7591,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248599",
+      "fetched_at": "2026-11-12T00:43:04.056184",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -7235,7 +7628,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216614",
+      "fetched_at": "2026-11-12T00:43:03.863412",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -7255,8 +7648,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2015-09-30",
       "summary": "インターコープ、第１回世界宣教セミナー開催 ３０人が一度に救われたイラン短期宣教の証しも クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "InterCoop举办首届世界宣教研讨会，分享伊朗短期宣教见证，一次有30人得救——基督教今日报",
+      "title_zh": "国际合作社（InterCoop）举办首届世界宣教研讨会，分享伊朗短期宣教的见证，一次有30人得救",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -7293,8 +7686,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2006-08-24",
       "summary": "「キリストの証し人として」 ＨＣＪＢ・尾崎一夫師 : 宣教 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "“作为基督的见证人”HCJB·尾崎一夫牧师：宣教《基督今日报》",
+      "title_zh": "“作为基督的见证人”HCJB·尾崎一夫牧师：宣教",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -7353,7 +7746,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.180610",
+      "fetched_at": "2026-11-12T00:42:57.660237",
       "extra": {
         "feed_type": "rss20",
         "story_score": 17,
@@ -7390,7 +7783,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.451142",
+      "fetched_at": "2026-11-12T00:42:58.186334",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -7424,7 +7817,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.491299",
+      "fetched_at": "2026-11-12T00:42:57.108824",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -7461,7 +7854,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.318441",
+      "fetched_at": "2026-11-12T00:42:57.771408",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -7497,7 +7890,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.968235",
+      "fetched_at": "2026-11-12T00:42:58.786853",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -7533,7 +7926,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.966663",
+      "fetched_at": "2026-11-12T00:43:00.543712",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -7569,7 +7962,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:34.593858",
+      "fetched_at": "2026-11-12T00:43:03.296155",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -7605,7 +7998,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:24.186055",
+      "fetched_at": "2026-11-12T00:42:54.519788",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -7641,7 +8034,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.022118",
+      "fetched_at": "2026-11-12T00:42:57.345163",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -7676,7 +8069,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.917267",
+      "fetched_at": "2026-11-12T00:42:53.944366",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -7712,7 +8105,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:25.385332",
+      "fetched_at": "2026-11-12T00:42:55.388301",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -7781,7 +8174,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128351",
+      "fetched_at": "2026-11-12T00:43:03.810602",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -7818,7 +8211,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786924",
+      "fetched_at": "2026-11-12T00:43:03.363668",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -7838,8 +8231,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2024-10-01",
       "summary": "投獄経験した教会開拓者２人が証し 迫害下で急成長するイランの教会 : 国際 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "曾被监禁的两名教会开拓者作见证：伊朗教会于迫害中迅速发展：国际基督教今日报",
+      "title_zh": "曾被监禁的两名教会开拓者作见证：伊朗教会于迫害中迅猛发展：国际",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -7893,7 +8286,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216714",
+      "fetched_at": "2026-11-12T00:43:03.863540",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -7999,7 +8392,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128975",
+      "fetched_at": "2026-11-12T00:43:03.811401",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -8155,6 +8548,44 @@
       "id": "1e7f4eaf4ec6b02c"
     },
     {
+      "title": "Pakistani Christian gives testimony of persecution in front of King Charles",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEFHekoxN1liVlRJYzk1Tnl3amx2VHJvLWQ3YjBWUnpQMEYwWEo1T1lOaDRqVlUzdEExT2Q3ZnNFN0VIeDJwUWZVa0tWRl94T0RFU21USEQ1WEloWmtqMzRtUXdNYUNSUjBoLWtIYnlaWDB1NFc4eGx2amJ2Z0EtVkhQaTVEMHNuV3BtQzFhOF9HUjAtbVBmMVRfMmZRNlE2dlZUeTZSMnk2dEhXWTlkYQ?oc=5",
+      "category": "trial",
+      "source": "GDELT · 受逼迫教会",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2025-12-12",
+      "summary": "Pakistani Christian gives testimony of persecution in front of King Charles www.christiantoday.com",
+      "summary_zh": "巴基斯坦基督徒在查尔斯国王面前作证遭受迫害 www.christiantoday.com",
+      "title_zh": "巴基斯坦基督徒在查尔斯国王面前作证遭受迫害",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "www.christiantoday.com",
+      "tags": [
+        "亚洲",
+        "患难中的信心",
+        "见证",
+        "逼迫"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:48.621386",
+      "extra": {
+        "provider": "google_news",
+        "query": "persecuted Christian testimony",
+        "publisher": "www.christiantoday.com",
+        "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEFHekoxN1liVlRJYzk1Tnl3amx2VHJvLWQ3YjBWUnpQMEYwWEo1T1lOaDRqVlUzdEExT2Q3ZnNFN0VIeDJwUWZVa0tWRl94T0RFU21USEQ1WEloWmtqMzRtUXdNYUNSUjBoLWtIYnlaWDB1NFc4eGx2amJ2Z0EtVkhQaTVEMHNuV3BtQzFhOF9HUjAtbVBmMVRfMmZRNlE2dlZUeTZSMnk2dEhXWTlkYQ?oc=5",
+        "resolved": false,
+        "story_score": 6,
+        "domain": "news.google.com"
+      },
+      "id": "1253f605a2b463b8"
+    },
+    {
       "title": "The Cross : The Suffering To Which ALL Christians Are Called",
       "url": "https://newswithviews.com/the-cross-the-suffering-to-which-all-christians-are-called/",
       "category": "trial",
@@ -8247,7 +8678,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.535714",
+      "fetched_at": "2026-11-12T00:43:04.340935",
       "extra": {
         "provider": "google_news",
         "query": "Ukraine Christian testimony story church",
@@ -8284,7 +8715,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.091226",
+      "fetched_at": "2026-11-12T00:43:03.748083",
       "extra": {
         "provider": "google_news",
         "query": "Iran Muslim conversion testimony story Jesus",
@@ -8321,7 +8752,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:48.518119",
+      "fetched_at": "2026-11-12T00:43:48.622042",
       "extra": {
         "provider": "google_news",
         "query": "persecuted Christian testimony",
@@ -8357,7 +8788,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.263722",
+      "fetched_at": "2026-11-12T00:43:01.510137",
       "extra": {
         "feed_type": "rss20",
         "story_score": 14,
@@ -8393,7 +8824,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.361898",
+      "fetched_at": "2026-11-12T00:43:01.550865",
       "extra": {
         "feed_type": "rss20",
         "story_score": 13,
@@ -8426,7 +8857,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.355447",
+      "fetched_at": "2026-11-12T00:43:13.203397",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -8460,7 +8891,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.761076",
+      "fetched_at": "2026-11-12T00:43:00.141957",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -8493,7 +8924,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.035907",
+      "fetched_at": "2026-11-12T00:42:58.107450",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -8563,7 +8994,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.922618",
+      "fetched_at": "2026-11-12T00:42:53.951309",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -8599,7 +9030,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.924548",
+      "fetched_at": "2026-11-12T00:42:53.953810",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -8632,7 +9063,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.436103",
+      "fetched_at": "2026-11-12T00:42:58.224614",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -8664,7 +9095,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.014764",
+      "fetched_at": "2026-11-12T00:43:00.014726",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -8697,7 +9128,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.197630",
+      "fetched_at": "2026-11-12T00:42:58.420230",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -8731,7 +9162,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.720954",
+      "fetched_at": "2026-11-12T00:43:04.568237",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -8767,7 +9198,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.929680",
+      "fetched_at": "2026-11-12T00:42:53.960709",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -8801,7 +9232,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.925277",
+      "fetched_at": "2026-11-12T00:42:53.954748",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -8834,7 +9265,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.805365",
+      "fetched_at": "2026-11-12T00:42:59.108014",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -8867,7 +9298,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.581236",
+      "fetched_at": "2026-11-12T00:42:59.226145",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -8934,7 +9365,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.424107",
+      "fetched_at": "2026-11-12T00:43:04.214657",
       "extra": {
         "provider": "google_news",
         "query": "Christian biography church history story",
@@ -8974,7 +9405,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.161362",
+      "fetched_at": "2026-11-12T00:42:56.091609",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -9007,7 +9438,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.813857",
+      "fetched_at": "2026-11-12T00:42:58.498155",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -9043,7 +9474,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.837975",
+      "fetched_at": "2026-11-12T00:42:57.079744",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -9080,7 +9511,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:24.521234",
+      "fetched_at": "2026-11-12T00:42:55.549925",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -9115,7 +9546,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:25.818825",
+      "fetched_at": "2026-11-12T00:42:55.795537",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -9150,7 +9581,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.686796",
+      "fetched_at": "2026-11-12T00:42:58.557898",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -9186,7 +9617,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:33.716618",
+      "fetched_at": "2026-11-12T00:43:02.642866",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -9221,7 +9652,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.126045",
+      "fetched_at": "2026-11-12T00:42:56.512449",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -9256,7 +9687,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:31.978394",
+      "fetched_at": "2026-11-12T00:43:02.295403",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -9294,7 +9725,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.070039",
+      "fetched_at": "2026-11-12T00:43:00.838903",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -9366,7 +9797,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:31.016418",
+      "fetched_at": "2026-11-12T00:43:01.989804",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -9404,7 +9835,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.266544",
+      "fetched_at": "2026-11-12T00:43:01.069702",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -9441,7 +9872,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.579879",
+      "fetched_at": "2026-11-12T00:43:02.960868",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -9478,7 +9909,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.373398",
+      "fetched_at": "2026-11-12T00:43:02.783344",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -9515,7 +9946,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:28.048102",
+      "fetched_at": "2026-11-12T00:42:58.753854",
       "extra": {
         "provider": "google_news",
         "query": "missionary Nigeria testimony story",
@@ -9553,7 +9984,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.622503",
+      "fetched_at": "2026-11-12T00:43:01.513381",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -9627,7 +10058,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:31.453348",
+      "fetched_at": "2026-11-12T00:43:02.511858",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -9665,7 +10096,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.450181",
+      "fetched_at": "2026-11-12T00:43:01.289427",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -9702,7 +10133,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:26:09.248383",
+      "fetched_at": "2026-11-12T00:43:38.998852",
       "extra": {
         "provider": "google_news",
         "query": "missionary Africa testimony",
@@ -9777,7 +10208,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:31.769847",
+      "fetched_at": "2026-11-12T00:43:02.012705",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -9815,7 +10246,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.805361",
+      "fetched_at": "2026-11-12T00:43:01.758340",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -9853,7 +10284,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:29.855385",
+      "fetched_at": "2026-11-12T00:43:00.655824",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -9889,7 +10320,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.181549",
+      "fetched_at": "2026-11-12T00:43:02.474101",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -9925,7 +10356,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:30.091489",
+      "fetched_at": "2026-11-12T00:43:00.060127",
       "extra": {
         "provider": "google_news",
         "query": "Christian testimony South Africa story",
@@ -9962,7 +10393,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:28.613323",
+      "fetched_at": "2026-11-12T00:42:59.523395",
       "extra": {
         "provider": "google_news",
         "query": "missionary Nigeria testimony story",
@@ -10001,7 +10432,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.052654",
+      "fetched_at": "2026-11-12T00:42:56.880748",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -10036,7 +10467,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.907430",
+      "fetched_at": "2026-11-12T00:42:59.565887",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -10071,13 +10502,81 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.225496",
+      "fetched_at": "2026-11-12T00:42:56.281151",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
         "domain": "assistnews.net"
       },
       "id": "2a7509a26f5b5d21"
+    },
+    {
+      "title": "Adicciones , vocación y solidaridad : los testimonios que escuchó León XIV en Palermo - Un joven que logró salir de las adicciones , una docente comprometida con niños vulnerables , una correntina que busca consagrar su vida a Dios y un periodista de...",
+      "url": "https://www.elliberal.com.ar/nota/97631/2026/11/adicciones-vocacion-y-solidaridad--los-testimonios-que-escucho-leon-xiv-en-palermo",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-11",
+      "summary": "La vigilia juvenil que encabezó el papa León XIV en el Monumento de los Españoles, en el barrio porteño de Palermo, tuvo momentos de profunda emoción. Cuatro jóvenes subieron al escenario para contar ",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "La vigilia juvenil que encabezó el papa León XIV en el Monumento de los Españoles, en el barrio porteño de Palermo, tuvo momentos de profunda emoción. Cuatro jóvenes subieron al escenario para contar sus historias, poner en palabras las dificultades que atravesaron y explicar cómo la fe transformó sus vidas. Cristian, Agustina, Guadalupe y Franco llegaron desde distintas realidades, pero coincidieron en un mismo mensaje: la posibilidad de encontrar un nuevo camino a partir del acompañamiento, el compromiso con los demás y la confianza en Dios. También te puede interesar: Sus testimonios permitieron acercar al Santo Padre las inquietudes de una generación que enfrenta desafíos sociales, personales y espirituales. Cristian: de vivir en la calle a encontrar una oportunidad para empezar de nuevo Uno de los relatos más conmovedores fue el de Cristian, quien habló abiertamente sobre su lucha contra las adicciones y las consecuencias que el consumo problemático tuvo en su vida. El joven recordó que llegó a alejarse de sus seres queridos y terminó viviendo en la calle, en una situación en la que su principal preocupación era conseguir drogas. \"Mi prioridad era el consumo. La droga me aisló de mi familia\", contó frente a León XIV. Su recuperación comenzó cuando encontró refugio en el Hogar de Cristo de Moreno Sur, donde recibió contención, alimento y un lugar donde dormir. Allí, según relató, pudo recuperar la esperanza y comenzar a reconstruir su vida. \"Hoy estoy de pie gracias a la familia grande del Hogar de Cristo, de Moreno Sur, que un día me recibió sin preguntarme quién era, me dio un abrazo y me invitó un plato de comida caliente y una cama para dormir. Yo estaba en la calle\", expresó. Cristian también destacó la importancia de la espiritualidad para afrontar los momentos más difíciles de su recuperación: \"Cuando me siento desbordado escucho a Jesús y la paz vuelve\". Agustina: dejó Buenos Aires para acompañar a chicos en Viedma La historia de Agustina estuvo marcada por su vocación de servicio. Nacida en Buenos Aires, es maestra de nivel primario y desde los 16 años participa en iniciativas de voluntariado y apoyo escolar. Hace un año tomó una decisión importante: trasladarse a Viedma, Río Negro, para continuar trabajando con niños que atraviesan situaciones de vulnerabilidad. Durante su testimonio, explicó que acompañar a quienes más lo necesitan también implica enfrentarse a situaciones que exceden las posibilidades de cualquier persona. La frustración aparece cuando, a pesar del esfuerzo y la dedicación, no siempre se consiguen los resultados esperados. Por eso, aprovechó el encuentro para plantearle una inquietud al Papa: \"Santo Padre, ¿cómo afrontar la frustración y nuestros límites cuando no logramos acompañar a los excluidos como quisiéramos? ¿Cómo seguir caminando junto a ellos cuando sentimos que lo que hacemos no alcanza?\". Su pregunta abrió un espacio de reflexión sobre la importancia de perseverar en las tareas solidarias, incluso cuando los frutos del trabajo no se manifiestan de inmediato. Guadalupe: una joven correntina que busca consagrar su vida a Dios Desde Corrientes llegó Guadalupe, quien atraviesa una etapa de formación para ingresar a la congregación de las Hermanas de la Presentación de la Virgen María de Granada. Frente a León XIV, recordó la influencia que tuvo su familia en la construcción de su fe. Sus padres le enseñaron desde pequeña que las capacidades y oportunidades que recibe cada persona deben ponerse al servicio de los demás. \"Mis padres me enseñaron que los dones que cada uno tiene no se deben guardar, sino dar a los demás\", relató. Sin embargo, también reconoció que el camino de discernimiento de su vocación estuvo acompañado por dudas y momentos de incertidumbre. En particular, habló del peso que pueden tener las opiniones ajenas al momento de tomar decisiones personales. \"Empezaron a pesar en mí las palabras de los demás\", recordó, al compartir las dificultades que debió afrontar mientras ",
+      "content_zh": "",
+      "image": "https://www.elliberal.com.ar/img/publicaciones/2026/11/10/alta/2229290.webp",
+      "author": "elliberal.com.ar",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:28.582434",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "elliberal.com.ar",
+        "story_score": 10
+      },
+      "id": "481f2ee3363c4388"
+    },
+    {
+      "title": "No permitan que nada ni nadie les arrebate la libertad , pidió el Papa ante un millón de jóvenes « Diario La Capital de Mar del Plata",
+      "url": "https://www.lacapitalmdp.com/no-permitan-que-nada-ni-nadie-les-arrebate-la-libertad-pidio-el-papa-ante-un-millon-de-jovenes/",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-11",
+      "summary": "âNo permitan que nada ni nadie les arrebate la libertadâ, pidiÃ³ el Papa ante un millÃ³n de jÃ³venes En una noche histÃ³rica y conmovedora, LeÃ³n XIV protagonizÃ³ una multitudinaria vigilia en el cora",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "âNo permitan que nada ni nadie les arrebate la libertadâ, pidiÃ³ el Papa ante un millÃ³n de jÃ³venes En una noche histÃ³rica y conmovedora, LeÃ³n XIV protagonizÃ³ una multitudinaria vigilia en el corazÃ³n de Buenos Aires. El PontÃfice lanzÃ³ fuertes advertencias sobre las redes sociales, el dinero, las drogas, la pornografÃa y la obsesiÃ³n por el Ã©xito y cuestionÃ³ los nuevos Ãdolos de la sociedad. Fue una de esas noches destinadas a ocupar un lugar especial en la memoria de la Iglesia argentina. MÃ¡s de un millÃ³n de personas, en su inmensa mayorÃa jÃ³venes, se congregaron esta noche en el Monumento a los EspaÃ±oles, en el barrio porteÃ±o de Palermo, para participar de un encuentro histÃ³rico y profundamente conmovedor con el papa LeÃ³n XIV. La multitud, las ovaciones, las canciones, las emociones y los testimonios personales construyeron el escenario de una vigilia que se convirtiÃ³ en uno de los momentos mÃ¡s impactantes de la visita del PontÃfice a la Argentina. LeÃ³n XIV hablÃ³ de las preocupaciones de una generaciÃ³n atravesada por la tecnologÃa, las presiones sociales, las adicciones, la necesidad de reconocimiento y la incertidumbre frente al futuro. Y lo hizo con definiciones contundentes, que por momentos constituyeron una severa advertencia sobre los peligros de una sociedad que, segÃºn su mirada, confunde con frecuencia la felicidad con el consumo, la popularidad y el placer inmediato. âHay tambiÃ©n quienes hacen negocio ofreciendo placeres que terminan por esclavizarnos, como la pornografÃa y diversas sustanciasâ, afirmÃ³ el Papa, en uno de los pasajes mÃ¡s fuertes de su intervenciÃ³n. Cuando LeÃ³n XIV avanzÃ³ en el papamÃ³vil, los saludos y las ovaciones acompaÃ±aron su recorrido. El Papa se detuvo para bendecir a varios bebÃ©s y respondiÃ³ con gestos de afecto a quienes buscaban acercarse. La vigilia, que incluyÃ³ mÃºsica, oraciÃ³n y testimonios, tuvo desde el comienzo una atmÃ³sfera de celebraciÃ³n y recogimiento. La escena adquiriÃ³ una dimensiÃ³n singular cuando se encendieron las velas, un gesto que el propio PontÃfice utilizÃ³ para introducir el contenido de su reflexiÃ³n. El fuego, explicÃ³, representa el amor de Cristo, capaz de purificar el corazÃ³n y transformar la vida de las personas. Fue el punto de partida para un discurso en el que combinÃ³ referencias bÃblicas, advertencias sobre los riesgos contemporÃ¡neos y una invitaciÃ³n a recuperar la libertad interior. Los nuevos Ãdolos de la sociedad LeÃ³n XIV eligiÃ³ un episodio del Antiguo Testamento para explicar los desafÃos que enfrentan los jÃ³venes. RecordÃ³ la historia de AnanÃas, AzarÃas y Misael, los tres jÃ³venes que se negaron a adorar la estatua de oro levantada por el rey Nabucodonosor, aun cuando esa decisiÃ³n podÃa costarles la vida. La imagen de aquellos muchachos que permanecieron de pie frente al poder sirviÃ³ para establecer una comparaciÃ³n con el presente. El Papa sostuvo que los Ãdolos no desaparecieron, sino que adquirieron nuevas formas. Ya no se trata necesariamente de estatuas de oro, sino de modelos de Ã©xito, consumo y reconocimiento social que pueden terminar condicionando la libertad de las personas. âTambiÃ©n hoy se levantan Ãdolos que reclaman nuestra adoraciÃ³nâ, advirtiÃ³. En su enumeraciÃ³n incluyÃ³ el Ã©xito a cualquier precio, el dinero, la obsesiÃ³n por la apariencia, la popularidad y la bÃºsqueda desenfrenada del placer. La advertencia adquiriÃ³ especial intensidad cuando se refiriÃ³ al comportamiento de las personas en las redes sociales. SeÃ±alÃ³ que la necesidad de aprobaciÃ³n puede llevar a mentir, traicionar o humillar a otros, mientras que la envidia y el egoÃsmo pueden deteriorar los vÃnculos humanos. La referencia a la pornografÃa y las sustancias adictivas apareciÃ³ dentro de esa misma reflexiÃ³n sobre los negocios que explotan las debilidades humanas. El PontÃfice pidiÃ³ a los jÃ³venes que no entreguen su libertad a esas formas de dependencia y reivindicÃ³ la capacidad de resistir las presiones del entorno.",
+      "content_zh": "",
+      "image": "http://storage.lacapitalmdp.com/2026/11/noche1-1024x682.jpg",
+      "author": "lacapitalmdp.com",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:26.960974",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "lacapitalmdp.com",
+        "story_score": 8
+      },
+      "id": "d9ca5efb1d3c385f"
     },
     {
       "title": "中国宣教の最前線、日本人宣教師が報告",
@@ -10087,8 +10586,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2012-10-22",
       "summary": "中国宣教の最前線、日本人宣教師が報告 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "日本传教士报道中国宣教最前线《今日基督教》",
+      "title_zh": "日本传教士从中国传教的最前线发来报告",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -10117,6 +10616,110 @@
       "id": "882349a4e5857f0b"
     },
     {
+      "title": "León XIV a la juventud argentina : Déjense transformar por Cristo",
+      "url": "https://www.aica.org/noticia-leon-xiv-a-los-jovenes-dejense-transformar-por-cristo",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-11",
+      "summary": "Ante 1.200.000 personas en Palermo, el Papa los convocó a vivir la fe sin miedo, comenzar de nuevo y llevar el Evangelio a las periferias. \"Todos hacia Cristo, todos con Cristo, todos como Cristo\". \"T",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "Ante 1.200.000 personas en Palermo, el Papa los convocó a vivir la fe sin miedo, comenzar de nuevo y llevar el Evangelio a las periferias. \"Todos hacia Cristo, todos con Cristo, todos como Cristo\". \"Todos hacia Cristo, todos con Cristo, todos como Cristo\". Con esta convocatoria, León XIV invitó a 1.200.000 jóvenes reunidos en el Monumento de los Españoles, en el barrio porteño de Palermo, a dejarse transformar por Jesús y hacer de sus vidas un testimonio de amor y misericordia. \"¡Déjense transformar por Cristo! No tengan miedo de acercarse al sacramento de la Reconciliación\", les pidió durante un encuentro marcado por la emoción, la alegría y la esperanza, en el que también escuchó historias de recuperación de las adicciones, discernimiento vocacional y compromiso con los más necesitados. La multitud llegó desde distintos puntos del país para participar del encuentro, que incluyó presentaciones musicales, momentos de oración y un recorrido del pontífice en papamóvil por la Avenida del Libertador. Antes de su discurso, cuatro jóvenes compartieron sus experiencias y otros dos plantearon preguntas sobre las dificultades del servicio a los más vulnerables y la integración de la fe con el trabajo y la vida cotidiana. Una Iglesia donde todos tienen lugar León XIV retomó las palabras de Francisco durante la Jornada Mundial de la Juventud de Lisboa, en 2023, cuando el Papa argentino insistió en que en la Iglesia hay lugar para \"todos, todos, todos\". A partir de aquella expresión, desarrolló tres dimensiones de la vida cristiana: \"Todos hacia Cristo, todos con Cristo, todos como Cristo\". El pontífice se dirigió especialmente a quienes crecieron lejos de la fe, dejaron de rezar, se alejaron de la Iglesia o fueron heridos por personas que debían acompañarlos. \"A cada uno quisiera decirle: ¡Hay un lugar para ti en la Iglesia! Con tus preguntas, tus heridas y tu historia. Esta es también tu casa\", afirmó. Y agregó: \"No tienes que fingir que todo está bien ni esperar a tener la vida resuelta para acercarte\". Para explicar esa posibilidad de comenzar de nuevo, recordó el encuentro de Jesús con Zaqueo y retomó una pregunta que había cambiado la historia vocacional de Guadalupe, una de las jóvenes que dio su testimonio: \"¿Quién te dijo que ya es tarde?\". \"Nadie ha caído tan bajo que Cristo no pueda levantarlo\", aseguró, al pedir comunidades cristianas con las puertas abiertas, capaces de recibir, auxiliar y acompañar. Permanecer de pie ante los ídolos de nuestro tiempo A partir del relato bíblico de los tres jóvenes que se negaron a adorar la estatua de oro del rey Nabucodonosor, León XIV advirtió sobre las falsas promesas que pueden condicionar la vida de las nuevas generaciones. \"También hoy se levantan ídolos que reclaman nuestra adoración: el éxito a cualquier precio, el dinero, la obsesión por la apariencia, la popularidad o la búsqueda desenfrenada del placer\", señaló. También cuestionó las formas de sometimiento vinculadas con las redes sociales y los negocios que lucran con la pornografía y las sustancias adictivas. \"Hay también quienes hacen negocio ofreciendo placeres que terminan por esclavizarnos\", afirmó. Frente a esas situaciones, exhortó: \"¡No se arrodillen ante aquello que no puede darles vida! Y si alguna vez han caído, ¡levántense! No permitan que nada ni nadie les arrebate la libertad que Dios les ha dado\". Historias que hablan de volver a empezar Uno de los testimonios que conmovió al Papa fue el de Cristian, de 25 años, quien relató su recuperación de las adicciones después de haber vivido en la calle. La Familia Grande del Hogar de Cristo lo recibió sin preguntarle por su pasado y le permitió comenzar de nuevo. \"Yo estaba en la calle y el piso de la calle es duro y frío. Soy como muchos que sufren el problema de las adicciones. La droga me aisló de mi familia\", contó. Hoy acompaña a otros jóvenes que atraviesan situaciones similares. También habló Guadalupe, postulante de una congregación religiosa, quien explicó que dura",
+      "content_zh": "",
+      "image": "https://www.aica.org/imagenes/noticias/leon-xiv-a-los-jovenes-dejense-transformar-por-cristo-sij4.jpeg",
+      "author": "aica.org",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证",
+        "祷告"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:27.993863",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "aica.org",
+        "story_score": 7
+      },
+      "id": "1cc04c061ac5c5f7"
+    },
+    {
+      "title": "Papa León XIV pide renovar la vocación religiosa en Argentin | DIARIO DEL SUR",
+      "url": "http://diariodelsur.com.co/noticias/papa-leon-xiv-pide-renovar-la-vocacion-religiosa-en-argentina",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-11",
+      "summary": "El papa León XIV hizo un llamado a renovar el compromiso de la vida religiosa y fortalecer la labor evangelizadora de la Iglesia durante un encuentro con obispos, sacerdotes, diáconos, religiosos, rel",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "El papa León XIV hizo un llamado a renovar el compromiso de la vida religiosa y fortalecer la labor evangelizadora de la Iglesia durante un encuentro con obispos, sacerdotes, diáconos, religiosos, religiosas, seminaristas y agentes pastorales en la Catedral de Nuestra Señora de la Asunción, en Córdoba, Argentina. La reunión se realizó durante el tercer día de su viaje apostólico por el país sudamericano. En su intervención, el pontífice invitó a los representantes de la Iglesia a mantener viva la vocación, recuperar el entusiasmo de los primeros años de servicio y trabajar por comunidades más abiertas, solidarias y comprometidas con las necesidades de la población. Bajo el mensaje de “¡Sueñen con una Iglesia que siga haciendo lío!”, León XIV destacó que el testimonio cristiano no depende únicamente de las palabras o de las actividades religiosas, sino también de la manera en que cada persona vive su vocación y se relaciona con los demás. Recuperar el sentido de la vocación Durante su discurso, el Papa recordó que toda vocación nace de una llamada y de una decisión personal de seguir a Cristo. Señaló que, con el paso de los años, las responsabilidades, las obligaciones y el cansancio pueden hacer que algunos religiosos pierdan de vista el motivo que los llevó a dedicar su vida al servicio de la Iglesia. Por esta razón, invitó a los presentes a reflexionar sobre su relación con Dios y a evitar que la rutina, las rivalidades o la comodidad debiliten su compromiso. También destacó la importancia de mantener espacios de oración, revisar las propias acciones y reconocer los errores como parte del camino de crecimiento espiritual. El pontífice advirtió sobre el riesgo de trabajar constantemente para la Iglesia y dedicar cada vez menos tiempo a fortalecer la vida espiritual. Según expresó, la vocación necesita conservar el fuego que la impulsó desde el comienzo. Recordó a figuras religiosas de Argentina León XIV también hizo referencia a personajes que han marcado la historia religiosa del país, entre ellos Mama Antula, el santo Cura Brochero y el beato Ceferino Namuncurá. Sobre Mama Antula, destacó su esfuerzo por llevar los Ejercicios Espirituales a diferentes comunidades, recorriendo largas distancias para acercar a las personas a la fe. También recordó al Cura Brochero, quien desarrolló su labor pastoral en las sierras argentinas y continuó acompañando a su pueblo incluso durante sus años de enfermedad. El Papa mencionó además al beato Ceferino Namuncurá, cuya vida, aunque breve, dejó un testimonio de compromiso religioso. Estas figuras fueron presentadas como ejemplos de entrega, perseverancia y servicio a las comunidades. Una Iglesia que responda a las necesidades sociales Otro de los puntos centrales del encuentro fue la responsabilidad de la Iglesia frente a las dificultades que atraviesan las comunidades. El pontífice señaló que situaciones como la pobreza, la enfermedad, la soledad, el desempleo y la falta de vivienda digna requieren respuestas concretas. En ese sentido, pidió a los sacerdotes y agentes pastorales mantener una actitud de cercanía con las personas que necesitan acompañamiento, sin limitar su misión a las actividades tradicionales de las instituciones religiosas. También animó a los seminaristas y jóvenes que se preparan para la vida consagrada a mirar la realidad desde una perspectiva de servicio, reconociendo las necesidades de la población y estando dispuestos a asumir responsabilidades que quizá no habían imaginado inicialmente. Creatividad para llevar el mensaje a nuevas generaciones León XIV destacó la importancia de encontrar nuevas formas de transmitir el mensaje cristiano, especialmente en una sociedad donde las herramientas digitales y las transformaciones culturales modifican las maneras de comunicarse. El pontífice consideró que la tecnología puede convertirse en un recurso para continuar dando testimonio y acercar la palabra de Dios a diferentes públicos. Por ello, invitó a los religiosos a ser cr",
+      "content_zh": "",
+      "image": "https://gec.hsbnoticias.com/uploads/articles/099b1c43-e2a2-4049-83ab-b72899a951be.webp",
+      "author": "diariodelsur.com.co",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:30.502791",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "diariodelsur.com.co",
+        "story_score": 7
+      },
+      "id": "927041587ce4225d"
+    },
+    {
+      "title": "León XVI celebró misa en Córdoba y apuntó : Estamos llamados a la santidad – 4SEMANAS | Últimas noticias de Argentina y el mundo",
+      "url": "https://www.4semanas.com/leon-xvi-celebro-una-multitudinaria-misa-en-cordoba-y-apunto-estamos-llamados-a-la-santidad/",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-11",
+      "summary": "El papa León XIV encabezó este martes su segunda multitudinaria misa en el país en la Escuela de Aviación Militar de Córdoba, donde pronunció una sentida homilía centrada en la rica tradición de santi",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "El papa León XIV encabezó este martes su segunda multitudinaria misa en el país en la Escuela de Aviación Militar de Córdoba, donde pronunció una sentida homilía centrada en la rica tradición de santidad de la región y en el compromiso evangelizador de los fieles. Durante la ceremonia celebrada ante una multitud en el Polo Aeronáutico cordobés, el Sumo Pontífice destacó que la región “ha sido rica en frutos de santidad” y recordó que por sus calles transitaron personas que dieron la vida por el Evangelio, mencionando especialmente al cura Brochero y a Mama Antula. Además, nombró a todos los santos y beatos de la Argentina, en una homilía centrada estrictamente en lo religoso. “Todos somos simples servidores y tenemos que cumplir con la misión que el Señor nos encomienda; estamos todos llamados a la santidad”, afirmó León XIV. En esa línea, pidió tener presente que, habiendo sido arrancado del poder de las tinieblas, el creyente ha sido trasladado «a la luz de Dios». Ante los miles de peregrinos reunidos, el Pontífice advirtió: «El mundo espera de nosotros un compromiso de vida y un testimonio de oración». «Celebramos esta misa por la santificación del pueblo argentino», resaltó el Pontífice, que agregó: «Le pido a Dios, a través de san León Magno, que nos continúe bendiciendo y nos de la gracia de confesar siempre». Y afirmó: «Vayan y sean santos, abran sus corazones». A continuación, la homilía completa del papa León XIV en Córdoba: La confesión de Pedro, que a lo largo de la historia resuena en sus sucesores, nos manifiesta el misterio de Dios revelado en Cristo para nuestra salvación. Un mensaje de salvación que sigue siendo actual y que se apoya en la intercesión de tantos hermanos nuestros en la fe, que ahora nos acompañan desde el cielo. No en vano, la tierra que ahora nos acoge ha sido rica en frutos de santidad; el ejemplo de quienes nos han precedido en este camino nos sigue interpelando a vivir como ellos vivieron y a entregar la vida, como Cristo ha hecho por nosotros y ellos supieron imitar con perfección. La ciudad de Córdoba, heredera natural de la primera sede episcopal erigida en Argentina, ha sido tierra de santos. Por sus conventos e iglesias, por sus calles y hospitales transitaron hombres y mujeres que, enamorados de Jesús, dieron la vida por el Evangelio. En Argentina vivieron hombres y mujeres, como el Cura Brochero y Mama Antula —por poner solo dos ejemplos—, que fueron llamados por el Señor y enviados a la misión, sin que ellos mismos fueran siquiera conscientes de lo extraordinario que su labor evangelizadora llegaría a ser; porque todos los cristianos somos simples servidores, no hemos de hacer más que cumplir con nuestro deber. Gozoso deber, pues, el de cumplir con la misión que el Señor nos encomienda a cada uno de nosotros. Sí, queridos hermanos y hermanas. Estamos todos llamados a la santidad; en eso consiste nuestra labor en la tierra, en alcanzar la perfecta unión con Dios. Una llamada que, además, siempre es misionera: tenemos que dar a conocer a los demás la belleza que nosotros hemos conocido en Cristo. Como cristianos, debemos «enseñar todo lo que es conforme a la sana doctrina». En este sentido, hago mía ahora también esta exhortación de san León Magno, cuya memoria litúrgica hoy celebramos y a cuya protección me encomiendo: «Reconoce, oh cristiano, tu dignidad, pues participas de la divina naturaleza, y no quieras volver a la antigua vileza con una vida depravada. Recuerda de qué cabeza y de qué cuerpo eres miembro. Ten presente que habiendo sido arrancado del poder de las tinieblas has sido transportado a la luz y al reino de Dios». No hay mejor modo de enseñar que dando ejemplo con la propia vida, pues «el mundo espera de nosotros un compromiso de vida y un testimonio de oración». Esto exige una adhesión total a Jesucristo, sin fisuras. Este es el testimonio de los santos y es algo que nos hace vivir con esperanza, aún en medio de la dificultad. Hoy, desde Córdoba, centro geográfico del ",
+      "content_zh": "",
+      "image": "https://www.4semanas.com/wp-content/uploads/2026/11/LEONXVIENCORDOBA.jpg",
+      "author": "4semanas.com",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证",
+        "祷告"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:31.572158",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "4semanas.com",
+        "story_score": 7
+      },
+      "id": "8b7e5669bcdcd516"
+    },
+    {
       "title": "After Midterms, Two Paths Remain for the Right and the Left",
       "url": "https://www.christianitytoday.com/2026/11/after-midterms-two-paths-remain-for-the-right-and-the-left/",
       "category": "lay",
@@ -10143,7 +10746,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:24.637460",
+      "fetched_at": "2026-11-12T00:42:54.869881",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -10178,7 +10781,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:24.090053",
+      "fetched_at": "2026-11-12T00:42:54.474862",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -10211,7 +10814,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128777",
+      "fetched_at": "2026-11-12T00:43:03.811130",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -10248,7 +10851,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.504650",
+      "fetched_at": "2026-11-12T00:43:04.168537",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -10285,7 +10888,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128678",
+      "fetched_at": "2026-11-12T00:43:03.811004",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -10322,7 +10925,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.505014",
+      "fetched_at": "2026-11-12T00:43:04.168834",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -10358,7 +10961,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845423",
+      "fetched_at": "2026-11-12T00:43:03.662453",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -10369,6 +10972,79 @@
         "domain": "news.google.com"
       },
       "id": "d21e74b4320441e5"
+    },
+    {
+      "title": "Sala das Graças preserva histórias de fé, esperança e devoção - Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0dRUlN0MVRFd0wta3prS01BNkg3am1PaUZzTlNpZThOYU5xd3dab3RYNzNuanNkODRzUWRPUkVnU2VoNjQ0Ynh3dmxuNlJSbWZ5MDlCanQ4N1o2VEM0SG9ldWhhSFpTN2NDellIbkZTcVRzNW5Ja2lDUUtibU5DYmRURmtFYXdXVjFMY3FhaWxHcjhYRXNvQ2dmQ0NTZjJkYTViV1BlNVI?oc=5",
+      "category": "lay",
+      "source": "巴西信仰见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-05-28",
+      "summary": "Sala das Graças preserva histórias de fé, esperança e devoção Notícias - Canção Nova",
+      "summary_zh": "Sala das Graças保留了信仰、希望和奉献的故事新闻- Canção Nova",
+      "title_zh": "《恩典之屋》保留了信仰、希望和奉献的故事-新闻",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Canção Nova",
+      "tags": [
+        "拉美",
+        "平凡人的见证"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.810141",
+      "extra": {
+        "provider": "google_news",
+        "query": "testemunho missionário Brasil história de fé",
+        "publisher": "Canção Nova",
+        "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0dRUlN0MVRFd0wta3prS01BNkg3am1PaUZzTlNpZThOYU5xd3dab3RYNzNuanNkODRzUWRPUkVnU2VoNjQ0Ynh3dmxuNlJSbWZ5MDlCanQ4N1o2VEM0SG9ldWhhSFpTN2NDellIbkZTcVRzNW5Ja2lDUUtibU5DYmRURmtFYXdXVjFMY3FhaWxHcjhYRXNvQ2dmQ0NTZjJkYTViV1BlNVI?oc=5",
+        "resolved": false,
+        "story_score": 9,
+        "domain": "news.google.com"
+      },
+      "id": "234ec285b8384fc1"
+    },
+    {
+      "title": "From Muslim Refugee to Catholic Priest and Other Beautiful Conversion Stories - ZENIT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWk0xRWR3NS0wR2dEejlxRTR3QjJmVXViWkM5Ykk1SVVLYlY1dVVLR3YwNGlaU1p5QWpaZG5RR1F3M2FLMGFKRDhDek5zS1luQVoyVUlFWWdVb29SdEp1NlBFd0I2SXZHdkxpcHJOQzhyYmxrc0xnQ19vTnFZOTNTamhyUUh5MThEcUdWWW1fZXRNdEJLeTlVWFplWFNqMWktMy0zSUdkSDZUSlE?oc=5",
+      "category": "lay",
+      "source": "GDELT · 全球信主见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-07-15",
+      "summary": "From Muslim Refugee to Catholic Priest and Other Beautiful Conversion Stories ZENIT - English",
+      "summary_zh": "从穆斯林难民到天主教神父，以及其他动人的皈依故事ZENIT - 英文",
+      "title_zh": "从穆斯林难民到天主教神父，以及其他动人的皈依故事——ZENIT",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "English",
+      "tags": [
+        "全球",
+        "平凡人的见证",
+        "见证"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "全球",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:44:04.219854",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian testimony conversion story",
+        "publisher": "English",
+        "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWk0xRWR3NS0wR2dEejlxRTR3QjJmVXViWkM5Ykk1SVVLYlY1dVVLR3YwNGlaU1p5QWpaZG5RR1F3M2FLMGFKRDhDek5zS1luQVoyVUlFWWdVb29SdEp1NlBFd0I2SXZHdkxpcHJOQzhyYmxrc0xnQ19vTnFZOTNTamhyUUh5MThEcUdWWW1fZXRNdEJLeTlVWFplWFNqMWktMy0zSUdkSDZUSlE?oc=5",
+        "resolved": false,
+        "story_score": 8,
+        "domain": "news.google.com"
+      },
+      "id": "cdbeb57083b88080"
     },
     {
       "title": "San León Magno : el Papa que defendió la fe y la civilización cristiana – INFOVATICANA",
@@ -10412,8 +11088,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2025-11-15",
       "summary": "【早稲田大学歴史館】早稲田大学・美濃加茂市 文化交流事業 共催展「美濃のキリシタン 秘められた祈りの証し」2025.11.21-12.21 早稲田大学",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "【早稻田大学历史馆】早稻田大学与美浓加茂市文化交流项目联合举办展览“美浓的基督徒：隐秘祈祷的见证”2025年11月21日-12月21日 早稻田大学",
+      "title_zh": "【早稻田大学历史馆】早稻田大学与美浓加茂市文化交流项目联合举办展览“美浓的基督徒：隐藏的祈祷见证”2025年11月21日至12月21日",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -10467,7 +11143,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128466",
+      "fetched_at": "2026-11-12T00:43:03.810743",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -10538,7 +11214,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.910839",
+      "fetched_at": "2026-11-12T00:43:03.492849",
       "extra": {
         "provider": "google_news",
         "query": "India Christian conversion testimony story",
@@ -10611,7 +11287,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.777534",
+      "fetched_at": "2026-11-12T00:43:04.490020",
       "extra": {
         "provider": "google_news",
         "query": "orphan rescued missionary story",
@@ -10647,7 +11323,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844886",
+      "fetched_at": "2026-11-12T00:43:03.661774",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -10667,8 +11343,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2017-08-11",
       "summary": "【追悼】 羽鳥明さんを偲ぶ「病床でも『福音を伝えたい』というスピリット」 東裕之（太平洋放送協会） キリスト新聞社ホームページ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "【悼念】缅怀羽鸟明先生“即使在病榻上也有‘我想传福音’的精神”东裕之（太平洋广播协会）基督教新闻社官网",
+      "title_zh": "【悼念】缅怀羽鸟明先生“即使卧病在床，也‘想要传福音’的精神”东裕之（太平洋广播协会）",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -10720,7 +11396,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128573",
+      "fetched_at": "2026-11-12T00:43:03.810875",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -10731,6 +11407,43 @@
         "domain": "news.google.com"
       },
       "id": "ebf539848ccf9229"
+    },
+    {
+      "title": "[간증] 받은 은혜를 다시 흘려보내는 삶 : 오피니언 : 미주 종교신문1위",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQbnZJdUV1RG5KcWJIc0lkeWtHaVFiUWN2amNmMUROaUJxS1d1TVJ1VWZOT3VhMFM0NjA2RVBWbWw4Qzh2dU5uTEpWdjVXb3RfMHFJSlV3OEQ3bFM3b2FVeUxnLURhNU9mSkJ2bVkxd1VfM1E5dmRINTVuNFpCMTB5THo1VFdzTERkRGk0dHNzdmV1eVBiaXQ3VVhGNnNxRXJaWENaUC1zWHhZNy1IN2xiNzdJQlZ3TGhrdUtKMHdWdVdVdEtTR2FUVlNrSDV6Rk5aX3JyZkxNSVdzYU8yTW43WWhjcy1Id0xsTG04UXVNNUZFb1VsRmM3NUtkalBoTjlxSVRmM2dpZmREZk5DZlZ3S1ZyQjhBRzl0bHJQWmZMYzktUlV2MFdFZ25n?oc=5",
+      "category": "missionary",
+      "source": "韩国宣教士故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-09-17",
+      "summary": "[간증] 받은 은혜를 다시 흘려보내는 삶 : 오피니언 : 미주 종교신문1위 Christianity Daily",
+      "summary_zh": "【见证】《脱落的恩典》回传：观点：《美洲基督教日报》第一宗教报纸",
+      "title_zh": "【见证】脱离生命的恩典回归：观点：美洲排名第一的宗教报纸",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Christianity Daily",
+      "tags": [
+        "亚洲",
+        "宣教士故事",
+        "见证"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.362805",
+      "extra": {
+        "provider": "google_news",
+        "query": "선교사 간증 이야기",
+        "publisher": "Christianity Daily",
+        "google_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQbnZJdUV1RG5KcWJIc0lkeWtHaVFiUWN2amNmMUROaUJxS1d1TVJ1VWZOT3VhMFM0NjA2RVBWbWw4Qzh2dU5uTEpWdjVXb3RfMHFJSlV3OEQ3bFM3b2FVeUxnLURhNU9mSkJ2bVkxd1VfM1E5dmRINTVuNFpCMTB5THo1VFdzTERkRGk0dHNzdmV1eVBiaXQ3VVhGNnNxRXJaWENaUC1zWHhZNy1IN2xiNzdJQlZ3TGhrdUtKMHdWdVdVdEtTR2FUVlNrSDV6Rk5aX3JyZkxNSVdzYU8yTW43WWhjcy1Id0xsTG04UXVNNUZFb1VsRmM3NUtkalBoTjlxSVRmM2dpZmREZk5DZlZ3S1ZyQjhBRzl0bHJQWmZMYzktUlV2MFdFZ25n?oc=5",
+        "resolved": false,
+        "story_score": 8,
+        "domain": "news.google.com"
+      },
+      "id": "29e650de5a92ca3b"
     },
     {
       "title": "AUDIENCE JUBILAIRE - Léon XIV raconte « l'histoire missionnaire » d'Isidore Bakanja, « témoin de l'espérance chrétienne »",
@@ -10758,7 +11471,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:31.275238",
+      "fetched_at": "2026-11-12T00:43:02.228345",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -10794,7 +11507,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844662",
+      "fetched_at": "2026-11-12T00:43:03.661486",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -10830,7 +11543,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844518",
+      "fetched_at": "2026-11-12T00:43:03.661303",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -10867,7 +11580,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216280",
+      "fetched_at": "2026-11-12T00:43:03.862971",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -10905,7 +11618,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:26:09.247671",
+      "fetched_at": "2026-11-12T00:43:38.997915",
       "extra": {
         "provider": "google_news",
         "query": "missionary Africa testimony",
@@ -10978,7 +11691,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.908995",
+      "fetched_at": "2026-11-12T00:43:04.610938",
       "extra": {
         "provider": "google_news",
         "query": "medical missionary Africa hospital story",
@@ -11015,7 +11728,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.597389",
+      "fetched_at": "2026-11-12T00:43:04.469272",
       "extra": {
         "provider": "google_news",
         "query": "Pacific islands missionary story testimony",
@@ -11052,7 +11765,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248060",
+      "fetched_at": "2026-11-12T00:43:04.055559",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -11089,7 +11802,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.248282",
+      "fetched_at": "2026-11-12T00:43:04.055691",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -11126,7 +11839,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247604",
+      "fetched_at": "2026-11-12T00:43:04.054943",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -11162,7 +11875,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786815",
+      "fetched_at": "2026-11-12T00:43:03.363072",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -11173,6 +11886,42 @@
         "domain": "news.google.com"
       },
       "id": "1c08798e86bb17d8"
+    },
+    {
+      "title": "김명혁 목사 “살면서 눈물의 감동 안겨줬던 8가지 이야기…” : 오피니언",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTMWJ6WjJuLWJBVGZ2aXNOeVBwaFhXTWdsNjA4THJ3UmdpeWMxRGFxS1IxdXRta09LSk82T0phVGRoV2R5NmhPcXAybi1iN2l3M2dmZmowdw?oc=5",
+      "category": "missionary",
+      "source": "韩国宣教士故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2023-03-22",
+      "summary": "김명혁 목사 “살면서 눈물의 감동 안겨줬던 8가지 이야기…” : 오피니언 크리스천투데이",
+      "summary_zh": "金明赫牧师“人生中让我感动落泪的八个故事……”：观点《基督教今日报》",
+      "title_zh": "金明赫牧师“在人生中让我感动落泪的八个故事……”：观点",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "크리스천투데이",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.363293",
+      "extra": {
+        "provider": "google_news",
+        "query": "선교사 간증 이야기",
+        "publisher": "크리스천투데이",
+        "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTMWJ6WjJuLWJBVGZ2aXNOeVBwaFhXTWdsNjA4THJ3UmdpeWMxRGFxS1IxdXRta09LSk82T0phVGRoV2R5NmhPcXAybi1iN2l3M2dmZmowdw?oc=5",
+        "resolved": false,
+        "story_score": 5,
+        "domain": "news.google.com"
+      },
+      "id": "6a34e21d96faab9f"
     },
     {
       "title": "Sister Oaks and her friend reflect on 22 years spreading faith through ‘testimony gloves’",
@@ -11212,6 +11961,42 @@
       "id": "17b5ef477a30a22f"
     },
     {
+      "title": "Trilogi Buku Pendidikan Papua Diluncurkan, Kisahkan Dedikasi Guru Perintis dan Misionaris Pedalaman",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZVlWd0l1clpnN1BuSk8xQ1dveVRhT01lcjBUSTBFU2kwekVJQjF3UU9ZdHFYVW5vOUNMNVh6OWZsbmxBR2s3LXhRR1ZUeDlkdFljTThGaVpmdFlQMHozQS1lS0ljdWxHS1lRTGp5UmZPUTZVdTIycWZpc01SS19xNXN0TDdmcWZRSUpkcEJDdnhFalowRFVlTkZTX21vcFM1STNReW9SWGdJRXE5TDFBOUlEWWVILXhmeG5DNkttSHJsbFN0NWc4WUg3TzJzWE1oUXFJXzJ3b3kzRm8?oc=5",
+      "category": "missionary",
+      "source": "印尼与东南亚见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-08-03",
+      "summary": "Trilogi Buku Pendidikan Papua Diluncurkan, Kisahkan Dedikasi Guru Perintis dan Misionaris Pedalaman Surya.co.id",
+      "summary_zh": "《巴布亚教育三部曲》出版，讲述先驱教师和苏拉亚偏远地区传教士的奉献精神。Surya.co.id",
+      "title_zh": "巴布亚教育三部曲书籍发布，讲述先驱教师和内地传教士的奉献精神",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Surya.co.id",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:03.662574",
+      "extra": {
+        "provider": "google_news",
+        "query": "kesaksian misionaris kisah",
+        "publisher": "Surya.co.id",
+        "google_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZVlWd0l1clpnN1BuSk8xQ1dveVRhT01lcjBUSTBFU2kwekVJQjF3UU9ZdHFYVW5vOUNMNVh6OWZsbmxBR2s3LXhRR1ZUeDlkdFljTThGaVpmdFlQMHozQS1lS0ljdWxHS1lRTGp5UmZPUTZVdTIycWZpc01SS19xNXN0TDdmcWZRSUpkcEJDdnhFalowRFVlTkZTX21vcFM1STNReW9SWGdJRXE5TDFBOUlEWWVILXhmeG5DNkttSHJsbFN0NWc4WUg3TzJzWE1oUXFJXzJ3b3kzRm8?oc=5",
+        "resolved": false,
+        "story_score": 4,
+        "domain": "news.google.com"
+      },
+      "id": "69c15d9833f47795"
+    },
+    {
       "title": "El legado misionero de Fulton Sheen",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmN3WjZLc2NNM0tBV2Qxd2ZPYWhZNmVwODdkR3BCbThiVUhkRjE5ZFhCdHd1QS1zUnBIRGx6SDF0WFdWUzFISmM4YW4xR0VtVVBpWTRNck1DRFdYUURRTHpMdWNsNi1JeG1nSWhTTFpERkdxc3U4dXBqM1RuRVE5YTlOcXdKV3VwT3VNTlpTWWtybTJuVGczSlVEN0QwWEhQQ0s3Yw?oc=5",
       "category": "missionary",
@@ -11236,7 +12021,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216149",
+      "fetched_at": "2026-11-12T00:43:03.862833",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -11273,7 +12058,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216399",
+      "fetched_at": "2026-11-12T00:43:03.863119",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -11309,7 +12094,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845107",
+      "fetched_at": "2026-11-12T00:43:03.662062",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -11346,7 +12131,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128241",
+      "fetched_at": "2026-11-12T00:43:03.810462",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -11382,7 +12167,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844780",
+      "fetched_at": "2026-11-12T00:43:03.661638",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -11418,7 +12203,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.247739",
+      "fetched_at": "2026-11-12T00:43:04.055113",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -11454,7 +12239,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.845324",
+      "fetched_at": "2026-11-12T00:43:03.662327",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -11490,7 +12275,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.844999",
+      "fetched_at": "2026-11-12T00:43:03.661919",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -11527,7 +12312,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216914",
+      "fetched_at": "2026-11-12T00:43:03.863805",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -11564,7 +12349,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.579526",
+      "fetched_at": "2026-11-12T00:43:02.960375",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",

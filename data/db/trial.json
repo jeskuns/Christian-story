@@ -1,8 +1,8 @@
 {
   "category": "trial",
   "label": "患难中的信心",
-  "count": 28,
-  "updated_at": "2026-11-12T08:30:09.099829+08:00",
+  "count": 29,
+  "updated_at": "2026-11-12T08:45:20.389985+08:00",
   "articles": [
     {
       "title": "Egyptian Christian Martyred in Libya",
@@ -34,7 +34,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.180610",
+      "fetched_at": "2026-11-12T00:42:57.660237",
       "extra": {
         "feed_type": "rss20",
         "story_score": 17,
@@ -71,7 +71,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.451142",
+      "fetched_at": "2026-11-12T00:42:58.186334",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -108,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.318441",
+      "fetched_at": "2026-11-12T00:42:57.771408",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -144,7 +144,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.968235",
+      "fetched_at": "2026-11-12T00:42:58.786853",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -180,7 +180,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.966663",
+      "fetched_at": "2026-11-12T00:43:00.543712",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -216,7 +216,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:34.593858",
+      "fetched_at": "2026-11-12T00:43:03.296155",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -252,7 +252,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:24.186055",
+      "fetched_at": "2026-11-12T00:42:54.519788",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -286,7 +286,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:26.491299",
+      "fetched_at": "2026-11-12T00:42:57.108824",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -321,7 +321,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.917267",
+      "fetched_at": "2026-11-12T00:42:53.944366",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -357,7 +357,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:25.385332",
+      "fetched_at": "2026-11-12T00:42:55.388301",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -393,7 +393,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:27.022118",
+      "fetched_at": "2026-11-12T00:42:57.345163",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -666,7 +666,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128975",
+      "fetched_at": "2026-11-12T00:43:03.811401",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -704,7 +704,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.535714",
+      "fetched_at": "2026-11-12T00:43:04.340935",
       "extra": {
         "provider": "google_news",
         "query": "Ukraine Christian testimony story church",
@@ -755,6 +755,44 @@
       "id": "1e7f4eaf4ec6b02c"
     },
     {
+      "title": "Pakistani Christian gives testimony of persecution in front of King Charles",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEFHekoxN1liVlRJYzk1Tnl3amx2VHJvLWQ3YjBWUnpQMEYwWEo1T1lOaDRqVlUzdEExT2Q3ZnNFN0VIeDJwUWZVa0tWRl94T0RFU21USEQ1WEloWmtqMzRtUXdNYUNSUjBoLWtIYnlaWDB1NFc4eGx2amJ2Z0EtVkhQaTVEMHNuV3BtQzFhOF9HUjAtbVBmMVRfMmZRNlE2dlZUeTZSMnk2dEhXWTlkYQ?oc=5",
+      "category": "trial",
+      "source": "GDELT · 受逼迫教会",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2025-12-12",
+      "summary": "Pakistani Christian gives testimony of persecution in front of King Charles www.christiantoday.com",
+      "summary_zh": "巴基斯坦基督徒在查尔斯国王面前作证遭受迫害 www.christiantoday.com",
+      "title_zh": "巴基斯坦基督徒在查尔斯国王面前作证遭受迫害",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "www.christiantoday.com",
+      "tags": [
+        "亚洲",
+        "患难中的信心",
+        "见证",
+        "逼迫"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T00:43:48.621386",
+      "extra": {
+        "provider": "google_news",
+        "query": "persecuted Christian testimony",
+        "publisher": "www.christiantoday.com",
+        "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEFHekoxN1liVlRJYzk1Tnl3amx2VHJvLWQ3YjBWUnpQMEYwWEo1T1lOaDRqVlUzdEExT2Q3ZnNFN0VIeDJwUWZVa0tWRl94T0RFU21USEQ1WEloWmtqMzRtUXdNYUNSUjBoLWtIYnlaWDB1NFc4eGx2amJ2Z0EtVkhQaTVEMHNuV3BtQzFhOF9HUjAtbVBmMVRfMmZRNlE2dlZUeTZSMnk2dEhXWTlkYQ?oc=5",
+        "resolved": false,
+        "story_score": 6,
+        "domain": "news.google.com"
+      },
+      "id": "1253f605a2b463b8"
+    },
+    {
       "title": "Faces da Perseguição: Testemunhos Reais",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpVFpGVlRULXVFbEpaUEJQb3BncjE2cW10MGlrTm8zdXdCSmptRTNlZkV6V1Y3UnYwNWJYOWRYU0xyMUp0ZGo1QXlwMmRmRXRLNmVZRHA2SmFMblhCMzJ4cTc2LVdkekpPcFA2N0JMVUZ4R1BySkE?oc=5",
       "category": "trial",
@@ -780,7 +818,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.128351",
+      "fetched_at": "2026-11-12T00:43:03.810602",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -817,7 +855,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.091226",
+      "fetched_at": "2026-11-12T00:43:03.748083",
       "extra": {
         "provider": "google_news",
         "query": "Iran Muslim conversion testimony story Jesus",
@@ -837,8 +875,8 @@
       "source_url": "https://news.google.com/rss/search",
       "published": "2024-10-01",
       "summary": "投獄経験した教会開拓者２人が証し 迫害下で急成長するイランの教会 : 国際 クリスチャントゥデイ",
-      "summary_zh": "",
-      "title_zh": "",
+      "summary_zh": "曾被监禁的两名教会开拓者作见证：伊朗教会于迫害中迅速发展：国际基督教今日报",
+      "title_zh": "曾被监禁的两名教会开拓者作见证：伊朗教会于迫害中迅猛发展：国际",
       "content": "",
       "content_zh": "",
       "image": "",
@@ -892,7 +930,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.216714",
+      "fetched_at": "2026-11-12T00:43:03.863540",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -929,7 +967,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T07:23:48.518119",
+      "fetched_at": "2026-11-12T00:43:48.622042",
       "extra": {
         "provider": "google_news",
         "query": "persecuted Christian testimony",
@@ -1002,7 +1040,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.786924",
+      "fetched_at": "2026-11-12T00:43:03.363668",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",

@@ -2,7 +2,7 @@
   "category": "giant",
   "label": "属灵伟人",
   "count": 18,
-  "updated_at": "2026-11-12T08:30:09.097053+08:00",
+  "updated_at": "2026-11-12T08:45:20.386774+08:00",
   "articles": [
     {
       "title": "When Morningness Is Confused with Godliness",
@@ -32,7 +32,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.929680",
+      "fetched_at": "2026-11-12T00:42:53.960709",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -64,7 +64,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.263722",
+      "fetched_at": "2026-11-12T00:43:01.510137",
       "extra": {
         "feed_type": "rss20",
         "story_score": 14,
@@ -98,7 +98,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:31.761076",
+      "fetched_at": "2026-11-12T00:43:00.141957",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -131,7 +131,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.035907",
+      "fetched_at": "2026-11-12T00:42:58.107450",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -167,7 +167,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.361898",
+      "fetched_at": "2026-11-12T00:43:01.550865",
       "extra": {
         "feed_type": "rss20",
         "story_score": 13,
@@ -200,7 +200,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.355447",
+      "fetched_at": "2026-11-12T00:43:13.203397",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -235,7 +235,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.922618",
+      "fetched_at": "2026-11-12T00:42:53.951309",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -271,7 +271,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.924548",
+      "fetched_at": "2026-11-12T00:42:53.953810",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -305,7 +305,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:23.925277",
+      "fetched_at": "2026-11-12T00:42:53.954748",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -338,7 +338,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.436103",
+      "fetched_at": "2026-11-12T00:42:58.224614",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -371,7 +371,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.805365",
+      "fetched_at": "2026-11-12T00:42:59.108014",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -404,7 +404,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:30.581236",
+      "fetched_at": "2026-11-12T00:42:59.226145",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -436,7 +436,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:29.014764",
+      "fetched_at": "2026-11-12T00:43:00.014726",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -469,7 +469,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.197630",
+      "fetched_at": "2026-11-12T00:42:58.420230",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -503,7 +503,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:25:28.720954",
+      "fetched_at": "2026-11-12T00:43:04.568237",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -605,7 +605,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:33.424107",
+      "fetched_at": "2026-11-12T00:43:04.214657",
       "extra": {
         "provider": "google_news",
         "query": "Christian biography church history story",
