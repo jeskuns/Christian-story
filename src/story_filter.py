@@ -219,12 +219,15 @@ def _hits(patterns, text: str) -> int:
 def score_story(article) -> (int, str):
     """返回 (分数, 判拒理由)。分数 < 阈值即不是故事"""
     text = _text_of(article)
-    title = ((article.get("title", "") if isinstance(article, dict) else article.title) or "") + " " + \
+    raw_title = (article.get("title", "") if isinstance(article, dict) else article.title) or ""
+    title = raw_title + " " + \
             ((article.get("title_zh", "") if isinstance(article, dict) else article.title_zh) or "")
     i18n = _lang_of(article) not in ("en", "zh")
 
+    # 非故事形态只看原文标题：机翻译文可能把「오피니언 / opinion」译成「观点」，
+    # 若把译文也纳入拦截会把真实见证误杀；原文的中英文 reject 词仍照常生效。
     for p in REJECT_RE:
-        if p.search(title):
+        if p.search(raw_title):
             return 0, f"标题命中非故事形态：{p.pattern}"
 
     strong = _hits(STRONG_RE, text)

@@ -22,6 +22,8 @@ logger = logging.getLogger(__name__)
 
 # 判断文本是否已含中文
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
+# 日文假名（平假名 / 片假名）：日文标题借用大量汉字，需与真正的中文区分
+KANA_RE = re.compile(r"[\u3040-\u30ff]")
 
 
 def _chunk_text(text: str, max_len: int = 400) -> List[str]:
@@ -131,7 +133,12 @@ class Translator:
     # ---------- 对外接口 ----------
     def translate(self, text: str, src: str = "en") -> str:
         text = (text or "").strip()
-        if not text or CJK_RE.search(text):
+        if not text:
+            return ""
+        # 日文大量借用汉字，不能仅凭 CJK 判断「已是中文」：显式 ja 或含平/片假名
+        # 时仍要送去翻译，否则日文标题会原样入库且 title_zh 永远为空。
+        is_japanese = src == "ja" or bool(KANA_RE.search(text))
+        if CJK_RE.search(text) and not is_japanese:
             return ""
 
         key = f"{src}:{text}"
