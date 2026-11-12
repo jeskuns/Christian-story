@@ -360,7 +360,7 @@ sources:
     max_items: 10
     extra:
       provider: google
-      query: "宣教師 証言 物語"
+      query: "宣教師 証し"
 
   - name: 印尼与东南亚见证
     url: https://news.google.com/rss/search

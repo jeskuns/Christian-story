@@ -233,6 +233,15 @@ class Collector:
             pre.save_cache()
             logger.info(f"判别前预译中：{pre_done}/{len(i18n_targets)} 条非英语标题")
 
+        # 判别前的全量候选单独归档：raw/<date>.json 只保存判别后的故事，
+        # 排查「某个源 / 某种语言为什么没进库」需要看到被拦下来的原始条目。
+        try:
+            ensure_dir(self.raw_dir)
+            save_json(os.path.join(self.raw_dir, f"candidates-{today_hk()}.json"),
+                      [a.to_dict() for a in self.articles])
+        except Exception as e:
+            logger.warning(f"保存候选归档失败：{e}")
+
         # 故事判别：只留真正的故事，把新闻简讯、书评书摘、灵修小品、神学评论、
         # 活动通知等挡在外面；同时推断主题分类、地区与标签。
         self.articles, self.filter_stats = filter_and_classify(

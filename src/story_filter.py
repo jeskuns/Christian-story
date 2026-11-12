@@ -253,7 +253,10 @@ def score_story(article) -> (int, str):
         short_len = len((article.get("summary") or "") + (article.get("content") or ""))
     else:
         short_len = len((article.summary or "") + (article.content or ""))
-    if short_len < 90 and not has_body:
+    # Google News 的日 / 韩等版位 description 常只有标题加媒体名（几十字符），
+    # 按 90 字符判定会把整批真实故事误判为「内容过短」。非英语条目跳过这条
+    # 长度检查，仍由分数阈值与标题故事信号把关；英 / 中维持原规则。
+    if not i18n and short_len < 90 and not has_body:
         return 0, "内容过短"
 
     return score, ""
@@ -325,13 +328,21 @@ def filter_and_classify(articles: List[Any], min_score: int = 4,
     """过滤并归类；返回 (保留条目, 统计信息)"""
     kept = []
     rejected: Dict[str, int] = {}
+    by_lang: Dict[str, Dict[str, int]] = {}
+    rejected_samples: List[str] = []
     domains = set()
 
     for a in articles:
         score, reason = score_story(a)
         if score < min_score:
-            key = reason.split("：")[0]
+            key = reason.split("：")[0] or "分数不足"
             rejected[key] = rejected.get(key, 0) + 1
+            lang = _lang_of(a)
+            bucket = by_lang.setdefault(lang, {})
+            bucket[key] = bucket.get(key, 0) + 1
+            if lang not in ("en", "zh") and len(rejected_samples) < 30:
+                t = (a.get("title") if isinstance(a, dict) else a.title) or ""
+                rejected_samples.append(f"[{lang}] score={score} {key} | {t[:90]}")
             continue
         if isinstance(a, dict):
             url = a.get("url") or ""
@@ -365,6 +376,9 @@ def filter_and_classify(articles: List[Any], min_score: int = 4,
         "domains": sorted(domains),
     }
     logger.info(f"故事判别：收 {len(kept)}/{len(articles)} 条；拦截原因 {rejected}")
+    logger.info(f"按语言拦截统计：{by_lang}")
+    for sample in rejected_samples:
+        logger.info(f"非英语被拒样例：{sample}")
 
     if discovered_path:
         import os, json
