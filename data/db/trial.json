@@ -2,7 +2,7 @@
   "category": "trial",
   "label": "患难中的信心",
   "count": 29,
-  "updated_at": "2026-11-12T08:45:20.389985+08:00",
+  "updated_at": "2026-11-12T09:50:12.419817+08:00",
   "articles": [
     {
       "title": "Egyptian Christian Martyred in Libya",
@@ -34,7 +34,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:57.660237",
+      "fetched_at": "2026-11-12T01:48:48.922156",
       "extra": {
         "feed_type": "rss20",
         "story_score": 17,
@@ -71,7 +71,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:58.186334",
+      "fetched_at": "2026-11-12T01:48:49.191042",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -108,7 +108,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:57.771408",
+      "fetched_at": "2026-11-12T01:48:49.239863",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -144,7 +144,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:58.786853",
+      "fetched_at": "2026-11-12T01:48:50.054890",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -180,7 +180,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:43:00.543712",
+      "fetched_at": "2026-11-12T01:48:52.505187",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -216,7 +216,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:43:03.296155",
+      "fetched_at": "2026-11-12T01:48:54.597476",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -252,7 +252,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:54.519788",
+      "fetched_at": "2026-11-12T01:48:45.618990",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -286,7 +286,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:57.108824",
+      "fetched_at": "2026-11-12T01:48:47.251167",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -321,7 +321,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:53.944366",
+      "fetched_at": "2026-11-12T01:48:44.917677",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -357,7 +357,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:55.388301",
+      "fetched_at": "2026-11-12T01:48:46.958933",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -393,7 +393,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:57.345163",
+      "fetched_at": "2026-11-12T01:48:48.648872",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -427,7 +427,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:26:18.650923",
+      "fetched_at": "2026-11-12T01:49:41.742419",
       "extra": {
         "provider": "gdelt",
         "query": "persecuted Christian",
@@ -666,7 +666,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.811401",
+      "fetched_at": "2026-11-12T01:48:54.517961",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -704,7 +704,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:04.340935",
+      "fetched_at": "2026-11-12T01:48:54.979890",
       "extra": {
         "provider": "google_news",
         "query": "Ukraine Christian testimony story church",
@@ -818,7 +818,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.810602",
+      "fetched_at": "2026-11-12T01:48:54.516720",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -855,7 +855,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.748083",
+      "fetched_at": "2026-11-12T01:48:54.452083",
       "extra": {
         "provider": "google_news",
         "query": "Iran Muslim conversion testimony story Jesus",
@@ -882,25 +882,25 @@
       "image": "",
       "author": "クリスチャントゥデイ",
       "tags": [
-        "亚洲",
+        "中东",
         "患难中的信心",
         "见证",
         "逼迫"
       ],
       "language": "ja",
       "country": "JP",
-      "region": "亚洲",
+      "region": "中东",
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.762421",
+      "fetched_at": "2026-11-12T01:48:54.100163",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
         "publisher": "クリスチャントゥデイ",
         "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2pEYUptaS1aNWZnVjV5VHRWNWV0N3FJelJSRVRLb1N2ei1FVExJTWZmRDhRTFVZUi1odXUyMEZnSzJldGdhbzJRTmhZTnFrMUlrczVweWJtRmpZb1N0REZwd3F0OTZnaVkxdXVjZGM5cVR4dklEYzVvRUJuTGdWbkh5aEk0aWYtRDhHZUt5WlFKWDhoRDUtRFQyMFJSUTJTQ2EtczNJRnM?oc=5",
         "resolved": false,
-        "story_score": 11,
+        "story_score": 14,
         "domain": "news.google.com"
       },
       "id": "eaab30648bec4a43"
@@ -930,7 +930,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.863540",
+      "fetched_at": "2026-11-12T01:48:54.554836",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -1040,7 +1040,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.363668",
+      "fetched_at": "2026-11-12T01:48:54.113369",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",

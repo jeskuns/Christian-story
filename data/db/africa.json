@@ -2,7 +2,7 @@
   "category": "africa",
   "label": "非洲宣教与见证",
   "count": 28,
-  "updated_at": "2026-11-12T08:45:20.388388+08:00",
+  "updated_at": "2026-11-12T09:50:12.418191+08:00",
   "articles": [
     {
       "title": "The Journey Through Persecution to Graduation",
@@ -32,7 +32,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:56.091609",
+      "fetched_at": "2026-11-12T01:48:47.818813",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -68,7 +68,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:57.079744",
+      "fetched_at": "2026-11-12T01:48:48.269094",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -104,7 +104,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:43:02.642866",
+      "fetched_at": "2026-11-12T01:48:54.072493",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -137,7 +137,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:58.498155",
+      "fetched_at": "2026-11-12T01:48:49.091727",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -174,7 +174,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:55.549925",
+      "fetched_at": "2026-11-12T01:48:46.386742",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -209,7 +209,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:56.512449",
+      "fetched_at": "2026-11-12T01:48:48.216438",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -244,7 +244,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:55.795537",
+      "fetched_at": "2026-11-12T01:48:47.543521",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -279,7 +279,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:58.557898",
+      "fetched_at": "2026-11-12T01:48:49.473986",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -314,7 +314,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:26:23.443617",
+      "fetched_at": "2026-11-12T01:49:47.255351",
       "extra": {
         "provider": "gdelt",
         "query": "persecuted Christian",
@@ -327,7 +327,7 @@
       "title": "Félix Lungu : É muito difícil ser cristão em países fundamentais",
       "url": "https://sol.iol.pt/sociedade/noticias/felix-lungu-e-muito-dificil-ser-cristao-em-paises-fundamentais/20261021/6ad864020cf23b0ed4fdedbb",
       "category": "africa",
-      "source": "GDELT · 受逼迫教会",
+      "source": "GDELT · 非洲宣教",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "published": "2026-10-21",
       "summary": "É a maior comunidade religiosa, mas também a mais perseguida do mundo. Os cristãos são notícia quase diariamente por serem alvo de ataques ou assassínios; ou por as suas instalações e símbolos terem s",
@@ -348,10 +348,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-11T08:14:51.296639",
+      "fetched_at": "2026-11-12T01:49:12.182368",
       "extra": {
         "provider": "gdelt",
-        "query": "persecuted Christian testimony",
+        "query": "missionary Africa testimony",
         "domain": "sol.iol.pt",
         "story_score": 12
       },
@@ -381,7 +381,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:02.474101",
+      "fetched_at": "2026-11-12T01:48:53.011879",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -420,7 +420,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:02.295403",
+      "fetched_at": "2026-11-12T01:48:52.842951",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -456,7 +456,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:00.060127",
+      "fetched_at": "2026-11-12T01:48:50.866141",
       "extra": {
         "provider": "google_news",
         "query": "Christian testimony South Africa story",
@@ -494,7 +494,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:01.513381",
+      "fetched_at": "2026-11-12T01:48:52.085335",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -531,7 +531,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:02.960868",
+      "fetched_at": "2026-11-12T01:48:53.588058",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -568,7 +568,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:42:59.523395",
+      "fetched_at": "2026-11-12T01:48:50.682093",
       "extra": {
         "provider": "google_news",
         "query": "missionary Nigeria testimony story",
@@ -605,7 +605,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:02.783344",
+      "fetched_at": "2026-11-12T01:48:53.216311",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -679,7 +679,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:42:58.753854",
+      "fetched_at": "2026-11-12T01:48:50.062545",
       "extra": {
         "provider": "google_news",
         "query": "missionary Nigeria testimony story",
@@ -716,7 +716,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:02.012705",
+      "fetched_at": "2026-11-12T01:48:52.664668",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -754,7 +754,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:01.758340",
+      "fetched_at": "2026-11-12T01:48:52.256103",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -792,7 +792,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:00.655824",
+      "fetched_at": "2026-11-12T01:48:51.254936",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -868,7 +868,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:01.989804",
+      "fetched_at": "2026-11-12T01:48:52.433682",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -906,7 +906,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:00.838903",
+      "fetched_at": "2026-11-12T01:48:51.465187",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -944,7 +944,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:02.511858",
+      "fetched_at": "2026-11-12T01:48:52.839079",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -982,7 +982,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:01.289427",
+      "fetched_at": "2026-11-12T01:48:51.889719",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -1020,7 +1020,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:01.069702",
+      "fetched_at": "2026-11-12T01:48:51.662816",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",

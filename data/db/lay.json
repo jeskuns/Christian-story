@@ -2,7 +2,7 @@
   "category": "lay",
   "label": "平凡人的见证",
   "count": 18,
-  "updated_at": "2026-11-12T08:45:20.392826+08:00",
+  "updated_at": "2026-11-12T09:50:12.422748+08:00",
   "articles": [
     {
       "title": "How a Conversation This Week Made Me Rethink How Grace Works",
@@ -31,7 +31,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:54.474862",
+      "fetched_at": "2026-11-12T01:48:44.525663",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -66,7 +66,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:54.869881",
+      "fetched_at": "2026-11-12T01:48:45.910903",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -167,7 +167,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:44:04.219854",
+      "fetched_at": "2026-11-12T01:49:45.727586",
       "extra": {
         "provider": "google_news",
         "query": "Christian testimony conversion story",
@@ -203,7 +203,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.810141",
+      "fetched_at": "2026-11-12T01:48:54.516163",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -241,14 +241,14 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.761527",
+      "fetched_at": "2026-11-12T01:48:54.098909",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
         "publisher": "早稲田大学",
         "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYU50UHl1RnRPd0ZSclFkREtEcWU4R0RJeGhDUzNiaWs5V25jTlRqV01lZlRCamVac0JpbVRLRFc3VlZuX3F3VXdCWTJxVDdHRE15WmhkQ19JOHNJUU9CVw?oc=5",
         "resolved": false,
-        "story_score": 5,
+        "story_score": 8,
         "domain": "news.google.com"
       },
       "id": "0cd4f254edea95e4"
@@ -278,7 +278,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:04.168537",
+      "fetched_at": "2026-11-12T01:48:54.833713",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -315,7 +315,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.492849",
+      "fetched_at": "2026-11-12T01:48:54.142027",
       "extra": {
         "provider": "google_news",
         "query": "India Christian conversion testimony story",
@@ -352,7 +352,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.810743",
+      "fetched_at": "2026-11-12T01:48:54.516932",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -389,7 +389,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.811004",
+      "fetched_at": "2026-11-12T01:48:54.517269",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -462,7 +462,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:04.490020",
+      "fetched_at": "2026-11-12T01:48:55.085023",
       "extra": {
         "provider": "google_news",
         "query": "orphan rescued missionary story",
@@ -499,7 +499,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:04.168834",
+      "fetched_at": "2026-11-12T01:48:54.834079",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -535,7 +535,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.661774",
+      "fetched_at": "2026-11-12T01:48:54.196700",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -572,7 +572,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.811130",
+      "fetched_at": "2026-11-12T01:48:54.517429",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -608,7 +608,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:43:03.662453",
+      "fetched_at": "2026-11-12T01:48:54.197563",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",

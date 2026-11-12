@@ -1,8 +1,8 @@
 {
   "category": "china",
   "label": "中国故事",
-  "count": 9,
-  "updated_at": "2026-11-12T08:45:20.392070+08:00",
+  "count": 10,
+  "updated_at": "2026-11-12T09:50:12.421948+08:00",
   "articles": [
     {
       "title": "Chinese church elder released after 16 months, two pastors remain jailed",
@@ -31,7 +31,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:56.880748",
+      "fetched_at": "2026-11-12T01:48:47.913965",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -66,7 +66,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:59.565887",
+      "fetched_at": "2026-11-12T01:48:51.833658",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -101,13 +101,48 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T00:42:56.281151",
+      "fetched_at": "2026-11-12T01:48:47.296695",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
         "domain": "assistnews.net"
       },
       "id": "2a7509a26f5b5d21"
+    },
+    {
+      "title": "Hong Kong Christian, pro-democracy activist sentenced",
+      "url": "https://www.assistnews.net/hong-kong-christian-pro-democracy-activist-sentenced/",
+      "category": "china",
+      "source": "Assist News Service · 宣教通讯",
+      "source_url": "https://www.assistnews.net/feed/",
+      "published": "2026-11-12",
+      "summary": "Gao Zhensai — Christian pro-democracy activist Joshua Wong was sentenced Thursday to 10 years in prison, just two months before his expected release, as Beijing’s crackdown on political dissent continues in this southern Chinese territory. The Hong Kong High Court convicted Wong of “conspiracy to collude with foreign or external forces to endanger national security.” […]",
+      "summary_zh": "高振赛——基督教民主派活动人士黄之锋于周四被判处10年有期徒刑，距离他原定获释日期仅剩两个月。与此同时，北京当局在该中国南方地区持续打击政治异见。香港高等法院裁定黄之锋犯有“串谋与外国或境外势力勾结，危害国家安全”罪。 […]",
+      "title_zh": "香港基督徒、民主派活动人士被判刑",
+      "content": "Gao Zhensai — Christian pro-democracy activist Joshua Wong was sentenced Thursday to 10 years in prison, just two months before his expected release, as Beijing’s crackdown on political dissent continues in this southern Chinese territory. The Hong Kong High Court convicted Wong of “conspiracy to collude with foreign or external forces to endanger national security.” […]",
+      "content_zh": "高振赛——基督教民主派活动人士黄之锋于周四被判处10年有期徒刑，距离他原定获释日期仅剩两个月。与此同时，北京当局在该中国南方地区持续打击政治异见。香港高等法院裁定黄之锋犯有“串谋与外国或境外势力勾结，危害国家安全”罪。 […]",
+      "image": "https://www.assistnews.net/wp-content/uploads/2024/02/assistnewslogo-350x92.png",
+      "author": "Mark Ellis",
+      "tags": [
+        "中国",
+        "中国故事",
+        "Persecution",
+        "persecution china",
+        "hong kong pro democracy activist"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-12T01:48:45.463729",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "assistnews.net"
+      },
+      "id": "1840517503392499"
     },
     {
       "title": "No permitan que nada ni nadie les arrebate la libertad , pidió el Papa ante un millón de jóvenes « Diario La Capital de Mar del Plata",
@@ -306,7 +341,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.762520",
+      "fetched_at": "2026-11-12T01:48:54.100314",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
