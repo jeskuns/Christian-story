@@ -1,8 +1,8 @@
 {
   "category": "lay",
   "label": "平凡人的见证",
-  "count": 18,
-  "updated_at": "2026-11-12T09:50:12.422748+08:00",
+  "count": 25,
+  "updated_at": "2026-11-12T13:55:26.373246+08:00",
   "articles": [
     {
       "title": "How a Conversation This Week Made Me Rethink How Grace Works",
@@ -31,7 +31,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T01:48:44.525663",
+      "fetched_at": "2026-11-12T05:47:46.629251",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -66,13 +66,308 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T01:48:45.910903",
+      "fetched_at": "2026-11-12T05:47:47.216173",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
         "domain": "christianitytoday.com"
       },
       "id": "818a2e40549d1162"
+    },
+    {
+      "title": "He was taught Christians do not pray. Then he watched his uncle pray before a meal",
+      "url": "https://doxa.app/grace/charles-diarra-mali-uncle-prayer",
+      "category": "lay",
+      "source": "Doxa · Grace Record 见证库",
+      "source_url": "https://doxa.app/grace/all",
+      "published": "2026-11-12",
+      "summary": "🇲🇱Lere· 1981",
+      "summary_zh": "🇲🇱莱雷·1981年",
+      "title_zh": "他被教导说基督徒不祷告。然后，他看到叔叔在饭前祷告。",
+      "content": "Charles Yabaga Diarra grew up in a strict Muslim family in Lere, Mali, where Christians were mocked and misunderstood. His father, a headmaster and politician, ran the house like a school. As a boy, Charles fled about a hundred and fifty miles to stay with an uncle, and there he ran straight into something he had been told did not exist. His uncle, a Christian pastor, bowed his head and prayed before the meal. Charles was stunned. \"Because we are Christians, we pray before meals,\" the uncle explained. Charles had been taught that Christians do not pray at all. That simple prayer, in his own language, lodged in him and would not leave. Just show me the way His father pulled him back and forced him into Quranic school, but the seed was planted. Years later, back with his uncle, tired and searching, Charles finally prayed his own prayer. \"Lord, I'm really tired of seeking the truth. Just show me the way.\" A verse he had heard at a Vacation Bible School came back to him, and in November 1981 he gave his life to Jesus. The cost has been real. Charles is a preacher now, displaced by Mali's conflict and facing daily pressure. But he did not go alone. Of his fourteen siblings, most now follow Jesus, and around a hundred Christians gather at his extended family events. One uncle praying over dinner turned a whole family toward Jesus. Your quiet, ordinary faithfulness may be planting more than you know.",
+      "content_zh": "查尔斯·亚巴加·迪亚拉(Charles Yabaga Diarra)在马里勒尔一个严格的穆斯林家庭长大,在那里基督徒受到嘲笑和误解. 他的父亲是一名校长和政治家,他像学校一样管理着房子. 童年时,查尔斯逃离了大约一百五十英里,与一个叔叔住在一起,在那里,他直接遇到了他被告知的东西并不存在.\n\n他的叔叔,一位基督教牧师,低头祷告,在饭前祷告. 查尔斯被惊呆了 \"因为我们是基督徒,我们吃饭前祈祷\",叔叔解释道. 查尔斯被告知基督徒根本不祷告 用他自己的语言祈祷,他不会离开。\n\n只要告诉我他父亲把他拉回来的方式 强迫他进入古兰经学校 但种子是种的 多年之后,与他的叔叔一起回来,疲惫和寻找,查尔斯终于自己祈祷. \"主啊,我真的厌倦了寻找真相. \"给我带路\" 他在一所假期圣经学校听到的一首诗回到了他身边,1981年11月他把生命献给了耶稣.\n\n代价是真实的。 查尔斯现在是一名传教士,因马里的冲突而流离失所,每天都面临压力。 但他没有一个人去。 他的十四个兄弟姐妹中,大多数现在都跟随耶稣,大约一百名基督徒聚集在他的大家庭活动中. 一个叔叔为晚餐祷告 整个家庭都向耶稣倾斜 你安静的,普通的忠诚 可能是种更多 比你知道。",
+      "image": "https://doxa.app/api/og?title=He+was+taught+Christians+do+not+pray.+Then+he+watched+his+uncle+pray+before+a+meal&tag=Found+Faith&type=grace&v=8b3b7b7da9",
+      "author": "",
+      "tags": [
+        "全球",
+        "平凡人的见证",
+        "祷告",
+        "家庭"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "全球",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-12T05:47:55.727681",
+      "extra": {
+        "story_score": 8,
+        "domain": "doxa.app"
+      },
+      "id": "ce231be72c8e82ec"
+    },
+    {
+      "title": "He found a Bible in a secondhand shop and thought he was the only Christian in Yemen",
+      "url": "https://doxa.app/grace/mohammad-yemen-secondhand-bible",
+      "category": "lay",
+      "source": "Doxa · Grace Record 见证库",
+      "source_url": "https://doxa.app/grace/all",
+      "published": "2026-11-12",
+      "summary": "🇾🇪Yemen· 2000s",
+      "summary_zh": "🇾🇪也门·21世纪初",
+      "title_zh": "他在一家二手商店里找到了一本圣经，以为自己是也门唯一的基督徒。",
+      "content": "Mohammad grew up in Yemen, in a conservative Muslim home, in a country with almost no visible church at all. About seventeen years ago he found a Bible in a secondhand shop. He took it home and read it in hiding, because being caught with it could cost him everything. What he read pulled him in, and he gave his life to Jesus. Then came a strange loneliness. \"When I came to faith, I thought I was the only believer in Yemen,\" he said. \"For a long time, I didn't know any other Yemeni Christians.\" He was never actually alone He was wrong about being alone, and God kept proving it. Mohammad and his wife Alima, who came to Jesus after reading the Gospels herself, had been unable to have children for seven years. They prayed, and the infertility ended. Once, in a car accident, Mohammad says he saw a white light in the shape of a cross. Slowly he found other Yemeni believers, received discipleship, and today helps lead a house church in one of the hardest places on earth to follow Jesus. The man who thought he was the only one is now helping build a family of them. If you feel like the only believer in your world, take heart. Jesus is already gathering people you have not met yet, and He has not left you on your own.",
+      "content_zh": "默罕默德成长于也门,在一个保守的穆斯林家庭,在一个几乎完全没有可见教堂的国家. 大约十七年前,他在二手店里发现了一本圣经. 他带回家藏起来读,因为被抓到会损失一切. 他读到的东西把他拉进来 他把生命交给耶稣 然后出现了奇怪的孤独\n\n\"当我回到信仰中,我以为我是也门唯一的信徒,\"他说. \"很久以来,我不认识其他也门基督徒\". 他从不孤单 他不该独自一人 上帝一直在证明 默罕默德和他的妻子阿利玛在亲自阅读福音书后来到耶稣身边,已经无法生育7年. 他们祈祷,不孕症结束。\n\n有一次,在一次车祸中,默罕默德说看到十字架形状的白光. 他慢慢地找到了其他也门信徒,获得了门徒资格,今天帮助带领一所位于地球上最难的地方的房屋教堂追随耶稣. 认为自己是唯一一个的人 现在正在帮助他们建立一个家庭。 如果你觉得自己是世上唯一相信的人,请记住。\n\n耶稣已经聚集了你们尚未认识的人,他没有离开你们。",
+      "image": "https://doxa.app/api/og?title=He+found+a+Bible+in+a+secondhand+shop+and+thought+he+was+the+only+Christian+in+Yemen&tag=Found+Faith&type=grace&v=8b3b7b7da9",
+      "author": "",
+      "tags": [
+        "中东",
+        "平凡人的见证",
+        "祷告",
+        "家庭"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "中东",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-12T05:47:55.727776",
+      "extra": {
+        "story_score": 14,
+        "domain": "doxa.app"
+      },
+      "id": "8521553d2814e1ef"
+    },
+    {
+      "title": "A widow heard the good news from a travelling salesman and could not unhear it",
+      "url": "https://doxa.app/grace/pei-laos-widow-persecuted-faith",
+      "category": "lay",
+      "source": "Doxa · Grace Record 见证库",
+      "source_url": "https://doxa.app/grace/all",
+      "published": "2026-11-12",
+      "summary": "Laos· 2022",
+      "summary_zh": "老挝·2022年",
+      "title_zh": "一位寡妇从一位推销员那里听到了好消息，从此念念不忘。",
+      "content": "Pei was a fifty-two-year-old widow in Laos, raised the way her whole village was raised, worshipping ancestors and local spirits in a place where the government pushes atheism and neighbours warn that following the God of foreigners will offend the gods of home. Then a salesman came through and, somewhere between selling his goods, told her about Jesus. Salvation as a gift, not a payment. Pei believed it. She let go of the ancestor worship she had carried her whole life and quietly followed Jesus instead. The cost at her own front door She was discipled in secret for four months, growing strong enough to speak. The first people she told were her daughter and her son-in-law, who happens to be a policeman. They did not celebrate. He threatened her, saying that if she did not stop believing in Jesus, they would report her, jail her, or throw her out. In June they made good on it, tossing her clothes into the yard and telling her to go live with the people who gave her this Jesus. She went. She did not go back. A widow with nothing chose Jesus over a roof, because she had found something no one could evict from her heart. Following Jesus is not always safe, but it is always worth it. What Pei found is worth more than what it cost her, and it is offered to you too.",
+      "content_zh": "裴 was在老挝是一位52岁的寡妇,养大了整个村庄的养殖方式,在政府推崇无神论的地方崇拜祖先和地方灵灵,邻居警告说,追随外国人神会冒犯家乡神灵. 然后一个推销员走过来,在出售他的商品之间,告诉她耶稣的事. 救世是礼物,不是报酬\n\n裴 believed信之. 她放弃了她毕生怀念的祖先的崇拜,悄悄地跟随耶稣. 在她自己的前门付出的代价 她被秘密地关了四个月, 变得足够强大,可以说话。 她告诉的第一个人是她的女儿和女婿,她们碰巧是一名警察。 他们没有庆祝。\n\n他威胁她,说如果她不停止相信耶稣,他们会告发她,监禁她,或者把她赶出去. 6月,他们在上面做得很好,把她的衣服扔到院子里,并告诉她去和给她这个耶稣的人一起生活. 她去了 她去了吗? 她没有回去。 一个什么都没有的寡妇选择了耶稣 而不是一个屋顶, 因为她已经发现了一些没人能从她的心脏里赶走的东西。\n\n追随耶稣并不总是安全的,但总是值得的. 裴氏发现的比付出的代价更值钱,也是献给你的.",
+      "image": "https://doxa.app/api/og?title=A+widow+heard+the+good+news+from+a+travelling+salesman+and+could+not+unhear+it&tag=Found+Faith&type=grace&v=8b3b7b7da9",
+      "author": "",
+      "tags": [
+        "全球",
+        "平凡人的见证"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "全球",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-12T05:47:55.727852",
+      "extra": {
+        "story_score": 17,
+        "domain": "doxa.app"
+      },
+      "id": "818a3ed19a8edfe9"
+    },
+    {
+      "title": "35 priests could not help her. In a church she saw Jesus crush what was choking her",
+      "url": "https://doxa.app/grace/chandra-sri-lanka-vision-healing",
+      "category": "lay",
+      "source": "Doxa · Grace Record 见证库",
+      "source_url": "https://doxa.app/grace/all",
+      "published": "2026-11-12",
+      "summary": "🇱🇰North Central Province· 2021",
+      "summary_zh": "北中央省",
+      "title_zh": "35位神父都无法帮助她。在教堂里，她看到耶稣粉碎了正在扼住她喉咙的东西。",
+      "content": "Chandra lived in a rural village in Sri Lanka's North Central Province, and she was slowly falling apart. Pain, weakness, a heart that raced for no reason doctors could name. She and her family were Hindu, so they did what they knew to do. They went to priest after priest. Thirty-five of them. Nothing changed. In July 2021 they walked into a church instead. As people prayed for her, Chandra saw something. Demons were trying to strangle her, and then Jesus Christ stepped in and stamped on them. She felt the pain and the sickness drain out of her body as they were defeated. In the vision Jesus spoke Scripture over her, from Psalm 34. \"They looked to Him and were radiant,\" He said, and told her she would be radiant too if she trusted Him. The prayer a father prayed Her husband Dinesh, a day labourer, watched his wife come back to life and made God a promise. \"God, if you will heal my wife, I will dedicate my daughter for your service.\" The whole family, who had barely heard the name of Jesus, gave their lives to Him. Their daughter Tenusha told her class what had happened, that her mother was free and that Jesus forgives sinners and makes them new. They did not keep it to themselves. A house church started in their home with four people. By now it is forty-six. Jesus is still stronger than whatever is choking the life out of you. He steps in, He stamps it down, and He calls you radiant.",
+      "content_zh": "钱德拉住在斯里兰卡中北部省的一个乡村,她慢慢地分崩离析. 痛苦,软弱,一个无缘无故的心脏 医生无法命名 她和她的家人是印度教徒,所以他们做了他们知道的事。 他们跟随牧师去了牧师那里. 三十五门. 什么都没有改变。 2021年7月,他们走进了一座教堂。\n\n当人们为她祈祷时,钱德拉看到了一些东西. 恶魔试图掐死她,然后耶稣基督介入并盖在他们身上. 她感到痛苦和疾病 排出她的身体 当他们被打败。 在视觉中,耶稣说圣经 超过她,从Psalm 34。 他说:他们崇拜他,而且赞颂他超绝万物。他说:她也超绝万物,如果她信任他。\n\n一个父亲祈祷她的丈夫迪尼什(Dinesh),一个白天的劳工,看着他的妻子复活,并给上帝一个承诺. \"上帝,如果你能治愈我的妻子, 我将奉献我的女儿为你服务。\" 几乎听不到耶稣之名的全家都为他献出了生命.\n\n他们的女儿特努沙告诉了班上所发生的事情,她的母亲是自由的,耶稣宽恕了罪人,使他们成为新人. 他们没有保守秘密。 一所房屋教堂在他们家中开始,共有4人. 时已四十六. 耶稣仍然比任何 扼杀你生命的东西更强大 他走进来,他把它印下来,他叫你光辉。",
+      "image": "https://doxa.app/api/og?title=35+priests+could+not+help+her.+In+a+church+she+saw+Jesus+crush+what+was+choking+her&tag=Body+Healed&type=grace&v=8b3b7b7da9",
+      "author": "",
+      "tags": [
+        "全球",
+        "平凡人的见证",
+        "祷告",
+        "家庭"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "全球",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-12T05:47:55.728008",
+      "extra": {
+        "story_score": 18,
+        "domain": "doxa.app"
+      },
+      "id": "fac4c18331140b65"
+    },
+    {
+      "title": "Karma said he had to earn heaven. At 17 he heard he could be forgiven",
+      "url": "https://doxa.app/grace/simon-gounder-fiji-hindu-to-jesus",
+      "category": "lay",
+      "source": "Doxa · Grace Record 见证库",
+      "source_url": "https://doxa.app/grace/all",
+      "published": "2026-11-12",
+      "summary": "Rakiraki· 1990s",
+      "summary_zh": "拉基拉基·1990年代",
+      "title_zh": "因果报应说他必须修功德才能上天堂。17岁时，他听说自己可以得到宽恕。",
+      "content": "Simon Gounder was born into a strict Hindu family in Fiji. His great-grandfather had been shipped from India as a contract labourer after the British took the islands in 1874, and the family settled in a small village in the north of Viti Levu. Simon grew up inside a system with clear rules. \"As a Hindu, we believed in karma,\" he said. \"If you do good karma, you get to heaven. If you do bad karma, you will be punished.\" It was a ledger he could never quite balance. He knew his own wrongs too well. The night the ledger closed At seventeen, a friend invited him to a Christian youth meeting in another town. There he heard something that did not fit anything he had been taught. That Jesus Christ could simply forgive sins. Not offset them, not average them out over lifetimes. Forgive them. Simon felt the weight of his own failures and, for the first time, an offer to be free of them. \"I gave my life to Jesus that night,\" he said. He hid it from his parents at first. When they found out, they were not happy. But the son who came home changed did not stop there. In time he led his whole family to Christ, and he went on to plant a ministry that carries the same forgiveness to others. Karma keeps a running tab you can never clear. Jesus tears the tab up. Whatever you are carrying tonight, He is still in the business of forgiving it all at once.",
+      "content_zh": "西蒙·古德出生于斐济一个严格的印度教家庭. 他的曾祖父在1874年英国人攻占群岛后,作为合同工从印度被运走,全家定居在维提莱武北部的一个小村庄. 西蒙在一个有明确规则的系统中长大. \"作为一个印度教徒,我们相信因果报应,\"他说. \"若作善因缘即得上天.\n\n若作恶报果报果报果. \" 这是他无法平衡的分类账 他对自己的错误太了解了 结账的那一晚 17岁时,一位朋友邀请他到另一个城镇的一次基督教青年会议. 在那里,他听到一些不符合他所教过的东西。 耶稣基督可以宽恕罪过\n\n不抵消它们, 也不平均出一生。 原谅他们 西蒙感受到了自己失败的轻重,并首次提出摆脱这些失败. \"当晚我把生命交给耶稣,\"他说. 起初他瞒着父母 当他们发现, 他们不高兴。 但回家的儿子变了 并没有停下来。\n\n时他带领全家来到基督身边,他继续栽培一个对别人同样怀有宽恕的部. 卡玛一直有追踪器 你永远无法清除 耶稣撕开标签。 无论你今晚携带什么 他现在仍然要马上原谅这一切",
+      "image": "https://doxa.app/api/og?title=Karma+said+he+had+to+earn+heaven.+At+17+he+heard+he+could+be+forgiven&tag=Found+Faith&type=grace&v=8b3b7b7da9",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "平凡人的见证",
+        "家庭"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-12T05:47:55.728160",
+      "extra": {
+        "story_score": 13,
+        "domain": "doxa.app"
+      },
+      "id": "6c2c9ffbd4ce2414"
+    },
+    {
+      "title": "You can kill me, but you cannot take my faith in Jesus",
+      "url": "https://doxa.app/grace/nur-alam-afzal-hosen-bangladesh-kidnapped",
+      "category": "lay",
+      "source": "Doxa · Grace Record 见证库",
+      "source_url": "https://doxa.app/grace/all",
+      "published": "2026-11-12",
+      "summary": "🇧🇩Bangladesh· 2021-2022",
+      "summary_zh": "🇧🇩孟加拉国·2021-2022",
+      "title_zh": "你可以杀了我，但你不能夺走我对耶稣的信仰",
+      "content": "Nur Alam and Afzal Hosen left Islam to follow Jesus in 2021, and they were baptised soon after. They did not keep it quiet. They wanted the Muslim community they came from to know the Jesus they had found, so they handed out Bibles and booklets around their part of Bangladesh. That is when the trouble started. A group seized Nur and locked him in a room for thirty hours, no food, no water, no sleep, demanding he return to Islam and threatening to kill him and his family. He would not bend. \"At some point during the interrogation,\" Nur said, \"they became hopeless, seeing my strong faith in Jesus.\" A faith they could not confiscate Days after Nur was freed, they came for Afzal. They beat him and accused him of being paid to convert. His answer has the ring of the early church about it. \"You can kill me,\" he told them, \"but you cannot take my faith in the Lord Jesus away from me.\" Both men were released, bruised and exhausted and still standing. They had discovered the thing every threat runs into eventually. You can take a man's freedom, his comfort, even his life, but the faith Jesus plants in a heart is not yours to seize. If Jesus is worth that to two young men in Bangladesh, He is worth your whole life too.",
+      "content_zh": "努尔·阿拉姆(Nur Alam)和阿夫扎尔·霍森(Afzal Hosen)于2021年离开伊斯兰教跟随耶稣,他们不久就接受了洗礼. 他们没有保持沉默。 他们希望来自他们的穆斯林社区了解他们找到的耶稣,于是他们散发了他们所在的孟加拉国地区的圣经和小册子. 这就是问题开始的时候。\n\n一群人抓住努尔,把他锁在一个房间里30小时,没有食物,没有水,没有睡眠,要求他返回伊斯兰教,并威胁要杀死他和他的家人. 他不会弯腰的 \"在审讯期间的某个时候,\"努尔说:\"他们变得无望,看到我对耶稣的强烈信仰\". 努尔解放后,他们无法没收信仰,他们来到阿夫扎尔。\n\n他们殴打他,并指控他被收钱皈依。 他的答案是早期教会的戒指 他对他们说:你们可以杀我,但你们不能夺走我对主耶稣的信仰。 两人被释放,伤痕累累,仍然站立. 他们发现了每个威胁最终都遇到的东西\n\n你可以拿一个人的自由,他的舒适,甚至他的生命, 但是信仰耶稣植根于一个心脏 不是你的夺取。 如果耶稣对孟加拉国的两个年轻人来说是值得的,那么他也值得你一辈子。",
+      "image": "https://doxa.app/api/og?title=You+can+kill+me%2C+but+you+cannot+take+my+faith+in+Jesus&tag=Faith+Deepened&type=grace&v=8b3b7b7da9",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "平凡人的见证",
+        "家庭"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-12T05:47:55.728236",
+      "extra": {
+        "story_score": 9,
+        "domain": "doxa.app"
+      },
+      "id": "d02a1c26b2b5a602"
+    },
+    {
+      "title": "A soldier who should have died in battle walked into a demon's shrine",
+      "url": "https://doxa.app/grace/pastor-dano-myanmar-deliverance-village",
+      "category": "lay",
+      "source": "Doxa · Grace Record 见证库",
+      "source_url": "https://doxa.app/grace/all",
+      "published": "2026-11-12",
+      "summary": "🇲🇲Myanmar· 2010s",
+      "summary_zh": "🇲🇲缅甸·2010年代",
+      "title_zh": "一名本应死于战斗的士兵走进了恶魔的神殿",
+      "content": "Pastor Dano was a soldier before he was a pastor. He came out of the battlefield alive when he had no reason to, and he never shook the sense of why. \"I believe God preserved my life from death on the battlefield for a purpose,\" he said. The purpose showed up in a Buddhist village that wanted nothing to do with him. The vice chief's son was tormented, demon-possessed, and no one could help. Dano fasted and prayed for three days. Then, near midnight, he went to the shrine where the boy was and did the only thing he knew to do. \"I called upon the name of the Lord,\" he said, \"and the demon left the young man.\" The night the shrines fell silent Villagers said every evil spirit left the village at once. Dano went from shrine to shrine, praying against the darkness that had ruled the place for generations. The vice chief's family, who had braced for his anger, found grace instead. They gave their lives to Jesus, and four more families followed. The people who once opposed him now follow his lead. There is a church in that village today where there used to be shrines. The name of Jesus is still stronger than every dark thing that has ever frightened you. One believer, praying at midnight, was enough to set a whole village free.",
+      "content_zh": "牧师达诺在担任牧师之前是一名军人. 他毫无理由地活着走出战场,从未动摇过为什么的感官. \"我相信上帝为了某种目的在战场上拯救了我的生命\". 宗旨现于一佛村中欲与他无相. 副宰相的儿子被折磨,妖魔吞噬,无人能助.\n\n达诺斋戒祈祷三天. 然后,近午夜,他去了男孩所在的神殿,做了他唯一知道该做的事. \"我呼唤天主之名,\"他说:\"妖魔离开了少年. 夜神社失声村民说 每一个邪恶的灵魂 立刻离开村庄\n\n达诺从神社到神社,祈祷反抗历代统治这个地方的黑暗. 副局长的家族,他为愤怒而坚韧不拔,却找到了恩典。 他们把生命献给了耶稣,还有四个家庭随行. 曾经反对他的人现在遵循他的路线。 今天村里有一座教堂 曾经有神社\n\n耶稣的名字仍然比每件令你害怕的黑暗事物更强大. 一个信徒在午夜祈祷 足以让整个村庄自由",
+      "image": "https://doxa.app/api/og?title=A+soldier+who+should+have+died+in+battle+walked+into+a+demon%27s+shrine&tag=Set+Free&type=grace&v=8b3b7b7da9",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "平凡人的见证",
+        "祷告",
+        "家庭"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-12T05:47:55.728311",
+      "extra": {
+        "story_score": 13,
+        "domain": "doxa.app"
+      },
+      "id": "ef7cfefcbd2f3916"
+    },
+    {
+      "title": "Her church offering came to the exact amount of her power bill, to the penny",
+      "url": "https://doxa.app/grace/lina-johnson-power-bill-to-the-penny",
+      "category": "lay",
+      "source": "Doxa · Grace Record 见证库",
+      "source_url": "https://doxa.app/grace/all",
+      "published": "2026-11-12",
+      "summary": "🇺🇸United States· 2020s",
+      "summary_zh": "🇺🇸美国·2020年代",
+      "title_zh": "她的教会奉献金刚好等于她的电费，一分不差。",
+      "content": "Lina Johnson did not have enough to cover her power bill. She had told no one the amount. Not a friend, not her church, no one. It was her private worry, the kind you carry quietly and hope somehow resolves. That same week an offering came around at church for a family in need, and Lina gave what she could. Twenty-six cents. It was almost nothing, and she gave it anyway. Down to the penny The next day a friend told her the rest of the story. The offering the church had taken was for her. And when they counted it, it came to the exact amount of her power bill. To the penny. \"The offering they took in church yesterday was for me,\" Lina said, \"and it was the exact amount as my power bill. It was to the penny and I never told anyone how much my bill was.\" Here is the detail that undoes you. Had she given more than her twenty-six cents, the total would have overshot the bill, and the provision would have lost its edge. Even her small gift was part of God's arithmetic. God is not rounding up or guessing. He knew the number she never spoke aloud, and He met it precisely, through people who had no idea. The Father who counts the hairs on your head knows your bill too, down to the last penny.",
+      "content_zh": "莉娜·约翰逊没有足够的钱来支付她的权力法案. 她没有告诉任何人这个数额。 不是朋友,也不是她的教堂,没有人 这是她的私人担忧, 你悄悄地携带的, 希望某种程度上解决。 在同一周,教堂里出现了一具供奉物,供奉一个有需要的家庭,莉娜尽了力. 26分钱. 几乎什么都没有,她还是给了它。\n\n下到一分钱 第二天,一个朋友告诉她了其余的故事. 教堂的供奉是给她的 当他们数起来时, 她的权力法案的准确数额就到了。 至一分钱. \"他们昨天在教堂里接受的献礼是给我的,\"莉娜说,\"这是确切的金额,就像我的权力法案.\n\n我从来没有告诉任何人我的账单是多少\". 这是让你难受的细节 如果她付出超过26美分,总额会超过法案,而规定会失去优势. 她的小礼物也是上帝算术的一部分 神不是围观或猜测。\n\n他知道她从不大声说话的号码 他通过不知道的人 准确地认识了这个号码 算你头上头发的神父也知道你的帐单 一直到最后一分钱",
+      "image": "https://doxa.app/api/og?title=Her+church+offering+came+to+the+exact+amount+of+her+power+bill%2C+to+the+penny&tag=Provided+For&type=grace&v=8b3b7b7da9",
+      "author": "",
+      "tags": [
+        "北美",
+        "平凡人的见证",
+        "家庭"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "北美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-12T05:47:55.728458",
+      "extra": {
+        "story_score": 9,
+        "domain": "doxa.app"
+      },
+      "id": "db67c1c6d9dd8398"
+    },
+    {
+      "title": "« Servir comme Jésus » : le témoignage des 25.000 volontaires mobilisés pour Léon XIV",
+      "url": "https://fr.aleteia.org/2026/11/11/servir-se-faire-le-plus-petit-de-tous-comme-jesus-le-temoignage-de-foi-des-25-000-volontaires-mobilises-pour-leon-xiv/",
+      "category": "lay",
+      "source": "Aleteia · témoignages（法）",
+      "source_url": "https://fr.aleteia.org/feed/",
+      "published": "2026-11-12",
+      "summary": "Le chiffre est annoncé avec fierté et précision par don Máximo Jurvinovic, directeur de la communication de l’épiscopat argentin : au total, 25.077 bénévoles se sont inscrits sur les différents sites de la visite du Pape, à Buenos Aires, Claypole, Córdoba et Luján. Il salue leur « travail fantastique de service et de formation », soulignant qu’ils se sont beaucoup préparés pour assurer leurs missions. « Leur tâche a été merveilleuse, indispensable à l’ensemble des services nécessaires à cette vi",
+      "summary_zh": "阿根廷主教团传播事务主任马西莫·尤尔维诺维奇神父（Don Máximo Jurvinovic）自豪而准确地宣布了这一数字：共有25,077名志愿者在教宗访问的布宜诺斯艾利斯、克莱波尔、科尔多瓦和卢汉等不同地点报名。他赞扬他们“出色的服务和培训工作”，并强调他们为履行职责做了大量准备。“他们的工作非常出色，不可或缺。”",
+      "title_zh": "“像耶稣那样服务”：为列翁十四世动员的 25000 名志愿者的见证",
+      "content": "Le chiffre est annoncé avec fierté et précision par don Máximo Jurvinovic, directeur de la communication de l’épiscopat argentin : au total, 25.077 bénévoles se sont inscrits sur les différents sites de la visite du Pape, à Buenos Aires, Claypole, Córdoba et Luján. Il salue leur « travail fantastique de service et de formation », soulignant qu’ils se sont beaucoup préparés pour assurer leurs missions. « Leur tâche a été merveilleuse, indispensable à l’ensemble des services nécessaires à cette visite du Pape », insiste-t-il auprès d’Aleteia, exprimant la gratitude de l’organisation envers ces milliers de volontaires. Si les jeunes étaient nombreux, cette mobilisation a rassemblé toutes les générations. La moyenne d’âge dépassait même les 35 ans, souligne-t-il, voyant dans cet engagement « un symbole de l’enthousiasme de tout le peuple argentin ». Il rappelle également que le pays a toujours été très mobilisé lors des Journées mondiales de la jeunesse, qui ont contribué à faire grandir « l’esprit du volontariat ». Pour Guadalupe, jeune comptable, l’expérience de service Tout lire… The post « Servir comme Jésus » : le témoignage des 25.000 volontaires mobilisés pour Léon XIV appeared first on Aleteia .",
+      "content_zh": "阿根廷主教团传播事务主任马克西莫·尤尔维诺维奇先生（Don Máximo Jurvinovic）自豪而准确地宣布了这一数字：共有 25,077 名志愿者在教宗访问的各个地点（布宜诺斯艾利斯、克莱波尔、科尔多瓦和卢汉）报名。\n\n他赞扬他们“出色的服务和培训工作”，并强调他们为履行职责做了大量准备。他向Aleteia强调：“他们的工作非常出色，对于教宗此次访问所需的所有服务而言都必不可少。”他表达了组织方对数千名志愿者的感激之情。\n\n虽然年轻人占多数，但这场动员活动吸引了所有年龄段的人群。他指出，参与者的平均年龄甚至超过了 35 岁，他认为这种参与热情“象征着全体阿根廷人民的热情”。\n\n他还提到，在世界青年日期间，该国始终积极动员起来，这有助于“志愿服务精神”的蓬勃发展。对于年轻的会计师瓜达卢佩来说，服务经历……文章“像耶稣那样服务”：为利昂十四世动员的2.5万名志愿者的见证最初发表在Aleteia上。",
+      "image": "https://aleteia.org/api/og-image/?locale=fr&slug=2026%2F11%2F11%2Fservir-se-faire-le-plus-petit-de-tous-comme-jesus-le-temoignage-de-foi-des-25-000-volontaires-mobilises-pour-leon-xiv",
+      "author": "Cyprien Viet",
+      "tags": [
+        "拉美",
+        "平凡人的见证",
+        "见证",
+        "Actualités",
+        "Argentine",
+        "Bénévolat"
+      ],
+      "language": "fr",
+      "country": "FR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-12T05:48:35.945620",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 14,
+        "domain": "fr.aleteia.org"
+      },
+      "id": "b4dfb0d5379a170f"
     },
     {
       "title": "San León Magno : el Papa que defendió la fe y la civilización cristiana – INFOVATICANA",
@@ -99,33 +394,33 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:52.250997",
+      "fetched_at": "2026-11-12T05:48:41.390311",
       "extra": {
         "provider": "gdelt",
-        "query": "Christian testimony conversion story",
+        "query": "Christian testimony conversion",
         "domain": "infovaticana.com",
         "story_score": 7
       },
       "id": "eaa7526d69162eb3"
     },
     {
-      "title": "Sharing your faith : practical tips for evangelism",
-      "url": "https://www.christiantoday.com/news/sharing-your-faith-practical-tips-for-evangelism",
+      "title": "Why Did Prosecutors Agree To Omit References to Katy Perry From the Opening Statements at Trial ?",
+      "url": "https://www.ibtimes.co.uk/why-did-prosecutors-agree-omit-references-katy-perry-opening-statements-trial-1830886",
       "category": "lay",
       "source": "GDELT · 全球信主见证",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
-      "published": "2026-10-24",
-      "summary": "Sharing your faith, or evangelising, is not always an easy experience. For those of us who are not naturally extroverted or confident in public speaking, talking about our faith with people close to u",
-      "summary_zh": "分享信仰或传福音并不总是那么容易。对于我们当中那些天生不外向或不善于公开演讲的人来说，与亲近的人谈论我们的信仰",
-      "title_zh": "分享您的信仰：传福音的实用建议",
-      "content": "Sharing your faith, or evangelising, is not always an easy experience. For those of us who are not naturally extroverted or confident in public speaking, talking about our faith with people close to us, let alone complete strangers, can be nerve-wracking. Nonetheless, sharing the gospel is something all Christians have been called to participate in through the Great Commission (Matthew 28:19-20), regardless of our personality, intellectual knowledge or position within the church. As someone who regularly participates in street evangelism and teaches the Bible to young people, I have learnt a few lessons along the way. Here are some practical tips that may help you grow in confidence and approach evangelism with greater love, wisdom and faith. 1. Prepare yourself spiritually First and foremost, it is important to remember that someone’s spiritual growth or acceptance of Christ is ultimately not within our control. Faith is a gift from God, and it is by His grace that hearts are transformed (Ephesians 2:8-9; John 6:44). Our responsibility is to faithfully share the gospel while humbly entrusting the outcome into His hands (Romans 10:14-15). So, pray. Pray for the people you will encounter, for wisdom in your conversations and for the Holy Spirit to guide you (Colossians 4:3-4; James 1:5; Luke 12:12). Read your Bible regularly, not simply to accumulate knowledge or prepare answers, but to know God more deeply through His Word (2 Timothy 3:16-17; Psalm 119:11). The more His Word dwells in your heart, the more naturally it will flow into your conversations (Colossians 3:16; Matthew 12:34). Above all, learn to rely on the Holy Spirit rather than your own intellect, eloquence or comfort. As Paul reminds us in 1 Corinthians 3:6, one person plants, another waters, but it is God who gives the growth. 2. People are not as scary as they seem One thing I have learnt through evangelism is that people are often not as intimidating as we imagine. Despite our different backgrounds and beliefs, we are all human beings searching for something, whether that is meaning, love, belonging or purpose. If a friend, colleague or family member comes to you for advice or shares something they are struggling with, this can be a natural opportunity to explain how your faith has helped you through similar experiences. And when approaching strangers, you may be surprised by how open some people are to conversations about faith. Many actually know very little about the Bible beyond what they have encountered through popular culture, the media or secular perspectives. Others may have genuine questions but hesitate to ask them for fear of sounding ignorant or offensive. Rather than assuming someone will be hostile or uninterested, approach them with openness and a willingness to listen. You may discover that they are more curious than you expected. 3. Help people understand why they need Jesus and the Church A common response I encounter is something along the lines of, “If Christianity makes you happy, that's great, but it’s just not for me.” Others may say that they are not religious but respect all religions because they encourage people to do good. These responses offer opportunities to explain that Christianity is not simply about personal happiness, moral improvement or following another set of religious rules. At its heart, the Christian faith is about a relationship with God, founded on His love and truth (John 17:3; 1 John 4:9-10). The gospel is for everyone because we all fall short and need God’s grace (Romans 3:23). Jesus did not come merely to make our lives more comfortable, but to reconcile us to God and give us new life (2 Corinthians 5:18-19; John 10:10). Some people may argue that life has no ultimate meaning and that they do not need one to live. Yet even this outlook often involves living according to certain values, purposes or convictions. This can open a thoughtful conversation about where we find meaning and what ultimately gives our live",
-      "content_zh": "分享你的信仰,或传福音,并不总是容易的经历。 对于我们当中那些不自然地对公开演讲感到放荡或自信的人来说,与我们身边的人谈论我们的信仰,更不要说完全陌生的人了,可能会让人神经崩溃.\n\n然而,分享福音是所有基督徒通过大委员会(Matthew 28:19-20)被要求参与的事情,无论我们的个性、知识或教会中的地位如何。 作为经常参加街头福音仪式,向年轻人讲授《圣经》的人,我从中吸取了一些教训。\n\n这里有一些实用的提示,可能有助于你充满信心地成长,并以更大的爱、智慧和信心来对待福音派。 1. 首先,从精神上准备自己,必须记住,一个人的精神成长或对基督的接受最终不在我们的控制范围之内。 信仰是真主所赐的,是他的恩典所赐的。\n\n约翰6:44。 我们的责任是忠实地分享福音,同时谦卑地将结果交给他(罗姆人10:14-15)。 所以,祈祷。 祈祷你们将遇到的人,祈祷你们谈话中的智慧,祈祷圣灵指引你们(科洛斯人4:3-4;詹姆斯1:5;卢克12:12).\n\n经常阅读你的圣经,不仅仅是积累知识或准备答案,而是通过他的言语更深入地了解上帝(Timothy 3:16-17;Psalm 119:11). 他的话越是停留在你的心中,就越自然地会流进你的谈话中(Clossians 3:16;Matthew 12:34). 最重要的是,学会依靠圣灵 而不是你自己的智慧,言辞或安慰。\n\n正如保罗在科林斯3: 6中提醒我们的那样,一个人种植物,另一个水域,但生长的却是上帝。 2.人们没有看起来那么可怕 我从福音传道中学到的一件事是,人们往往不像我们想象的那样害怕。\n\n尽管我们有不同的背景和信仰,但我们都是在寻找某种东西的人,无论是意义、爱情、归属还是目的。 如果一个朋友、同事或家庭成员来找你寻求建议或分享他们正在挣扎的东西,这可以是一个自然的机会来解释你的信仰如何帮助你通过类似的经验。\n\n当接近陌生人时,你可能会对有些人对谈论信仰的开放性感到惊讶。 许多人实际上对圣经了解甚少,超出了他们通过流行文化,媒体或世俗观点所遭遇的. 其他人可能会有真正的问题,但由于害怕听上去无知或冒犯而犹豫不决。\n\n与其假设有人会怀有敌意或不感兴趣,不如公开和愿意倾听他们的意见。 你可能会发现他们比你想象的更好奇 3个\n\n帮助人们理解为什么他们需要耶稣和教会。 我遇到的一个共同反应是,“如果基督教让你快乐,那就太好了,但对我来说却不是。 ” 其他人可能说他们不是宗教,而是尊重所有宗教,因为他们鼓励人们做好事。\n\n这些回应为解释基督教不仅仅是个人幸福,道德改善或遵循另一套宗教规则提供了机会. 基督教信仰的核心是和上帝的关系,建立在他的爱与真理之上(John 17:3; 1 John 4:9-10). 福音是给每个人的,因为我们都不足,需要上帝的恩惠(罗姆人3:23)。\n\n耶稣的到来不仅仅是为了使我们的生活更加舒适,而是使我们与上帝和解,给我们新的生活(2科林斯人5:18-19;约翰10:10). 有些人可能认为生命没有最终意义,他们不需要一个人来生活. 然而,即使这种前景也往往涉及按照某些价值观、宗旨或信念生活。\n\n这可以打开一个深思熟虑的谈话 关于我们在哪里找到意义 并最终给我们的生活",
-      "image": "https://www.christiantoday.com/media/original/thumbnail/14/57/145725.jpg",
-      "author": "christiantoday.com",
+      "published": "2026-11-08",
+      "summary": "Prosecutors agreed to remove references to Katy Perry from their opening statement at Russell Brand's London rape trial after objections from his lawyers. The decision emerged on Thursday, 5 November ",
+      "summary_zh": "在拉塞尔·布兰德的伦敦强奸案庭审中，经其律师提出异议，检方同意从开庭陈述中删除提及凯蒂·佩里的内容。该决定于11月5日星期四公布。",
+      "title_zh": "为什么检察官同意在庭审开场陈述中省略对凯蒂·佩里的提及？",
+      "content": "Prosecutors agreed to remove references to Katy Perry from their opening statement at Russell Brand's London rape trial after objections from his lawyers. The decision emerged on Thursday, 5 November 2026, after a jury returned verdicts at Southwark Crown Court. Brand, 51, was convicted of one count of rape and three counts of sexual assault involving four women. Jurors acquitted him of two further rape charges and one count of attempted indecent assault. He had denied all seven charges, which concerned six women. Details of the pretrial discussions became public after reporting restrictions ended. They showed how Brand's former marriage was kept out of the prosecution's opening address, although he later mentioned Perry while giving evidence. Why Katy Perry References Were Removed From the Opening Lead prosecutor Riel Karmy-Jones KC acknowledged in written submissions that references to Brand's relationship with Perry after 2009 'may be sensitive'. According to Sky News' court reporting, prosecutors were 'content to remove these from the opening' following defence submissions. The agreement was limited to the opening statement. It did not prevent every mention of Perry during the proceedings or establish that the relationship itself was evidence of wrongdoing. Perry was not accused of any offence. Prosecutors also agreed to leave out references to Brand's earlier religious beliefs and his 2024 baptism. His Christian conversion was nevertheless mentioned during questioning of his wife, Laura, showing that the restrictions on the opening did not cover all subsequent testimony. Other arguments before the trial concerned references to Brand's past drug and alcohol use. His lawyers challenged their relevance to the allegations, and material about treatment at a sex addiction clinic was omitted from a former assistant's evidence. Those disputes were separate from the agreement concerning Perry. The Crown Prosecution Service confirmed that investigators had not asked Perry for a witness statement. Senior Crown Prosecutor David Roberts said reasonable lines of inquiry relevant to the charges had been pursued. There is no basis in that statement to suggest Perry refused to cooperate. Katy Perry's Marriage Still Entered the Courtroom Perry and Brand began dating in 2009 and married in Rajasthan, India, in 2010. They separated in December 2011, and their divorce was finalised in 2012. The offences for which Brand was convicted took place between 2004 and 2009. During his evidence, Brand referred to the marriage and said it had brought him 'staggering fame'. The comment arose from his own testimony, not the prosecution's opening statement. It did not turn Perry into a witness or complainant. The Crown Prosecution Service said the women whose cases resulted in convictions came forward independently after a television investigation aired in September 2023. Prosecutors relied on their accounts and testimony from other witnesses to present evidence of Brand's conduct. Following the verdict, Roberts said Brand had 'used his celebrity status to commit sexual crimes'. The agency thanked the women for coming forward and stressed that sexual offences can be prosecuted years after they occur. The complainants have lifelong anonymity. Mr Justice Joel Bennathan refused Brand bail and remanded him in custody ahead of sentencing on Monday, 9 November. The judge warned that he faced a 'significant custodial term'. Rape carries a maximum penalty of life imprisonment in England and Wales. © Copyright IBTimes 2026. All rights reserved.",
+      "content_zh": "检察官同意在罗素·布兰德的伦敦强奸案审判中,在他的律师反对下,从他们的开场白中删除提及凯蒂·佩里的内容. 2026年11月5日星期四,在南华克刑事法院的陪审团重回判决后,决定出现. 51岁的Brand被判犯有1项强奸罪和3项性侵犯罪,涉及4名妇女。\n\n陪审员宣布他无罪,罪名是另外两项强奸指控和一项企图猥亵罪。 他否认了涉及6名妇女的所有7项指控。 审前讨论的细节在报告限制结束后公布。 他们展示了布兰德以前的婚姻如何被保留在检方的开幕词之外,尽管他后来在提供证据时提到了佩里.\n\n为何Katy Perry的参考文献被从开业首席检察官Riel Karmy-Jones KC删除, 根据Sky News的法庭报道, 检察官在辩方陈述之后, 协议仅限于开场白。\n\n它没有阻止在诉讼过程中每一次提及佩里,也没有确定关系本身是不法行为的证据. 佩里没有被指控任何罪名. 检察官还同意不提及布兰德早先的宗教信仰和2024年的洗礼.\n\n然而,在审问他的妻子劳拉时,他皈依基督教被提到,这表明对开庭的限制并不包括后来的所有证词。 审判前的其他论点涉及布兰德过去吸毒和酗酒的情况。\n\n他的律师对这些指控的相关性提出质疑,前助理的证据中遗漏了在性瘾诊所治疗的材料。 这些争端与关于佩里的协议是分开的。 皇家检察机关确认调查人员没有要求佩里提供证人证词.\n\n高级皇家检察官David Roberts说,已经对指控进行了合理的调查。 该声明没有根据表明Perry拒绝合作。 Katy Perry's Marriage Still into the Courtroom Perry and Brand)于2009年开始约会,2010年在印度拉贾斯坦邦结婚. 他们于2011年12月分居,2012年最终离婚.\n\nBrand被定罪的罪行发生在2004年至2009年期间。 在他的证据中,布兰德提到了这段婚姻,并说这给他带来了\"恶搞的名声\". 评论来自他本人的证词,而不是检方的开场白。 它没有将Perry变成证人或投诉人。\n\n皇家检察院说,在2023年9月播出的电视调查之后,那些案件导致定罪的妇女独立地站出来。 检察官依靠他们的陈述和其他证人的证词来提出布兰德行为的证据. 判决后,罗伯茨表示布兰德\"利用名人身份犯下性犯罪\".\n\n该机构感谢这些妇女站出来,并强调在性犯罪发生数年后可以对其进行起诉。 申诉人一生匿名。 Joel Bennathan法官拒绝了Brand保释,并在11月9日星期一判决前还押候审。 法官警告说,他面临“重大监禁期”。\n\n在英格兰和威尔士,强奸最高可判处无期徒刑。 版权所有 IBTimes 2026. 版权所有。",
+      "image": "https://d.ibtimes.co.uk/en/full/1842681/katy-perry.png",
+      "author": "ibtimes.co.uk",
       "tags": [
         "全球",
         "平凡人的见证",
-        "祷告"
+        "家庭"
       ],
       "language": "en",
       "country": "US",
@@ -133,51 +428,14 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:57.732813",
+      "fetched_at": "2026-11-12T05:48:44.621559",
       "extra": {
         "provider": "gdelt",
-        "query": "Christian testimony conversion story",
-        "domain": "christiantoday.com",
-        "story_score": 4
+        "query": "Christian testimony conversion",
+        "domain": "ibtimes.co.uk",
+        "story_score": 6
       },
-      "id": "90b30a06523df272"
-    },
-    {
-      "title": "From Muslim Refugee to Catholic Priest and Other Beautiful Conversion Stories - ZENIT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWk0xRWR3NS0wR2dEejlxRTR3QjJmVXViWkM5Ykk1SVVLYlY1dVVLR3YwNGlaU1p5QWpaZG5RR1F3M2FLMGFKRDhDek5zS1luQVoyVUlFWWdVb29SdEp1NlBFd0I2SXZHdkxpcHJOQzhyYmxrc0xnQ19vTnFZOTNTamhyUUh5MThEcUdWWW1fZXRNdEJLeTlVWFplWFNqMWktMy0zSUdkSDZUSlE?oc=5",
-      "category": "lay",
-      "source": "GDELT · 全球信主见证",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
-      "published": "2026-07-15",
-      "summary": "From Muslim Refugee to Catholic Priest and Other Beautiful Conversion Stories ZENIT - English",
-      "summary_zh": "从穆斯林难民到天主教神父，以及其他动人的皈依故事ZENIT - 英文",
-      "title_zh": "从穆斯林难民到天主教神父，以及其他动人的皈依故事——ZENIT",
-      "content": "",
-      "content_zh": "",
-      "image": "",
-      "author": "English",
-      "tags": [
-        "全球",
-        "平凡人的见证",
-        "见证"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "全球",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-12T01:49:45.727586",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian testimony conversion story",
-        "publisher": "English",
-        "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWk0xRWR3NS0wR2dEejlxRTR3QjJmVXViWkM5Ykk1SVVLYlY1dVVLR3YwNGlaU1p5QWpaZG5RR1F3M2FLMGFKRDhDek5zS1luQVoyVUlFWWdVb29SdEp1NlBFd0I2SXZHdkxpcHJOQzhyYmxrc0xnQ19vTnFZOTNTamhyUUh5MThEcUdWWW1fZXRNdEJLeTlVWFplWFNqMWktMy0zSUdkSDZUSlE?oc=5",
-        "resolved": false,
-        "story_score": 8,
-        "domain": "news.google.com"
-      },
-      "id": "cdbeb57083b88080"
+      "id": "a50d472afaf1cb92"
     },
     {
       "title": "Sala das Graças preserva histórias de fé, esperança e devoção - Notícias",
@@ -203,7 +461,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:48:54.516163",
+      "fetched_at": "2026-11-12T05:47:54.453223",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -241,7 +499,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:48:54.098909",
+      "fetched_at": "2026-11-12T05:47:54.018180",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -278,7 +536,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:48:54.833713",
+      "fetched_at": "2026-11-12T05:47:54.826585",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -315,7 +573,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:48:54.142027",
+      "fetched_at": "2026-11-12T05:47:54.198300",
       "extra": {
         "provider": "google_news",
         "query": "India Christian conversion testimony story",
@@ -352,7 +610,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:48:54.516932",
+      "fetched_at": "2026-11-12T05:47:54.453676",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -389,7 +647,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:48:54.517269",
+      "fetched_at": "2026-11-12T05:47:54.453913",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -400,43 +658,6 @@
         "domain": "news.google.com"
       },
       "id": "5a6ec6179cf53a8b"
-    },
-    {
-      "title": "Strange Phenomena and Spiritual Warfare: A Catholic Convert’s Testimony",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HNVBvbmNWNm9HMUVreFo4TWFVWkhIeU5NWDN2eUFNMUJtWjIxcG5NYzU3VmNkTUxjb0tvNmRQZXJCaEhZb1REZjF2WFRpdElaUDIySkZtWHNnWG5VbndsWHNRY0tRWEFjREx1WXdFbw?oc=5",
-      "category": "lay",
-      "source": "北美信主见证",
-      "source_url": "https://news.google.com/rss/search",
-      "published": "2024-05-06",
-      "summary": "Strange Phenomena and Spiritual Warfare: A Catholic Convert’s Testimony National Catholic Register",
-      "summary_zh": "奇怪的现象和精神战：天主教皈依者的证词国家天主教登记册",
-      "title_zh": "奇怪的现象和精神战：天主教皈依者的证词",
-      "content": "",
-      "content_zh": "",
-      "image": "",
-      "author": "National Catholic Register",
-      "tags": [
-        "北美",
-        "平凡人的见证",
-        "见证"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "北美",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-11T08:14:25.033591",
-      "extra": {
-        "provider": "google_news",
-        "query": "Christian conversion testimony story",
-        "publisher": "National Catholic Register",
-        "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HNVBvbmNWNm9HMUVreFo4TWFVWkhIeU5NWDN2eUFNMUJtWjIxcG5NYzU3VmNkTUxjb0tvNmRQZXJCaEhZb1REZjF2WFRpdElaUDIySkZtWHNnWG5VbndsWHNRY0tRWEFjREx1WXdFbw?oc=5",
-        "resolved": false,
-        "story_score": 4,
-        "domain": "news.google.com"
-      },
-      "id": "5e371804f8c64826"
     },
     {
       "title": "'Cabrini' film tells the story of an empire of hope built by a 'little woman' with great faith",
@@ -462,7 +683,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:48:55.085023",
+      "fetched_at": "2026-11-12T05:47:55.095961",
       "extra": {
         "provider": "google_news",
         "query": "orphan rescued missionary story",
@@ -499,7 +720,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:48:54.834079",
+      "fetched_at": "2026-11-12T05:47:54.826971",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -535,7 +756,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:48:54.196700",
+      "fetched_at": "2026-11-12T05:47:54.050317",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -572,7 +793,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:48:54.517429",
+      "fetched_at": "2026-11-12T05:47:54.454013",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -608,7 +829,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T01:48:54.197563",
+      "fetched_at": "2026-11-12T05:47:54.050838",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -644,14 +865,14 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T00:25:32.761884",
+      "fetched_at": "2026-11-12T05:47:54.018539",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
         "publisher": "キリスト新聞社ホームページ",
         "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YZ01fYmE2WVZ5WEVNeU1wZTMyNGd3TEFUSU14NmhWamk5dWVidWE1OU5Id19lQnB5aFgtVTVKUEd6VE5CeWtKRDExQjNWOHkyZ3dR?oc=5",
         "resolved": false,
-        "story_score": 4,
+        "story_score": 6,
         "domain": "news.google.com"
       },
       "id": "1646da1262b4c174"
