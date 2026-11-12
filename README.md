@@ -11,9 +11,10 @@
 ## 每日流程
 
 ```
-全球源（直连 RSS + Google News 各地区版位 + GDELT）
-   → 去重 → 非英语标题/摘要预译中 → 故事判别（挡掉新闻/书评/灵修/神学/活动…）
-   → 解出原文直链、补抓全文 → 标题/摘要/正文译中
+全球源（直连 RSS + 多语种专门故事站 + Google News 各地区版位 + GDELT）
+   → 源级关键词白/黑名单过滤 → 去重 → 非英语标题/摘要预译中
+   → 故事判别（挡掉新闻/书评/灵修/神学/活动…）
+   → generic 列表源先补抓全文，再解出原文直链、补抓全文 → 标题/摘要/正文译中
    → 合并入库（按采集时间保留 365 天）→ 生成静态站 → Cloudflare Pages
 ```
 
@@ -28,11 +29,36 @@
 | 类型 | 覆盖 |
 | --- | --- |
 | 直连全文订阅 | 跨洲的见证、宣教、教会历史、受逼迫教会站点（I Am Second、Mission Network News、IMB、Assist News、TGC、Desiring God、Banner of Truth、Christianity Today、Christian Post、VOM、Wycliffe 等） |
+| 多语种专门故事站 | **D 段 9 个源**：Doxa Grace Record 1600+ 见证（英）、SABDA Kesaksian（印尼）、ChristianToday 韩日双站、中華宣教聯盟宣教故事1001（中）、Aleteia témoignages（法）、GodReports（国际）、CARF Historias y Testimonios（西）、Russian Pentecostal Свидетельства（俄）——全部返回**站内原文直链**，每篇可读全文 |
 | Google News 地区版位 | 非洲（尼日利亚 / 肯尼亚 / 南非 / 加纳 / 法语非洲 / 葡语非洲）、中国与华人（大陆 / 台湾 / 香港）、亚洲（印度 / 韩国 / 日本 / 印尼 / 菲律宾）、中东、拉美（巴西 / 墨西哥 / 亚马逊）、欧洲（英国 / 法国 / 乌克兰）、北美、大洋洲 |
-| 语言 | 英、中、法、葡、西、日、韩、印尼等 |
+| 语言 | 实测入库 8 语种：英、葡、法、韩、中、印尼、西、日（另接入俄语源，产出随站点更新） |
 | GDELT 全球文档库 | 返回原文直链，作为 Google 之外的兜底，可直接抓正文 |
 
 源清单见 `config/sources.yaml`。**加一个源**：照抄一段，改 `name` / `country` / `language` / `extra.query` 即可，第二天自动生效。
+
+### 全站型媒体源的关键词过滤
+
+韩日基督教新闻站的全站 RSS 会混入娱乐、政治、社会新闻（韩语源实测约 75% 是非故事内容）。给源加两个可选字段即可按词过滤：
+
+```yaml
+    include_keywords: "간증,증언,회심,..."   # 白名单：标题/摘要需命中其一才保留
+    exclude_keywords: "가수,정치,선거,..."    # 黑名单：命中即丢弃
+```
+
+多个词用**逗号分隔的字符串**写法（内置零依赖 YAML 解析器不支持多行列表，两种写法 collector 都兼容）。判定基于标题+摘要，判别器还会做第二层故事形态筛查。
+
+### 列表型文库源（parser: generic）
+
+对没有 RSS、靠目录页组织的文库站（如 Doxa），用 CSS 选择器直接解析列表：
+
+```yaml
+    selector_items: "a.grace-card"   # 每个条目的容器
+    selector_title: "h3"             # 标题所在元素
+    selector_link: "a"               # 链接所在元素（取不到时回退到容器自身）
+    selector_summary: "p"            # 摘要（可选）
+```
+
+列表条目只有标题摘要，collector 会在判别前自动补抓详情页全文（每源限量 15 篇），避免被「无正文」整批误杀。站点有 WAF / 406 时加 `headers`（浏览器 UA）。
 
 ## 站点结构
 
@@ -105,7 +131,7 @@ Pages 项目名 `christian-story`，需仓库 Secrets：`CLOUDFLARE_API_TOKEN`�
 
 > **网络说明**：Google News 在中国大陆网络常不可达，本机跑 `python run.py full` 基本抓不到东西，这是正常的；采集一律由 GitHub Actions 的美国 IP 完成。改完代码直接 `git push origin master` 即可，CI 会自动搜罗并发布；想立刻重跑一次，到 Actions 手动 `Run workflow`（`workflow_dispatch`）。首次搜罗之前，首页会显示一条「等待首次运行」的提示，不会出现一堆 0。
 
-> **本机 Python 版本**：若本机 Python 较新（如 3.15）没有 `pyyaml` 预编译包，`pip install -r requirements.txt` 会卡在编译。`src/config_loader.py` 已内置零依赖的 YAML 子集解析兜底，只装 `requests / feedparser / beautifulsoup4 / jinja2` 也能跑离线构建与采集。CI 用 Python 3.12，无此问题。
+> **本机 Python 版本**：若本机 Python 较新（如 3.15）没有 `pyyaml` 预编译包，`pip install -r requirements.txt` 会卡在编译。`src/config_loader.py` 已内置零依赖的 YAML 子集解析兜底，只装 `requests / feedparser / beautifulsoup4 / jinja2` 也能跑离线构建与采集。CI 用 Python 3.12，无此问题。**注意：不要把 `pyyaml` 加进 `requirements.txt`**——新版 Python 无 wheel 时 pip 会源码编译，没装 MSVC 构建工具链就直接失败，导致 CI 安装依赖整体挂掉；关键词过滤已改为逗号字符串写法，不依赖完整 YAML。
 
 ## 翻译与版权
 
