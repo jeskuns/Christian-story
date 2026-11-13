@@ -1,8 +1,8 @@
 {
   "category": "lay",
   "label": "平凡人的见证",
-  "count": 25,
-  "updated_at": "2026-11-12T13:55:26.373246+08:00",
+  "count": 30,
+  "updated_at": "2026-11-13T09:00:45.130211+08:00",
   "articles": [
     {
       "title": "How a Conversation This Week Made Me Rethink How Grace Works",
@@ -10,7 +10,7 @@
       "category": "lay",
       "source": "Christianity Today",
       "source_url": "https://www.christianitytoday.com/feed/",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "This piece was adapted from Russell Moore’s newsletter. Subscribe here. A few months ago, a younger Christian was talking to me about a really traumatic situation he had been through, and he worried because he expected his faith to make it easier to put it all behind him. “Why can’t I just move on?” he said. I  Read more...   The post  How a Conversation This Week Made Me Rethink How Grace Works  appeared first on  Christianity Today .",
       "summary_zh": "本文改编自拉塞尔·摩尔（Russell Moore）的通讯。请在此订阅。几个月前，一位年轻的基督徒向我讲述了他经历的一段非常痛苦的经历，他感到忧虑，因为他原本以为自己的信仰能让他更容易地将这一切抛在脑后。“我为什么就不能放下过去呢？”他说道。我  阅读更多……   这篇题为《本周的一次谈话让我重新思考恩典是如何运作的》的文章  最初发表在《今日基督教》上。",
       "title_zh": "本周的一次谈话让我重新思考恩典是如何发挥作用的",
@@ -31,7 +31,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T05:47:46.629251",
+      "fetched_at": "2026-11-13T00:54:43.731283",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -45,7 +45,7 @@
       "category": "lay",
       "source": "Christianity Today",
       "source_url": "https://www.christianitytoday.com/feed/",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "What just happened? That’s the question I asked myself Wednesday morning, waking up to see Tuesday’s midterm election results. My home state of Texas just engaged in a dramatic political U-turn that left everyone from Maine to Hawaii with jaws dropped in total surprise. Texas not only sent State Rep. James Talarico to the US  Read more...   The post  After Midterms, Two Paths Remain for the Right and the Left  appeared first on  Christianity Today .",
       "summary_zh": "刚刚发生了什么? 这是星期三早上我问自己的问题, 我家乡的德克萨斯州刚刚发生了一场戏剧性的政治变迁, 离开所有从缅因州到夏威夷的人, 下巴都掉下来了, 真是令人惊讶。 德克萨斯州不仅把詹姆斯・塔拉里科 送到了美国 更...\n\n在中学期之后,",
       "title_zh": "中期选举后，共和党和民主党仍有两条路可走",
@@ -66,7 +66,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T05:47:47.216173",
+      "fetched_at": "2026-11-13T00:54:44.203941",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -80,7 +80,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "🇲🇱Lere· 1981",
       "summary_zh": "🇲🇱莱雷·1981年",
       "title_zh": "他被教导说基督徒不祷告。然后，他看到叔叔在饭前祷告。",
@@ -100,7 +100,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T05:47:55.727681",
+      "fetched_at": "2026-11-13T00:54:50.980774",
       "extra": {
         "story_score": 8,
         "domain": "doxa.app"
@@ -113,7 +113,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "🇾🇪Yemen· 2000s",
       "summary_zh": "🇾🇪也门·21世纪初",
       "title_zh": "他在一家二手商店里找到了一本圣经，以为自己是也门唯一的基督徒。",
@@ -133,7 +133,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T05:47:55.727776",
+      "fetched_at": "2026-11-13T00:54:50.980878",
       "extra": {
         "story_score": 14,
         "domain": "doxa.app"
@@ -146,7 +146,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "Laos· 2022",
       "summary_zh": "老挝·2022年",
       "title_zh": "一位寡妇从一位推销员那里听到了好消息，从此念念不忘。",
@@ -164,7 +164,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T05:47:55.727852",
+      "fetched_at": "2026-11-13T00:54:50.980975",
       "extra": {
         "story_score": 17,
         "domain": "doxa.app"
@@ -177,7 +177,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "🇱🇰North Central Province· 2021",
       "summary_zh": "北中央省",
       "title_zh": "35位神父都无法帮助她。在教堂里，她看到耶稣粉碎了正在扼住她喉咙的东西。",
@@ -197,7 +197,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T05:47:55.728008",
+      "fetched_at": "2026-11-13T00:54:50.981181",
       "extra": {
         "story_score": 18,
         "domain": "doxa.app"
@@ -210,7 +210,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "Rakiraki· 1990s",
       "summary_zh": "拉基拉基·1990年代",
       "title_zh": "因果报应说他必须修功德才能上天堂。17岁时，他听说自己可以得到宽恕。",
@@ -229,7 +229,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T05:47:55.728160",
+      "fetched_at": "2026-11-13T00:54:50.981373",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -242,7 +242,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "🇧🇩Bangladesh· 2021-2022",
       "summary_zh": "🇧🇩孟加拉国·2021-2022",
       "title_zh": "你可以杀了我，但你不能夺走我对耶稣的信仰",
@@ -261,7 +261,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T05:47:55.728236",
+      "fetched_at": "2026-11-13T00:54:50.981468",
       "extra": {
         "story_score": 9,
         "domain": "doxa.app"
@@ -274,7 +274,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "🇲🇲Myanmar· 2010s",
       "summary_zh": "🇲🇲缅甸·2010年代",
       "title_zh": "一名本应死于战斗的士兵走进了恶魔的神殿",
@@ -294,7 +294,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T05:47:55.728311",
+      "fetched_at": "2026-11-13T00:54:50.981577",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -307,7 +307,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-12",
+      "published": "2026-11-13",
       "summary": "🇺🇸United States· 2020s",
       "summary_zh": "🇺🇸美国·2020年代",
       "title_zh": "她的教会奉献金刚好等于她的电费，一分不差。",
@@ -326,12 +326,179 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-12T05:47:55.728458",
+      "fetched_at": "2026-11-13T00:54:50.981770",
       "extra": {
         "story_score": 9,
         "domain": "doxa.app"
       },
       "id": "db67c1c6d9dd8398"
+    },
+    {
+      "title": "To Mainstream Their Faith, Indians Are Opening Christian Cafés",
+      "url": "https://www.christianitytoday.com/2026/11/to-mainstream-their-faith-indians-are-opening-christian-cafes/",
+      "category": "lay",
+      "source": "Christianity Today",
+      "source_url": "https://www.christianitytoday.com/feed/",
+      "published": "2026-11-13",
+      "summary": "Leaning against a tree trunk, a young man in his 20s strummed a worship song on his guitar. Around him, five others lounged in their chairs, tapping their feet to the music. Three more dug into plates of biryani at their tables. Under the warm glow of halogen lights, a group from a Hyderabad church  Read more...   The post  To Mainstream Their Faith, Indians Are Opening Christian Cafés  appeared first on  Christianity Today .",
+      "summary_zh": "一位 20 多岁的年轻人倚靠在树干上，用吉他弹奏着一首赞美诗。在他周围，另外五个人懒洋洋地坐在椅子上，随着音乐的节奏打着拍子。还有三个人坐在桌旁，埋头吃着盘中的印度香饭。在卤素灯的温暖光线下，一群来自海得拉巴教会的人……阅读更多……这篇文章《为了使他们的信仰主流化，印度人正在开设基督教咖啡馆》最初发表在《今日基督教》上。",
+      "title_zh": "为了使他们的信仰主流化，印度人正在开设基督教咖啡馆",
+      "content": "Leaning against a tree trunk, a young man in his 20s strummed a worship song on his guitar. Around him, five others lounged in their chairs, tapping their feet to the music. Three more dug into plates of biryani at their tables. Under the warm glow of halogen lights, a group from a Hyderabad church Read more... The post To Mainstream Their Faith, Indians Are Opening Christian Cafés appeared first on Christianity Today .",
+      "content_zh": "一位 20 多岁的年轻人倚靠在树干上，用吉他弹奏着一首赞美诗。在他周围，另外五个人懒洋洋地坐在椅子上，随着音乐的节奏打着拍子。还有三个人坐在桌旁，埋头吃着盘中的印度香饭。在卤素灯的温暖光线下，来自海得拉巴一家教会的一群人……阅读更多……这篇文章《为了让他们的信仰成为主流，印度人正在开设基督教咖啡馆》最初发表在《今日基督教》上。",
+      "image": "https://www.christianitytoday.com/wp-content/uploads/2026/11/chirag-christian-cafe-india.jpg?resize=1200,628",
+      "author": "Vikram Mukka",
+      "tags": [
+        "北美",
+        "平凡人的见证",
+        "Church Life",
+        "Asia",
+        "India"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "北美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-13T00:54:42.460787",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "christianitytoday.com"
+      },
+      "id": "c9a01c71ef4e86b6"
+    },
+    {
+      "title": "Aku Simon dari Kirene",
+      "url": "https://kesaksian.sabda.org/aku_simon_dari_kirene",
+      "category": "lay",
+      "source": "SABDA · Kesaksian 见证",
+      "source_url": "https://kesaksian.sabda.org/",
+      "published": "2026-11-13",
+      "summary": "",
+      "summary_zh": "我是来自古利内的西门。 我的名字表明我住在非洲大陆。",
+      "title_zh": "我是古利奈人西门。",
+      "content": "Aku Simon dari Kirene. Namaku menunjukkan bahwa aku tinggal di benua Afrika. Meski demikian, kulitku tidak hitam dan bibirku pun tidak tebal. Dan meskipun sudah selama beberapa generasi keluargaku berdiam di Kirene, ibu kota Kireneika -- sebuah kota Yunani di Afrika Utara yang terkenal karena kemakmuran dan para ahli filsafatnya -- kulitku tidaklah putih. Aku Simon dari Kirene. Aku orang Yahudi asli sampai ke jantung hati. Sejak kecil, kutaati semua hukum agama tanpa kecuali, walaupun aku tidak lagi fasih berbahasa Aram akibat dibesarkan dalam masyarakat yang berbahasa Yunani. Aku Simon dari Kirene. Aku tidak ingin berkisah tentang diri sendiri. Juga tidak tentang semua pengalaman hidupku. Aku cuma ingin bercerita tentang pengalamanku yang satu itu. Pengalaman yang kemudian mengubah seluruh jalan hidupku. Dan seluruh jalan hidup Anda, sekiranya Anda juga mengalaminya. Hari itu adalah hari Jumat. Aku baru saja tiba di Yerusalem pagi itu. Tujuanku melakukan perjalanan yang jauh itu adalah untuk merayakan hari raya Paskah. Setiap tahun aku melakukannya. Tidak sedikit pun aku heran melihat orang-orang penuh sesak memadati kota. Walaupun letih, segera setelah menaruh barang-barangku di hotel dan membersihkan badan, aku keluar berjalan-jalan untuk menikmati keriuhan kota yang sedang larut dalam semarak pesta. Lengking jeritan anak-anak yang berlari ria kian kemari, teriakan membujuk bahkan kadang-kadang memaksa para pedagang yang menjajakan barang-barangnya, dan bau asap dupa atau suara syahdu orang-orang yang menyanyikan kidung-kidung pujaan -- semua itu membuat aku lupa akan keletihanku. Suasana yang agak liar ini memang berbeda benar dengan suasana Kirene yang sopan dan tertib. Namun, lebih hidup. Tiba-tiba ada kegaduhan yang tak biasa. Para serdadu Roma menyeruak massa. \"Ah, lagi-lagi pawai laskar-laskar Romawi untuk mengingatkan siapa yang berkuasa di negeri ini,\" pikirku. Akan tetapi tidak. Di baris paling depan, ada seorang serdadu yang memegang panji bertulis: \"Yesus, orang Nazaret, raja orang Yahudi.\" Aku memang belum pernah berjumpa dengan-Nya. Akan tetapi, nama \"Yesus\", siapa yang tidak mengenal-Nya? Dia adalah tokoh paling kontroversial. Yang tidak dapat kumengerti, mengapa serdadu Romawi mengarak panji seperti itu. Karena itu, aku mendekat untuk melihat lebih dekat. Di tengah pagar betis laskar-laskar Roma itu, tiga orang melangkah pelan memanggul salib. \"Penjahat-penjahat besar,\" pikirku. Namun, apa hubungannya dengan panji itu? Kemudian aku semakin mengerti. Riuh rendah massa rakyat menyebut-nyebut nama Yesus sambil mencemooh-Nya. Tidak kurang pula yang meludahi-Nya. Akan tetapi, yang manakah Yesus di antara ketiga orang itu? Aku Simon dari Kirene. Aku semakin mendekat. Lalu aku tahu dengan pasti yang mana Yesus. Dia paling kecil, hampir tidak berotot. Rambut panjang-Nya terurai, lekat di sana-sini oleh darah kering yang berasal dari duri-duri yang teranyam di kepala-Nya. Sekujur tubuh-Nya biru lebam. Langkah-Nya tertatih-tatih. Amat letih. Akan tetapi mata-Nya -- meski merah sebab kurang tidur -- namun tetap tajam menusuk setiap kali menatap. Anehnya, juga begitu lembut menyejukkan. Aku tak dapat lepas memandang mata-Nya itu. Penuh wibawa, tetapi juga begitu menenangkan dan kebapakan. Lalu Dia roboh. Tubuh-Nya yang kecil dan nyaris hancur itu tidak kuat lagi menahan bobot salib di pundak-Nya. Massa berteriak kesenangan bagai binatang liar yang haus darah. Cemeti melayang menyayat punggung-Nya. Darah menyembur. Dan Dia pun bangkit lagi pelan-pelan. Keletihan. Tetapi mata-Nya itu, oi, mata-Nya. Lalu Dia berjalan beberapa langkah. Namun, roboh lagi. Arak-arakan berhenti. Massa semakin buas. Cemeti melayang berulang-ulang. Darah menyembur. Namun, Dia tak mampu bangun kembali. Aku Simon dari Kirene. Entah mengapa, aku tidak terkesan benar oleh semua itu. Kecuali oleh tatapan mata-Nya. Mata-Nya itu, oi, mata-Nya. Sebab itu, aku bagaikan tidak sadar ketika seorang serdadu tiba-tiba menarik aku. Dan meletakkan salib itu ke a",
+      "content_zh": "我是来自古利内的西门。我的名字表明我住在非洲大陆。尽管如此，我的皮肤并不黑，嘴唇也不厚。尽管我的家族已经在昔兰尼生活了几代人，昔兰尼是昔兰尼加的首府，这是一座位于北非的希腊城市，以其繁荣和哲学家而闻名，但我的肤色并不白。我是古利奈的西门。\n\n我从心底里是一个地道的犹太人。从小到大，我毫无例外地遵守所有宗教律法，尽管由于在讲希腊语的社区长大，我已经不再精通阿拉姆语。我是古利奈人西门。我不想谈论我自己。也不想讲述我所有的生活经历。我只想讲述我那一次的经历。\n\n这段经历后来改变了我的人生轨迹。如果您也经历过，那么也会改变您的人生轨迹。那天是星期五。那天早上我刚抵达耶路撒冷。我长途跋涉的目的就是为了庆祝逾越节。我每年都这样做。看到熙熙攘攘的人群挤满了这座城市，我一点也不感到惊讶。\n\n尽管很累，但在酒店放下行李并洗漱完毕后，我还是出门散步，享受这座沉浸在节日气氛中的城市的喧嚣。\n\n到处跑来跑去的孩子们尖叫声，叫卖的小贩们劝诱甚至有时强迫的吆喝声，还有熏香的味道或人们吟唱赞美诗的悠扬声音——这一切都让我忘记了疲惫。这种略显喧闹的氛围与古利奈文雅有序的氛围截然不同，但却更有活力。\n\n突然间，出现了一阵不寻常的喧哗。罗马士兵挤过人群。“唉，又是罗马士兵的游行，用来提醒人们谁才是这个国家的统治者。”我想。但是不是。在最前面一排，有一名士兵拿着一面旗帜，上面写着：“拿撒勒人耶稣，犹太人的王。” 我确实从未见过祂。\n\n但是，“耶稣”这个名字，谁不认识他呢？他是最具争议的人物。我不明白的是，为什么罗马士兵要举着这样的旗帜游行。因此，我走近仔细观察。在罗马士兵的方阵中间，有三个人背着十字架缓缓前行。“大坏蛋，”我想。不过，这和那面旗帜有什么关系？\n\n然后我渐渐明白了。人群喧嚣着，一边喊着耶稣的名字，一边嘲笑祂。还有不少人向祂吐唾沫。但是，这三个人当中哪一个是耶稣呢？我是古利奈人西门。我走得越来越近。然后我确切地知道谁是耶稣。他是三人中个子最小的，几乎没有肌肉。\n\n祂的长发散乱，这里那里都沾满了干涸的血迹，这些血迹来自祂头上戴着的荆棘冠。祂的全身都瘀青了。祂的步伐蹒跚。祂非常疲惫。但是祂的眼睛——尽管因为睡眠不足而发红——但每次注视时仍然锐利如刀。奇怪的是，他的眼神也如此温柔、令人舒心。我无法移开视线，不去看祂的眼睛。\n\n充满威严，但也非常平和和慈父般。然后祂倒下了。祂瘦小而几乎破碎的身体再也承受不住肩上十字架的重量。人群像嗜血的野兽一样欢呼雀跃。鞭子抽打着祂的背。鲜血喷涌而出。祂又慢慢地站了起来。祂疲惫不堪。但是祂的眼睛，哎呀，祂的眼睛。\n\n然后他走了几步。然而，祂又倒下了。游行队伍停了下来。人群变得越来越凶狠。鞭子一次又一次地挥舞着。鲜血喷涌而出。然而，祂再也无法站起来了。我是古利奈人西门。不知为何，这一切并没有真正触动我。除了祂的眼神。祂的眼睛，哎呀，祂的眼睛。\n\n因此，当一名士兵突然拉我时，我好像失去了知觉。然后把十字架放在我身上。",
+      "image": "https://kesaksian.sabda.org/sites/default/files/kesaksian_icon_1.png",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "平凡人的见证",
+        "家庭"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-13T00:54:52.787663",
+      "extra": {
+        "story_score": 4,
+        "domain": "kesaksian.sabda.org"
+      },
+      "id": "bff2e768ba9fd07b"
+    },
+    {
+      "title": "Kasih Tuhan Tiada Taranya",
+      "url": "https://kesaksian.sabda.org/kasih_tuhan_tiada_taranya",
+      "category": "lay",
+      "source": "SABDA · Kesaksian 见证",
+      "source_url": "https://kesaksian.sabda.org/",
+      "published": "2026-11-13",
+      "summary": "",
+      "summary_zh": "p style=\"margin-bottom:1em; \">作者：Romauli br Marpaung Shalom，我叫 Romauli br Marpaung。",
+      "title_zh": "上帝的爱是无与伦比的",
+      "content": "p style=\"margin-bottom:1em;\">Oleh: Romauli br Marpaung Shalom, Nama saya Romauli br Marpaung. Saat ini, saya berusia 23 tahun. Saya berasal dari keluarga Kristen. Saya anak pertama dari lima bersaudara. Keluarga saya, dahulunya, bukan keluarga yang harmonis. Orang tua saya sering bertengkar. Namun, saat kelas IV SD, bapak saya bertobat sungguh-sungguh dan menyerahkan dirinya untuk diperlengkapi di Sekolah Alkitab Purbasari Pematang Siantar. Setelah selesai sekolah, beliau akhirnya diangkat menjadi seorang Pendeta, dan saya mulai pelayanan sejak kelas V SD di Gereja Kemuliaan Sion sebagai pemain musik tunggal. Pada 2013, saat saya lulus SMA, saya berharap bisa kuliah di Universitas Sumatera Utara (USU) Medan. Namun, saat mengikuti SBMPTN, saya gagal karena tidak lulus seleksi. Akhirnya, bapak saya mengusulkan supaya saya kuliah di Solo karena dia punya rekan pendeta yang anaknya kuliah di Solo juga. Saya mengikuti keinginan bapak saya karena beliau rindu saya bisa menjadi seorang hamba Tuhan. Akhirnya, saya kuliah di STT Berita Hidup, Solo, dan mengikuti semua kegiatan, aturan yang ada di kampus tersebut. Saya dibaptis saat duduk di bangku SMA kelas XI. Awalnya, saya kuliah di Berita Hidup karena orang tua dan pelarian, tetapi pada akhirnya saya bertobat dan percaya sungguh-sungguh kepada Tuhan Yesus saat kuliah semester 2. Pelayanan-pelayanan yang Tuhan percayakan kepada saya itu tidak mudah. Ada banyak masalah yang saya hadapi, baik itu dari asrama, tempat pelayanan, maupun kampus. Kalau bukan karena kekuatan Tuhan, mungkin saya tidak mampu. Namun, Tuhan Yesus baik, Dia memberi pertolongan saat saya benar-benar tidak mampu menjalaninya. Saya pelayanan di Gereja Bethel Tabernakel, Karanganyar. Saya mulai melayani di sana sejak Agustus 2014 sampai saat ini. Saya dipercaya untuk melayani di beberapa bagian, seperti melayani anak-anak sekolah minggu, pemuda/remaja, jemaat dewasa, maupun yang sudah lanjut usia. Selain itu, saya juga ambil bagian dalam musik, yaitu melatih anak-anak sekolah minggu belajar musik. Selain itu, saya juga diberi kesempatan oleh pendeta saya untuk membuka Bimbingan Belajar di Bibis Luhur Solo. Sewaktu kuliah, saya ditempatkan praktik tahunan di Gereja Kristus Rahmani Indonesia (GKRI), Jimbaran Bali. Tantangan yang saya hadapi adalah saya melayani orang-orang Kristen yang sudah berkeluarga, tetapi belum terikat dalam pernikahan. Saya juga membantu mengajar di PAUD Shinam, Jimbaran, milik gereja tersebut. Saya bersyukur untuk semua pelayanan yang telah dipercayakan gereja kepada saya. Saya bisa menjalani semua ini dengan pertolongan Tuhan. Yang saya rindukan dalam pelayanan adalah saya bisa memberikan yang terbaik untuk Tuhan dan gereja, menjadi berkat bagi banyak orang, dan tetap setia terhadap panggilan Tuhan. Saya juga rindu suatu saat saya bisa membuka pelayanan sendiri. Saya tahu itu tidak mudah, tetapi saya percaya kuasa pertolongan Tuhan nyata bagi saya. Kiranya kesaksian ini bisa menjadi berkat bagi semua orang, dan saya rindu kita tetap percaya bahwa segala sesuatu yang kita lakukan untuk Tuhan tidak akan kembali dengan sia-sia, melainkan Dia akan memberkati kita senantiasa (Kolose 3:23). Mulailah mengatakan bahwa pelayanan itu adalah sebuah kehormatan, bukan beban. Tuhan Yesus memberkati. \"Dan, Maria berkata, \"Sesungguhnya, aku ini hamba Tuhan. Terjadilah padaku seperti yang engkau katakan itu.\" Kemudian, malaikat itu pergi meninggalkannya.\"(Lukas 1:38, AYT)",
+      "content_zh": "p style=\"margin-bottom:1em;\">作者：Romauli br Marpaung Shalom，我叫 Romauli br Marpaung。我今年 23 岁。我来自一个基督徒家庭。我是五个兄弟姐妹中的老大。我的家庭以前并不和谐。我的父母经常吵架。\n\n然而，当我上小学四年级时，我父亲真心悔改，并前往位于Pematang Siantar的Purbasari圣经学校接受装备。毕业后，他最终被任命为牧师，而我从小学五年级开始就在锡安荣耀教会担任独奏乐手。\n\n2013 年，当我高中毕业时，我希望能在棉兰的北苏门答腊大学 (USU) 上大学。然而，在参加全国统一高考（SBMPTN）时，我因为没有通过选拔而落榜了。最后，我父亲建议我去梭罗上大学，因为他有一位牧师朋友，他的孩子也在梭罗上大学。我听从了父亲的意愿，因为他希望我能成为神的仆人。\n\n最后，我在梭罗的生命福音神学院（STT Berita Hidup）上学，并参加了该校的所有活动，遵守了该校的所有规定。我在读高一的时候受洗。起初，我因为父母和逃避现实的原因而就读于生命信息神学院，但最终我在第二学期时悔改并真心信靠主耶稣。\n\n神托付给我的服侍并不容易。我面临着很多问题，无论是来自宿舍、事工场所还是校园。如果不是因为上帝的力量，我可能无法做到。然而，主耶稣是良善的，当我已经实在无法承受时，祂会伸出援手。我在卡朗亚尔的伯特利会幕教会（Gereja Bethel Tabernakel）服侍。\n\n我从 2014 年 8 月开始在那里服侍，至今仍在继续。我受托在几个部门服侍，例如服侍主日学儿童、青年/青少年、成年会众以及老年人。此外，我还参与音乐方面的工作，即指导主日学儿童学习音乐。\n\n此外，我的牧师还给了我机会，在梭罗的Bibis Luhur开设学习辅导班。在大学期间，我被安排在巴厘岛金巴兰的印度尼西亚基督慈悲教会（GKRI）进行年度实习。我面临的挑战是我要服侍那些已经有家庭但尚未缔结婚姻的基督徒。\n\n我还协助在属于该教会的金巴兰 Shinam 幼儿教育中心（PAUD Shinam）进行教学。我感谢教会将所有这些事工托付给我。在神的帮助下，我能够做到这一切。我在侍奉中渴望的是，我能够为上帝和教会尽我所能，成为许多人的祝福，并始终忠于上帝的呼召。\n\n我也希望有一天我能自己开办一间教会。我知道这并不容易，但我相信上帝的帮助对我来说是真实的。愿这个见证能成为所有人的祝福，我希望我们能继续相信，我们为神所做的一切都不会徒劳无功，祂必会永远赐福于我们（歌罗西书 3:23）。\n\n开始说服自己，服侍是一种荣誉，而不是一种负担。愿主耶稣赐福。 “马利亚说：‘我是主的使女。愿照你的话成就在我身上。” 天使就离开她去了。”（路加福音 1:38，AYT）",
+      "image": "https://kesaksian.sabda.org/sites/default/files/kesaksian_icon_1.png",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "平凡人的见证",
+        "家庭"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-13T00:54:52.787722",
+      "extra": {
+        "story_score": 5,
+        "domain": "kesaksian.sabda.org"
+      },
+      "id": "d64a56dfe4c4beae"
+    },
+    {
+      "title": "Père Najib, prêtre au Sud-Liban: « Mon seul combat est celui de la paix »",
+      "url": "https://fr.aleteia.org/2026/11/12/pere-najib-pretre-au-sud-liban-mon-seul-combat-est-celui-de-la-paix/",
+      "category": "lay",
+      "source": "Aleteia · témoignages（法）",
+      "source_url": "https://fr.aleteia.org/feed/",
+      "published": "2026-11-13",
+      "summary": "Depuis le mois de mars, le Sud-Liban est de nouveau l’otage de la guerre entre Israël et le Hezbollah. Occupée en partie par l’armée israélienne et coupée du reste du pays, la zone est régulièrement ciblée par des frappes. Si certains villages ont été entièrement dépeuplés et rasés, d’autres se maintiennent, non sans grandes difficultés. Lundi 9 novembre, les maires de cinq villages chrétiens ont lancé un appel à l’aide au Conseil des patriarches et des évêques catholiques du Liban, dont la sess",
+      "summary_zh": "自 3 月以来，黎巴嫩南部再次沦为以色列与真主党之间战争的人质。该地区部分被以色列军队占领，与黎巴嫩其他地区隔绝，并经常成为空袭的目标。虽然一些村庄已完全沦为空村并被夷为平地，但其他村庄仍在艰难地维持着。11月9日星期一，五个基督教村庄的村长向主教委员会发出了求助呼吁。",
+      "title_zh": "黎巴嫩南部神父纳吉布神父：“我唯一的斗争就是争取和平。”",
+      "content": "Depuis le mois de mars, le Sud-Liban est de nouveau l’otage de la guerre entre Israël et le Hezbollah. Occupée en partie par l’armée israélienne et coupée du reste du pays, la zone est régulièrement ciblée par des frappes. Si certains villages ont été entièrement dépeuplés et rasés, d’autres se maintiennent, non sans grandes difficultés. Lundi 9 novembre, les maires de cinq villages chrétiens ont lancé un appel à l’aide au Conseil des patriarches et des évêques catholiques du Liban, dont la session annuelle se tient toute la semaine. Les cinq édiles demandent aux chefs de l’Église un soutien pour sécuriser les routes, permettre le « retour volontaire des déplacés » et l’accès sans risque aux terrains agricoles, ou encore la protection du patrimoine religieux. Le père Najib Alamil, prêtre dans l’un des cinq villages, à Rmeich, témoigne des nombreuses épreuves vécues par les habitants au quotidien. « On dit souvent que les habitants du Sud-Liban sont habitués à la guerre. C’est faux », Tout lire… The post Père Najib, prêtre au Sud-Liban: « Mon seul combat est celui de la paix » appeared first on Aleteia .",
+      "content_zh": "自3月以来，黎巴嫩南部再次成为以色列和真主党之间战争的人质。该地区部分被以色列军队占领，与该国其他地区隔绝，经常成为袭击目标。如果一些村庄的人口已经完全减少并被夷为平地，那么其他村庄却能幸存下来，但并非没有很大的困难。\n\n11 月 9 日星期一，五个基督教村庄的市长向黎巴嫩宗主教和天主教主教理事会发出了寻求帮助的呼吁，该理事会的年度会议整周举行。\n\n五名议员请求教会领导人提供支持，以确保道路安全，允许“流离失所者自愿返回”，并无风险地进入农田，甚至保护宗教遗产。纳吉布·阿拉米尔神父是勒梅奇五个村庄之一的牧师，他见证了居民每天经历的许多考验。\n\n“人们常说，黎巴嫩南部的人民已经习惯了战争。这是错误的”，阅读全部... 黎巴嫩南部牧师纳吉布神父的帖子：“我唯一的战斗是和平”首先出现在 Aleteia 上。",
+      "image": "https://aleteia.org/api/og-image/?locale=fr&slug=2026%2F11%2F12%2Fpere-najib-pretre-au-sud-liban-mon-seul-combat-est-celui-de-la-paix",
+      "author": "Anne-Sophie Retailleau",
+      "tags": [
+        "中东",
+        "平凡人的见证",
+        "Actualités",
+        "Monde",
+        "Guerre"
+      ],
+      "language": "fr",
+      "country": "FR",
+      "region": "中东",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-13T00:55:15.841218",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 6,
+        "domain": "fr.aleteia.org"
+      },
+      "id": "33ee24837de9cc54"
+    },
+    {
+      "title": "성결교회 각 교단 “고립의 시대, ‘연결하는 교회’로”",
+      "url": "https://www.christiantoday.co.kr/news/378598",
+      "category": "lay",
+      "source": "크리스천투데이 · 간증（韩）",
+      "source_url": "https://www.christiantoday.co.kr/rss",
+      "published": "2026-11-13",
+      "summary": "고립, 노인 넘어 청년·중장년 등 생애 전반 확산, 사각지대 우려 5단계 ‘연결하는 교회 모델’ 제시 교단 차원 전문인력 지원 체계 한국성결교회연합회(대표회장 이기용 목사, 이하 한성연)가 1인 가구 증가와 초고령화, 디지털 단절 등으로 심화되는 ‘사회적 고립’ 문제에 대해 사회복지 사역을 통한 대안을 모색했다. 한성연 사회복지분과(위원장 이근수 목사)가 주최하고 기성 사회복지부가 주관한 ‘2026 한국성결교회연합회 사회복지정책포럼’이 지난 11월 12일 서울 영등포구 신길교회(이기용 목사)에서 열렸다. ‘지역사회의 희망이 되는 성결교회: 고립된 사회, 연결하는 교회’를 주제로 열린 이번 포럼에는 기성·예성·나성 3개 성결교단 목회자와 사회복지 전문가 등 130여 명이 참석해 교회의 공적 역할과 실천 방안을 논의했다. 2부 포럼에서는 예성 사회복지위 고문 김병천 목사를 좌장으로 조성희 교수(서울신대 사회복지학과)가 ‘고립된 사회, 연결하는 교회: 사회적 고립을 돌보는 한국교회의 역할",
+      "summary_zh": "孤立现象不仅存在于老年人中，还蔓延至青年、中年等各个年龄段，人们对盲区的担忧与日俱增。为此，提出了一个由5个阶段组成的“连接型教会模式”，并建立了教派层面的专业人员支持体系。韩国圣洁教会联合会（会长李基勇牧师，以下简称“韩圣联”）通过社会福利事工，就因单人家庭增加、超高龄化、数字鸿沟等因素而日益严重的“社会孤立”问题寻求解决方案。由韩国圣洁教会联合会社会福利委员会（主席李根秀牧师）主办、韩国圣洁教会社会福利部承办的“2026年韩国圣洁教会联合会社会福利政策论坛”于11月12日在首尔永登浦区新吉教会（李基勇牧师）举行。本次论坛以“成为社区希望的圣洁教会：孤立的社会，连接的教会”为主题，来自韩国圣洁教会、美国圣洁教会和洛杉矶圣洁教会等三个圣洁教派的牧师以及社会福利专家等130余人出席，共同探讨了教会的公共角色和实践方案。在论坛的第二部分，由韩国圣洁教会（Yeseong）社会福利委员会顾问金炳千牧师担任主持人，首尔大学社会福利系的赵成熙教授（音译）",
+      "title_zh": "圣洁教会各宗派“在孤立的时代，成为‘联结的教会’”",
+      "content": "고립, 노인 넘어 청년·중장년 등 생애 전반 확산, 사각지대 우려 5단계 ‘연결하는 교회 모델’ 제시 교단 차원 전문인력 지원 체계\n\n한국성결교회연합회(대표회장 이기용 목사, 이하 한성연)가 1인 가구 증가와 초고령화, 디지털 단절 등으로 심화되는 ‘사회적 고립’ 문제에 대해 사회복지 사역을 통한 대안을 모색했다.\n\n한성연 사회복지분과(위원장 이근수 목사)가 주최하고 기성 사회복지부가 주관한 ‘2026 한국성결교회연합회 사회복지정책포럼’이 지난 11월 12일 서울 영등포구 신길교회(이기용 목사)에서 열렸다.\n\n‘지역사회의 희망이 되는 성결교회: 고립된 사회, 연결하는 교회’를 주제로 열린 이번 포럼에는 기성·예성·나성 3개 성결교단 목회자와 사회복지 전문가 등 130여 명이 참석해 교회의 공적 역할과 실천 방안을 논의했다.\n\n2부 포럼에서는 예성 사회복지위 고문 김병천 목사를 좌장으로 조성희 교수(서울신대 사회복지학과)가 ‘고립된 사회, 연결하는 교회: 사회적 고립을 돌보는 한국교회의 역할’을 주제로 기조발제에 나섰다.\n\n조성희 교수는 “전체 가구의 36.1%가 1인 가구인 시대에, 고립은 노인뿐 아니라 청년·중장년 등 생애 과정 전반으로 확산되고 있다”며 기존 신청주의 복지체계의 사각지대를 지적했다. 그는 “교회는 생활권 내 상시 공간과 세대를 아우르는 소그룹 네트워크를 보유한 최적의 관계안전망”이라며 ①발견 ②접촉(안부·식사) ③신뢰관계 형성 ④지역 전문자원 연결 ⑤지속적 동행 등 5단계 ‘연결하는 교회 모델’과 교단 차원 매뉴얼·전문인력 지원체계 구축을 제안했다.\n\n조 교수는 이러한 돌봄이 개별 교회의 선의에만 의존하지 않도록 교단 차원에서 △목회자 및 평신도 대상 고립 위험신호 발견·대응 교육 실시 △고립 가구 발굴 및 관계 돌봄 매뉴얼 보급 △사회복지사·상담가·의료인 등 교단 내 전문인력 네트워크 구축 △소규모 재정 지원 체계 마련 △우수 실천사례의 표준 모델 확산 등이 뒷받침되어야 한다고 제언했다.\n\n3부 사례발표에서는 이계상 목사(나성 평택대 교수)를 좌장으로, 3개 교단별 구체적 복지목회 모델이 소개됐다.\n\n첫 발제에서 ‘초고령사회 한국교회 노인복지목회 대안 및 실천사례’를 발표한 김재열 장로(기성 낙원교회·동원대 교수)는 2050년 노인 성도 비율이 43.9%에 달할 것으로 전망하며 ‘노인영성 복지목회’로의 전환을 촉구했다.\n\n김 장로는 △지자체 위탁을 통해 지역 복지 허브 역할을 수행하는 대형교회 모델(안성교회) △순수 민간 자원으로 25년간 무료급식과 도시락 배달을 이어온 소형교회 모델(사랑의쉼터교회) △장기요양기관 운영을 통해 자비량 목회와 농촌 폐쇄교회 재생을 이룬 모델(시온교회) 등을 비교 분석하고, 교단 내 사회복지국 신설 및 목회자 이중직 규정 완화 등을 제안했다.\n\n이어 이규 목사(예성 시티미션교회)는 ‘고립 외국인 유학생을 위한 D.C.C(Dream Community Center)’를 소개했다. 국내 체류 외국인 유학생이 30만 명을 넘어선 가운데, 경제난과 언어 장벽, 단기 체류 구조로 고립된 유학생들을 위해 크리스천 ‘드림 파트너’와 일대일로 매칭해 현실적·정서적·영적 필요를 채우는 사역 성과를 공유했다.\n\n마지막으로 오경근 박사(나성 주사랑교회·서일대 특임교수)는 ‘AI 시대, 사람 곁에 남는 교회’를 주제로 ‘관계적 공유제’와 ‘AI 기반 지역공동체 돌봄’ 모델을 제시했다. 오 박사는 “관계의 빈곤은 관계로만 채워지며 알림의 끝에는 반드시 사람이 있어야 한다”며 AI가 지역 내 필요와 자원을 정리하고 돌봄 일정을 관리하는 조력자 역할을 수행하되, 최종 판단과 실제 만남, 지속적인 동행은 사람이 감당하는 순환적 공동체 모델을 강조했다.\n\n이번 포럼은 왕수일 목사(기성 사회복지위원장)의 폐회기도로 마무리됐다. 한성연 사회복지분과는 이날 논의된 정책과 사례를 바탕으로 지교회 일선 현장에 적용 가능한 복지목회 협력을 이어갈 계획이다.\n\n앞선 1부 개회예배는 사회복지분과위원장 이근수 목사의 사회로 예성 사회복지부장 이정소 목사의 기도, 나성 총회감독 최형영 목사의 축사, 서울신대 총장 황덕형 박사의 환영사, 예성 총회장 이종만 목사의 축도로 진행됐다.\n\n‘젖과 꿀이 흐르는 땅’이라는 제목으로 설교한 대표회장 이기용 목사는 “나눔이 있는 곳, 하나님의 축복을 흘려보내는 곳이 젖과 꿀이 흐르는 땅”이라며 “지속적으로 나누고 흘려보내기 위해서는 성령의 도움을 받아야 한다. 사회복지 사역에도 성령 역사가 일어나야 한다”고 강조했다.",
+      "content_zh": "隔离，蔓延到老年人以外的整个生命周期，包括青年和中年人；对盲点的担忧；提出“连接教会模式”的五步法；宗派层面的专业支持体系\n\n韩国圣洁教会协会（首席执行官李基勇牧师，以下简称韩成渊）通过社会福利事工寻求替代方案，以解决因单人家庭增加、超老龄化和数字脱节而日益加深的“社会孤立”问题。由韩成渊社会福祉部（李根洙牧师）主办、社会福祉部承办的“2026年韩国圣洁教会协会社会福祉政策论坛”于11月12日在首尔永登浦区新吉教会（李基龙牧师）举行。\n\n本次论坛以“圣洁教会作为社会的希望：连接孤立社会的教会”为主题，来自吉城、艺声、罗城三个圣洁教派的牧师和社会福利专家等约130人出席，讨论了教会的公共角色和行动计划。在第二场论坛上，由艺城社会福利委员会顾问金秉天牧师主持的曹成熙教授（首尔神大学社会福利系）做了题为“孤立的社会，连接教会：韩国教会在应对社会孤立中的作用”的主题演讲。曹成熙教授说：“在36.1%的家庭是单身家庭的时代，孤立是不仅波及到老年人，还波及到整个生命周期，包括年轻人和中年人。”指出了现有申请人福利制度的盲点。\n\n他表示，“教会是最优的关系安全网，拥有永久的生活空间和跨越代际的小团体网络”，并提出了五步“连接教会模式”，包括：①发现、②接触（问候、吃饭）、③建立信任关系、④连接当地专业资源、⑤持续陪伴，并建立宗派层面的人工和专业支持体系。曹教授建议，在宗派层面，为确保这种关怀不单单依赖于个别教会的善意，△对牧师和平信徒进行隔离风险信号检测和应对培训△识别隔离家庭并分发关系关怀手册△在宗派内部建立社工、辅导员、医务人员等专业人员网络△建立小规模的财政支持体系△传播最佳实践的标准模型等。\n\n案例介绍的第三部分，由李桂相牧师（罗城平泽大学教授）担任主持人，介绍了三个教派各自的具体福利事工模式。在第一个演讲中，金载烈长老（老乐院教会、东远大学教授）发表了《超级老龄化社会中韩国教会老年福利事工的替代方案和实践案例》，预测到2050年老年信徒的比例将达到43.9%，并呼吁向“老年灵性福利事工”过渡。金长老对比分析了△作为地方福利中心的大型教会模式通过地方政府委托（安城教会） △ 以纯私人资源持续提供免费餐食和盒饭25年的小型教会模式（爱心庇护教会） △ 通过长期看护机构的运营实现自给自足和农村封闭教会复兴的模式（锡安教会），并提出在教派范围内设立社会福利办公室并放宽牧师双职规定。建议。\n\n接下来，艺城市宣教会的李奎牧师介绍了“为孤立的外国学生提供的D.C.C（梦想社区中心）”。在韩国滞留的外国学生人数超过30万的情况下，我们分享了我们的事工成果，通过与基督徒“梦想伙伴”一对一匹配，满足了因经济困难、语言障碍和短期居留而孤立的外国学生的实际、情感和精神需求。最后，吴庆根博士（罗城朱桑郎教会、首尔大学特聘教授）以“人工智能时代与人们保持密切关系的教会”为主题，介绍了“关系共享系统”和“基于人工智能的地区社区关怀”模式。\n\n吴博士表示，“关系的贫乏只能靠关系来填补，通知的最后一定要有一个人”，并强调了循环社区模式，其中人工智能扮演帮助者的角色，组织当地的需求和资源，管理护理时间表，但最终的决定、实际的会议和持续的陪伴都是由人类来处理的。本次论坛在王秀一牧师（社会福利委员会委员长）的闭幕祈祷中结束。韩成渊社会福祉科根据今天讨论的政策和事例，计划继续在分会前线开展福祉事工合作。开幕仪式的第一部分由社会福利委员会委员长李根洙牧师主持，艺城社会福利部部长李正昭牧师进行了祈祷，乐城总会理事长崔亨英牧师致贺词，首尔神学大学校长黄德庆博士致欢迎辞，艺城总会会长李钟万牧师进行了祝福。\n\n以“流奶与蜜之地”为题讲道的代表会长李基龙牧师强调：“分享的地方，神的祝福流淌的地方，就是流奶与蜜的地方。”他又说：“要不断地分享、流动，就必须得到圣灵的帮助。圣灵的工作也必须发生在社会公益工作中。”",
+      "image": "https://images.christiantoday.co.kr/data/images/full/392431/image.jpg",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "平凡人的见证",
+        "家庭"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-13T00:55:01.479306",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "christiantoday.co.kr"
+      },
+      "id": "3794c4d4cb62fdc6"
     },
     {
       "title": "« Servir comme Jésus » : le témoignage des 25.000 volontaires mobilisés pour Léon XIV",
@@ -394,7 +561,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:48:41.390311",
+      "fetched_at": "2026-11-13T00:55:37.434384",
       "extra": {
         "provider": "gdelt",
         "query": "Christian testimony conversion",
@@ -428,7 +595,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:48:44.621559",
+      "fetched_at": "2026-11-13T00:55:42.399277",
       "extra": {
         "provider": "gdelt",
         "query": "Christian testimony conversion",
@@ -461,7 +628,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:54.453223",
+      "fetched_at": "2026-11-13T00:54:49.692730",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -499,7 +666,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:54.018180",
+      "fetched_at": "2026-11-13T00:54:49.227523",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -536,7 +703,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:54.826585",
+      "fetched_at": "2026-11-13T00:54:49.966091",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -552,7 +719,7 @@
       "title": "Wikipedia Founder Embraces Christianity: Larry Sanger’s Testimony Highlights",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXhDN01xakVWMFMyTGQzcmNORFRnZnhlRFZFdGxqbjh3a3RuSTJ1LXpVaDd4anVEejVWbXpvei1RWFFjeHlmRktHQlp1N3JWNGt1NkpUUWxKdk9xZFBvLUFGRWlYa2hISEU3LW1lUjk3OGhHaUpRNGk5QThIdkFUSEJsM21ILWtjbG5kT09RNTF1aENtR0VpOQ?oc=5",
       "category": "lay",
-      "source": "印度信主见证",
+      "source": "北美信主见证",
       "source_url": "https://news.google.com/rss/search",
       "published": "2025-02-12",
       "summary": "Wikipedia Founder Embraces Christianity: Larry Sanger’s Testimony Highlights The Gospel Coalition",
@@ -563,20 +730,20 @@
       "image": "",
       "author": "The Gospel Coalition",
       "tags": [
-        "亚洲",
+        "北美",
         "平凡人的见证",
         "见证"
       ],
       "language": "en",
-      "country": "IN",
-      "region": "亚洲",
+      "country": "US",
+      "region": "北美",
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:54.198300",
+      "fetched_at": "2026-11-13T00:54:49.987082",
       "extra": {
         "provider": "google_news",
-        "query": "India Christian conversion testimony story",
+        "query": "Christian conversion testimony story",
         "publisher": "The Gospel Coalition",
         "google_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXhDN01xakVWMFMyTGQzcmNORFRnZnhlRFZFdGxqbjh3a3RuSTJ1LXpVaDd4anVEejVWbXpvei1RWFFjeHlmRktHQlp1N3JWNGt1NkpUUWxKdk9xZFBvLUFGRWlYa2hISEU3LW1lUjk3OGhHaUpRNGk5QThIdkFUSEJsM21ILWtjbG5kT09RNTF1aENtR0VpOQ?oc=5",
         "resolved": false,
@@ -610,7 +777,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:54.453676",
+      "fetched_at": "2026-11-13T00:54:49.693778",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -647,7 +814,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:54.453913",
+      "fetched_at": "2026-11-13T00:54:49.694082",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -683,7 +850,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:55.095961",
+      "fetched_at": "2026-11-13T00:54:50.276527",
       "extra": {
         "provider": "google_news",
         "query": "orphan rescued missionary story",
@@ -720,7 +887,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:54.826971",
+      "fetched_at": "2026-11-13T00:54:49.966959",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -756,7 +923,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:54.050317",
+      "fetched_at": "2026-11-13T00:54:49.411014",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -793,7 +960,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:54.454013",
+      "fetched_at": "2026-11-13T00:54:49.694215",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -829,7 +996,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:54.050838",
+      "fetched_at": "2026-11-13T00:54:49.410636",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
