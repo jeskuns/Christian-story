@@ -1,8 +1,8 @@
 {
   "category": "lay",
   "label": "平凡人的见证",
-  "count": 34,
-  "updated_at": "2026-11-14T08:45:51.641426+08:00",
+  "count": 39,
+  "updated_at": "2026-11-15T07:40:31.142071+08:00",
   "articles": [
     {
       "title": "He was taught Christians do not pray. Then he watched his uncle pray before a meal",
@@ -30,7 +30,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:43.490190",
+      "fetched_at": "2026-11-14T23:38:13.807435",
       "extra": {
         "story_score": 8,
         "domain": "doxa.app"
@@ -63,7 +63,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:43.490307",
+      "fetched_at": "2026-11-14T23:38:13.807513",
       "extra": {
         "story_score": 14,
         "domain": "doxa.app"
@@ -94,7 +94,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:43.490420",
+      "fetched_at": "2026-11-14T23:38:13.807598",
       "extra": {
         "story_score": 17,
         "domain": "doxa.app"
@@ -127,7 +127,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:43.490643",
+      "fetched_at": "2026-11-14T23:38:13.807751",
       "extra": {
         "story_score": 18,
         "domain": "doxa.app"
@@ -159,7 +159,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:43.490879",
+      "fetched_at": "2026-11-14T23:38:13.807902",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -191,7 +191,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:43.490993",
+      "fetched_at": "2026-11-14T23:38:13.807974",
       "extra": {
         "story_score": 9,
         "domain": "doxa.app"
@@ -224,7 +224,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:43.491104",
+      "fetched_at": "2026-11-14T23:38:13.808046",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -256,7 +256,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:43.491318",
+      "fetched_at": "2026-11-14T23:38:13.808199",
       "extra": {
         "story_score": 9,
         "domain": "doxa.app"
@@ -290,7 +290,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:35.789723",
+      "fetched_at": "2026-11-14T23:38:06.954277",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -323,7 +323,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:53.077935",
+      "fetched_at": "2026-11-14T23:38:21.173211",
       "extra": {
         "story_score": 4,
         "domain": "kesaksian.sabda.org"
@@ -355,7 +355,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:53.078010",
+      "fetched_at": "2026-11-14T23:38:21.173258",
       "extra": {
         "story_score": 5,
         "domain": "kesaksian.sabda.org"
@@ -424,7 +424,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:35.288468",
+      "fetched_at": "2026-11-14T23:38:06.744720",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -461,7 +461,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:41:11.746616",
+      "fetched_at": "2026-11-14T23:38:30.403742",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -496,13 +496,116 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:51.553056",
+      "fetched_at": "2026-11-14T23:38:32.067709",
       "extra": {
         "feed_type": "rss20",
         "story_score": 16,
         "domain": "christiantoday.co.kr"
       },
       "id": "ee729abb4ea7d410"
+    },
+    {
+      "title": "Un lieu légitime pour la croix du Stade de France ?",
+      "url": "https://fr.aleteia.org/2026/11/14/un-lieu-legitime-pour-la-croix-du-stade-de-france/",
+      "category": "lay",
+      "source": "Aleteia · témoignages（法）",
+      "source_url": "https://fr.aleteia.org/feed/",
+      "published": "2026-11-14",
+      "summary": "Que va devenir la croix autour devant laquelle les 80.000 jeunes du Stade de France sont recueillis ? Que va devenir cette croix qui a réuni, avec le pape Léon XIV des milliers de téléspectateurs, en France et dans le monde, chrétiens ou non ? Que va devenir cette croix réalisée avec foi et talent par SOS Calvaires ? L’association a lancé un appel à projets pour l’accueillir et trente sites postulants ont été retenus sur des critères de visibilité, d’accueil de cohérence spirituelle et de faisab",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "Que va devenir la croix autour devant laquelle les 80.000 jeunes du Stade de France sont recueillis ? Que va devenir cette croix qui a réuni, avec le pape Léon XIV des milliers de téléspectateurs, en France et dans le monde, chrétiens ou non ? Que va devenir cette croix réalisée avec foi et talent par SOS Calvaires ? L’association a lancé un appel à projets pour l’accueillir et trente sites postulants ont été retenus sur des critères de visibilité, d’accueil de cohérence spirituelle et de faisabilité. L’idée est généreuse, l’œuvre est au-dessus de tout soupçon mais la démarche suscite des réserves. Des réseaux se mobilisent pour emporter la mise : peut-on mettre la croix du Christ aux enchères ? Certes, consulter l’avis du peuple de Dieu est plutôt une bonne idée. Les référendums de toutes sortes sont aujourd’hui possibles grâce aux réseaux sociaux et à l’influence digitale. Chaque jour, on nous demande notre avis, une pétition, un sondage sur les sujets les plus divers : Tout lire… The post Un lieu légitime pour la croix du Stade de France ? appeared first on Aleteia .",
+      "content_zh": "",
+      "image": "https://aleteia.org/api/og-image/?locale=fr&slug=2026%2F11%2F14%2Fun-lieu-legitime-pour-la-croix-du-stade-de-france",
+      "author": "Jean-Étienne Rime",
+      "tags": [
+        "欧洲",
+        "平凡人的见证",
+        "Actualités",
+        "Léon XIV en France",
+        "Croix"
+      ],
+      "language": "fr",
+      "country": "FR",
+      "region": "欧洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:38:28.190742",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "fr.aleteia.org"
+      },
+      "id": "42f63f6aa96d09eb"
+    },
+    {
+      "title": "« Si Jésus venait ici, il trouverait la foi » : Léon XIV au cœur des Andes",
+      "url": "https://fr.aleteia.org/2026/11/14/si-jesus-venait-ici-il-trouverait-la-foi-leon-xiv-au-coeur-des-andes/",
+      "category": "lay",
+      "source": "Aleteia · témoignages（法）",
+      "source_url": "https://fr.aleteia.org/feed/",
+      "published": "2026-11-14",
+      "summary": "Léon XIV a souhaité accomplir un geste éloquent ce samedi 14 novembre matin : il s’est rendu aux périphéries de son ancien diocèse, rencontrant les populations de zones montagneuses difficilement accessibles, à Santa Cruz de Succhabamba, ce 14 novembre 2026. Au quatrième jour de sa visite au Pérou, lors d’une messe qui a rassemblé 20.000 participants, il a apporté son soutien aux communautés andines et a plaidé pour une répartition plus juste des richesses. Après son passage dans la cathédrale d",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "Léon XIV a souhaité accomplir un geste éloquent ce samedi 14 novembre matin : il s’est rendu aux périphéries de son ancien diocèse, rencontrant les populations de zones montagneuses difficilement accessibles, à Santa Cruz de Succhabamba, ce 14 novembre 2026. Au quatrième jour de sa visite au Pérou, lors d’une messe qui a rassemblé 20.000 participants, il a apporté son soutien aux communautés andines et a plaidé pour une répartition plus juste des richesses. Après son passage dans la cathédrale de Chiclayo, au lendemain de son arrivée dans la ville du nord du pays, le pontife a pris l’hélicoptère pour effectuer les 100 km le séparant de la zone rurale de Santa Cruz de Succhabamba, à 2.000 mètres d’altitude. Cette localité d’origine coloniale dans la cordillère des Andes se situe dans la région de Cajamarca, qui a fait partie de l’Empire inca au XVe siècle. Pendant ses années d’évêque de Chiclayo, Mgr Robert Prevost s’y rendait à intervalles réguliers, notamment pour célébrer Tout lire… The post « Si Jésus venait ici, il trouverait la foi » : Léon XIV au cœur des Andes appeared first on Aleteia .",
+      "content_zh": "",
+      "image": "https://aleteia.org/api/og-image/?locale=fr&slug=2026%2F11%2F14%2Fsi-jesus-venait-ici-il-trouverait-la-foi-leon-xiv-au-coeur-des-andes",
+      "author": "I.Media",
+      "tags": [
+        "欧洲",
+        "平凡人的见证",
+        "Actualités",
+        "Vatican",
+        "Pérou"
+      ],
+      "language": "fr",
+      "country": "FR",
+      "region": "欧洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:38:28.478886",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 5,
+        "domain": "fr.aleteia.org"
+      },
+      "id": "7a3f2c2ea01c42ec"
+    },
+    {
+      "title": "소강석 목사 “추수감사주일 Thanks again, 영혼의 절정”",
+      "url": "https://www.christiantoday.co.kr/news/378640",
+      "category": "lay",
+      "source": "크리스천투데이 · 간증（韩）",
+      "source_url": "https://www.christiantoday.co.kr/rss",
+      "published": "2026-11-14",
+      "summary": "“Thanks again, 영혼의 절정”. 얼마 전까지만 해도 가을이 없는 가을을 맞은 듯했는데, 이제 진짜 가을에 접어든 것 같습니다. 이미 들녘에는 황금빛 곡식이 익어가고 나무에도 탐스러운 열매가 주렁주렁 매달렸습니다. 우리 교회 강단에 장식된 가을의 열매는 우리 모두에게 기쁨과 감사의 마음을 깨닫게 해주었습니다. 가을일수록 하나님의 섭리를 드러내 주었고, 우리에게 감사에 대한 풍성한 가르침을 전해 주었습니다. 우리는 흔히 감사의 조건이 생겨야 감사할 수 있다고 생각합니다. 형편이 좋아지고 소원이 이루어지고 삶에 어려움이 없을 때 감사하기 쉽습니다. 그러나 우리 성도들의 감사는 단순히 좋은 일이 있을 때만 드리는 감정의 표현이 아니죠. 성경은 범사에 감사하라고 하지 않습니까? 이것이 그리스도 예수 안에 있는 하나님의 뜻이라고 말씀하지 않습니까(살전 5:18)? 우리 삶에도 때로는 고난이 찾아오고 형통하지 못할 때가 있습니다. 그러나 그럴 때에도 감사하는 것이 우리의 신앙의 절정이",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "“Thanks again, 영혼의 절정”.\n\n얼마 전까지만 해도 가을이 없는 가을을 맞은 듯했는데, 이제 진짜 가을에 접어든 것 같습니다. 이미 들녘에는 황금빛 곡식이 익어가고 나무에도 탐스러운 열매가 주렁주렁 매달렸습니다.\n\n우리 교회 강단에 장식된 가을의 열매는 우리 모두에게 기쁨과 감사의 마음을 깨닫게 해주었습니다. 가을일수록 하나님의 섭리를 드러내 주었고, 우리에게 감사에 대한 풍성한 가르침을 전해 주었습니다.\n\n우리는 흔히 감사의 조건이 생겨야 감사할 수 있다고 생각합니다. 형편이 좋아지고 소원이 이루어지고 삶에 어려움이 없을 때 감사하기 쉽습니다. 그러나 우리 성도들의 감사는 단순히 좋은 일이 있을 때만 드리는 감정의 표현이 아니죠.\n\n성경은 범사에 감사하라고 하지 않습니까? 이것이 그리스도 예수 안에 있는 하나님의 뜻이라고 말씀하지 않습니까(살전 5:18)? 우리 삶에도 때로는 고난이 찾아오고 형통하지 못할 때가 있습니다. 그러나 그럴 때에도 감사하는 것이 우리의 신앙의 절정이고 영혼의 절정이라고 할 수 있습니다.\n\n차진배 시인의 ‘정작 감사한 것들’이라는 시가 있습니다. “참으로 감사한 것은 / 이미 코끝에 와닿아 있었다 / 때문에 우리는 살아 숨쉬고 있는 것이다 / 참으로 감사한 것은 / 이미 살결에 와닿아 있었다 / 때문에 우리는 싱싱하게 움직이고 있는 것이다 / 참으로 감사한 것은 / 이미 발밑에 와닿아 있었다 / 때문에 우리는 단단하게 딛고 서 있는 것이다 / 참으로 감사한 것은 / 이미 우리 속에 가득 차 있었다 / 초라한 모든 것을 끌어 안아야 하고 / 불의로운 모든 것을 바르게 펴야 한다 / 참으로 감사한 것은 / 이미 우리의 가슴 속에 / 우리 가슴 깊은 곳에 / 희망으로 가득 차 있었다.” 참으로 감사한 건 이미 코끝에, 이미 살결에, 이미 발밑에 와 있다는 것입니다.\n\n돌이켜 보면 우리의 지난날에 얼마나 많은 은혜가 있었습니까? 아침에 눈을 뜨고 하루를 시작할 수 있었던 것, 가족과 함께 식탁에 둘러앉을 수 있었던 것, 힘들고 지친 날에도 다시 일어설 용기를 얻었던 것, 그리고 그런 환경 속에서도 신앙을 놓치지 않고 생명나무를 선택하려고 했던 모든 순간이 하나님의 은혜였습니다.\n\n우리는 때때로 없는 것을 바라보느라, 많은 은혜를 잊고 살아갈 때가 있습니다. 더 많이 소유하기를 원하고, 더 높은 곳에 오르기를 바라며, 다른 사람과 비교하다가 정작 내게 주어진 소중한 은혜를 놓칠 때가 있습니다. 그러나 감사는 환경을 바꾸기 전에, 우리 마음을 변화시킵니다. 감사하는 사람은 작은 것에서도 하나님의 손길을 발견하고 지금까지 받아온 은혜가 얼마나 큰지를 깨닫습니다.\n\n추수감사주일은 단지 풍성한 곡식과 열매를 드리는 절기가 아닙니다. 감사헌금을 의례적으로 드리는 것으로만 끝나는 것이 아닙니다. 우리의 삶 전체를 하나님께 드리는 신앙의 고백입니다.\n\n감사는 은혜를 기억하는 마음이며, 믿음이 열매를 맺는 아름다운 행위이며, 영혼의 절정을 이루는 복된 절기입니다. 왜냐하면 감사는 형편이 좋아서 드리는 것이 아니라 하나님의 감동대로 우리 것을 드리며 감사의 신앙을 고백하는 영혼의 절정이기 때문입니다.\n\n오늘은 2026 추수감사주일입니다. 우리 모두 Thanks again에 동참하며 여러분 모두 영혼의 절정을 이루는 추수감사주일이 되시기를 바라겠습니다.\n\n소강석 목사(새에덴교회)",
+      "content_zh": "",
+      "image": "https://images.christiantoday.co.kr/data/images/full/392510/image.jpg",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "平凡人的见证",
+        "家庭"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:38:23.632756",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "christiantoday.co.kr"
+      },
+      "id": "fc1c1603afcb34f4"
     },
     {
       "title": "How a Conversation This Week Made Me Rethink How Grace Works",
@@ -712,6 +815,43 @@
       "id": "a50d472afaf1cb92"
     },
     {
+      "title": "From Muslim Refugee to Catholic Priest and Other Beautiful Conversion Stories - ZENIT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWk0xRWR3NS0wR2dEejlxRTR3QjJmVXViWkM5Ykk1SVVLYlY1dVVLR3YwNGlaU1p5QWpaZG5RR1F3M2FLMGFKRDhDek5zS1luQVoyVUlFWWdVb29SdEp1NlBFd0I2SXZHdkxpcHJOQzhyYmxrc0xnQ19vTnFZOTNTamhyUUh5MThEcUdWWW1fZXRNdEJLeTlVWFplWFNqMWktMy0zSUdkSDZUSlE?oc=5",
+      "category": "lay",
+      "source": "GDELT · 全球信主见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-07-15",
+      "summary": "From Muslim Refugee to Catholic Priest and Other Beautiful Conversion Stories ZENIT - English",
+      "summary_zh": "从穆斯林难民到天主教神父，以及其他动人的皈依故事ZENIT - 英文",
+      "title_zh": "从穆斯林难民到天主教神父，以及其他动人的皈依故事——ZENIT",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "English",
+      "tags": [
+        "全球",
+        "平凡人的见证",
+        "见证"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "全球",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:39:01.785401",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian testimony conversion story",
+        "publisher": "English",
+        "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWk0xRWR3NS0wR2dEejlxRTR3QjJmVXViWkM5Ykk1SVVLYlY1dVVLR3YwNGlaU1p5QWpaZG5RR1F3M2FLMGFKRDhDek5zS1luQVoyVUlFWWdVb29SdEp1NlBFd0I2SXZHdkxpcHJOQzhyYmxrc0xnQ19vTnFZOTNTamhyUUh5MThEcUdWWW1fZXRNdEJLeTlVWFplWFNqMWktMy0zSUdkSDZUSlE?oc=5",
+        "resolved": false,
+        "story_score": 8,
+        "domain": "news.google.com"
+      },
+      "id": "cdbeb57083b88080"
+    },
+    {
       "title": "Sala das Graças preserva histórias de fé, esperança e devoção - Notícias",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0dRUlN0MVRFd0wta3prS01BNkg3am1PaUZzTlNpZThOYU5xd3dab3RYNzNuanNkODRzUWRPUkVnU2VoNjQ0Ynh3dmxuNlJSbWZ5MDlCanQ4N1o2VEM0SG9ldWhhSFpTN2NDellIbkZTcVRzNW5Ja2lDUUtibU5DYmRURmtFYXdXVjFMY3FhaWxHcjhYRXNvQ2dmQ0NTZjJkYTViV1BlNVI?oc=5",
       "category": "lay",
@@ -735,7 +875,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.979340",
+      "fetched_at": "2026-11-14T23:38:12.570234",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -773,7 +913,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.575907",
+      "fetched_at": "2026-11-14T23:38:12.130894",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -810,7 +950,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.402820",
+      "fetched_at": "2026-11-14T23:38:12.951504",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -847,7 +987,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.481628",
+      "fetched_at": "2026-11-14T23:38:12.934084",
       "extra": {
         "provider": "google_news",
         "query": "Christian conversion testimony story",
@@ -884,7 +1024,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.981731",
+      "fetched_at": "2026-11-14T23:38:12.570820",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -958,7 +1098,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.981480",
+      "fetched_at": "2026-11-14T23:38:12.571109",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -969,6 +1109,43 @@
         "domain": "news.google.com"
       },
       "id": "5a6ec6179cf53a8b"
+    },
+    {
+      "title": "Strange Phenomena and Spiritual Warfare: A Catholic Convert’s Testimony",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HNVBvbmNWNm9HMUVreFo4TWFVWkhIeU5NWDN2eUFNMUJtWjIxcG5NYzU3VmNkTUxjb0tvNmRQZXJCaEhZb1REZjF2WFRpdElaUDIySkZtWHNnWG5VbndsWHNRY0tRWEFjREx1WXdFbw?oc=5",
+      "category": "lay",
+      "source": "北美信主见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2024-05-06",
+      "summary": "Strange Phenomena and Spiritual Warfare: A Catholic Convert’s Testimony National Catholic Register",
+      "summary_zh": "奇怪的现象和精神战：天主教皈依者的证词国家天主教登记册",
+      "title_zh": "奇怪的现象和精神战：天主教皈依者的证词",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "National Catholic Register",
+      "tags": [
+        "北美",
+        "平凡人的见证",
+        "见证"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "北美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:38:12.934667",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian conversion testimony story",
+        "publisher": "National Catholic Register",
+        "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HNVBvbmNWNm9HMUVreFo4TWFVWkhIeU5NWDN2eUFNMUJtWjIxcG5NYzU3VmNkTUxjb0tvNmRQZXJCaEhZb1REZjF2WFRpdElaUDIySkZtWHNnWG5VbndsWHNRY0tRWEFjREx1WXdFbw?oc=5",
+        "resolved": false,
+        "story_score": 4,
+        "domain": "news.google.com"
+      },
+      "id": "5e371804f8c64826"
     },
     {
       "title": "'Cabrini' film tells the story of an empire of hope built by a 'little woman' with great faith",
@@ -994,7 +1171,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.767727",
+      "fetched_at": "2026-11-14T23:38:13.207460",
       "extra": {
         "provider": "google_news",
         "query": "orphan rescued missionary story",
@@ -1104,7 +1281,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.981229",
+      "fetched_at": "2026-11-14T23:38:12.571201",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -1140,7 +1317,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.778373",
+      "fetched_at": "2026-11-14T23:38:12.351655",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",

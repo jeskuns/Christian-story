@@ -1,8 +1,8 @@
 {
   "category": "missionary",
   "label": "宣教士故事",
-  "count": 88,
-  "updated_at": "2026-11-14T08:45:51.631492+08:00",
+  "count": 91,
+  "updated_at": "2026-11-15T07:40:31.133944+08:00",
   "articles": [
     {
       "title": "How We Saw God’s Goodness Through Our Child’s Cancer",
@@ -33,7 +33,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:33.510124",
+      "fetched_at": "2026-11-14T23:38:05.899917",
       "extra": {
         "feed_type": "rss20",
         "story_score": 15,
@@ -70,7 +70,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:36.456656",
+      "fetched_at": "2026-11-14T23:38:07.460998",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -106,7 +106,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:38.048551",
+      "fetched_at": "2026-11-14T23:38:08.650196",
       "extra": {
         "feed_type": "rss20",
         "story_score": 12,
@@ -142,7 +142,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:40.012319",
+      "fetched_at": "2026-11-14T23:38:08.939880",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -179,7 +179,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:41.014963",
+      "fetched_at": "2026-11-14T23:38:10.509696",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -213,7 +213,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:40.931638",
+      "fetched_at": "2026-11-14T23:38:11.662589",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -249,7 +249,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:37.539449",
+      "fetched_at": "2026-11-14T23:38:12.246708",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -285,7 +285,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:37.732900",
+      "fetched_at": "2026-11-14T23:38:12.415169",
       "extra": {
         "feed_type": "rss20",
         "story_score": 14,
@@ -321,7 +321,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:38.335106",
+      "fetched_at": "2026-11-14T23:38:12.616633",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -357,7 +357,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:38.488044",
+      "fetched_at": "2026-11-14T23:38:13.557555",
       "extra": {
         "feed_type": "rss20",
         "story_score": 11,
@@ -392,7 +392,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:39.121658",
+      "fetched_at": "2026-11-14T23:38:14.766949",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -427,7 +427,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:39.928373",
+      "fetched_at": "2026-11-14T23:38:17.246535",
       "extra": {
         "feed_type": "rss20",
         "story_score": 12,
@@ -463,7 +463,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:40.598056",
+      "fetched_at": "2026-11-14T23:38:19.736784",
       "extra": {
         "feed_type": "rss20",
         "story_score": 13,
@@ -499,7 +499,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:41.246408",
+      "fetched_at": "2026-11-14T23:38:23.181131",
       "extra": {
         "feed_type": "rss20",
         "story_score": 18,
@@ -535,7 +535,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:42.183231",
+      "fetched_at": "2026-11-14T23:38:27.773597",
       "extra": {
         "feed_type": "rss20",
         "story_score": 8,
@@ -568,7 +568,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:43.489952",
+      "fetched_at": "2026-11-14T23:38:13.807267",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -601,7 +601,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:43.490071",
+      "fetched_at": "2026-11-14T23:38:13.807352",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -635,7 +635,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:41:20.183712",
+      "fetched_at": "2026-11-14T23:38:39.206377",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -670,7 +670,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:41:29.407950",
+      "fetched_at": "2026-11-14T23:38:49.943303",
       "extra": {
         "feed_type": "rss20",
         "story_score": 10,
@@ -705,7 +705,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:41:35.097121",
+      "fetched_at": "2026-11-14T23:38:55.280747",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
@@ -740,7 +740,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:41:39.376108",
+      "fetched_at": "2026-11-14T23:39:00.018644",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -776,7 +776,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:41:40.879874",
+      "fetched_at": "2026-11-14T23:39:01.121051",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -812,13 +812,81 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:34.655950",
+      "fetched_at": "2026-11-14T23:38:07.427131",
       "extra": {
         "feed_type": "rss20",
         "story_score": 6,
         "domain": "imb.org"
       },
       "id": "8f1cefd09b9a155f"
+    },
+    {
+      "title": "Léon XIV à Cuzco pour la Journée mondiale des pauvres",
+      "url": "https://fr.aleteia.org/2026/11/14/leon-xiv-a-cuzco-une-journee-mondiale-des-pauvres-au-coeur-des-andes/",
+      "category": "missionary",
+      "source": "Aleteia · témoignages（法）",
+      "source_url": "https://fr.aleteia.org/feed/",
+      "published": "2026-11-14",
+      "summary": "Supérieur général des Missionnaires Serviteurs des Pauvres, le père Walter Corsini a croisé à plusieurs reprises Léon XIV à Rome, à l’époque où celui-ci était Prieur Général des Augustins (2001 – 2013). Il revient pour Aleteia sur le voyage apostolique de Léon XIV au Pérou et le sens particulier que prend en ce 15 novembre, Journée mondiale des pauvres, son passage à Cusco. Aleteia : Quel est le sens que le pape Léon XIV souhaite accorder à cette journée mondiale des pauvres en la passant ce dim",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "Supérieur général des Missionnaires Serviteurs des Pauvres, le père Walter Corsini a croisé à plusieurs reprises Léon XIV à Rome, à l’époque où celui-ci était Prieur Général des Augustins (2001 – 2013). Il revient pour Aleteia sur le voyage apostolique de Léon XIV au Pérou et le sens particulier que prend en ce 15 novembre, Journée mondiale des pauvres, son passage à Cusco. Aleteia : Quel est le sens que le pape Léon XIV souhaite accorder à cette journée mondiale des pauvres en la passant ce dimanche à Cusco, au Pérou ?  Père Walter Corsini : On voit que le pape Léon insiste beaucoup sur le besoin que nous avons tous de placer le Christ au centre de nos vies. Il y a une belle coïncidence avec cette journée mondiale de la pauvreté car la plus grande pauvreté est précisément de ne pas connaître le Christ, de ne pas avoir le Christ présent dans notre cœur. Dans plusieurs de ses prises de Tout lire… The post Léon XIV à Cuzco pour la Journée mondiale des pauvres appeared first on Aleteia .",
+      "content_zh": "",
+      "image": "https://aleteia.org/api/og-image/?locale=fr&slug=2026%2F11%2F14%2Fleon-xiv-a-cuzco-une-journee-mondiale-des-pauvres-au-coeur-des-andes",
+      "author": "Martin Dousse",
+      "tags": [
+        "欧洲",
+        "宣教士故事",
+        "非洲宣教",
+        "Actualités",
+        "Vatican",
+        "Pérou"
+      ],
+      "language": "fr",
+      "country": "FR",
+      "region": "欧洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:38:28.960971",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "fr.aleteia.org"
+      },
+      "id": "e52a4f96a2899f30"
+    },
+    {
+      "title": "추수감사절의 모든 것",
+      "url": "https://www.christiantoday.co.kr/news/378635",
+      "category": "missionary",
+      "source": "크리스천투데이 · 간증（韩）",
+      "source_url": "https://www.christiantoday.co.kr/rss",
+      "published": "2026-11-14",
+      "summary": "추수감사절(秋收感謝節, Thanksgiving Day)이란 추수감사절은 항해술이 취약했던 1620년 오직 신앙의 자유만을 찾아 극심한 기아와 병고에 시달리면서 메이플라워호에 몸을 싣고 신대륙 아메리카로 건너간 102명의 청교도(the Puritan)들이 그로부터 1년 후 낯선 개척지에서 갖은 풍토병과 각종 생활의 질고에 시달리면서도 하나님의 도우심으로 한 해 농사를 수확한 후 얻은 새 땅에서의 첫 결실을 감사하여 드린 감사 기념 예배에서 유래된 것이다. 실로 눈물과 감사가 뒤범벅된 벅찬 감동의 예배를 드렸던 그들이 바로 현대 미국을 탄생시킨 선조(the Piligrim Fathers)들이었다. 이들이 드렸던 첫 추수 감사절의 벅찬 환희는 단순히 한 나라의 건국 일화나 한 해의 추수의 감사에 그치는 것이 아니라 신앙과 자유의 존엄성을, 그리고 개척자정신의 고귀함을 보여 주는 산 실례로서 모든 인류의 가슴속에 진한 감동을 전해준다. 특히 이들의 후예인 미국 교회의 선교로 기독교를 받아들",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "추수감사절(秋收感謝節, Thanksgiving Day)이란\n\n추수감사절은 항해술이 취약했던 1620년 오직 신앙의 자유만을 찾아 극심한 기아와 병고에 시달리면서 메이플라워호에 몸을 싣고 신대륙 아메리카로 건너간 102명의 청교도(the Puritan)들이 그로부터 1년 후 낯선 개척지에서 갖은 풍토병과 각종 생활의 질고에 시달리면서도 하나님의 도우심으로 한 해 농사를 수확한 후 얻은 새 땅에서의 첫 결실을 감사하여 드린 감사 기념 예배에서 유래된 것이다.\n\n실로 눈물과 감사가 뒤범벅된 벅찬 감동의 예배를 드렸던 그들이 바로 현대 미국을 탄생시킨 선조(the Piligrim Fathers)들이었다.\n\n이들이 드렸던 첫 추수 감사절의 벅찬 환희는 단순히 한 나라의 건국 일화나 한 해의 추수의 감사에 그치는 것이 아니라 신앙과 자유의 존엄성을, 그리고 개척자정신의 고귀함을 보여 주는 산 실례로서 모든 인류의 가슴속에 진한 감동을 전해준다.\n\n특히 이들의 후예인 미국 교회의 선교로 기독교를 받아들인 한국교회는 선교사들의 자연스러운 영향으로 추수감사절을 지키게 되었다. 현대에 이르러 건국자들이 가졌던 신앙과 개척정신을 크게 상실한 미국 교회뿐 아니라 전 세계 교회는 이 추수 감사절을 다시금 자신의 신앙의 활력을 소생시키는 기회로 삼아야 하겠다.\n\n1. 시기\n\n오늘날 교회 주요 절기 중 하나로 지켜지고 있는 추수감사절의 근대적 기원은 미국의 청교도(淸敎徒)들이 신대륙으로 이주한 후 첫 수확을 하게 된 것에 대해 하나님께 감사제를 드린 데서 유래했다. 그러나 오늘날 교회의 추수감사절 시기는 나라와 교단마다 다를 수 있으며, 그 기간이 실제적인 추수 기간과 일치하지 않는 경우도 많다.\n\n오늘날 추수감사절을 유래한 미국은 청교도들이 신대륙 이주 후 첫 추수 감사절 예배를 행한, 버지니아 북쪽 땅에 첫발을 내디딘 1620년 1월 21일을 기념하는 뜻에서 11월 넷째 주 목요일을 추수 감사절로 정하고 있다(2. 유래 참조).\n\n영국은 전통적으로 8월 1일을 추수 감사절(Lamas)로 지키고 있다. 그리고 유럽의 여러 나라들은 부활절 후 40일, 즉 승천일(목요일) 전 3일간을 추수감사절로 지키고 있다.\n\n우리나라의 경우, 기독교가 전래되기 전에는 오곡백과가 무르익는 음력 8월 15일, 즉 추석이 이 날에 해당하였다. 이때 사람들은 풍성한 수확을 기뻐하며 조상들을 생각하여 성묘하고, 햇곡식으로 빚은 떡과 과일을 이웃과 나누어 먹으며 즐거워했다.\n\n그러나 기독교 전래 이후 교회에서는 교단마다 차이가 있기는 하지만, 일반적으로 미국인 선교사가 조선에 입국한 것을 기념하여 11월 셋째 주 일요일을 추수감사절로 지키고 있다. 원래 미국 선교사의 조선 입국은 11월 셋째 주 수요일이었으나 그 후 요일이 변경되어 오늘에 이르고 있는 것이다.\n\n2. 유래\n\n곡물 추수와 관련해 성경에 나타난 최초의 감사 제사는 가인과 아벨의 제사(창 4:3-4)이며, 유대인의 칠칠절·수장절 등과 같이(맥추감사절 참조) 고대로부터 추수 감사에 관련된 의식은 어느 나라에서나 찾아볼 수 있는 것이었다.\n\n이렇게 각 나라의 민속적인 풍습으로 행해졌던 추수감사제가 교회의 한 절기로서 지켜지게 된 것은 영국에서 미국으로 건너온 청교도들에 의해 거행되었던 1621년의 추수 감사절의 영향 때문이다.\n\n​성경 말씀대로 경건하게 생활하려는 청교도들과 이미 형식주의적 신앙생활에 젖은 영국의 국교도들 간에는 많은 신앙의 갈등이 있었다. 그런데 영국의 국왕은 영국의 국교도와는 다른 신앙 견해를 가진 청교도들을 용납하지 않았으며, 신앙적 자유를 허락하지도 않았다. 그래서 청교도들은 그들의 신앙을 지키기 위해 네덜란드로 건너갔다. 그러나 11년간의 네덜란드에서의 생활은 무척 고된 것이었으며, 올바른 신앙인으로 자녀를 교육하기란 더더욱 힘이 들었다.\n\n이에 청교도들은 신대륙으로 가기 위해 7년 동안 힘들여 일해서 번 돈으로 배를 샀다. 그러나 스피드웰이란 이름을 가진 그 배는 장기간 항해에 적합하지 않았으므로 다시 다른 배를 구입하였으니 이것이 바로 그 유명한 메이플라워이다. 그러나 이 배 역시 180톤의 작은 배에 지나지 않았다. 그러나 신앙의 열정에 불타는 청교도들은 신앙의 자유를 찾아 1620년 메이플라워호를 타고 신대륙인 미국으로 건너가게 된 것이다.\n\n​그런데 먹을 물과 양식이 부족한 가운데 행해진 65일간의 항해가 험난했을 뿐 아니라 그들을 꿈에 부풀게 했던 신대륙에서의 생활도 생각처럼 좋은 것만은 아니었다. 청교도들이 신대륙에 도착한 때는 겨울이었기 때문에 그들은 심한 식량난과 추위, 기후 차와 영양실조들의 원인으로 인해 첫 겨울에 102명 가운데 44명이나 죽었으며, 그 나머지도 질병에 시달렸으므로 항상 일손 부족으로 인한 격무에 시달려야 했다.\n\n그때 심한 고통 속에 있던 그들에게 도움을 주었던 것은 마음 좋은 인디언들이었다. 이 대륙의 원주민인 인디언들은 어려운 처지에 놓여 있는 청교도들에게 옥수수 등 곡물을 가져다주었고, 농사짓는 방법도 가르쳐 주었다. 이들의 도움으로 다음 해인 1621년 청교도들은 풍성한 곡식을 추수할 수 있었다. 이에 청교도들은 친절한 인디언들을 초대해 추수한 곡식과 칠면조 고기 등을 함께 먹으며 신대륙에서의 기쁜 첫 추수 감사절을 가졌다.\n\n​그 후 1623년 매사추세츠 주에서는 추수감사절을 공식 절기로 선포하였으며, 1789년에는 미국의 초대 대통령 조지 워싱턴이 이를 전국적으로 지킬 것을 선포하였다. 그러나 3대 대통령인 토마스 제퍼슨은 추수 감사절이 왕의 관습이라는 이유로 이를 기념하는 행사를 중단하였다. 그 뒤로 추수 감사절은 일부 주에서만 비 공식적으로 지켜지게 되었고, 그 기념일도 주마다 달랐다.\n\n이렇게 폐지되었던 추수 감사절이 다시 지켜지기 시작한 것은 1863년 링컨 대통령이 추수감사절을 미국의 연례 축일로 선포하면서부터였다. 이는 Godey’s Lady’s Book 편저자였던 사라 요세파 헤일 여사의 “추수감사절은 미국의 건립이 하나님의 은혜로 되었음을 기념하는 연례적인 절기로 지켜져야 한다”는 주장이 받아들여진 결과였다. 당시 미국에서는 남북 전쟁이 진행되고 있었는데, 추수감사절 하루 동안은 전쟁이 중지되기도 했다.\n\n미국 가톨릭에는 추수감사절 주일이 따로 없다. 그러나 실제로는 개신교와 같이 추수감사절을 지키고 있으며, 성공회 역시 감사 주일을 따로 정하지 않았지만 기도서에는 이날 행사에 대한 기도가 들어 있다.\n\n우리나라 교회가 추수감사절을 교회의 절기로 지키게 된 것은 1904년부터다. 처음에는 장로교 단독으로 11월 10일을 추수 감사절로 기념하던 것이 1914년 교파 선교부 회의 결과에 따라 미국 선교사가 조선에 입국한 것을 기념하는 뜻에서 11월 셋째 주 수요일로 변경되어 지켜지게 되었다.\n\n그 후에 추수감사절은 그 요일이 수요일에서 일요일로 바뀌어 11월 셋째 주 일요일을 추수감사절로 지키게 되었다. 오늘날 우리나라 교계에서는 추수감사절을 우리의 실정에 맞게 추석(중추절)으로 정해야 한다는 주장이 있고, 일부 교회와 교파에서는 이미 이를 시행하고 있다.\n\n3. 풍습\n\n추수감사절의 근본 목적은 한 해 동안 보살펴 주시고 축복해 주셔서 풍성한 수확을 거두게 해 주신 하나님께 감사의 뜻을 표하고 또한 감사의 예물을 드리는 데 있다. 1621년 온갖 어려움 속에서도 신대륙에서의 첫 수확을 거두게 된 청교도들은 추수할 수 있도록 도와주신 하나님께 깊은 감사를 드리며, 실질적으로 신대륙 생활에 도움을 준 이웃 인디언들을 초대해 추수한 곡물을 함께 나누어 먹으며 즐거워했다. 이러한 풍습은 오늘날까지도 이어져 사람들은 추수 감사절에 새 곡물로 만든 음식과 추수 감사절에 관련된 음식을 이웃과 나누어 먹는다.\n\n​추수감사절과 관련하여 가장 널리 알려진 풍습으로 칠면조 고기를 먹는 것이 있다. 칠면조 고기를 먹는 풍습은 첫 추수감사절 때 새 사냥을 갔던 사람이 칠면조를 잡아와 먹기 시작한 데서 유래한 것으로 오늘날에도 일부 지방에서는 이날 식탁에 5개의 옥수수를 올려놓는데, 이는 청교도들이 식량난으로 고생할 때 한 사람의 하루 식량으로 배당되었던 옥수수 5개를 의미하는 것이다. 이에 각 가정의 부모는 첫 추수 감사절이 지켜지기까지 고생했던 그들 선",
+      "content_zh": "",
+      "image": "https://images.christiantoday.co.kr/data/images/full/371175/thanksgiving-day.jpg",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "宣教士故事"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:38:27.404819",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 8,
+        "domain": "christiantoday.co.kr"
+      },
+      "id": "b45ba5ec68a84097"
     },
     {
       "title": "[2026 다니엘기도회: 12일] 인생 세 번 끝내려 했지만… “피투성이라도 살아 있으라”",
@@ -1193,7 +1261,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-13T00:54:47.587489",
+      "fetched_at": "2026-11-14T23:38:10.759800",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -1268,7 +1336,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.980174",
+      "fetched_at": "2026-11-14T23:38:12.570718",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -1305,7 +1373,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.980987",
+      "fetched_at": "2026-11-14T23:38:12.570919",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -1416,7 +1484,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.778509",
+      "fetched_at": "2026-11-14T23:38:12.351877",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -1453,7 +1521,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.470737",
+      "fetched_at": "2026-11-14T23:38:12.122751",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -1490,7 +1558,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.117924",
+      "fetched_at": "2026-11-14T23:38:12.707311",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -1529,7 +1597,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.118087",
+      "fetched_at": "2026-11-14T23:38:12.707436",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -1566,7 +1634,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.118227",
+      "fetched_at": "2026-11-14T23:38:12.707541",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -1640,7 +1708,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.221009",
+      "fetched_at": "2026-11-14T23:38:12.684457",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -1676,7 +1744,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.777954",
+      "fetched_at": "2026-11-14T23:38:12.350702",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -1713,7 +1781,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.471060",
+      "fetched_at": "2026-11-14T23:38:12.122967",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -1751,7 +1819,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:40.103637",
+      "fetched_at": "2026-11-14T23:38:11.060180",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -1788,7 +1856,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.835267",
+      "fetched_at": "2026-11-14T23:38:13.385036",
       "extra": {
         "provider": "google_news",
         "query": "medical missionary Africa hospital story",
@@ -1875,6 +1943,43 @@
       "id": "ba822cbe93706ab6"
     },
     {
+      "title": "Zoom sur notre histoire : Le service missionnaire",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWJHTk1kYlA3UDFxcGRmbmVTS3FmUUVnQ2ZxVlphYWJLRFBUN1E2LTQwdE9CYWZYVXNiQ2VrUFhtMkp3algxVTBkZlVETXNvWVk0ZUhaR3Fkd1hieXJBZWUweVI5dy0xYm5SOWJQYWVackFxS0JZRVNWVzE0OVhvYTIzMnEwck44ZmFTa1NtbHZpdzgzeGdn?oc=5",
+      "category": "missionary",
+      "source": "法语非洲见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2025-03-17",
+      "summary": "Zoom sur notre histoire : Le service missionnaire JW.ORG",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "JW.ORG",
+      "tags": [
+        "非洲",
+        "宣教士故事",
+        "非洲宣教"
+      ],
+      "language": "fr",
+      "country": "SN",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:38:10.892924",
+      "extra": {
+        "provider": "google_news",
+        "query": "témoignage missionnaire Afrique histoire",
+        "publisher": "JW.ORG",
+        "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWJHTk1kYlA3UDFxcGRmbmVTS3FmUUVnQ2ZxVlphYWJLRFBUN1E2LTQwdE9CYWZYVXNiQ2VrUFhtMkp3algxVTBkZlVETXNvWVk0ZUhaR3Fkd1hieXJBZWUweVI5dy0xYm5SOWJQYWVackFxS0JZRVNWVzE0OVhvYTIzMnEwck44ZmFTa1NtbHZpdzgzeGdn?oc=5",
+        "resolved": false,
+        "story_score": 4,
+        "domain": "news.google.com"
+      },
+      "id": "3e84ed157a274159"
+    },
+    {
       "title": "[은혜의 샘물] 포연 속 우크라이나에서 살다 오신 선교사 이야기",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11aWc0TXU4NWw5WFZuVlg4RGM1OEVNeUpuWWc1N3F2ekNmTlU1Tnp2LThlTE5LUW56N2x1WWUtcE9ZcFlkdDQzVGI2NHB3S1d1aVdWMzZpTjZvLVJ6Q1Nxd0NkeURyRldpMndn?oc=5",
       "category": "missionary",
@@ -1898,7 +2003,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.469879",
+      "fetched_at": "2026-11-14T23:38:12.122318",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -1935,7 +2040,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.220557",
+      "fetched_at": "2026-11-14T23:38:12.684145",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -1973,7 +2078,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.576243",
+      "fetched_at": "2026-11-14T23:38:12.131225",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -2011,7 +2116,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.118951",
+      "fetched_at": "2026-11-14T23:38:12.708081",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -2047,7 +2152,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.778644",
+      "fetched_at": "2026-11-14T23:38:12.351979",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2084,7 +2189,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.653022",
+      "fetched_at": "2026-11-14T23:38:13.118262",
       "extra": {
         "provider": "google_news",
         "query": "Pacific islands missionary story testimony",
@@ -2122,7 +2227,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.470414",
+      "fetched_at": "2026-11-14T23:38:12.122529",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -2158,7 +2263,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.471356",
+      "fetched_at": "2026-11-14T23:38:12.123163",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -2196,7 +2301,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.576799",
+      "fetched_at": "2026-11-14T23:38:12.131628",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -2232,7 +2337,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.777616",
+      "fetched_at": "2026-11-14T23:38:12.350835",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2270,7 +2375,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.979893",
+      "fetched_at": "2026-11-14T23:38:12.570614",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2308,7 +2413,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:40.849830",
+      "fetched_at": "2026-11-14T23:38:11.847460",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -2346,7 +2451,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.118652",
+      "fetched_at": "2026-11-14T23:38:12.707874",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -2384,7 +2489,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.982227",
+      "fetched_at": "2026-11-14T23:38:12.571295",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2421,7 +2526,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.221155",
+      "fetched_at": "2026-11-14T23:38:12.684557",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -2458,7 +2563,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.470579",
+      "fetched_at": "2026-11-14T23:38:12.122649",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -2494,7 +2599,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.777434",
+      "fetched_at": "2026-11-14T23:38:12.351166",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2531,7 +2636,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.470046",
+      "fetched_at": "2026-11-14T23:38:12.122427",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -2568,7 +2673,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.220708",
+      "fetched_at": "2026-11-14T23:38:12.684260",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -2604,7 +2709,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.220225",
+      "fetched_at": "2026-11-14T23:38:12.683932",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -2641,7 +2746,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.577232",
+      "fetched_at": "2026-11-14T23:38:12.132031",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -2678,7 +2783,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.220046",
+      "fetched_at": "2026-11-14T23:38:12.683808",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -2715,7 +2820,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.118368",
+      "fetched_at": "2026-11-14T23:38:12.707661",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -2751,7 +2856,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.778098",
+      "fetched_at": "2026-11-14T23:38:12.350950",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2787,7 +2892,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.220400",
+      "fetched_at": "2026-11-14T23:38:12.684043",
       "extra": {
         "provider": "google_news",
         "query": "missionário tribo Amazônia história",
@@ -2823,7 +2928,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.778238",
+      "fetched_at": "2026-11-14T23:38:12.351773",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2859,7 +2964,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.777783",
+      "fetched_at": "2026-11-14T23:38:12.351061",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2896,7 +3001,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.119098",
+      "fetched_at": "2026-11-14T23:38:12.708179",
       "extra": {
         "provider": "google_news",
         "query": "testimonio misionero historia de fe",
@@ -2934,7 +3039,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.576527",
+      "fetched_at": "2026-11-14T23:38:12.131448",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -2971,7 +3076,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.469676",
+      "fetched_at": "2026-11-14T23:38:12.122191",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -3008,7 +3113,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.470908",
+      "fetched_at": "2026-11-14T23:38:12.122848",
       "extra": {
         "provider": "google_news",
         "query": "선교사 간증 이야기",
@@ -3045,7 +3150,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:40.145625",
+      "fetched_at": "2026-11-14T23:38:11.846804",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -3083,7 +3188,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.576665",
+      "fetched_at": "2026-11-14T23:38:12.131746",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -3121,7 +3226,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.576089",
+      "fetched_at": "2026-11-14T23:38:12.131123",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",

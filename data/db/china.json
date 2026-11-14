@@ -1,8 +1,8 @@
 {
   "category": "china",
   "label": "中国故事",
-  "count": 9,
-  "updated_at": "2026-11-14T08:45:51.638201+08:00",
+  "count": 10,
+  "updated_at": "2026-11-15T07:40:31.139433+08:00",
   "articles": [
     {
       "title": "Hong Kong Christian, pro-democracy activist sentenced",
@@ -31,7 +31,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:35.190525",
+      "fetched_at": "2026-11-14T23:38:07.259882",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -66,7 +66,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:36.646708",
+      "fetched_at": "2026-11-14T23:38:08.343802",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -101,7 +101,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:37.228182",
+      "fetched_at": "2026-11-14T23:38:08.967824",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -136,7 +136,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T00:40:39.173713",
+      "fetched_at": "2026-11-14T23:38:10.125521",
       "extra": {
         "feed_type": "rss20",
         "story_score": 5,
@@ -249,6 +249,45 @@
       "id": "6d655db6dead7491"
     },
     {
+      "title": "Zion Church Pastor Sean Long's Testimony ｜ 锡安教会代理牧师龙降恩牧师见证”十架之路，复兴之门“ ｜ 全球为中国祷告日｜ IDOP China",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RRnhXVXlORl9NeklTdllQMHRpMWVVaU9oalZGdXpVdkFfM3B6NE1rUHE4X01WRmo4Y3gwTWhEazRIX1haR09GTEV0cjNUNVB2YUhYcEYzak5CX0tJ?oc=5",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2025-11-12",
+      "summary": "Zion Church Pastor Sean Long's Testimony ｜ 锡安教会代理牧师龙降恩牧师见证”十架之路，复兴之门“ ｜ 全球为中国祷告日｜ IDOP China YouTube",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "YouTube",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证",
+        "祷告",
+        "复兴"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-14T23:39:17.127757",
+      "extra": {
+        "provider": "google_news",
+        "query": "Christian testimony China church story",
+        "publisher": "YouTube",
+        "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RRnhXVXlORl9NeklTdllQMHRpMWVVaU9oalZGdXpVdkFfM3B6NE1rUHE4X01WRmo4Y3gwTWhEazRIX1haR09GTEV0cjNUNVB2YUhYcEYzak5CX0tJ?oc=5",
+        "resolved": false,
+        "story_score": 13,
+        "domain": "news.google.com"
+      },
+      "id": "2e5ebadb79c6857c"
+    },
+    {
       "title": "《中国基督徒如何回应大逼迫》—贵阳活石教会仰华牧师短讲｜ Testimony and Speech of Pastor Yanghua, Guiyang Livingstone Church",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zcExEOHZWMzM0MVNYbXJ1dFZIR3QwRnoyZGlXN2U2clJwcl9aa21CU3VjYXEzQTRNcHhRUnpSQVdpa3IxQmFWSGxOdmxhZFdnSDJwMmJ5TW9FdVdD?oc=5",
       "category": "china",
@@ -311,7 +350,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:41.577093",
+      "fetched_at": "2026-11-14T23:38:12.131936",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
