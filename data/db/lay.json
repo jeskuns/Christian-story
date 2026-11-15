@@ -1,8 +1,8 @@
 {
   "category": "lay",
   "label": "平凡人的见证",
-  "count": 39,
-  "updated_at": "2026-11-15T07:40:31.142071+08:00",
+  "count": 41,
+  "updated_at": "2026-11-16T07:48:49.708650+08:00",
   "articles": [
     {
       "title": "He was taught Christians do not pray. Then he watched his uncle pray before a meal",
@@ -10,7 +10,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-14",
+      "published": "2026-11-15",
       "summary": "🇲🇱Lere· 1981",
       "summary_zh": "🇲🇱莱雷·1981年",
       "title_zh": "他被教导说基督徒不祷告。然后，他看到叔叔在饭前祷告。",
@@ -30,7 +30,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T23:38:13.807435",
+      "fetched_at": "2026-11-15T23:45:53.947753",
       "extra": {
         "story_score": 8,
         "domain": "doxa.app"
@@ -43,7 +43,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-14",
+      "published": "2026-11-15",
       "summary": "🇾🇪Yemen· 2000s",
       "summary_zh": "🇾🇪也门·21世纪初",
       "title_zh": "他在一家二手商店里找到了一本圣经，以为自己是也门唯一的基督徒。",
@@ -63,7 +63,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T23:38:13.807513",
+      "fetched_at": "2026-11-15T23:45:53.947829",
       "extra": {
         "story_score": 14,
         "domain": "doxa.app"
@@ -76,7 +76,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-14",
+      "published": "2026-11-15",
       "summary": "Laos· 2022",
       "summary_zh": "老挝·2022年",
       "title_zh": "一位寡妇从一位推销员那里听到了好消息，从此念念不忘。",
@@ -94,7 +94,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T23:38:13.807598",
+      "fetched_at": "2026-11-15T23:45:53.947902",
       "extra": {
         "story_score": 17,
         "domain": "doxa.app"
@@ -107,7 +107,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-14",
+      "published": "2026-11-15",
       "summary": "🇱🇰North Central Province· 2021",
       "summary_zh": "北中央省",
       "title_zh": "35位神父都无法帮助她。在教堂里，她看到耶稣粉碎了正在扼住她喉咙的东西。",
@@ -127,7 +127,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T23:38:13.807751",
+      "fetched_at": "2026-11-15T23:45:53.948043",
       "extra": {
         "story_score": 18,
         "domain": "doxa.app"
@@ -140,7 +140,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-14",
+      "published": "2026-11-15",
       "summary": "Rakiraki· 1990s",
       "summary_zh": "拉基拉基·1990年代",
       "title_zh": "因果报应说他必须修功德才能上天堂。17岁时，他听说自己可以得到宽恕。",
@@ -159,7 +159,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T23:38:13.807902",
+      "fetched_at": "2026-11-15T23:45:53.948183",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -172,7 +172,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-14",
+      "published": "2026-11-15",
       "summary": "🇧🇩Bangladesh· 2021-2022",
       "summary_zh": "🇧🇩孟加拉国·2021-2022",
       "title_zh": "你可以杀了我，但你不能夺走我对耶稣的信仰",
@@ -191,7 +191,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T23:38:13.807974",
+      "fetched_at": "2026-11-15T23:45:53.948252",
       "extra": {
         "story_score": 9,
         "domain": "doxa.app"
@@ -204,7 +204,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-14",
+      "published": "2026-11-15",
       "summary": "🇲🇲Myanmar· 2010s",
       "summary_zh": "🇲🇲缅甸·2010年代",
       "title_zh": "一名本应死于战斗的士兵走进了恶魔的神殿",
@@ -224,7 +224,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T23:38:13.808046",
+      "fetched_at": "2026-11-15T23:45:53.948336",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -237,7 +237,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-14",
+      "published": "2026-11-15",
       "summary": "🇺🇸United States· 2020s",
       "summary_zh": "🇺🇸美国·2020年代",
       "title_zh": "她的教会奉献金刚好等于她的电费，一分不差。",
@@ -256,7 +256,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T23:38:13.808199",
+      "fetched_at": "2026-11-15T23:45:53.948474",
       "extra": {
         "story_score": 9,
         "domain": "doxa.app"
@@ -269,7 +269,7 @@
       "category": "lay",
       "source": "Christianity Today",
       "source_url": "https://www.christianitytoday.com/feed/",
-      "published": "2026-11-14",
+      "published": "2026-11-15",
       "summary": "Leaning against a tree trunk, a young man in his 20s strummed a worship song on his guitar. Around him, five others lounged in their chairs, tapping their feet to the music. Three more dug into plates of biryani at their tables. Under the warm glow of halogen lights, a group from a Hyderabad church  Read more...   The post  To Mainstream Their Faith, Indians Are Opening Christian Cafés  appeared first on  Christianity Today .",
       "summary_zh": "一位 20 多岁的年轻人倚靠在树干上，用吉他弹奏着一首赞美诗。在他周围，另外五个人懒洋洋地坐在椅子上，随着音乐的节奏打着拍子。还有三个人坐在桌旁，埋头吃着盘中的印度香饭。在卤素灯的温暖光线下，一群来自海得拉巴教会的人……阅读更多……这篇文章《为了使他们的信仰主流化，印度人正在开设基督教咖啡馆》最初发表在《今日基督教》上。",
       "title_zh": "为了使他们的信仰主流化，印度人正在开设基督教咖啡馆",
@@ -290,7 +290,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T23:38:06.954277",
+      "fetched_at": "2026-11-15T23:45:45.112291",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -304,7 +304,7 @@
       "category": "lay",
       "source": "SABDA · Kesaksian 见证",
       "source_url": "https://kesaksian.sabda.org/",
-      "published": "2026-11-14",
+      "published": "2026-11-15",
       "summary": "",
       "summary_zh": "我是来自古利内的西门。 我的名字表明我住在非洲大陆。",
       "title_zh": "我是古利奈人西门。",
@@ -323,7 +323,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T23:38:21.173211",
+      "fetched_at": "2026-11-15T23:45:59.334724",
       "extra": {
         "story_score": 4,
         "domain": "kesaksian.sabda.org"
@@ -336,7 +336,7 @@
       "category": "lay",
       "source": "SABDA · Kesaksian 见证",
       "source_url": "https://kesaksian.sabda.org/",
-      "published": "2026-11-14",
+      "published": "2026-11-15",
       "summary": "",
       "summary_zh": "p style=\"margin-bottom:1em; \">作者：Romauli br Marpaung Shalom，我叫 Romauli br Marpaung。",
       "title_zh": "上帝的爱是无与伦比的",
@@ -355,12 +355,82 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-14T23:38:21.173258",
+      "fetched_at": "2026-11-15T23:45:59.334771",
       "extra": {
         "story_score": 5,
         "domain": "kesaksian.sabda.org"
       },
       "id": "d64a56dfe4c4beae"
+    },
+    {
+      "title": "Jordanian Christians Grieve Terror Attack on Church",
+      "url": "https://www.christianitytoday.com/2026/11/jordanian-christians-grieve-terror-attack-on-karak-church/",
+      "category": "lay",
+      "source": "Christianity Today",
+      "source_url": "https://www.christianitytoday.com/feed/",
+      "published": "2026-11-15",
+      "summary": "Faris lingered outside with other men at a funeral held in a red-domed Greek Orthodox church in the Jordanian village of Hamoud, 75 miles southeast of the capital, Amman. A beloved local woman had died, and around 150 people had gathered in the pews last month to mourn. But 15 minutes into the service, the  Read more...   The post  Jordanian Christians Grieve Terror Attack on Church  appeared first on  Christianity Today .",
+      "summary_zh": "法里斯与其他男子一起站在室外，参加一场葬礼。葬礼在约旦哈穆德村一座红穹顶的希腊东正教教堂举行，该村位于首都安曼东南方75英里处。一位备受爱戴的当地妇女去世了，上个月约有150人聚集在教堂的长凳上哀悼。但仪式开始15分钟后， 阅读更多……   这篇题为《约旦基督徒哀悼教堂恐怖袭击》的文章  最初发表在《今日基督教》上。",
+      "title_zh": "约旦基督徒哀悼教堂恐怖袭击事件",
+      "content": "Faris lingered outside with other men at a funeral held in a red-domed Greek Orthodox church in the Jordanian village of Hamoud, 75 miles southeast of the capital, Amman. A beloved local woman had died, and around 150 people had gathered in the pews last month to mourn. But 15 minutes into the service, the Read more... The post Jordanian Christians Grieve Terror Attack on Church appeared first on Christianity Today .",
+      "content_zh": "法里斯与其他男子一起站在室外，参加一场葬礼。葬礼在约旦哈穆德村一座红穹顶的希腊东正教教堂举行，该村位于首都安曼东南方75英里处。一位备受爱戴的当地妇女去世了，上个月约有150人聚集在教堂的长凳上哀悼。但仪式开始15分钟后，阅读更多……这篇题为《约旦基督徒哀悼教堂恐怖袭击》的文章最初发表在《今日基督教》上。",
+      "image": "https://www.christianitytoday.com/wp-content/uploads/2026/11/jordan-karak-attack-orthodox-church.jpg?resize=1200,628",
+      "author": "Interview by Jayson Casper",
+      "tags": [
+        "北美",
+        "平凡人的见证",
+        "News",
+        "International",
+        "Islam"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "北美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-15T23:45:44.403086",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "christianitytoday.com"
+      },
+      "id": "6709cf06d2b8942f"
+    },
+    {
+      "title": "[2026 다니엘기도회: 13일] 김우준 목사 “병원에서 경험한 가장 큰 은혜”",
+      "url": "https://www.christiantoday.co.kr/news/378628",
+      "category": "lay",
+      "source": "크리스천투데이 · 간증（韩）",
+      "source_url": "https://www.christiantoday.co.kr/rss",
+      "published": "2026-11-15",
+      "summary": "2026 다니엘기도회 13일차 간증 모든 것을 잃으면 비로소 보이는 것 강사: 김우준 목사(분당 지구촌교회) 본문: 골로새서 2장 6-7절 1. 신앙생활의 본질을 잃어버린 그리스도인들 사랑하는 성도 여러분! 오늘 여러분과 함께 우리의 신앙생활을 돌아보고 싶습니다. 혹시 이런 생각을 해보신 적이 있습니까? 성경이 말하는 참된 신앙생활과 우리가 실제로 살아가는 모습은 왜 이렇게 다를까요? 성경이 말하는 신앙생활은 살아 계신 하나님과 생동감 있게 동행하는 삶입니다. 전능하신 하나님께서 언제 어디서나 나와 함께하신다는 사실을 진정으로 믿는다면 우리의 삶에는 감사와 기쁨과 평강이 넘쳐나야 합니다. 그런데 실제 우리의 모습은 어떻습니까? 많은 그리스도인이 걱정과 근심과 염려에 시달리며 살아갑니다. 성경은 우리가 그리스도의 장성한 분량에 이르기까지 예수님을 닮아가야 한다고 가르칩니다. 그런데 우리의 모든 생각과 말과 행동이 공개된다면, 주변 사람들이 우리를 보면서 예수님을 닮았다고 말할 수 있을",
+      "summary_zh": "2026年但以理祷告会第13天见证 失去一切时才能看到的东西 讲员：金宇俊牧师（盆唐地球村教会） 经文：歌罗西书2章6-7节 1. 亲爱的弟兄姊妹们，你们是失去了信仰生活本质的基督徒！今天我想与大家一起回顾我们的信仰生活。您是否曾有过这样的想法？为什么圣经所说的真正的信仰生活与我们实际的生活方式有这么大的差别呢？圣经所说的信仰生活是与活着的上帝充满活力地同行的人生。如果我们真心相信全能的神随时随地与我们同在，那么我们的生活就应该充满感恩、喜乐与平安。但是，我们实际的样子又如何呢？许多基督徒生活在忧虑、烦恼和焦虑之中。圣经教导我们，要效法耶稣，直到达到基督长成的身量。然而，我们所有的人生",
+      "title_zh": "【2026但以理祷告会：第13天】金宇俊牧师“在医院经历的最大恩典”",
+      "content": "2026 다니엘기도회 13일차 간증 모든 것을 잃으면 비로소 보이는 것 강사: 김우준 목사(분당 지구촌교회) 본문: 골로새서 2장 6-7절\n\n1. 신앙생활의 본질을 잃어버린 그리스도인들\n\n사랑하는 성도 여러분! 오늘 여러분과 함께 우리의 신앙생활을 돌아보고 싶습니다. 혹시 이런 생각을 해보신 적이 있습니까? 성경이 말하는 참된 신앙생활과 우리가 실제로 살아가는 모습은 왜 이렇게 다를까요?\n\n성경이 말하는 신앙생활은 살아 계신 하나님과 생동감 있게 동행하는 삶입니다. 전능하신 하나님께서 언제 어디서나 나와 함께하신다는 사실을 진정으로 믿는다면 우리의 삶에는 감사와 기쁨과 평강이 넘쳐나야 합니다. 그런데 실제 우리의 모습은 어떻습니까? 많은 그리스도인이 걱정과 근심과 염려에 시달리며 살아갑니다.\n\n성경은 우리가 그리스도의 장성한 분량에 이르기까지 예수님을 닮아가야 한다고 가르칩니다. 그런데 우리의 모든 생각과 말과 행동이 공개된다면, 주변 사람들이 우리를 보면서 예수님을 닮았다고 말할 수 있을까요?\n\n우리의 지난 일주일을 돌아보십시오. 가정과 직장에서 하나님의 나라를 얼마나 생각하며 살아왔습니까? 혹시 하나님 나라를 생각할 겨를도 없이, 자신의 문제와 계획에만 몰두하지는 않았습니까?\n\n저는 오늘날 많은 그리스도인의 삶이 무기력해진 근본적인 이유가 신앙의 첫 단추를 잘못 끼웠기 때문이라고 생각합니다. 신앙의 가장 중요한 본질을 놓쳐버린 것입니다. 그렇다면 우리가 절대로 놓쳐서는 안 되는 신앙생활의 본질은 무엇입니까?\n\n골로새서 2장 6-7절은 말씀합니다. “그러므로 너희가 그리스도 예수를 주로 받았으니 그 안에서 행하되 그 안에 뿌리를 박으며 세움을 받아 교훈을 받은 대로 믿음에 굳게 서서 감사함을 넘치게 하라”.\n\n참된 신앙생활은 예수님을 내 삶의 주인으로 모셔드리는 것에서 시작됩니다. 그분 안에서 살아가고, 그분 안에 뿌리를 내리며, 믿음에 굳게 서서 감사함이 넘치는 삶을 살아가는 것입니다. 예수님을 믿는다는 것은 한마디로 인생의 주인이 바뀌는 것을 의미합니다.\n\n2. 예수님을 믿는다는 것은 인생의 주인이 바뀌는 것입니다\n\n사도행전 16장 31절에서 바울은 빌립보 감옥의 간수에게 말했습니다. “주 예수를 믿으라 그리하면 너와 네 집이 구원을 받으리라”. 로마서 10장 9절에서도 예수님을 주로 시인하고 하나님께서 그를 죽은 자 가운데서 살리신 것을 마음에 믿으면 구원을 받는다고 말씀합니다.\n\n베드로전서 3장 15절은 마음에 그리스도를 주로 삼아 거룩하게 하라고 가르칩니다. 빌립보서 2장 11절은 모든 입으로 예수 그리스도를 주라 시인하여 하나님 아버지께 영광을 돌리게 하셨다고 선포합니다. 고린도전서 12장 3절은 성령으로 아니하고는 누구든지 예수를 주시라 할 수 없다고 말씀합니다. 고린도후서 4장 5절에서 사도 바울은 자신을 전파하는 것이 아니라 그리스도 예수의 주 되신 것을 전파한다고 고백합니다.\n\n성경은 이처럼 예수 그리스도의 주 되심을 강조합니다. 예수님을 믿는다는 것은 단순히 종교적인 지식을 받아들이거나 교회에 출석하는 것이 아닙니다. 예수님을 내 인생의 주인으로 인정하고 그분의 다스리심 가운데 살아가는 것입니다.\n\n그런데 여기서 중요한 문제가 있습니다. 우리는 입술로는 예수님을 주님이라고 고백합니다. 그러나 실제 삶에서는 여전히 자신이 주인으로 살아갑니다. 내 인생의 소유권도 내가 가지고 있고, 결정권도 내가 행사하며, 경영권도 내가 놓지 않으려고 합니다.\n\n여러분에게 묻고 싶습니다. 여러분의 인생의 주인은 정말 예수 그리스도이십니까? 그렇다면 삶의 모든 소유권과 결정권을 주님께 내어드리셨습니까?\n\n예를 들어 제가 가지고 있던 책 한 권을 누군가에게 선물했다고 생각해 보십시오. 그 책을 선물한 순간부터 소유권은 누구에게 있습니까? 당연히 선물받은 사람에게 있습니다. 처음에는 절반만 소유권을 넘기고 시간이 지나면서 조금씩 나머지를 넘기는 것이 아닙니다. 주인이 바뀌는 순간 소유권도 바뀝니다.\n\n우리 신앙생활도 마찬가지입니다. 예수님을 주님으로 모셨다면 내 삶의 주인이 바뀐 것입니다. 그런데 우리는 예수님을 주님이라고 부르면서도 여전히 내 뜻대로 살려고 합니다. 예수님은 부분적인 헌신이 아니라 전인격적인 헌신을 요구하십니다.\n\n물론 이것이 우리의 행위나 헌신으로 구원을 얻는다는 뜻은 아닙니다. 구원은 오직 예수 그리스도의 은혜로 받습니다. 그러나 예수님을 믿는 사람에게는 자신의 삶을 주님께 맡기려는 마음의 결단이 있어야 합니다. 누구든지 예수님께 나아올 수 있습니다. 그러나 예수님을 주님으로 인정하지 않은 채 자기 뜻만을 고집하는 태도는 참된 믿음의 자세가 아닙니다.\n\n3. 중증 근무력증, 모든 것이 무너졌던 그날\n\n저 역시 이 사실을 머리로는 잘 알고 있었지만, 실제 삶에서 받아들이기까지는 너무 오랜 시간이 걸렸습니다. 제가 미국 텍사스에서 신학 공부를 하던 시절이었습니다. 당시 저는 공부와 직장생활, 사역을 동시에 감당하고 있었습니다. 하루하루가 치열했습니다.\n\n그러던 어느 날 직장에서 일하고 있는데 갑자기 눈과 얼굴에 마비 증상이 나타났습니다. 눈꺼풀이 너무 무거워서 잠시도 눈을 뜨고 있을 수 없었습니다. 처음에는 과로 때문이라고 생각했습니다. 충분히 쉬면 괜찮아질 것이라고 여겼습니다. 그러나 며칠이 지나고 2주가 지나도 증상은 나아지지 않았습니다. 병원에서 여러 검사를 받은 후, 의사로부터 중증 근무력증이라는 진단을 받았습니다.\n\n생명을 위협할 수 있는 심각한 질환이라는 설명을 들었습니다. 미국의 비싼 의료비를 감당하기 어려웠던 저는 서둘러 한국으로 돌아왔습니다. 고려대학교병원에서 다시 정밀검사를 받았습니다. 검사 결과를 확인한 신경과 전문의는 제게 매우 충격적인 이야기를 했습니다.\n\n제 상태가 심각하고, 마비가 빠르게 진행될 수 있다는 것이었습니다. 앞으로 6개월 안에 전신이 마비될 수 있으며, 호흡근까지 마비된다면 생명도 위험할 수 있다는 설명이었습니다. 당시 의사는 치료가 매우 어렵다고 말하며, 즉시 입원할 것을 권했습니다.\n\n저는 그 말을 도저히 받아들일 수 없었습니다. 이제 막 하나님께서 부르신 사명을 감당하려고 준비하고 있는데, 앞으로 전신이 마비되어 침대에 누워 살아야 할 수도 있다니, 이해할 수 없었습니다. 병실 침대에 앉아 창밖을 바라보았습니다. 한참 동안 아무 말도 할 수 없었습니다. 그러다가 하나님께 기도하기 시작했습니다. 그러나 그것은 기도라기보다 원망에 가까웠습니다.\n\n“하나님, 왜 저에게 이런 고난을 허락하십니까? 제 인생을 이렇게 끝내실 것이었다면 왜 저를 사역자로 부르셨습니까? 이제부터 세상으로 나아가 복음을 전해야 하지 않습니까? 하나님 영광을 위해 쓰임받지도 못하고 평생 침대에 누워 가족들에게 짐이 되어야 한다면, 차라리 지금 제 생명을 가져가십시오.”\n\n저는 하나님을 원망했습니다. 물론 하나님께서 언제나 저와 함께하신다는 사실을 알고 있었습니다. 신학적으로도 충분히 설명할 수 있었습니다. 그러나 그 순간만큼은 하나님 한 분만으로 충분하다는 고백을 할 수 없었습니다.\n\n제게는 하나님에 더해서, 건강이 있어야 행복할 것 같았습니다. 건강을 잃는다면, 적어도 돈이라도 있어야 안심할 수 있을 것 같았습니다. 평생 누군가의 도움을 받아야 한다면 경제적 여유라도 있어야 하지 않겠습니까? 그동안 수없이 하나님 한 분만으로 충분하다고 고백했지만, 막상 모든 것을 잃을 수 있는 상황에 놓이자 그 고백이 무너졌습니다.\n\n4. 욥의 고백 앞에서 깨달은 하나님의 소유권\n\n바로 그때 하나님께서 한 성경 말씀을 제 마음에 떠오르게 하셨습니다. 욥기 1장 21절입니다. “주신 이도 여호와시요 거두신 이도 여호와시오니 여호와의 이름이 찬송을 받으실지니이다”.\n\n그 말씀 앞에서 저는 비로소 깨닫게 되었습니다. 저는 그동안 제 몸만큼은 제 것이라고 생각했습니다. 제 팔과 다리를 움직이는 것, 제 발로 걸어 다니는 것, 제 손으로 밥을 먹는 것은 당연히 누려야 할 권리라고 여겼습니다. 그러나 그날 병실에서 깨달았습니다. 제가 누리고 있던 건강과 시간, 손과 발, 그리고 마지막 호흡까지 어느 하나 당연한 것이 없었습니다. 모두 하나님께서 허락하신 은혜였습니다.\n\n저는 그 모든 것을 잠시 맡아 관리하는 청지기에 불과했",
+      "content_zh": "2026年但以理祷告会第13天见证 失去一切后才能看到的东西 讲员：金宇俊牧师（盆唐地球村教会） 经文：歌罗西书2章6-7节\n\n1. 失去信仰生活本质的基督徒\n\n亲爱的弟兄姊妹们！今天我想与大家一起回顾我们的信仰生活。您是否曾有过这样的想法？为什么圣经所说的真正的信仰生活与我们实际的生活方式有这么大的差别呢？圣经所说的信仰生活，是与活着的上帝充满活力地同行的人生。如果我们真心相信全能的神随时随地与我们同在，那么我们的生活就应该充满感恩、喜乐与平安。然而，我们实际的样子又如何呢？许多基督徒在忧虑、烦恼和焦虑中度日。\n\n圣经教导我们，要效法耶稣，直到达到基督长成的身量。但是，如果我们的所有思想、言语和行为都被公开，周围的人看到我们时，会说我们像耶稣吗？回想一下我们过去的一周。在家庭和工作场所，您在多大程度上想着神的国度而生活？您是否没有时间去想神国，只是一心扑在自己的问题和计划上？我认为，如今许多基督徒的生活变得软弱无力的根本原因，在于他们一开始就走错了信仰的道路。他们错过了信仰最重要的本质。那么，我们绝不能忽视的信仰生活的本质是什么呢？歌罗西书2章6-7节说：\n\n“所以你们既领受了主基督耶稣，就当遵他而行，在他里面生根建造，信心也得以坚固，正如你们所学的，感谢的心也更增长了。” 真正的信仰生活始于尊耶稣为主宰我的生命。就是在祂里面生活，在祂里面扎根，在信仰上站稳，过着充满感恩的生活。简而言之，相信耶稣意味着人生主人发生了变化。2. 信耶稣就是改变人生之主\n\n在《使徒行传》第16章31节中，保罗对腓立比监狱的狱卒说：“当信主耶稣，你和你一家都必得救。”\n\n罗马书10章9节也说，你若口里认耶稣为主，心里相信神叫祂从死里复活，就必得救。彼得前书3章15节教导我们要尊主基督为圣。腓立比书2章11节宣告，叫各人（包括天使、人、鬼魔）认耶稣基督为主，归荣耀给父神。哥林多前书12章3节说，若不是被圣灵感动的，就没有人能说“耶稣是主”。在哥林多后书4章5节中，使徒保罗承认他所传扬的不是自己，而是耶稣基督为主。圣经就是这样强调耶稣基督的主的身份。相信耶稣不仅仅是接受宗教知识或去教会。\n\n就是承认耶稣是我生命的主，并在祂的管治之下生活。但是，这里有一个重要的问题。我们用嘴唇承认耶稣为主。但在现实生活中，我们仍然以自己为主。我拥有自己的人生，我行使自己的决定权，我也不想放弃自己的掌控权。我想问问大家，你们生命的主人真的是耶稣基督吗？如果是这样，您是否已经将生活中所有的所有权和决定权都交给了主？举个例子，想象一下我把一本我拥有的书送给某人。从我把这本书送出去的那一刻起，这本书的所有权归谁所有？当然是在收到礼物的人那里。\n\n这不是一开始只转让一半所有权，然后随着时间的推移一点一点地转让剩下的部分。主人一变，所有权也会随之改变。我们的信仰生活也是如此。如果我以耶稣为主，那么我生命的主人就变了。然而，我们虽然称耶稣为主，却仍然想要按照自己的意思生活。耶稣要求的是全人的委身，而不是部分的委身。当然，这并不意味着我们可以通过自己的行为或奉献来获得救恩。救恩只能通过耶稣基督的恩典来获得。但是，信耶稣的人必须有将自己的生命交托给主的内心决心。任何人都可以来到耶稣面前。然而，不承认耶稣为主，只坚持己意的态度并不是真信心的态度。3.\n\n重症肌无力，一切崩塌的那一天\n\n我也在脑海里清楚地知道这个事实，但花了很长时间才在现实生活中接受它。那是我在美国德克萨斯州攻读神学的时候。当时，我同时兼顾着学业、工作和侍奉。每一天都过得很辛苦。有一天，我在工作时突然感到眼睛和面部麻痹。我的眼睑太沉重了，连一小会儿都无法睁开眼睛。起初，我以为这是因为过度劳累。我以为只要好好休息一下就会好起来。然而，过了几天，又过了两周，症状还是没有好转。在医院做了多项检查后，医生诊断我患有重症肌无力。\n\n我被告知这是一种可能危及生命的严重疾病。由于我无法负担美国高昂的医疗费用，我匆忙回到了韩国。我在高丽大学医院再次接受了全面检查。看过检查结果的神经科专科医生告诉我一个非常令人震惊的消息。他说我的病情很严重，麻痹可能会迅速恶化。他解释说，在接下来的6个月内，我可能会全身瘫痪，如果呼吸肌也瘫痪，我的生命也可能会有危险。当时，医生说治疗非常困难，并建议我立即住院。我实在无法接受他说的话。我刚刚准备好去履行上帝赋予我的使命，却得知自己将来可能会全身瘫痪，只能躺在床上度过余生，我实在无法理解。\n\n我坐在病房的床上，望着窗外。好久都说不出话来。然后我开始向神祷告。但那更像是怨恨，而不是祷告。“神啊，您为什么让我遭受这样的苦难？如果您要让我的人生以这样的方式结束，那您当初为什么要召我成为传道人呢？难道我不是应该从现在开始走向世界去传福音吗？如果我不能为主的荣耀而被使用，而是要一辈子躺在床上成为家人的负担，那还不如现在就取走我的性命吧。”\n\n我怨恨神。当然，我知道神一直与我同在。从神学的角度，我也能做出充分的解释。然而，在那一刻，我无法坦承只有神一位就足够了。\n\n对我来说，除了有神之外，还需要有健康才能感到幸福。如果失去了健康，我觉得至少得有钱才能安心。如果一辈子都要依靠别人的帮助，那至少也得有经济能力吧？在此之前，我无数次地宣告说，唯有神就足够了，但当我真的面临可能失去一切的境地时，这个宣告就崩溃了。4. 在约伯的告白面前认识到神的所有权\n\n就在这时，神让我想起了一句圣经的话。《约伯记》第1章第21节：“赏赐的是耶和华，收取的也是耶和华；耶和华的名是应当称颂的。” 面对这句话，我终于明白了。我一直以为至少我的身体是属于我的。\n\n我曾认为，能够活动自己的胳膊和腿、用自己的双脚走路、用自己的双手吃饭，是理所当然的权利。然而，那天在病房里我明白了。我所拥有的健康、时间、手脚，甚至最后一口气，没有一样是理所当然的。这一切都是上帝赐予的恩典。我只是一个暂时负责管理这一切的管家。",
+      "image": "https://images.christiantoday.co.kr/data/images/full/392476/image.jpg",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "平凡人的见证",
+        "见证",
+        "祷告",
+        "医疗"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-15T23:46:14.068393",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 16,
+        "domain": "christiantoday.co.kr"
+      },
+      "id": "ee729abb4ea7d410"
     },
     {
       "title": "Père Najib, prêtre au Sud-Liban: « Mon seul combat est celui de la paix »",
@@ -398,41 +468,6 @@
       "id": "33ee24837de9cc54"
     },
     {
-      "title": "Jordanian Christians Grieve Terror Attack on Church",
-      "url": "https://www.christianitytoday.com/2026/11/jordanian-christians-grieve-terror-attack-on-karak-church/",
-      "category": "lay",
-      "source": "Christianity Today",
-      "source_url": "https://www.christianitytoday.com/feed/",
-      "published": "2026-11-14",
-      "summary": "Faris lingered outside with other men at a funeral held in a red-domed Greek Orthodox church in the Jordanian village of Hamoud, 75 miles southeast of the capital, Amman. A beloved local woman had died, and around 150 people had gathered in the pews last month to mourn. But 15 minutes into the service, the  Read more...   The post  Jordanian Christians Grieve Terror Attack on Church  appeared first on  Christianity Today .",
-      "summary_zh": "法里斯与其他男子一起站在室外，参加一场葬礼。葬礼在约旦哈穆德村一座红穹顶的希腊东正教教堂举行，该村位于首都安曼东南方75英里处。一位备受爱戴的当地妇女去世了，上个月约有150人聚集在教堂的长凳上哀悼。但仪式开始15分钟后， 阅读更多……   这篇题为《约旦基督徒哀悼教堂恐怖袭击》的文章  最初发表在《今日基督教》上。",
-      "title_zh": "约旦基督徒哀悼教堂恐怖袭击事件",
-      "content": "Faris lingered outside with other men at a funeral held in a red-domed Greek Orthodox church in the Jordanian village of Hamoud, 75 miles southeast of the capital, Amman. A beloved local woman had died, and around 150 people had gathered in the pews last month to mourn. But 15 minutes into the service, the Read more... The post Jordanian Christians Grieve Terror Attack on Church appeared first on Christianity Today .",
-      "content_zh": "法里斯与其他男子一起站在室外，参加一场葬礼。葬礼在约旦哈穆德村一座红穹顶的希腊东正教教堂举行，该村位于首都安曼东南方75英里处。一位备受爱戴的当地妇女去世了，上个月约有150人聚集在教堂的长凳上哀悼。但仪式开始15分钟后，阅读更多……这篇题为《约旦基督徒哀悼教堂恐怖袭击》的文章最初发表在《今日基督教》上。",
-      "image": "https://www.christianitytoday.com/wp-content/uploads/2026/11/jordan-karak-attack-orthodox-church.jpg?resize=1200,628",
-      "author": "Interview by Jayson Casper",
-      "tags": [
-        "北美",
-        "平凡人的见证",
-        "News",
-        "International",
-        "Islam"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "北美",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 3,
-      "fetched_at": "2026-11-14T23:38:06.744720",
-      "extra": {
-        "feed_type": "rss20",
-        "story_score": 4,
-        "domain": "christianitytoday.com"
-      },
-      "id": "6709cf06d2b8942f"
-    },
-    {
       "title": "Livres : les meilleures ventes dans les librairies La Procure",
       "url": "https://fr.aleteia.org/2026/11/13/livres-les-meilleures-ventes-dans-les-librairies-la-procure-3/",
       "category": "lay",
@@ -468,41 +503,6 @@
         "domain": "fr.aleteia.org"
       },
       "id": "de26d8361389a349"
-    },
-    {
-      "title": "[2026 다니엘기도회: 13일] 김우준 목사 “병원에서 경험한 가장 큰 은혜”",
-      "url": "https://www.christiantoday.co.kr/news/378628",
-      "category": "lay",
-      "source": "크리스천투데이 · 간증（韩）",
-      "source_url": "https://www.christiantoday.co.kr/rss",
-      "published": "2026-11-14",
-      "summary": "2026 다니엘기도회 13일차 간증 모든 것을 잃으면 비로소 보이는 것 강사: 김우준 목사(분당 지구촌교회) 본문: 골로새서 2장 6-7절 1. 신앙생활의 본질을 잃어버린 그리스도인들 사랑하는 성도 여러분! 오늘 여러분과 함께 우리의 신앙생활을 돌아보고 싶습니다. 혹시 이런 생각을 해보신 적이 있습니까? 성경이 말하는 참된 신앙생활과 우리가 실제로 살아가는 모습은 왜 이렇게 다를까요? 성경이 말하는 신앙생활은 살아 계신 하나님과 생동감 있게 동행하는 삶입니다. 전능하신 하나님께서 언제 어디서나 나와 함께하신다는 사실을 진정으로 믿는다면 우리의 삶에는 감사와 기쁨과 평강이 넘쳐나야 합니다. 그런데 실제 우리의 모습은 어떻습니까? 많은 그리스도인이 걱정과 근심과 염려에 시달리며 살아갑니다. 성경은 우리가 그리스도의 장성한 분량에 이르기까지 예수님을 닮아가야 한다고 가르칩니다. 그런데 우리의 모든 생각과 말과 행동이 공개된다면, 주변 사람들이 우리를 보면서 예수님을 닮았다고 말할 수 있을",
-      "summary_zh": "2026年但以理祷告会第13天见证 失去一切时才能看到的东西 讲员：金宇俊牧师（盆唐地球村教会） 经文：歌罗西书2章6-7节 1. 亲爱的弟兄姊妹们，你们是失去了信仰生活本质的基督徒！今天我想与大家一起回顾我们的信仰生活。您是否曾有过这样的想法？为什么圣经所说的真正的信仰生活与我们实际的生活方式有这么大的差别呢？圣经所说的信仰生活是与活着的上帝充满活力地同行的人生。如果我们真心相信全能的神随时随地与我们同在，那么我们的生活就应该充满感恩、喜乐与平安。但是，我们实际的样子又如何呢？许多基督徒生活在忧虑、烦恼和焦虑之中。圣经教导我们，要效法耶稣，直到达到基督长成的身量。然而，我们所有的人生",
-      "title_zh": "【2026但以理祷告会：第13天】金宇俊牧师“在医院经历的最大恩典”",
-      "content": "2026 다니엘기도회 13일차 간증 모든 것을 잃으면 비로소 보이는 것 강사: 김우준 목사(분당 지구촌교회) 본문: 골로새서 2장 6-7절\n\n1. 신앙생활의 본질을 잃어버린 그리스도인들\n\n사랑하는 성도 여러분! 오늘 여러분과 함께 우리의 신앙생활을 돌아보고 싶습니다. 혹시 이런 생각을 해보신 적이 있습니까? 성경이 말하는 참된 신앙생활과 우리가 실제로 살아가는 모습은 왜 이렇게 다를까요?\n\n성경이 말하는 신앙생활은 살아 계신 하나님과 생동감 있게 동행하는 삶입니다. 전능하신 하나님께서 언제 어디서나 나와 함께하신다는 사실을 진정으로 믿는다면 우리의 삶에는 감사와 기쁨과 평강이 넘쳐나야 합니다. 그런데 실제 우리의 모습은 어떻습니까? 많은 그리스도인이 걱정과 근심과 염려에 시달리며 살아갑니다.\n\n성경은 우리가 그리스도의 장성한 분량에 이르기까지 예수님을 닮아가야 한다고 가르칩니다. 그런데 우리의 모든 생각과 말과 행동이 공개된다면, 주변 사람들이 우리를 보면서 예수님을 닮았다고 말할 수 있을까요?\n\n우리의 지난 일주일을 돌아보십시오. 가정과 직장에서 하나님의 나라를 얼마나 생각하며 살아왔습니까? 혹시 하나님 나라를 생각할 겨를도 없이, 자신의 문제와 계획에만 몰두하지는 않았습니까?\n\n저는 오늘날 많은 그리스도인의 삶이 무기력해진 근본적인 이유가 신앙의 첫 단추를 잘못 끼웠기 때문이라고 생각합니다. 신앙의 가장 중요한 본질을 놓쳐버린 것입니다. 그렇다면 우리가 절대로 놓쳐서는 안 되는 신앙생활의 본질은 무엇입니까?\n\n골로새서 2장 6-7절은 말씀합니다. “그러므로 너희가 그리스도 예수를 주로 받았으니 그 안에서 행하되 그 안에 뿌리를 박으며 세움을 받아 교훈을 받은 대로 믿음에 굳게 서서 감사함을 넘치게 하라”.\n\n참된 신앙생활은 예수님을 내 삶의 주인으로 모셔드리는 것에서 시작됩니다. 그분 안에서 살아가고, 그분 안에 뿌리를 내리며, 믿음에 굳게 서서 감사함이 넘치는 삶을 살아가는 것입니다. 예수님을 믿는다는 것은 한마디로 인생의 주인이 바뀌는 것을 의미합니다.\n\n2. 예수님을 믿는다는 것은 인생의 주인이 바뀌는 것입니다\n\n사도행전 16장 31절에서 바울은 빌립보 감옥의 간수에게 말했습니다. “주 예수를 믿으라 그리하면 너와 네 집이 구원을 받으리라”. 로마서 10장 9절에서도 예수님을 주로 시인하고 하나님께서 그를 죽은 자 가운데서 살리신 것을 마음에 믿으면 구원을 받는다고 말씀합니다.\n\n베드로전서 3장 15절은 마음에 그리스도를 주로 삼아 거룩하게 하라고 가르칩니다. 빌립보서 2장 11절은 모든 입으로 예수 그리스도를 주라 시인하여 하나님 아버지께 영광을 돌리게 하셨다고 선포합니다. 고린도전서 12장 3절은 성령으로 아니하고는 누구든지 예수를 주시라 할 수 없다고 말씀합니다. 고린도후서 4장 5절에서 사도 바울은 자신을 전파하는 것이 아니라 그리스도 예수의 주 되신 것을 전파한다고 고백합니다.\n\n성경은 이처럼 예수 그리스도의 주 되심을 강조합니다. 예수님을 믿는다는 것은 단순히 종교적인 지식을 받아들이거나 교회에 출석하는 것이 아닙니다. 예수님을 내 인생의 주인으로 인정하고 그분의 다스리심 가운데 살아가는 것입니다.\n\n그런데 여기서 중요한 문제가 있습니다. 우리는 입술로는 예수님을 주님이라고 고백합니다. 그러나 실제 삶에서는 여전히 자신이 주인으로 살아갑니다. 내 인생의 소유권도 내가 가지고 있고, 결정권도 내가 행사하며, 경영권도 내가 놓지 않으려고 합니다.\n\n여러분에게 묻고 싶습니다. 여러분의 인생의 주인은 정말 예수 그리스도이십니까? 그렇다면 삶의 모든 소유권과 결정권을 주님께 내어드리셨습니까?\n\n예를 들어 제가 가지고 있던 책 한 권을 누군가에게 선물했다고 생각해 보십시오. 그 책을 선물한 순간부터 소유권은 누구에게 있습니까? 당연히 선물받은 사람에게 있습니다. 처음에는 절반만 소유권을 넘기고 시간이 지나면서 조금씩 나머지를 넘기는 것이 아닙니다. 주인이 바뀌는 순간 소유권도 바뀝니다.\n\n우리 신앙생활도 마찬가지입니다. 예수님을 주님으로 모셨다면 내 삶의 주인이 바뀐 것입니다. 그런데 우리는 예수님을 주님이라고 부르면서도 여전히 내 뜻대로 살려고 합니다. 예수님은 부분적인 헌신이 아니라 전인격적인 헌신을 요구하십니다.\n\n물론 이것이 우리의 행위나 헌신으로 구원을 얻는다는 뜻은 아닙니다. 구원은 오직 예수 그리스도의 은혜로 받습니다. 그러나 예수님을 믿는 사람에게는 자신의 삶을 주님께 맡기려는 마음의 결단이 있어야 합니다. 누구든지 예수님께 나아올 수 있습니다. 그러나 예수님을 주님으로 인정하지 않은 채 자기 뜻만을 고집하는 태도는 참된 믿음의 자세가 아닙니다.\n\n3. 중증 근무력증, 모든 것이 무너졌던 그날\n\n저 역시 이 사실을 머리로는 잘 알고 있었지만, 실제 삶에서 받아들이기까지는 너무 오랜 시간이 걸렸습니다. 제가 미국 텍사스에서 신학 공부를 하던 시절이었습니다. 당시 저는 공부와 직장생활, 사역을 동시에 감당하고 있었습니다. 하루하루가 치열했습니다.\n\n그러던 어느 날 직장에서 일하고 있는데 갑자기 눈과 얼굴에 마비 증상이 나타났습니다. 눈꺼풀이 너무 무거워서 잠시도 눈을 뜨고 있을 수 없었습니다. 처음에는 과로 때문이라고 생각했습니다. 충분히 쉬면 괜찮아질 것이라고 여겼습니다. 그러나 며칠이 지나고 2주가 지나도 증상은 나아지지 않았습니다. 병원에서 여러 검사를 받은 후, 의사로부터 중증 근무력증이라는 진단을 받았습니다.\n\n생명을 위협할 수 있는 심각한 질환이라는 설명을 들었습니다. 미국의 비싼 의료비를 감당하기 어려웠던 저는 서둘러 한국으로 돌아왔습니다. 고려대학교병원에서 다시 정밀검사를 받았습니다. 검사 결과를 확인한 신경과 전문의는 제게 매우 충격적인 이야기를 했습니다.\n\n제 상태가 심각하고, 마비가 빠르게 진행될 수 있다는 것이었습니다. 앞으로 6개월 안에 전신이 마비될 수 있으며, 호흡근까지 마비된다면 생명도 위험할 수 있다는 설명이었습니다. 당시 의사는 치료가 매우 어렵다고 말하며, 즉시 입원할 것을 권했습니다.\n\n저는 그 말을 도저히 받아들일 수 없었습니다. 이제 막 하나님께서 부르신 사명을 감당하려고 준비하고 있는데, 앞으로 전신이 마비되어 침대에 누워 살아야 할 수도 있다니, 이해할 수 없었습니다. 병실 침대에 앉아 창밖을 바라보았습니다. 한참 동안 아무 말도 할 수 없었습니다. 그러다가 하나님께 기도하기 시작했습니다. 그러나 그것은 기도라기보다 원망에 가까웠습니다.\n\n“하나님, 왜 저에게 이런 고난을 허락하십니까? 제 인생을 이렇게 끝내실 것이었다면 왜 저를 사역자로 부르셨습니까? 이제부터 세상으로 나아가 복음을 전해야 하지 않습니까? 하나님 영광을 위해 쓰임받지도 못하고 평생 침대에 누워 가족들에게 짐이 되어야 한다면, 차라리 지금 제 생명을 가져가십시오.”\n\n저는 하나님을 원망했습니다. 물론 하나님께서 언제나 저와 함께하신다는 사실을 알고 있었습니다. 신학적으로도 충분히 설명할 수 있었습니다. 그러나 그 순간만큼은 하나님 한 분만으로 충분하다는 고백을 할 수 없었습니다.\n\n제게는 하나님에 더해서, 건강이 있어야 행복할 것 같았습니다. 건강을 잃는다면, 적어도 돈이라도 있어야 안심할 수 있을 것 같았습니다. 평생 누군가의 도움을 받아야 한다면 경제적 여유라도 있어야 하지 않겠습니까? 그동안 수없이 하나님 한 분만으로 충분하다고 고백했지만, 막상 모든 것을 잃을 수 있는 상황에 놓이자 그 고백이 무너졌습니다.\n\n4. 욥의 고백 앞에서 깨달은 하나님의 소유권\n\n바로 그때 하나님께서 한 성경 말씀을 제 마음에 떠오르게 하셨습니다. 욥기 1장 21절입니다. “주신 이도 여호와시요 거두신 이도 여호와시오니 여호와의 이름이 찬송을 받으실지니이다”.\n\n그 말씀 앞에서 저는 비로소 깨닫게 되었습니다. 저는 그동안 제 몸만큼은 제 것이라고 생각했습니다. 제 팔과 다리를 움직이는 것, 제 발로 걸어 다니는 것, 제 손으로 밥을 먹는 것은 당연히 누려야 할 권리라고 여겼습니다. 그러나 그날 병실에서 깨달았습니다. 제가 누리고 있던 건강과 시간, 손과 발, 그리고 마지막 호흡까지 어느 하나 당연한 것이 없었습니다. 모두 하나님께서 허락하신 은혜였습니다.\n\n저는 그 모든 것을 잠시 맡아 관리하는 청지기에 불과했",
-      "content_zh": "2026年但以理祷告会第13天见证 失去一切后才能看到的东西 讲员：金宇俊牧师（盆唐地球村教会） 经文：歌罗西书2章6-7节\n\n1. 失去信仰生活本质的基督徒\n\n亲爱的弟兄姊妹们！今天我想与大家一起回顾我们的信仰生活。您是否曾有过这样的想法？为什么圣经所说的真正的信仰生活与我们实际的生活方式有这么大的差别呢？圣经所说的信仰生活，是与活着的上帝充满活力地同行的人生。如果我们真心相信全能的神随时随地与我们同在，那么我们的生活就应该充满感恩、喜乐与平安。然而，我们实际的样子又如何呢？许多基督徒在忧虑、烦恼和焦虑中度日。\n\n圣经教导我们，要效法耶稣，直到达到基督长成的身量。但是，如果我们的所有思想、言语和行为都被公开，周围的人看到我们时，会说我们像耶稣吗？回想一下我们过去的一周。在家庭和工作场所，您在多大程度上想着神的国度而生活？您是否没有时间去想神国，只是一心扑在自己的问题和计划上？我认为，如今许多基督徒的生活变得软弱无力的根本原因，在于他们一开始就走错了信仰的道路。他们错过了信仰最重要的本质。那么，我们绝不能忽视的信仰生活的本质是什么呢？歌罗西书2章6-7节说：\n\n“所以你们既领受了主基督耶稣，就当遵他而行，在他里面生根建造，信心也得以坚固，正如你们所学的，感谢的心也更增长了。” 真正的信仰生活始于尊耶稣为主宰我的生命。就是在祂里面生活，在祂里面扎根，在信仰上站稳，过着充满感恩的生活。简而言之，相信耶稣意味着人生主人发生了变化。2. 信耶稣就是改变人生之主\n\n在《使徒行传》第16章31节中，保罗对腓立比监狱的狱卒说：“当信主耶稣，你和你一家都必得救。”\n\n罗马书10章9节也说，你若口里认耶稣为主，心里相信神叫祂从死里复活，就必得救。彼得前书3章15节教导我们要尊主基督为圣。腓立比书2章11节宣告，叫各人（包括天使、人、鬼魔）认耶稣基督为主，归荣耀给父神。哥林多前书12章3节说，若不是被圣灵感动的，就没有人能说“耶稣是主”。在哥林多后书4章5节中，使徒保罗承认他所传扬的不是自己，而是耶稣基督为主。圣经就是这样强调耶稣基督的主的身份。相信耶稣不仅仅是接受宗教知识或去教会。\n\n就是承认耶稣是我生命的主，并在祂的管治之下生活。但是，这里有一个重要的问题。我们用嘴唇承认耶稣为主。但在现实生活中，我们仍然以自己为主。我拥有自己的人生，我行使自己的决定权，我也不想放弃自己的掌控权。我想问问大家，你们生命的主人真的是耶稣基督吗？如果是这样，您是否已经将生活中所有的所有权和决定权都交给了主？举个例子，想象一下我把一本我拥有的书送给某人。从我把这本书送出去的那一刻起，这本书的所有权归谁所有？当然是在收到礼物的人那里。\n\n这不是一开始只转让一半所有权，然后随着时间的推移一点一点地转让剩下的部分。主人一变，所有权也会随之改变。我们的信仰生活也是如此。如果我以耶稣为主，那么我生命的主人就变了。然而，我们虽然称耶稣为主，却仍然想要按照自己的意思生活。耶稣要求的是全人的委身，而不是部分的委身。当然，这并不意味着我们可以通过自己的行为或奉献来获得救恩。救恩只能通过耶稣基督的恩典来获得。但是，信耶稣的人必须有将自己的生命交托给主的内心决心。任何人都可以来到耶稣面前。然而，不承认耶稣为主，只坚持己意的态度并不是真信心的态度。3.\n\n重症肌无力，一切崩塌的那一天\n\n我也在脑海里清楚地知道这个事实，但花了很长时间才在现实生活中接受它。那是我在美国德克萨斯州攻读神学的时候。当时，我同时兼顾着学业、工作和侍奉。每一天都过得很辛苦。有一天，我在工作时突然感到眼睛和面部麻痹。我的眼睑太沉重了，连一小会儿都无法睁开眼睛。起初，我以为这是因为过度劳累。我以为只要好好休息一下就会好起来。然而，过了几天，又过了两周，症状还是没有好转。在医院做了多项检查后，医生诊断我患有重症肌无力。\n\n我被告知这是一种可能危及生命的严重疾病。由于我无法负担美国高昂的医疗费用，我匆忙回到了韩国。我在高丽大学医院再次接受了全面检查。看过检查结果的神经科专科医生告诉我一个非常令人震惊的消息。他说我的病情很严重，麻痹可能会迅速恶化。他解释说，在接下来的6个月内，我可能会全身瘫痪，如果呼吸肌也瘫痪，我的生命也可能会有危险。当时，医生说治疗非常困难，并建议我立即住院。我实在无法接受他说的话。我刚刚准备好去履行上帝赋予我的使命，却得知自己将来可能会全身瘫痪，只能躺在床上度过余生，我实在无法理解。\n\n我坐在病房的床上，望着窗外。好久都说不出话来。然后我开始向神祷告。但那更像是怨恨，而不是祷告。“神啊，您为什么让我遭受这样的苦难？如果您要让我的人生以这样的方式结束，那您当初为什么要召我成为传道人呢？难道我不是应该从现在开始走向世界去传福音吗？如果我不能为主的荣耀而被使用，而是要一辈子躺在床上成为家人的负担，那还不如现在就取走我的性命吧。”\n\n我怨恨神。当然，我知道神一直与我同在。从神学的角度，我也能做出充分的解释。然而，在那一刻，我无法坦承只有神一位就足够了。\n\n对我来说，除了有神之外，还需要有健康才能感到幸福。如果失去了健康，我觉得至少得有钱才能安心。如果一辈子都要依靠别人的帮助，那至少也得有经济能力吧？在此之前，我无数次地宣告说，唯有神就足够了，但当我真的面临可能失去一切的境地时，这个宣告就崩溃了。4. 在约伯的告白面前认识到神的所有权\n\n就在这时，神让我想起了一句圣经的话。《约伯记》第1章第21节：“赏赐的是耶和华，收取的也是耶和华；耶和华的名是应当称颂的。” 面对这句话，我终于明白了。我一直以为至少我的身体是属于我的。\n\n我曾认为，能够活动自己的胳膊和腿、用自己的双脚走路、用自己的双手吃饭，是理所当然的权利。然而，那天在病房里我明白了。我所拥有的健康、时间、手脚，甚至最后一口气，没有一样是理所当然的。这一切都是上帝赐予的恩典。我只是一个暂时负责管理这一切的管家。",
-      "image": "https://images.christiantoday.co.kr/data/images/full/392476/image.jpg",
-      "author": "",
-      "tags": [
-        "亚洲",
-        "平凡人的见证",
-        "见证",
-        "祷告",
-        "医疗"
-      ],
-      "language": "ko",
-      "country": "KR",
-      "region": "亚洲",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-14T23:38:32.067709",
-      "extra": {
-        "feed_type": "rss20",
-        "story_score": 16,
-        "domain": "christiantoday.co.kr"
-      },
-      "id": "ee729abb4ea7d410"
     },
     {
       "title": "Un lieu légitime pour la croix du Stade de France ?",
@@ -747,6 +747,43 @@
       "id": "b4dfb0d5379a170f"
     },
     {
+      "title": "Léon XIV de retour dans sa patrie : récit d'un miracle péruvien",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFNweFRJZUVZVklOamNvYzc1NlFLX2F5R3hRenUtZkVrQ2JhMy1DcVpxc2hHRHlXci1jc1lENUpYWm85ellmbjVQYU9RbGpVQXpDMUpVSTd0V3VWVFdVQ3V0OEsxbHBLTE9Hei0waXpEUTJsbXJrREZLclBLZDYzUHBsRUxNWHh6Y0M1a2ZudVZNYnBTbmg2dWlxWkJ5b3lPNFJiVnBXaVF5R3c?oc=5",
+      "category": "lay",
+      "source": "法语欧洲见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2026-11-12",
+      "summary": "Léon XIV de retour dans sa patrie : récit d'un miracle péruvien Famillechretienne.fr",
+      "summary_zh": "利奥十四世重返故乡：秘鲁奇迹的故事 Famillechretienne.fr",
+      "title_zh": "利奥十四世重返故乡：秘鲁奇迹的故事",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Famillechretienne.fr",
+      "tags": [
+        "欧洲",
+        "平凡人的见证",
+        "家庭"
+      ],
+      "language": "fr",
+      "country": "FR",
+      "region": "欧洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-15T23:45:51.546035",
+      "extra": {
+        "provider": "google_news",
+        "query": "témoignage chrétien histoire de vie",
+        "publisher": "Famillechretienne.fr",
+        "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFNweFRJZUVZVklOamNvYzc1NlFLX2F5R3hRenUtZkVrQ2JhMy1DcVpxc2hHRHlXci1jc1lENUpYWm85ellmbjVQYU9RbGpVQXpDMUpVSTd0V3VWVFdVQ3V0OEsxbHBLTE9Hei0waXpEUTJsbXJrREZLclBLZDYzUHBsRUxNWHh6Y0M1a2ZudVZNYnBTbmg2dWlxWkJ5b3lPNFJiVnBXaVF5R3c?oc=5",
+        "resolved": false,
+        "story_score": 5,
+        "domain": "news.google.com"
+      },
+      "id": "20c9af221180c604"
+    },
+    {
       "title": "San León Magno : el Papa que defendió la fe y la civilización cristiana – INFOVATICANA",
       "url": "https://infovaticana.com/2025/11/10/san-leon-magno-el-papa-que-defendio-la-fe-y-la-civilizacion-cristiana/",
       "category": "lay",
@@ -839,7 +876,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:39:01.785401",
+      "fetched_at": "2026-11-15T23:46:46.967882",
       "extra": {
         "provider": "google_news",
         "query": "Christian testimony conversion story",
@@ -875,7 +912,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:38:12.570234",
+      "fetched_at": "2026-11-15T23:45:51.198459",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -913,7 +950,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:38:12.130894",
+      "fetched_at": "2026-11-15T23:45:50.612978",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -950,7 +987,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:38:12.951504",
+      "fetched_at": "2026-11-15T23:45:51.546410",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -966,7 +1003,7 @@
       "title": "Wikipedia Founder Embraces Christianity: Larry Sanger’s Testimony Highlights",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXhDN01xakVWMFMyTGQzcmNORFRnZnhlRFZFdGxqbjh3a3RuSTJ1LXpVaDd4anVEejVWbXpvei1RWFFjeHlmRktHQlp1N3JWNGt1NkpUUWxKdk9xZFBvLUFGRWlYa2hISEU3LW1lUjk3OGhHaUpRNGk5QThIdkFUSEJsM21ILWtjbG5kT09RNTF1aENtR0VpOQ?oc=5",
       "category": "lay",
-      "source": "北美信主见证",
+      "source": "印度信主见证",
       "source_url": "https://news.google.com/rss/search",
       "published": "2025-02-12",
       "summary": "Wikipedia Founder Embraces Christianity: Larry Sanger’s Testimony Highlights The Gospel Coalition",
@@ -977,20 +1014,20 @@
       "image": "",
       "author": "The Gospel Coalition",
       "tags": [
-        "北美",
+        "亚洲",
         "平凡人的见证",
         "见证"
       ],
       "language": "en",
-      "country": "US",
-      "region": "北美",
+      "country": "IN",
+      "region": "亚洲",
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:38:12.934084",
+      "fetched_at": "2026-11-15T23:45:50.592459",
       "extra": {
         "provider": "google_news",
-        "query": "Christian conversion testimony story",
+        "query": "India Christian conversion testimony story",
         "publisher": "The Gospel Coalition",
         "google_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXhDN01xakVWMFMyTGQzcmNORFRnZnhlRFZFdGxqbjh3a3RuSTJ1LXpVaDd4anVEejVWbXpvei1RWFFjeHlmRktHQlp1N3JWNGt1NkpUUWxKdk9xZFBvLUFGRWlYa2hISEU3LW1lUjk3OGhHaUpRNGk5QThIdkFUSEJsM21ILWtjbG5kT09RNTF1aENtR0VpOQ?oc=5",
         "resolved": false,
@@ -1024,7 +1061,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:38:12.570820",
+      "fetched_at": "2026-11-15T23:45:51.198930",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -1098,7 +1135,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:38:12.571109",
+      "fetched_at": "2026-11-15T23:45:51.199134",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -1135,7 +1172,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:38:12.934667",
+      "fetched_at": "2026-11-15T23:45:51.694677",
       "extra": {
         "provider": "google_news",
         "query": "Christian conversion testimony story",
@@ -1171,7 +1208,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:38:13.207460",
+      "fetched_at": "2026-11-15T23:45:52.012520",
       "extra": {
         "provider": "google_news",
         "query": "orphan rescued missionary story",
@@ -1208,7 +1245,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T00:40:42.403538",
+      "fetched_at": "2026-11-15T23:45:51.546618",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -1281,7 +1318,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:38:12.571201",
+      "fetched_at": "2026-11-15T23:45:51.199235",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -1292,6 +1329,42 @@
         "domain": "news.google.com"
       },
       "id": "8b42adcfa73cc8b9"
+    },
+    {
+      "title": "St. Ponsiano Ngondwe (†1886): CERITA SI PARUH ELANG",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcVMwWjBBaHRGUHg0dHZfWU1OcFMyck5jTlJuZUxGb25aZWxFVmVaZXc1aGowZl85LUpiM1IyQlNkVzczWGMyVkxIMlFoNWdrZS1ya2NWNVdfcHMzX2VENVVBclB2YnBHYV9jVWFfQUFCaERUM0JxSVMyVFBKbTFsTXc1YzVLa2RLTF9rVGdyMGFTemRPSDM4UmpicVBpeHVUdE9RMEhqa20?oc=5",
+      "category": "lay",
+      "source": "印尼与东南亚见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2020-06-07",
+      "summary": "St. Ponsiano Ngondwe (†1886): CERITA SI PARUH ELANG HIDUPKATOLIK.com",
+      "summary_zh": "庞加诺·恩贡德韦圣人（†1886）：鹰嘴的故事 HIDUPKATOLIK.com",
+      "title_zh": "庞加诺·恩贡德韦圣人（†1886）：鹰嘴的故事",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "HIDUPKATOLIK.com",
+      "tags": [
+        "亚洲",
+        "平凡人的见证"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-15T23:45:50.805986",
+      "extra": {
+        "provider": "google_news",
+        "query": "kesaksian misionaris kisah",
+        "publisher": "HIDUPKATOLIK.com",
+        "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcVMwWjBBaHRGUHg0dHZfWU1OcFMyck5jTlJuZUxGb25aZWxFVmVaZXc1aGowZl85LUpiM1IyQlNkVzczWGMyVkxIMlFoNWdrZS1ya2NWNVdfcHMzX2VENVVBclB2YnBHYV9jVWFfQUFCaERUM0JxSVMyVFBKbTFsTXc1YzVLa2RLTF9rVGdyMGFTemRPSDM4UmpicVBpeHVUdE9RMEhqa20?oc=5",
+        "resolved": false,
+        "story_score": 5,
+        "domain": "news.google.com"
+      },
+      "id": "1b65e4269fcb0126"
     },
     {
       "title": "Kisah Seorang Pendeta Yang Dibunuh Setelah Membagikan Injil Kepada 1000 Orang Korea Utara",
@@ -1317,7 +1390,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-14T23:38:12.351655",
+      "fetched_at": "2026-11-15T23:45:50.805778",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -1353,7 +1426,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-12T05:47:54.018539",
+      "fetched_at": "2026-11-15T23:45:50.613530",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
