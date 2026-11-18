@@ -2,7 +2,7 @@
   "category": "china",
   "label": "中国故事",
   "count": 10,
-  "updated_at": "2026-11-17T10:51:54.584721+08:00",
+  "updated_at": "2026-11-18T10:10:50.261685+08:00",
   "articles": [
     {
       "title": "Hong Kong Christian, pro-democracy activist sentenced",
@@ -10,7 +10,7 @@
       "category": "china",
       "source": "Assist News Service · 宣教通讯",
       "source_url": "https://www.assistnews.net/feed/",
-      "published": "2026-11-17",
+      "published": "2026-11-18",
       "summary": "Gao Zhensai — Christian pro-democracy activist Joshua Wong was sentenced Thursday to 10 years in prison, just two months before his expected release, as Beijing’s crackdown on political dissent continues in this southern Chinese territory. The Hong Kong High Court convicted Wong of “conspiracy to collude with foreign or external forces to endanger national security.” […]",
       "summary_zh": "高振赛——基督教民主派活动人士黄之锋于周四被判处10年有期徒刑，距离他原定获释日期仅剩两个月。与此同时，北京当局在该中国南方地区持续打击政治异见。香港高等法院裁定黄之锋犯有“串谋与外国或境外势力勾结，危害国家安全”罪。 […]",
       "title_zh": "香港基督徒、民主派活动人士被判刑",
@@ -31,7 +31,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-17T02:46:46.930445",
+      "fetched_at": "2026-11-18T02:06:11.881021",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -45,7 +45,7 @@
       "category": "china",
       "source": "Assist News Service · 宣教通讯",
       "source_url": "https://www.assistnews.net/feed/",
-      "published": "2026-11-17",
+      "published": "2026-11-18",
       "summary": "By Josh Shepherd — Nearly six decades after Mao Zedong’s government executed Lin Zhao, a 36-year-old Christian journalist who stood against Communist rule, Chinese authorities still regard her as a threat. “Lin Zhao poses a serious challenge to the Chinese regime,” said historian Lian Xi, a distinguished professor of world Christianity at Duke Divinity School […]",
       "summary_zh": "乔希·谢泼德（ Josh Shepherd ） —在毛泽东政府处决了反对共产党统治的36岁基督教记者林昭（ Lin Zhao ）近六十年后，中国当局仍然将她视为威胁。“林昭对中国政权提出了严峻挑战，”杜克神学院世界基督教杰出教授、历史学家连熙说。[…]",
       "title_zh": "为什么中国仍然认为1968年被处决的妇女是一种威胁？",
@@ -66,7 +66,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-17T02:46:47.986425",
+      "fetched_at": "2026-11-18T02:06:12.945123",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -350,7 +350,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:46:56.445348",
+      "fetched_at": "2026-11-18T02:06:17.357030",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
