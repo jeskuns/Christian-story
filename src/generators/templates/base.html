@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="theme-color" content="#9c4a2e">
-  <title>{% block title %}基督教故事 · 全球真实故事搜罗{% endblock %}</title>
+  <title>{% block title %}林前基督教世界故事 · 全球真实故事搜罗{% endblock %}</title>
   <meta name="description" content="从全世界的网站搜罗真实发生过的生命故事：宣教士、非洲宣教、人物见证、患难中的信心。可以是最新的，也可以是几十年前的经典。">
   <link rel="preconnect" href="https://fonts.googleapis.cn">
   <link rel="preconnect" href="https://fonts.gstatic.cn" crossorigin>
@@ -17,7 +17,7 @@
     <div class="container header-inner">
       <a href="{{ root }}index.html" class="logo">
         <span class="logo-mark">✚</span>
-        <span class="logo-text">基督教<em>故事</em></span>
+        <span class="logo-text">基督教<em>世界故事</em></span>
       </a>
       <button class="nav-toggle" id="navToggle" aria-label="菜单" aria-expanded="false">☰</button>
       <nav class="main-nav" id="mainNav">
@@ -37,7 +37,7 @@
 
   <footer class="site-footer">
     <div class="container">
-      <p>基督教故事 · 全球网站自动搜罗 · 现有 {{ total }} 篇故事 · 每日更新</p>
+      <p>林前基督教世界故事 · 全球网站自动搜罗 · 现有 {{ total }} 篇故事 · 每日更新</p>
       <p class="footer-links">
         {% for c in categories %}<a href="{{ root }}categories/{{ c.key }}.html">{{ c.label }}</a>{% endfor %}
         <a href="{{ root }}about.html">搜罗说明</a>

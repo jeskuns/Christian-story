@@ -1,4 +1,4 @@
-# 基督教故事（Christian Story）
+# 林前基督教世界故事（Christian Story）
 
 **从全世界的网站，自动搜罗真正发生过的生命故事。**
 
