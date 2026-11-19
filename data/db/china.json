@@ -1,8 +1,8 @@
 {
   "category": "china",
   "label": "中国故事",
-  "count": 10,
-  "updated_at": "2026-11-18T10:10:50.261685+08:00",
+  "count": 12,
+  "updated_at": "2026-11-19T09:50:59.458900+08:00",
   "articles": [
     {
       "title": "Hong Kong Christian, pro-democracy activist sentenced",
@@ -10,7 +10,7 @@
       "category": "china",
       "source": "Assist News Service · 宣教通讯",
       "source_url": "https://www.assistnews.net/feed/",
-      "published": "2026-11-18",
+      "published": "2026-11-19",
       "summary": "Gao Zhensai — Christian pro-democracy activist Joshua Wong was sentenced Thursday to 10 years in prison, just two months before his expected release, as Beijing’s crackdown on political dissent continues in this southern Chinese territory. The Hong Kong High Court convicted Wong of “conspiracy to collude with foreign or external forces to endanger national security.” […]",
       "summary_zh": "高振赛——基督教民主派活动人士黄之锋于周四被判处10年有期徒刑，距离他原定获释日期仅剩两个月。与此同时，北京当局在该中国南方地区持续打击政治异见。香港高等法院裁定黄之锋犯有“串谋与外国或境外势力勾结，危害国家安全”罪。 […]",
       "title_zh": "香港基督徒、民主派活动人士被判刑",
@@ -31,7 +31,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-18T02:06:11.881021",
+      "fetched_at": "2026-11-19T01:43:30.417264",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -326,6 +326,79 @@
       "id": "94626f85d4853910"
     },
     {
+      "title": "Papa: ‘Católicos chineses dão testemunho da fé na caridade’ - Notícias",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDZQRUxkc29wRmlQNEVGaVE3S2d4MjlhWnJQRV9JbW1ySl9zM0x3STdQTWFjemVxM0xMVDhPcVZ3LV9sYkxoWG5uSWM0THRMejRIYkkzRTlXUkluLUhXYWtGbVBhWWpjTzZCUXFpZllVWTRCaEhpTVVPeWp2MGFPaktUV0pRdHAzcmo3SDl1dnJoRFNaYThIbTBWOWhRMVlWRHY5UUhMaXlRbC1UUUJEU01WWk5kRmppYWpmdXp3?oc=5",
+      "category": "china",
+      "source": "巴西信仰见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2024-05-21",
+      "summary": "Papa: ‘Católicos chineses dão testemunho da fé na caridade’ Notícias - Canção Nova",
+      "summary_zh": "教宗：“中国天主教徒以爱德见证信仰”新闻 - 新造教会",
+      "title_zh": "教宗：“中国天主教徒以爱德见证信仰” - 新闻",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Canção Nova",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T01:43:35.424316",
+      "extra": {
+        "provider": "google_news",
+        "query": "testemunho missionário Brasil história de fé",
+        "publisher": "Canção Nova",
+        "google_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDZQRUxkc29wRmlQNEVGaVE3S2d4MjlhWnJQRV9JbW1ySl9zM0x3STdQTWFjemVxM0xMVDhPcVZ3LV9sYkxoWG5uSWM0THRMejRIYkkzRTlXUkluLUhXYWtGbVBhWWpjTzZCUXFpZllVWTRCaEhpTVVPeWp2MGFPaktUV0pRdHAzcmo3SDl1dnJoRFNaYThIbTBWOWhRMVlWRHY5UUhMaXlRbC1UUUJEU01WWk5kRmppYWpmdXp3?oc=5",
+        "resolved": false,
+        "story_score": 14,
+        "domain": "news.google.com"
+      },
+      "id": "ce3236b8e9f8f6cb"
+    },
+    {
+      "title": "박명숙 선교사의 중국 선교 20년 여정",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qWXluWHc2RVUtMzZBbDFLeEZkYnN6d0ljM0NSVHoxamZ2cHJobmxQU2RVdEpMeDhWOThlQ3l6bnp2eDhvU3BES0VKSVoyd2YzcW1sdjRKbzRfVnhTVGlTTFlrVUh1NUVpaE1v?oc=5",
+      "category": "china",
+      "source": "韩国宣教士故事",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2021-04-21",
+      "summary": "박명숙 선교사의 중국 선교 20년 여정 고신뉴스 KNC",
+      "summary_zh": "朴明淑传教士20年访华之旅Gosin News KNC",
+      "title_zh": "朴明淑传教士20年中国之旅",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "고신뉴스 KNC",
+      "tags": [
+        "中国",
+        "中国故事"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-19T01:43:34.987687",
+      "extra": {
+        "provider": "google_news",
+        "query": "선교사 간증 이야기",
+        "publisher": "고신뉴스 KNC",
+        "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qWXluWHc2RVUtMzZBbDFLeEZkYnN6d0ljM0NSVHoxamZ2cHJobmxQU2RVdEpMeDhWOThlQ3l6bnp2eDhvU3BES0VKSVoyd2YzcW1sdjRKbzRfVnhTVGlTTFlrVUh1NUVpaE1v?oc=5",
+        "resolved": false,
+        "story_score": 9,
+        "domain": "news.google.com"
+      },
+      "id": "df7445d42c6af08a"
+    },
+    {
       "title": "中国宣教の最前線、日本人宣教師が報告",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mbTVVRzhQcXg4YXV1czdZX3RCa3lNeE1ucjJvQ3QzTFJXMEJrMF9VTVlzb05YcXRzeFhfSW9nSzFHQmk5VWwtbmpzNGUxTGY0TW01WmpydjVvNzBpeWJ0blJzUDFvempjRHdudFBjZDFWNUE?oc=5",
       "category": "china",
@@ -350,7 +423,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:06:17.357030",
+      "fetched_at": "2026-11-19T01:43:34.974077",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",

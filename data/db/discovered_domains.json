@@ -1,6 +1,7 @@
 {
- "count": 46,
+ "count": 51,
  "domains": [
+  "20minutos.es",
   "4semanas.com",
   "abriendobrecha.tv",
   "acento.com.do",
@@ -18,6 +19,7 @@
   "diariodelsur.com.co",
   "doxa.app",
   "eldiario.es",
+  "elimparcial.com",
   "elintransigente.com",
   "elliberal.com.ar",
   "elnacional.com",
@@ -37,7 +39,9 @@
   "laarena.com.ar",
   "lacapitalmdp.com",
   "lanacion.com.py",
+  "metro.co.uk",
   "myspiritfm.com",
+  "ncregister.com",
   "news.google.com",
   "newswithviews.com",
   "observador.pt",
@@ -46,6 +50,7 @@
   "sol.iol.pt",
   "thegospelcoalition.org",
   "timesofindia.indiatimes.com",
+  "www1.folha.uol.com.br",
   "wycliffe.org"
  ]
 }
