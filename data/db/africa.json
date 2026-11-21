@@ -1,8 +1,8 @@
 {
   "category": "africa",
   "label": "非洲宣教与见证",
-  "count": 66,
-  "updated_at": "2026-11-20T09:46:35.864827+08:00",
+  "count": 69,
+  "updated_at": "2026-11-21T09:10:22.910202+08:00",
   "articles": [
     {
       "title": "IMB missionaries in place, prepared to encourage Senegal’s churches toward Youth Olympics outreach",
@@ -10,7 +10,7 @@
       "category": "africa",
       "source": "IMB Stories · 国际宣教部",
       "source_url": "https://www.imb.org/feed/",
-      "published": "2026-11-20",
+      "published": "2026-11-21",
       "summary": "As athletes and spectators from around the world fill the streets of Senegal for the Dakar 2026 Youth Olympic Games, missionaries and local believers are praying the event will leave behind more than medals and memories. For Carson West, an International Mission Board missionary serving in Senegal, the Games represent a unique opportunity not only to engage visitors with the gospel but also to mobilize local churches to take a more active role in evangelism long after the Olympic flame is exting",
       "summary_zh": "当来自世界各地的运动员和观众为2026年达喀尔青年奥林匹克运动会而填满了塞内加尔的街道时,传教士和当地信徒正在祈祷这次活动将留下比奖牌和记忆更多的东西.\n\n对在塞内加尔服务的国际传教委员会传教士卡森·韦斯特来说,奥运会是一个独特的机会,不仅可以让游客接受福音,还可以动员当地教会在奥运会火焰熄灭很久后,在福音仪式中发挥更积极的作用。",
       "title_zh": "IMB传教士到位，准备鼓励塞内加尔教会开展青年奥运会外展活动",
@@ -33,7 +33,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-20T01:40:05.483241",
+      "fetched_at": "2026-11-21T01:05:38.944252",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
@@ -47,7 +47,7 @@
       "category": "africa",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-20",
+      "published": "2026-11-21",
       "summary": "🇸🇩El Hasahisa· 2022",
       "summary_zh": "🇸🇩哈萨希萨·2022年",
       "title_zh": "他为母亲感染的腿祈祷。然后，他的穆斯林邻居开始前来",
@@ -67,7 +67,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-20T01:40:12.122770",
+      "fetched_at": "2026-11-21T01:05:45.190457",
       "extra": {
         "story_score": 6,
         "domain": "doxa.app"
@@ -80,7 +80,7 @@
       "category": "africa",
       "source": "Persecution.org · 受逼迫教会见证",
       "source_url": "https://www.persecution.org/feed/",
-      "published": "2026-11-20",
+      "published": "2026-11-21",
       "summary": "Twenty-six people have reportedly been killed and several others abducted in a new attack carried out by the Islamist rebels of Allied Democratic Forces (ADF) on Nov. 10, during the night, in Mambasa territory, Ituri province, northeastern DR Congo, a country where nearly 93% of the population is Christian. According to a local association coordinator, Malikidogo, more…   The post  At Least 26 Killed in DRC’s Mambasa Territory Amid Ebola Crisis  first appeared on  International Christian Concern",
       "summary_zh": "据报告,11月10日,民主同盟军伊斯兰叛乱分子在刚果东北部伊图里省曼巴萨县发动了新的袭击,造成26人死亡,另有数人被绑架,该国近93%的人口是基督教徒。\n\n据当地协会协调员Malikidogo说,更多... 在埃博拉危机中,",
       "title_zh": "刚果民主共和国曼巴萨地区在埃博拉疫情期间至少有26人死亡",
@@ -101,13 +101,190 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-20T01:40:03.557537",
+      "fetched_at": "2026-11-21T01:05:37.757691",
       "extra": {
         "feed_type": "rss20",
         "story_score": 7,
         "domain": "persecution.org"
       },
       "id": "4cc880e1a8eb1480"
+    },
+    {
+      "title": "Teenage Girl Dies After Six Months in Captivity",
+      "url": "https://persecution.org/2026/11/13/teenage-girl-dies-after-six-months-in-captivity/",
+      "category": "africa",
+      "source": "Persecution.org · 受逼迫教会见证",
+      "source_url": "https://www.persecution.org/feed/",
+      "published": "2026-11-21",
+      "summary": "On Nov. 1, six people took their first steps of freedom after being held by Fulani extremists for more than six months. One of them died only two days later. Hasana Bulus, 13, died in the hospital where she was taken in critical condition. Bulus was one of the 11 people who were kidnapped by a Fulani militia in…   The post  Teenage Girl Dies After Six Months in Captivity  first appeared on  International Christian Concern .",
+      "summary_zh": "11月1日，六人在被富拉尼族极端分子关押超过六个月后，迈出了重获自由的第一步。其中一人仅两天后就去世了。13岁的哈萨娜·布卢斯（Hasana Bulus）在被送往医院时已处于危急状态，后在医院去世。布卢斯是富拉尼民兵绑架的11人之一……   这篇题为《少女被囚禁六个月后死亡》的文章最初发表在“国际基督徒关注”网站上。",
+      "title_zh": "少女被囚禁六个月后死亡",
+      "content": "On Nov. 1, six people took their first steps of freedom after being held by Fulani extremists for more than six months. One of them died only two days later. Hasana Bulus, 13, died in the hospital where she was taken in critical condition. Bulus was one of the 11 people who were kidnapped by a Fulani militia in April. One had escaped, but five died at the camp, and the rest were released with Bulus — including the 4-year-old daughter of a woman who had died in captivity. Bulus’ village, Awon, is predominantly Christian and has been the target of Fulani attacks, just like Ariko, a neighboring village in Kaduna state. According to a six-year study conducted by the Observatory for Religious Freedom in Africa (ORFA), Islamic Fulani militias are by far the deadliest persecutors of Christians in Nigeria. Ariko is home to the 37 Christians who were kidnapped during the Easter services earlier this year in a neighboring village. Of these, 17 people have died in captivity, 12 have escaped, and eight have since been released. The abductees from both these villages were held in the same forest hideout, where they were kept in inhumane conditions. “They [the villagers] told us how they would stay for two weeks without food,” one woman, whose father died in the camp, told Open Doors . “They only boil water to drink. That’s how they struggled before the bandits gave them corn flour, and they started making swallow (a porridge). The men are restrained, chained in groups; they are not free to move around.” All of the male abductees in these groups had died in the camp. Christian Solidarity Worldwide (CSW) is calling for Nigerian authorities to protect these communities and fight to free more people left in bondage. “We continue to urge the Nigerian government at state and federal levels to prioritize the protection of vulnerable communities throughout the nation, to combat the threat posed by the litany of terrorist groups that are active in the country far more effectively, and to secure the release of all abductees,” CSW CEO Scot Bower said. “Nigeria’s Christians do not need another statement of sympathy,” ICC’s president, Shawn Wright, said. “They need protection , justice , and accountability . When those who murder innocent Christians face no meaningful consequences, impunity becomes an invitation to the next attack. The Nigerian government must protect vulnerable communities, pursue the perpetrators, and make clear that these crimes will not go unanswered.” Story by Bella Agnello To read more news stories, visit the ICC Newsroom . For interviews, please email us . To support ICC’s work around the world, please give to our Where Most Needed Fund . The post Teenage Girl Dies After Six Months in Captivity first appeared on International Christian Concern .",
+      "content_zh": "11月1日,六人在被富拉尼极端分子关押了6个多月后迈出了自由的第一步. 其中一人在两天后去世. 13岁的Hasana Bulus在她病情危急的医院死亡。 布卢斯是4月被富拉尼民兵绑架的11人之一.\n\n1人逃跑了,但5人死于营地,其余的人与布卢斯一起被释放——包括一名在囚禁中死亡的妇女的4岁女儿. 与卡杜纳州邻近村庄阿里科一样,\n\n根据非洲宗教自由观察站(ORFA)进行的一项为期六年的研究,伊斯兰富拉尼民兵是尼日利亚基督教徒最致命的迫害者。 阿里科是37名基督徒的家,他们在今年早些时候在复活节礼拜期间在一个邻近村庄被绑架。\n\n其中,17人在囚禁中死亡,12人逃脱,8人自此获释. 这两个村庄的被绑架者被关在同一个森林藏身处,他们被关在不人道的条件下。 “他们[村民]告诉我们,他们将如何在没有食物的情况下呆两周,”一位父亲死于营地的妇女告诉Open Doors。 “他们只煮水饮用。\n\n在土匪给他们面粉之前, 这些人被捆绑起来,被捆绑在一起;他们不能自由移动。” 这些团伙中的所有男性被绑架者都死于营地。\n\n世界基督教团结会呼吁尼日利亚当局保护这些社区,并努力释放更多受奴役的人。\n\n“我们继续敦促尼日利亚州和联邦政府优先保护全国的弱势社区,更有效地打击在该国活动的众多恐怖主义团体构成的威胁,并确保释放所有被绑架者。”\n\n“尼日利亚的基督徒不需要再次表示同情, “他们需要保护、正义和问责制。 当杀害无辜基督徒的人没有面临有意义的后果时,有罪不罚就成为下一次袭击的诱因。\n\n尼日利亚政府必须保护弱势社区,追捕肇事者,并表明这些罪行不会得不到答复。” Bella Agnello的故事 阅读更多新闻, 请给我们发电子邮件 支持电算中心在世界各地的工作,\n\n年轻女孩在半年后死亡,",
+      "image": "https://persecution.org/wp-content/uploads/2026/11/Hasana-Bulus-Nigeria.jpg",
+      "author": "commsmanager",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "非洲宣教",
+        "逼迫",
+        "医疗",
+        "ICC News",
+        "News & Reports",
+        "Newsroom & Reports"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-21T01:05:37.247660",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 19,
+        "domain": "persecution.org"
+      },
+      "id": "6ec107a9a90aba3e"
+    },
+    {
+      "title": "Fulani Militants Kill 14 Christians in Plateau State, Nigeria",
+      "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/",
+      "category": "africa",
+      "source": "Persecution.org · 受逼迫教会见证",
+      "source_url": "https://www.persecution.org/feed/",
+      "published": "2026-11-21",
+      "summary": "At least 14 Christians have been killed in fresh attacks across four local government areas of Plateau state, Nigeria, days after President Bola Ahmed Tinubu appealed for forgiveness over his failure ",
+      "summary_zh": "在尼日利亚博拉·艾哈迈德·蒂努布总统就其未能保护人民免受袭击一事呼吁原谅的几天后，在高原州的四个地方政府辖区内发生的最新袭击中，至少有14名基督徒被杀害。",
+      "title_zh": "富拉尼武装分子在尼日利亚高原州杀害14名基督徒",
+      "content": "At least 14 Christians have been killed in fresh attacks across four local government areas of Plateau state, Nigeria, days after President Bola Ahmed Tinubu appealed for forgiveness over his failure to visit violence-affected communities during an earlier trip to the state and promised to rebuild destroyed communities and return internally displaced persons (IDPs) to their ancestral homes. The killings occurred between Sunday, Nov. 15, and Monday, Nov. 16, in Mangu, Riyom, Barkin Ladi and Bokkos local government areas, according to community sources and local security groups. Armed attackers reportedly targeted rural settlements and ambushed residents traveling between communities. The latest violence followed Tinubu’s visit to Jos on Saturday, Nov. 14, for an All Progressives Congress (APC) political rally at Zaria Road Stadium, where he acknowledged the suffering of communities affected by recurring attacks and displacement. Addressing residents and party supporters, Tinubu asked Plateau residents to forgive him for not visiting affected communities during his previous trip to the state in April. “When I last visited the other time, I was limited to the airport,” he said. “Forgive me if you didn’t see me in the hinterland, but I saw the devastation. I got the report from the governor. I saw horror in the faces of our people.” The president promised to rebuild communities destroyed by violence and facilitate the return of displaced residents. “We will rebuild your communities, and we will bring you back to your communities,” Tinbu added. “I have directed all the security agencies to take decisive action and sustain peace and stability on the Plateau.” He also commended the Minister of Humanitarian Affairs and Poverty Reduction, Dr. Bernard Doro, for identifying vulnerable populations and coordinating humanitarian assistance. Tinubu announced that 1,000 forest guards were undergoing training and that surveillance cameras promised to Plateau state had been procured to strengthen security monitoring and early warning operations. However, fresh attacks were reported within hours of the president’s departure from the state. In Mangu Local Government Area, armed attackers invaded Zwagal community in Jipal District at about 9 p.m. on Sunday, killing nine people. Other residents were reportedly missing following the attack. Silas Nanfwang, a resident who confirmed the incident to journalists, called on security agencies to intensify efforts to locate the attackers and bring those responsible to justice. In Barkin Ladi, 79-year-old Da Ishaku Pam Vwos was killed when armed men invaded Sho village at about 5:20 p.m. on Sunday, according to the Berom Youth Moulders Association (BYM). The association’s National Publicity Secretary, Rwang Tengwong, also reported the killing of 42-year-old Dauda John Davou during an attack on the Sambak community in Hoss District, Riyom LGA, at about 2 a.m. on Sunday. Another attack was reported in the Jol community around 12:10 a.m. on Sunday. According to BYM, local vigilantes responded to the attackers, preventing further casualties. The association said the incidents followed the shooting of Joshua Doro Dafwel in Jol on Wednesday. He is currently receiving medical attention. BYM also reported that Ina Arin was killed when armed men ambushed him and his friend, Abok Gyang, as they returned to Dorong village in Foron District. Gyang survived the attack. In Bokkos Local Government Area, two people, including a unit commander of the Plateau state-owned security outfit, Operation Rainbow, were killed in an ambush on Monday afternoon. The victims, identified as Gambo and his companion, were traveling on a motorcycle from Hurti village to Tadai in Manguna District when armed men attacked them at about 1:30 p.m. They had reportedly visited Hurti for a condolence visit and died at the scene. Gambo had recently completed a refresher training program for Operation Rainbow unit commanders in Jos and was known amon",
+      "content_zh": "在博拉·艾哈迈德·蒂努布总统呼吁原谅他在早些时候访问受暴力影响的社区,并承诺重建被摧毁的社区并让境内流离失所者返回其祖传家园几天后,在尼日利亚高原州四个地方政府地区,至少有14名基督徒被杀死。\n\n据社区人士和地方安全团体称,这些杀戮发生在11月15日星期日至16日星期一的Mangu、Riyom、Barkin Ladi和Bokkos地方政府地区。 据报告,武装袭击者以农村定居点为目标,并伏击社区之间的居民。 在Tinubu于11月星期六访问Jos后,\n\n14,在Zaria Road体育场举行全体进步人士大会(APC)政治集会,他承认一再受攻击和流离失所影响的社区遭受苦难。 蒂努布针对居民和政党支持者,要求高原居民原谅他4月前去该州旅行期间没有访问受影响的社区.\n\n他说,“上次访问时,我仅限于机场。” “对不起,如果你没有在内地看到我,但我看到了灾难。 我收到州长的报告了 我在我国人民的脸上看到了恐怖。” 总统承诺重建被暴力摧毁的社区并便利流离失所居民回返。\n\nTinbu补充说,“我们将重建你们的社区,并将你们带回你们的社区。” “我已指示所有安全机构采取果断行动,并维持高原的和平与稳定。” 他还赞扬人道主义事务和减贫部长贝尔纳·多罗博士确定弱势人口和协调人道主义援助。\n\n蒂努布宣布有1000名森林警卫正在接受训练,并且已经采购了向高原州承诺的监视相机,以加强安全监测和预警行动. 然而,据报道,总统离开国家后的数小时内又有新的袭击.\n\n在Mangu地方政府地区,武装袭击者于星期日下午9时左右入侵Jipal区的Zwagal社区,造成9人死亡。 据报告,其他居民在袭击后失踪。 向记者证实此事的居民Silas Nanfwang呼吁安全机构加紧努力找到袭击者,并将责任人绳之以法。\n\n在Barkin Ladi,79岁的Da Ishaku Pam Vwos被武装分子于星期日下午5:20左右入侵Sho村而死,据Berom青年穆尔德斯协会(BYM)称. 该协会的全国宣传秘书Rwang Tengwong还报道了42岁的Dauda John Davou星期天凌晨2时左右在Riyom LGA的Hoss区被Sambak社区袭击时被杀死的事件。\n\n据报道,乔尔社区在星期日12:10左右又发生了一起袭击事件. 据BYM称,当地民团对袭击者作出反应,防止了进一步的伤亡. 该协会说,事件发生在周三Joshua Doro Dafwel被枪击后。 他目前正在接受治疗。\n\nBYM还报告说,Ina Arin被武装分子伏击并被其朋友Abok Gyang杀死,当时他们返回了Foron区的多龙村。 克阳幸免于袭. 在博克科斯地方政府地区,包括高原国有保安装备\"彩虹行动\"的一名分队指挥官在内的两人于星期一下午被伏击而身亡.\n\n受害者被确认为Gambo和他的同伴,他们乘坐摩托车从Hurti村前往Manguna区的Tadai,武装人员于下午1时30分左右袭击他们。 据报告,他们前往Hurti慰问,并在现场死亡。 甘博最近完成了 \" 彩虹行动 \" 部队指挥官在乔斯的进修培训方案,并被称作 \" 阿蒙 \"",
+      "image": "https://persecution.org/wp-content/uploads/2026/11/Nigeria-attack-5.jpg",
+      "author": "commsmanager",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "ICC News",
+        "News & Reports",
+        "Newsroom & Reports"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-21T01:05:36.205723",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "persecution.org"
+      },
+      "id": "5da43cb16c0b589d"
+    },
+    {
+      "title": "A witch doctor got a solar radio. It was tuned to the truth",
+      "url": "https://doxa.app/grace/mbutu-dr-congo-witch-doctor-radio",
+      "category": "africa",
+      "source": "Doxa · Grace Record 见证库",
+      "source_url": "https://doxa.app/grace/all",
+      "published": "2026-11-21",
+      "summary": "🇨🇬Democratic Republic of Congo· 2010s",
+      "summary_zh": "🇨🇬刚果民主共和国·21世纪10年代",
+      "title_zh": "巫医有一台太阳能收音机。它被调到了真相频道",
+      "content": "Mbutu was a witch doctor in a remote village in the Democratic Republic of Congo. For years he cast spells, claimed power over the natural world, and sold cures to sick villagers who had nowhere else to turn. People feared him. He made his living off that fear. Then he was given a small solar-powered radio. It was fixed to one station, a local Christian broadcast, and handed out to villagers who had no other way to hear anything. Tuned to the truth So Mbutu listened. Day after day the good news came through that little speaker. He learned of the One who really controls the universe, and more than that, he learned about the love of Jesus and His offer of forgiveness. The man who had traded in fear laid his witchcraft down and gave his life to Christ. He did not keep it to himself. Mbutu now walks from village to village, finding other witch doctors and telling them what he found. Some of them have become believers. Some have become pastors, planting churches where there were none. A cheap radio and the name of Jesus were enough to turn the most feared man in the village into its brightest light. No one is beyond the reach of that name. Not the person others are afraid of. Not you.",
+      "content_zh": "Mbutu是刚果民主共和国一个偏远村庄的一名巫医。 多年来,他施了咒语,声称对自然世界拥有权力,并出售给没有别处可转的病村民的治疗方法. 人们害怕他。 他靠恐惧为生 后被给予小型太阳能收音机.\n\n它被固定在一个电台,一个当地的基督教广播,并交给没有其他办法听到任何消息的村民. 实话实说 姆博图听了 日复一日的好消息从那个小演讲者那里传来。 他得知了真正控制宇宙之人,不止于此,他还了解到了耶稣的爱和他提出的宽恕.\n\n在恐惧中交易的人放下了巫术,将他的生命献给了基督. 他没有保守秘密。 姆布图现在从村到村走来走去,找到其他巫医,并告诉他们他发现了什么. 他们中有一部分已变成信士。 有些人成为牧师,在没有教堂的地方种植教堂。\n\n一个廉价的收音机和耶稣的名字足以将村里最被敬畏的人变成最明亮的光芒. 没有人能够超越这个名字。 不是别人害怕的人 不是你,你没有",
+      "image": "https://doxa.app/api/og?title=A+witch+doctor+got+a+solar+radio.+It+was+tuned+to+the+truth&tag=Found+Faith&type=grace&v=8b3b7b7da9",
+      "author": "",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-21T01:05:45.190872",
+      "extra": {
+        "story_score": 13,
+        "domain": "doxa.app"
+      },
+      "id": "b5d7e86b91abb0ca"
+    },
+    {
+      "title": "Pourquoi l’Afrique va bouleverser la carte des croyants",
+      "url": "https://fr.aleteia.org/2026/11/19/christianisme-mondial-pourquoi-lafrique-va-bouleverser-la-carte-des-croyants/",
+      "category": "africa",
+      "source": "Aleteia · témoignages（法）",
+      "source_url": "https://fr.aleteia.org/feed/",
+      "published": "2026-11-21",
+      "summary": "Le christianisme mondial change, peu à peu, de visage. D’ici à 2070, le nombre de chrétiens dans le monde pourrait approcher les 3 milliards, contre 2,27 milliards en 2020. Une progression de 30% qui devrait être particulièrement spectaculaire en Afrique subsaharienne, où le nombre de chrétiens pourrait bondir de 129% en cinquante ans. Publiées le mercredi 18 novembre, les nouvelles projections du Pew Research Center dessinent ainsi une géographie religieuse en pleine évolution, dans laquelle le",
+      "summary_zh": "全球基督教的面貌正在逐渐发生变化。到2070年，全球基督徒人数可能接近30亿，而2020年为22.7亿。这一30%的增长预计在撒哈拉以南非洲地区将尤为显著，该地区的基督徒人数在50年内可能激增129%。皮尤研究中心于11月18日（星期三）发布的新预测勾勒出了一幅基督教的地理分布图。",
+      "title_zh": "为什么非洲将颠覆宗教信仰版图",
+      "content": "Le christianisme mondial change, peu à peu, de visage. D’ici à 2070, le nombre de chrétiens dans le monde pourrait approcher les 3 milliards, contre 2,27 milliards en 2020.  Une progression de 30% qui devrait être particulièrement spectaculaire en Afrique subsaharienne, où le nombre de chrétiens pourrait bondir de 129% en cinquante ans. Publiées le mercredi 18 novembre, les nouvelles projections du Pew Research Center dessinent ainsi une géographie religieuse en pleine évolution, dans laquelle le continent africain prendra une place toujours plus importante. Le christianisme devrait conserver sa place de première religion mondiale jusqu’en 2035, avant d’être dépassé par l’islam en nombre de fidèles. Selon le Pew Research Center, la population musulmane devrait ainsi augmenter de 80% entre 2020 et 2070, contre 30% pour la population chrétienne. Cette différence de rythme ne signifie toutefois pas que le christianisme recule. Au contraire, ses fidèles devraient être près de 700 millions supplémentaires à l’échelle mondiale d’ici à cinquante ans. Cette progression Tout lire… The post Pourquoi l’Afrique va bouleverser la carte des croyants appeared first on Aleteia .",
+      "content_zh": "全球基督教的面貌正在逐渐发生变化。到 2070 年，全球基督徒人数可能接近 30 亿，而 2020 年为 22.7 亿。这一30%的增长在撒哈拉以南非洲地区尤为显著，该地区的基督徒人数在50年内可能激增129%。\n\n皮尤研究中心于11月18日（星期三）发布了最新预测，勾勒出一幅不断变化的宗教版图，其中非洲大陆将占据越来越重要的位置。预计基督教将保持其世界第一大宗教的地位直至2035年，此后伊斯兰教的信徒人数将超过基督教。\n\n皮尤研究中心的数据显示，2020年至2070年间，穆斯林人口预计将增长80%，而基督教人口的增长率则为30%。然而，这种增长速度的差异并不意味着基督教正在衰落。相反，预计在未来五十年内，基督教信徒人数将在全球范围内增加近7亿。\n\n阅读全文……这篇文章《为什么非洲将颠覆信徒的版图》最初发表于Aleteia。",
+      "image": "https://aleteia.org/api/og-image/?locale=fr&slug=2026%2F11%2F19%2Fchristianisme-mondial-pourquoi-lafrique-va-bouleverser-la-carte-des-croyants",
+      "author": "Laura Marchais",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "非洲宣教",
+        "Actualités",
+        "Monde",
+        "Chrétiens"
+      ],
+      "language": "fr",
+      "country": "FR",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-21T01:06:28.690089",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 6,
+        "domain": "fr.aleteia.org"
+      },
+      "id": "6e159ed8390d296a"
+    },
+    {
+      "title": "« Vous n’êtes pas seuls » : à Saint-Sulpice, une veillée pour les chrétiens persécutés",
+      "url": "https://fr.aleteia.org/2026/11/20/vous-netes-pas-seuls-a-saint-sulpice-une-veillee-pour-les-chretiens-persecutes/",
+      "category": "africa",
+      "source": "Aleteia · témoignages（法）",
+      "source_url": "https://fr.aleteia.org/feed/",
+      "published": "2026-11-21",
+      "summary": "413 millions. C’est le nombre de chrétiens vivant dans des pays où leur liberté religieuse est gravement bafouée, selon l’Aide à l’Eglise en détresse (AED). Derrière ce chiffre, des hommes et des femmes qui continuent de vivre leur foi malgré les menaces. Ce jeudi 19 novembre, des centaines de fidèles se pressent devant l’église saint Sulpice à Paris, pour la Nuit des Témoins. Organisée chaque année par l’AED depuis 16 ans, cette veillée mêle prière et témoignages pour rendre hommage aux chrétie",
+      "summary_zh": "4.13亿。根据“援助受难教会”（AED）的数据，这是生活在宗教自由受到严重侵犯的国家中的基督徒人数。在这个数字的背后，是那些尽管面临威胁仍坚持信仰的男女信徒。11月19日星期四，数百名信众聚集在巴黎圣叙尔皮斯教堂（église saint Sulpice）前，参加“见证之夜”（Nuit des Témoins）。16年来，援助受迫害教会基金会（AED）每年都会举办这场祈祷守夜活动，将祈祷与……相结合。",
+      "title_zh": "“你们并不孤单”：圣叙尔皮斯教堂为受迫害的基督徒举行守夜活动",
+      "content": "413 millions. C’est le nombre de chrétiens vivant dans des pays où leur liberté religieuse est gravement bafouée, selon l’Aide à l’Eglise en détresse (AED). Derrière ce chiffre, des hommes et des femmes qui continuent de vivre leur foi malgré les menaces. Ce jeudi 19 novembre, des centaines de fidèles se pressent devant l’église saint Sulpice à Paris, pour la Nuit des Témoins. Organisée chaque année par l’AED depuis 16 ans, cette veillée mêle prière et témoignages pour rendre hommage aux chrétiens persécutés et faire entendre leur voix. Pour cette édition, deux témoins venus du Burkina Faso et du Mexique ont raconté leur quotidien, marqué par la violence et l’épreuve. Devant l’autel, des photographies de chrétiens assassinés au cours de l’année sont disposées. Nigeria, Haïti, Mexique, Burkina Faso, Mozambique, Pakistan… Un à un, leurs noms sont égrenés. Des bougies sont ensuite distribuées aux fidèles, qui viennent les déposer devant les portraits. Un geste simple pour rendre hommage à ceux qui ont Tout lire… The post « Vous n’êtes pas seuls » : à Saint-Sulpice, une veillée pour les chrétiens persécutés appeared first on Aleteia .",
+      "content_zh": "4.13亿。根据“援助受迫害教会基金会”（AED）的数据，这是生活在宗教自由受到严重侵犯的国家中的基督徒人数。在这个数字的背后，是那些尽管面临威胁仍坚持信仰的男男女女。11月19日星期四，数百名信众聚集在巴黎的圣叙尔比斯教堂（église saint Sulpice）前，参加“见证之夜”（Nuit des Témoins）活动。\n\n16年来，教难援助会每年都会举办这场祈祷会，通过祈祷和见证来向受迫害的基督徒致敬，并让他们的声音被听见。在今年的祈祷会上，来自布基纳法索和墨西哥的两名见证人讲述了他们饱受暴力和磨难的日常生活。在祭坛前摆放着当年被杀害的基督徒的照片。\n\n尼日利亚、海地、墨西哥、布基纳法索、莫桑比克、巴基斯坦……他们的名字一个接一个地被念出。随后，蜡烛分发给信众，他们将蜡烛摆放在肖像前。这是一个简单的举动，旨在向那些……阅读全文…… The post “你们并不孤单”：在圣叙尔皮斯教堂为受迫害的基督徒举行守夜活动 appeared first on Aleteia。",
+      "image": "https://aleteia.org/api/og-image/?locale=fr&slug=2026%2F11%2F20%2Fvous-netes-pas-seuls-a-saint-sulpice-une-veillee-pour-les-chretiens-persecutes",
+      "author": "Antoinette de la Roulière",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "见证",
+        "逼迫",
+        "Actualités",
+        "Religion",
+        "AED"
+      ],
+      "language": "fr",
+      "country": "FR",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-21T01:06:28.125744",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 27,
+        "domain": "fr.aleteia.org"
+      },
+      "id": "56ae0f93c4dd6aef"
     },
     {
       "title": "4 Killed Days After Cantine Massacre",
@@ -143,146 +320,6 @@
         "domain": "persecution.org"
       },
       "id": "d0becb876a91c09c"
-    },
-    {
-      "title": "Teenage Girl Dies After Six Months in Captivity",
-      "url": "https://persecution.org/2026/11/13/teenage-girl-dies-after-six-months-in-captivity/",
-      "category": "africa",
-      "source": "Persecution.org · 受逼迫教会见证",
-      "source_url": "https://www.persecution.org/feed/",
-      "published": "2026-11-20",
-      "summary": "On Nov. 1, six people took their first steps of freedom after being held by Fulani extremists for more than six months. One of them died only two days later. Hasana Bulus, 13, died in the hospital where she was taken in critical condition. Bulus was one of the 11 people who were kidnapped by a Fulani militia in…   The post  Teenage Girl Dies After Six Months in Captivity  first appeared on  International Christian Concern .",
-      "summary_zh": "11月1日，六人在被富拉尼族极端分子关押超过六个月后，迈出了重获自由的第一步。其中一人仅两天后就去世了。13岁的哈萨娜·布卢斯（Hasana Bulus）在被送往医院时已处于危急状态，后在医院去世。布卢斯是富拉尼民兵绑架的11人之一……   这篇题为《少女被囚禁六个月后死亡》的文章最初发表在“国际基督徒关注”网站上。",
-      "title_zh": "少女被囚禁六个月后死亡",
-      "content": "On Nov. 1, six people took their first steps of freedom after being held by Fulani extremists for more than six months. One of them died only two days later. Hasana Bulus, 13, died in the hospital where she was taken in critical condition. Bulus was one of the 11 people who were kidnapped by a Fulani militia in April. One had escaped, but five died at the camp, and the rest were released with Bulus — including the 4-year-old daughter of a woman who had died in captivity. Bulus’ village, Awon, is predominantly Christian and has been the target of Fulani attacks, just like Ariko, a neighboring village in Kaduna state. According to a six-year study conducted by the Observatory for Religious Freedom in Africa (ORFA), Islamic Fulani militias are by far the deadliest persecutors of Christians in Nigeria. Ariko is home to the 37 Christians who were kidnapped during the Easter services earlier this year in a neighboring village. Of these, 17 people have died in captivity, 12 have escaped, and eight have since been released. The abductees from both these villages were held in the same forest hideout, where they were kept in inhumane conditions. “They [the villagers] told us how they would stay for two weeks without food,” one woman, whose father died in the camp, told Open Doors . “They only boil water to drink. That’s how they struggled before the bandits gave them corn flour, and they started making swallow (a porridge). The men are restrained, chained in groups; they are not free to move around.” All of the male abductees in these groups had died in the camp. Christian Solidarity Worldwide (CSW) is calling for Nigerian authorities to protect these communities and fight to free more people left in bondage. “We continue to urge the Nigerian government at state and federal levels to prioritize the protection of vulnerable communities throughout the nation, to combat the threat posed by the litany of terrorist groups that are active in the country far more effectively, and to secure the release of all abductees,” CSW CEO Scot Bower said. “Nigeria’s Christians do not need another statement of sympathy,” ICC’s president, Shawn Wright, said. “They need protection , justice , and accountability . When those who murder innocent Christians face no meaningful consequences, impunity becomes an invitation to the next attack. The Nigerian government must protect vulnerable communities, pursue the perpetrators, and make clear that these crimes will not go unanswered.” Story by Bella Agnello To read more news stories, visit the ICC Newsroom . For interviews, please email us . To support ICC’s work around the world, please give to our Where Most Needed Fund . The post Teenage Girl Dies After Six Months in Captivity first appeared on International Christian Concern .",
-      "content_zh": "11月1日,六人在被富拉尼极端分子关押了6个多月后迈出了自由的第一步. 其中一人在两天后去世. 13岁的Hasana Bulus在她病情危急的医院死亡。 布卢斯是4月被富拉尼民兵绑架的11人之一.\n\n1人逃跑了,但5人死于营地,其余的人与布卢斯一起被释放——包括一名在囚禁中死亡的妇女的4岁女儿. 与卡杜纳州邻近村庄阿里科一样,\n\n根据非洲宗教自由观察站(ORFA)进行的一项为期六年的研究,伊斯兰富拉尼民兵是尼日利亚基督教徒最致命的迫害者。 阿里科是37名基督徒的家,他们在今年早些时候在复活节礼拜期间在一个邻近村庄被绑架。\n\n其中,17人在囚禁中死亡,12人逃脱,8人自此获释. 这两个村庄的被绑架者被关在同一个森林藏身处,他们被关在不人道的条件下。 “他们[村民]告诉我们,他们将如何在没有食物的情况下呆两周,”一位父亲死于营地的妇女告诉Open Doors。 “他们只煮水饮用。\n\n在土匪给他们面粉之前, 这些人被捆绑起来,被捆绑在一起;他们不能自由移动。” 这些团伙中的所有男性被绑架者都死于营地。\n\n世界基督教团结会呼吁尼日利亚当局保护这些社区,并努力释放更多受奴役的人。\n\n“我们继续敦促尼日利亚州和联邦政府优先保护全国的弱势社区,更有效地打击在该国活动的众多恐怖主义团体构成的威胁,并确保释放所有被绑架者。”\n\n“尼日利亚的基督徒不需要再次表示同情, “他们需要保护、正义和问责制。 当杀害无辜基督徒的人没有面临有意义的后果时,有罪不罚就成为下一次袭击的诱因。\n\n尼日利亚政府必须保护弱势社区,追捕肇事者,并表明这些罪行不会得不到答复。” Bella Agnello的故事 阅读更多新闻, 请给我们发电子邮件 支持电算中心在世界各地的工作,\n\n年轻女孩在半年后死亡,",
-      "image": "https://persecution.org/wp-content/uploads/2026/11/Hasana-Bulus-Nigeria.jpg",
-      "author": "commsmanager",
-      "tags": [
-        "非洲",
-        "非洲宣教与见证",
-        "非洲宣教",
-        "逼迫",
-        "医疗",
-        "ICC News",
-        "News & Reports",
-        "Newsroom & Reports"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "非洲",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 3,
-      "fetched_at": "2026-11-20T01:40:02.943868",
-      "extra": {
-        "feed_type": "rss20",
-        "story_score": 19,
-        "domain": "persecution.org"
-      },
-      "id": "6ec107a9a90aba3e"
-    },
-    {
-      "title": "Fulani Militants Kill 14 Christians in Plateau State, Nigeria",
-      "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/",
-      "category": "africa",
-      "source": "Persecution.org · 受逼迫教会见证",
-      "source_url": "https://www.persecution.org/feed/",
-      "published": "2026-11-20",
-      "summary": "At least 14 Christians have been killed in fresh attacks across four local government areas of Plateau state, Nigeria, days after President Bola Ahmed Tinubu appealed for forgiveness over his failure ",
-      "summary_zh": "在尼日利亚博拉·艾哈迈德·蒂努布总统就其未能保护人民免受袭击一事呼吁原谅的几天后，在高原州的四个地方政府辖区内发生的最新袭击中，至少有14名基督徒被杀害。",
-      "title_zh": "富拉尼武装分子在尼日利亚高原州杀害14名基督徒",
-      "content": "At least 14 Christians have been killed in fresh attacks across four local government areas of Plateau state, Nigeria, days after President Bola Ahmed Tinubu appealed for forgiveness over his failure to visit violence-affected communities during an earlier trip to the state and promised to rebuild destroyed communities and return internally displaced persons (IDPs) to their ancestral homes. The killings occurred between Sunday, Nov. 15, and Monday, Nov. 16, in Mangu, Riyom, Barkin Ladi and Bokkos local government areas, according to community sources and local security groups. Armed attackers reportedly targeted rural settlements and ambushed residents traveling between communities. The latest violence followed Tinubu’s visit to Jos on Saturday, Nov. 14, for an All Progressives Congress (APC) political rally at Zaria Road Stadium, where he acknowledged the suffering of communities affected by recurring attacks and displacement. Addressing residents and party supporters, Tinubu asked Plateau residents to forgive him for not visiting affected communities during his previous trip to the state in April. “When I last visited the other time, I was limited to the airport,” he said. “Forgive me if you didn’t see me in the hinterland, but I saw the devastation. I got the report from the governor. I saw horror in the faces of our people.” The president promised to rebuild communities destroyed by violence and facilitate the return of displaced residents. “We will rebuild your communities, and we will bring you back to your communities,” Tinbu added. “I have directed all the security agencies to take decisive action and sustain peace and stability on the Plateau.” He also commended the Minister of Humanitarian Affairs and Poverty Reduction, Dr. Bernard Doro, for identifying vulnerable populations and coordinating humanitarian assistance. Tinubu announced that 1,000 forest guards were undergoing training and that surveillance cameras promised to Plateau state had been procured to strengthen security monitoring and early warning operations. However, fresh attacks were reported within hours of the president’s departure from the state. In Mangu Local Government Area, armed attackers invaded Zwagal community in Jipal District at about 9 p.m. on Sunday, killing nine people. Other residents were reportedly missing following the attack. Silas Nanfwang, a resident who confirmed the incident to journalists, called on security agencies to intensify efforts to locate the attackers and bring those responsible to justice. In Barkin Ladi, 79-year-old Da Ishaku Pam Vwos was killed when armed men invaded Sho village at about 5:20 p.m. on Sunday, according to the Berom Youth Moulders Association (BYM). The association’s National Publicity Secretary, Rwang Tengwong, also reported the killing of 42-year-old Dauda John Davou during an attack on the Sambak community in Hoss District, Riyom LGA, at about 2 a.m. on Sunday. Another attack was reported in the Jol community around 12:10 a.m. on Sunday. According to BYM, local vigilantes responded to the attackers, preventing further casualties. The association said the incidents followed the shooting of Joshua Doro Dafwel in Jol on Wednesday. He is currently receiving medical attention. BYM also reported that Ina Arin was killed when armed men ambushed him and his friend, Abok Gyang, as they returned to Dorong village in Foron District. Gyang survived the attack. In Bokkos Local Government Area, two people, including a unit commander of the Plateau state-owned security outfit, Operation Rainbow, were killed in an ambush on Monday afternoon. The victims, identified as Gambo and his companion, were traveling on a motorcycle from Hurti village to Tadai in Manguna District when armed men attacked them at about 1:30 p.m. They had reportedly visited Hurti for a condolence visit and died at the scene. Gambo had recently completed a refresher training program for Operation Rainbow unit commanders in Jos and was known amon",
-      "content_zh": "在博拉·艾哈迈德·蒂努布总统呼吁原谅他在早些时候访问受暴力影响的社区,并承诺重建被摧毁的社区并让境内流离失所者返回其祖传家园几天后,在尼日利亚高原州四个地方政府地区,至少有14名基督徒被杀死。\n\n据社区人士和地方安全团体称,这些杀戮发生在11月15日星期日至16日星期一的Mangu、Riyom、Barkin Ladi和Bokkos地方政府地区。 据报告,武装袭击者以农村定居点为目标,并伏击社区之间的居民。 在Tinubu于11月星期六访问Jos后,\n\n14,在Zaria Road体育场举行全体进步人士大会(APC)政治集会,他承认一再受攻击和流离失所影响的社区遭受苦难。 蒂努布针对居民和政党支持者,要求高原居民原谅他4月前去该州旅行期间没有访问受影响的社区.\n\n他说,“上次访问时,我仅限于机场。” “对不起,如果你没有在内地看到我,但我看到了灾难。 我收到州长的报告了 我在我国人民的脸上看到了恐怖。” 总统承诺重建被暴力摧毁的社区并便利流离失所居民回返。\n\nTinbu补充说,“我们将重建你们的社区,并将你们带回你们的社区。” “我已指示所有安全机构采取果断行动,并维持高原的和平与稳定。” 他还赞扬人道主义事务和减贫部长贝尔纳·多罗博士确定弱势人口和协调人道主义援助。\n\n蒂努布宣布有1000名森林警卫正在接受训练,并且已经采购了向高原州承诺的监视相机,以加强安全监测和预警行动. 然而,据报道,总统离开国家后的数小时内又有新的袭击.\n\n在Mangu地方政府地区,武装袭击者于星期日下午9时左右入侵Jipal区的Zwagal社区,造成9人死亡。 据报告,其他居民在袭击后失踪。 向记者证实此事的居民Silas Nanfwang呼吁安全机构加紧努力找到袭击者,并将责任人绳之以法。\n\n在Barkin Ladi,79岁的Da Ishaku Pam Vwos被武装分子于星期日下午5:20左右入侵Sho村而死,据Berom青年穆尔德斯协会(BYM)称. 该协会的全国宣传秘书Rwang Tengwong还报道了42岁的Dauda John Davou星期天凌晨2时左右在Riyom LGA的Hoss区被Sambak社区袭击时被杀死的事件。\n\n据报道,乔尔社区在星期日12:10左右又发生了一起袭击事件. 据BYM称,当地民团对袭击者作出反应,防止了进一步的伤亡. 该协会说,事件发生在周三Joshua Doro Dafwel被枪击后。 他目前正在接受治疗。\n\nBYM还报告说,Ina Arin被武装分子伏击并被其朋友Abok Gyang杀死,当时他们返回了Foron区的多龙村。 克阳幸免于袭. 在博克科斯地方政府地区,包括高原国有保安装备\"彩虹行动\"的一名分队指挥官在内的两人于星期一下午被伏击而身亡.\n\n受害者被确认为Gambo和他的同伴,他们乘坐摩托车从Hurti村前往Manguna区的Tadai,武装人员于下午1时30分左右袭击他们。 据报告,他们前往Hurti慰问,并在现场死亡。 甘博最近完成了 \" 彩虹行动 \" 部队指挥官在乔斯的进修培训方案,并被称作 \" 阿蒙 \"",
-      "image": "https://persecution.org/wp-content/uploads/2026/11/Nigeria-attack-5.jpg",
-      "author": "commsmanager",
-      "tags": [
-        "非洲",
-        "非洲宣教与见证",
-        "ICC News",
-        "News & Reports",
-        "Newsroom & Reports"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "非洲",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 3,
-      "fetched_at": "2026-11-20T01:40:01.957279",
-      "extra": {
-        "feed_type": "rss20",
-        "story_score": 4,
-        "domain": "persecution.org"
-      },
-      "id": "5da43cb16c0b589d"
-    },
-    {
-      "title": "A witch doctor got a solar radio. It was tuned to the truth",
-      "url": "https://doxa.app/grace/mbutu-dr-congo-witch-doctor-radio",
-      "category": "africa",
-      "source": "Doxa · Grace Record 见证库",
-      "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-20",
-      "summary": "🇨🇬Democratic Republic of Congo· 2010s",
-      "summary_zh": "🇨🇬刚果民主共和国·21世纪10年代",
-      "title_zh": "巫医有一台太阳能收音机。它被调到了真相频道",
-      "content": "Mbutu was a witch doctor in a remote village in the Democratic Republic of Congo. For years he cast spells, claimed power over the natural world, and sold cures to sick villagers who had nowhere else to turn. People feared him. He made his living off that fear. Then he was given a small solar-powered radio. It was fixed to one station, a local Christian broadcast, and handed out to villagers who had no other way to hear anything. Tuned to the truth So Mbutu listened. Day after day the good news came through that little speaker. He learned of the One who really controls the universe, and more than that, he learned about the love of Jesus and His offer of forgiveness. The man who had traded in fear laid his witchcraft down and gave his life to Christ. He did not keep it to himself. Mbutu now walks from village to village, finding other witch doctors and telling them what he found. Some of them have become believers. Some have become pastors, planting churches where there were none. A cheap radio and the name of Jesus were enough to turn the most feared man in the village into its brightest light. No one is beyond the reach of that name. Not the person others are afraid of. Not you.",
-      "content_zh": "Mbutu是刚果民主共和国一个偏远村庄的一名巫医。 多年来,他施了咒语,声称对自然世界拥有权力,并出售给没有别处可转的病村民的治疗方法. 人们害怕他。 他靠恐惧为生 后被给予小型太阳能收音机.\n\n它被固定在一个电台,一个当地的基督教广播,并交给没有其他办法听到任何消息的村民. 实话实说 姆博图听了 日复一日的好消息从那个小演讲者那里传来。 他得知了真正控制宇宙之人,不止于此,他还了解到了耶稣的爱和他提出的宽恕.\n\n在恐惧中交易的人放下了巫术,将他的生命献给了基督. 他没有保守秘密。 姆布图现在从村到村走来走去,找到其他巫医,并告诉他们他发现了什么. 他们中有一部分已变成信士。 有些人成为牧师,在没有教堂的地方种植教堂。\n\n一个廉价的收音机和耶稣的名字足以将村里最被敬畏的人变成最明亮的光芒. 没有人能够超越这个名字。 不是别人害怕的人 不是你,你没有",
-      "image": "https://doxa.app/api/og?title=A+witch+doctor+got+a+solar+radio.+It+was+tuned+to+the+truth&tag=Found+Faith&type=grace&v=8b3b7b7da9",
-      "author": "",
-      "tags": [
-        "非洲",
-        "非洲宣教与见证"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "非洲",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 3,
-      "fetched_at": "2026-11-20T01:40:12.123444",
-      "extra": {
-        "story_score": 13,
-        "domain": "doxa.app"
-      },
-      "id": "b5d7e86b91abb0ca"
-    },
-    {
-      "title": "Pourquoi l’Afrique va bouleverser la carte des croyants",
-      "url": "https://fr.aleteia.org/2026/11/19/christianisme-mondial-pourquoi-lafrique-va-bouleverser-la-carte-des-croyants/",
-      "category": "africa",
-      "source": "Aleteia · témoignages（法）",
-      "source_url": "https://fr.aleteia.org/feed/",
-      "published": "2026-11-20",
-      "summary": "Le christianisme mondial change, peu à peu, de visage. D’ici à 2070, le nombre de chrétiens dans le monde pourrait approcher les 3 milliards, contre 2,27 milliards en 2020. Une progression de 30% qui devrait être particulièrement spectaculaire en Afrique subsaharienne, où le nombre de chrétiens pourrait bondir de 129% en cinquante ans. Publiées le mercredi 18 novembre, les nouvelles projections du Pew Research Center dessinent ainsi une géographie religieuse en pleine évolution, dans laquelle le",
-      "summary_zh": "全球基督教的面貌正在逐渐发生变化。到2070年，全球基督徒人数可能接近30亿，而2020年为22.7亿。这一30%的增长预计在撒哈拉以南非洲地区将尤为显著，该地区的基督徒人数在50年内可能激增129%。皮尤研究中心于11月18日（星期三）发布的新预测勾勒出了一幅基督教的地理分布图。",
-      "title_zh": "为什么非洲将颠覆宗教信仰版图",
-      "content": "Le christianisme mondial change, peu à peu, de visage. D’ici à 2070, le nombre de chrétiens dans le monde pourrait approcher les 3 milliards, contre 2,27 milliards en 2020.  Une progression de 30% qui devrait être particulièrement spectaculaire en Afrique subsaharienne, où le nombre de chrétiens pourrait bondir de 129% en cinquante ans. Publiées le mercredi 18 novembre, les nouvelles projections du Pew Research Center dessinent ainsi une géographie religieuse en pleine évolution, dans laquelle le continent africain prendra une place toujours plus importante. Le christianisme devrait conserver sa place de première religion mondiale jusqu’en 2035, avant d’être dépassé par l’islam en nombre de fidèles. Selon le Pew Research Center, la population musulmane devrait ainsi augmenter de 80% entre 2020 et 2070, contre 30% pour la population chrétienne. Cette différence de rythme ne signifie toutefois pas que le christianisme recule. Au contraire, ses fidèles devraient être près de 700 millions supplémentaires à l’échelle mondiale d’ici à cinquante ans. Cette progression Tout lire… The post Pourquoi l’Afrique va bouleverser la carte des croyants appeared first on Aleteia .",
-      "content_zh": "全球基督教的面貌正在逐渐发生变化。到 2070 年，全球基督徒人数可能接近 30 亿，而 2020 年为 22.7 亿。这一30%的增长在撒哈拉以南非洲地区尤为显著，该地区的基督徒人数在50年内可能激增129%。\n\n皮尤研究中心于11月18日（星期三）发布了最新预测，勾勒出一幅不断变化的宗教版图，其中非洲大陆将占据越来越重要的位置。预计基督教将保持其世界第一大宗教的地位直至2035年，此后伊斯兰教的信徒人数将超过基督教。\n\n皮尤研究中心的数据显示，2020年至2070年间，穆斯林人口预计将增长80%，而基督教人口的增长率则为30%。然而，这种增长速度的差异并不意味着基督教正在衰落。相反，预计在未来五十年内，基督教信徒人数将在全球范围内增加近7亿。\n\n阅读全文……这篇文章《为什么非洲将颠覆信徒的版图》最初发表于Aleteia。",
-      "image": "https://aleteia.org/api/og-image/?locale=fr&slug=2026%2F11%2F19%2Fchristianisme-mondial-pourquoi-lafrique-va-bouleverser-la-carte-des-croyants",
-      "author": "Laura Marchais",
-      "tags": [
-        "非洲",
-        "非洲宣教与见证",
-        "非洲宣教",
-        "Actualités",
-        "Monde",
-        "Chrétiens"
-      ],
-      "language": "fr",
-      "country": "FR",
-      "region": "非洲",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 2,
-      "fetched_at": "2026-11-20T01:40:51.824500",
-      "extra": {
-        "feed_type": "rss20",
-        "story_score": 6,
-        "domain": "fr.aleteia.org"
-      },
-      "id": "6e159ed8390d296a"
     },
     {
       "title": "세계 교회 붉은빛으로 물들다… 박해받는 기독교인 위한 ‘붉은 주간’",
@@ -1308,6 +1345,43 @@
       "id": "5c1bd9bfba7a7920"
     },
     {
+      "title": "From Conversion to Mission: Testimonies of Divine Mercy Resounded in Vilnius",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVVNMTl5UkFOWDJ6STM4Qk40ZHZXUjB6dVZFeXRVZHBtNHdLa1JiTDN0Rm5wS0NSU29Ca3dnRTR3a1YxcnE0TE9EUXdQaWNiemJCMVMwX2NTR3h5QVlHeF9ERlllSDFWUUFYSjRCLVdvM21qT0drbG5xeUdFbnpGV1BybS1KRU1WUzlfTFY5UnNsbmwweThnd1U1M2dMSEFXMTJSMzlHbEJ3Zw?oc=5",
+      "category": "africa",
+      "source": "GDELT · 非洲宣教",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-06-09",
+      "summary": "From Conversion to Mission: Testimonies of Divine Mercy Resounded in Vilnius WACOM Congress",
+      "summary_zh": "从转变为使命：在维尔纽斯WACOM大会上回响的神圣慈悲见证",
+      "title_zh": "从皈依到传教：在维尔纽斯回响的神圣慈悲见证",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "WACOM Congress",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证",
+        "见证"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-21T01:06:21.103849",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionary Africa testimony",
+        "publisher": "WACOM Congress",
+        "google_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVVNMTl5UkFOWDJ6STM4Qk40ZHZXUjB6dVZFeXRVZHBtNHdLa1JiTDN0Rm5wS0NSU29Ca3dnRTR3a1YxcnE0TE9EUXdQaWNiemJCMVMwX2NTR3h5QVlHeF9ERlllSDFWUUFYSjRCLVdvM21qT0drbG5xeUdFbnpGV1BybS1KRU1WUzlfTFY5UnNsbmwweThnd1U1M2dMSEFXMTJSMzlHbEJ3Zw?oc=5",
+        "resolved": false,
+        "story_score": 9,
+        "domain": "news.google.com"
+      },
+      "id": "b52fa7d59f0fed41"
+    },
+    {
       "title": "AFRIQUE/NIGERIA - Triple jubilé pour les Missionnaires de la Société des Missions africaines et les Sœurs de Notre-Dame des Apôtres",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNGFlSm1PVE5SR1VEa0k5X1ZJWEJGYkJpTE1TWW40clllN2ZEZXdjZTNPRzJIR0Q3MU5rODNlbHRhTmg5Nk1tV2N0RlE4LW93bnFISWM1SGJKOEtvTmJzTnpJaXNnM1dzZ3pXRE1aSE9IUnNtdTdJWi1zMFBmZVNnazRKTlNfZWswZEtGaDZLWDF2dlF6SGF6SG5EQjRlNWg5QjBIQWpSc3Z0bGVSUUthTUhOMXZiQUd0Rjg4eGQ3enE3bi1PcUhNdl83Zl91c3NBVHU4bFBqdF9Bd1lFRkNfZmN6SkNiaGtPOFdNeFlia0Z0MVVWME9vYlhn?oc=5",
       "category": "africa",
@@ -1446,7 +1520,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-20T01:40:06.725746",
+      "fetched_at": "2026-11-21T01:05:39.831611",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -1557,7 +1631,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-20T01:40:07.481064",
+      "fetched_at": "2026-11-21T01:05:40.794667",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -1594,7 +1668,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-20T01:40:07.873629",
+      "fetched_at": "2026-11-21T01:05:41.281735",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -1644,6 +1718,42 @@
       "id": "6d0d7824b2928a7e"
     },
     {
+      "title": "Angola – Uma história incrível: o crescimento da presença salesiana no País - ANS",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZy1JQ2U5SVJQSjhTS1Vxanl2Z2l5UDI0UWVkSXloaWxBVmF2RE1MTkJOY1VGOVV2OXk2SzJkWGRTWEVrX2Iza0xCd00yV0x3UkM3Q2FMUDlKelRGczFGYjVYV2VaX1RKRXRvaUdNbHFPM2dGVnBoUFYwUEVhZ1hmMGc0N1JRU2hmSktNY3BWeEJMSWNMVDRiNmRDOWFSQVQ4SnEtWnNNTkdHWWNaRHdfUVJIMHlCNEFNV0NNQ1FWSlNUaXFTQUNweTdHdU8?oc=5",
+      "category": "africa",
+      "source": "葡语非洲／巴西宣教见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2023-04-06",
+      "summary": "Angola – Uma história incrível: o crescimento da presença salesiana no País ANS - Agenzia iNfo Salesiana",
+      "summary_zh": "安哥拉 – 一个令人惊叹的故事：该国销售会影响力的增长ANS – 销售会新闻通讯社",
+      "title_zh": "安哥拉 – 一个令人难以置信的故事：该国销售会影响力的增长 - ANS",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Agenzia iNfo Salesiana",
+      "tags": [
+        "非洲",
+        "非洲宣教与见证"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "非洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-21T01:05:40.305470",
+      "extra": {
+        "provider": "google_news",
+        "query": "missionário África testemunho história",
+        "publisher": "Agenzia iNfo Salesiana",
+        "google_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZy1JQ2U5SVJQSjhTS1Vxanl2Z2l5UDI0UWVkSXloaWxBVmF2RE1MTkJOY1VGOVV2OXk2SzJkWGRTWEVrX2Iza0xCd00yV0x3UkM3Q2FMUDlKelRGczFGYjVYV2VaX1RKRXRvaUdNbHFPM2dGVnBoUFYwUEVhZ1hmMGc0N1JRU2hmSktNY3BWeEJMSWNMVDRiNmRDOWFSQVQ4SnEtWnNNTkdHWWNaRHdfUVJIMHlCNEFNV0NNQ1FWSlNUaXFTQUNweTdHdU8?oc=5",
+        "resolved": false,
+        "story_score": 5,
+        "domain": "news.google.com"
+      },
+      "id": "d41d9b76306ab4e2"
+    },
+    {
       "title": "Testemunhos de vidas entregues: vitalidade missionária e vocacional de Angola",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDJoS0VrSmZkUlJWdjNETGM5VmFyZ04zdm1BM19vcEYzWGRldHktUHE1SkNJVWdPNW5jcjRnOUt6QVc4Z1dzd3VjMGtjdjdEVmVRTGxDVEVNUVlqQldzaTdTOXlVeWVPNENMVHNKazJqN290WjBhcElCSmUxREU5MVlXSEF6Z1NING90bnpuYU1oNFpiYjBzQUdSLThBZlJKTUpxVkQ5OEVuLW90TEZRSVExeHF3NTE0V0E?oc=5",
       "category": "africa",
@@ -1668,7 +1778,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-20T01:40:07.690519",
+      "fetched_at": "2026-11-21T01:05:41.056100",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -1816,7 +1926,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-20T01:40:03.246141",
+      "fetched_at": "2026-11-21T01:05:37.251186",
       "extra": {
         "provider": "google_news",
         "query": "missionary Nigeria testimony story",
@@ -1853,7 +1963,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-20T01:40:06.520427",
+      "fetched_at": "2026-11-21T01:05:39.549267",
       "extra": {
         "provider": "google_news",
         "query": "missionário África testemunho história",
@@ -1891,7 +2001,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:43:32.995427",
+      "fetched_at": "2026-11-21T01:05:39.609859",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -1929,7 +2039,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:43:32.193546",
+      "fetched_at": "2026-11-21T01:05:38.584037",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -2004,7 +2114,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:43:33.405207",
+      "fetched_at": "2026-11-21T01:05:40.170437",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -2080,7 +2190,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:43:32.691962",
+      "fetched_at": "2026-11-21T01:05:39.128443",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -2229,7 +2339,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:43:33.995144",
+      "fetched_at": "2026-11-21T01:05:40.704968",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -2304,7 +2414,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:43:32.842071",
+      "fetched_at": "2026-11-21T01:05:39.377924",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -2342,7 +2452,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:43:33.761092",
+      "fetched_at": "2026-11-21T01:05:40.456962",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
@@ -2380,7 +2490,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-19T01:43:32.420645",
+      "fetched_at": "2026-11-21T01:05:38.854806",
       "extra": {
         "provider": "google_news",
         "query": "témoignage missionnaire Afrique histoire",
