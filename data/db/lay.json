@@ -1,8 +1,8 @@
 {
   "category": "lay",
   "label": "平凡人的见证",
-  "count": 78,
-  "updated_at": "2026-11-24T12:43:52.519650+08:00",
+  "count": 80,
+  "updated_at": "2026-11-25T11:28:13.955904+08:00",
   "articles": [
     {
       "title": "He was taught Christians do not pray. Then he watched his uncle pray before a meal",
@@ -10,7 +10,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-24",
+      "published": "2026-11-25",
       "summary": "🇲🇱Lere· 1981",
       "summary_zh": "🇲🇱莱雷·1981年",
       "title_zh": "他被教导说基督徒不祷告。然后，他看到叔叔在饭前祷告。",
@@ -30,7 +30,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-24T04:36:54.707576",
+      "fetched_at": "2026-11-25T03:23:26.505410",
       "extra": {
         "story_score": 8,
         "domain": "doxa.app"
@@ -43,7 +43,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-24",
+      "published": "2026-11-25",
       "summary": "Laos· 2022",
       "summary_zh": "老挝·2022年",
       "title_zh": "一位寡妇从一位推销员那里听到了好消息，从此念念不忘。",
@@ -61,7 +61,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-24T04:36:54.707678",
+      "fetched_at": "2026-11-25T03:23:26.505495",
       "extra": {
         "story_score": 17,
         "domain": "doxa.app"
@@ -74,7 +74,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-24",
+      "published": "2026-11-25",
       "summary": "🇱🇰North Central Province· 2021",
       "summary_zh": "北中央省",
       "title_zh": "35位神父都无法帮助她。在教堂里，她看到耶稣粉碎了正在扼住她喉咙的东西。",
@@ -94,7 +94,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-24T04:36:54.707896",
+      "fetched_at": "2026-11-25T03:23:26.505658",
       "extra": {
         "story_score": 18,
         "domain": "doxa.app"
@@ -107,7 +107,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-24",
+      "published": "2026-11-25",
       "summary": "Rakiraki· 1990s",
       "summary_zh": "拉基拉基·1990年代",
       "title_zh": "因果报应说他必须修功德才能上天堂。17岁时，他听说自己可以得到宽恕。",
@@ -126,7 +126,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-24T04:36:54.708082",
+      "fetched_at": "2026-11-25T03:23:26.505818",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -139,7 +139,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-24",
+      "published": "2026-11-25",
       "summary": "🇲🇲Myanmar· 2010s",
       "summary_zh": "🇲🇲缅甸·2010年代",
       "title_zh": "一名本应死于战斗的士兵走进了恶魔的神殿",
@@ -159,7 +159,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-24T04:36:54.708174",
+      "fetched_at": "2026-11-25T03:23:26.505897",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -172,7 +172,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-24",
+      "published": "2026-11-25",
       "summary": "🇺🇸United States· 2020s",
       "summary_zh": "🇺🇸美国·2020年代",
       "title_zh": "她的教会奉献金刚好等于她的电费，一分不差。",
@@ -191,7 +191,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-24T04:36:54.708360",
+      "fetched_at": "2026-11-25T03:23:26.506064",
       "extra": {
         "story_score": 9,
         "domain": "doxa.app"
@@ -204,7 +204,7 @@
       "category": "lay",
       "source": "SABDA · Kesaksian 见证",
       "source_url": "https://kesaksian.sabda.org/",
-      "published": "2026-11-24",
+      "published": "2026-11-25",
       "summary": "",
       "summary_zh": "我是来自古利内的西门。 我的名字表明我住在非洲大陆。",
       "title_zh": "我是古利奈人西门。",
@@ -223,12 +223,82 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-24T04:36:58.527220",
+      "fetched_at": "2026-11-25T03:23:32.400493",
       "extra": {
         "story_score": 4,
         "domain": "kesaksian.sabda.org"
       },
       "id": "bff2e768ba9fd07b"
+    },
+    {
+      "title": "La foi, cette bataille",
+      "url": "https://fr.aleteia.org/2026/11/24/la-foi-cette-bataille/",
+      "category": "lay",
+      "source": "Aleteia · témoignages（法）",
+      "source_url": "https://fr.aleteia.org/feed/",
+      "published": "2026-11-25",
+      "summary": "Un ami agnostique m’écrit pour me dire que j’ai décidément bien de la chance d’avoir la foi. Sa lettre arrive à un mauvais moment, car ces jours-ci ma foi est un combat. Je vais répondre à cet ami que je n’ai pas le temps de me demander si j’ai de la chance. Ce sont les athées qui ont de la chance. Ceux qui ne croient pas nous imaginent installés dans une sécurité imperturbable, propriétaires que nous serions d’une vérité qui nous dispenserait de penser. C’est tout le contraire. Un chrétien ne p",
+      "summary_zh": "一位不可知论的朋友写信告诉我，我非常幸运地拥有信仰。他的信来得不是时候，因为这些日子我的信仰正处于挣扎之中。我会回复这位朋友，说我没有时间去思考自己是否幸运。幸运的是无神论者。那些不信的人想象我们生活在一种稳如泰山的安全之中，我们拥有一个真理，这个真理使我们免于",
+      "title_zh": "信仰，这场战斗",
+      "content": "Un ami agnostique m’écrit pour me dire que j’ai décidément bien de la chance d’avoir la foi. Sa lettre arrive à un mauvais moment, car ces jours-ci ma foi est un combat. Je vais répondre à cet ami que je n’ai pas le temps de me demander si j’ai de la chance. Ce sont les athées qui ont de la chance. Ceux qui ne croient pas nous imaginent installés dans une sécurité imperturbable, propriétaires que nous serions d’une vérité qui nous dispenserait de penser. C’est tout le contraire. Un chrétien ne possède pas la vérité : c’est la Vérité qui le possède et cette Vérité ne le laisse pas souvent en paix.  La Vérité qui nous tient aux entrailles s’est incarnée dans un bébé ; elle a souffert sous Ponce Pilate, elle a été calomniée, elle a été crucifiée, elle est morte, elle est descendue aux enfers. Le mystère du mal crucifie le chrétien pendant toute sa vie. Nous croyons que Tout lire… The post La foi, cette bataille appeared first on Aleteia .",
+      "content_zh": "一位不可知论的朋友写信告诉我，我非常幸运地拥有信仰。他的信来得不是时候，因为这些天我的信仰正处于挣扎之中。我会回复这位朋友，说我没有时间去思考自己是否幸运。幸运的是无神论者。\n\n不信的人以为我们生活在一种稳如泰山的安稳中，以为我们拥有某种真理，使我们不再需要思考。事实恰恰相反。基督徒并不拥有真理：是真理拥有他，而这真理往往不会让他安宁。那深深扎根于我们内心的真理已化身为一个婴儿；\n\n祂在彼拉多手下受难，祂被诬告，祂被钉十字架，祂死了，祂下到阴间。邪恶的奥秘使基督徒一生都遭受折磨。我们相信……阅读全文。文章《信仰，这场战斗》最初发表于Aleteia。",
+      "image": "https://aleteia.org/api/og-image/?locale=fr&slug=2026%2F11%2F24%2Fla-foi-cette-bataille",
+      "author": "Xavier Patier",
+      "tags": [
+        "欧洲",
+        "平凡人的见证",
+        "Actualités",
+        "Prière",
+        "France"
+      ],
+      "language": "fr",
+      "country": "FR",
+      "region": "欧洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-25T03:23:53.719591",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 6,
+        "domain": "fr.aleteia.org"
+      },
+      "id": "db782180665f4954"
+    },
+    {
+      "title": "François a-t-il connu une nuit de la foi durant son pontificat ?",
+      "url": "https://fr.aleteia.org/2026/11/24/francois-a-t-il-connu-une-nuit-de-la-foi-durant-son-pontificat/",
+      "category": "lay",
+      "source": "Aleteia · témoignages（法）",
+      "source_url": "https://fr.aleteia.org/feed/",
+      "published": "2026-11-25",
+      "summary": "C’est un des principaux enseignements du Journal spirituel du pape François, publié ce mardi 24 novembre : le cardinal Victor Manuel Fernández, qui a rassemblé et commenté un journal tenu de 1992 à 2024 par le pape argentin, rapporte l’intense combat spirituel mené par François au cœur de son pontificat, entre 2021 et 2022. Une période où il dit vivre une grande tentation, à ne pas confondre avec les « nuits de la foi » vécues par de célèbres saints tels que Mère Teresa, Thérèse de Lisieux ou Je",
+      "summary_zh": "这是本周二（11月24日）出版的《教宗方济各灵修日记》的主要内容之一：维克托·曼努埃尔·费尔南德斯枢机主教汇编并评论了这位阿根廷教宗从1992年至2024年所撰写的日记，其中记录了方济各在2021年至2022年间，即其教宗任期核心阶段所经历的激烈灵修斗争。在这段时间里，他表示自己经历了一次巨大的考验，但请勿将其与著名圣人所经历的“信仰的黑夜”混淆。",
+      "title_zh": "方济各在任教宗期间是否经历过“信德之夜”？",
+      "content": "C’est un des principaux enseignements du Journal spirituel du pape François, publié ce mardi 24 novembre : le cardinal Victor Manuel Fernández, qui a rassemblé et commenté un journal tenu de 1992 à 2024 par le pape argentin, rapporte l’intense combat spirituel mené par François au cœur de son pontificat, entre 2021 et 2022. Une période où il dit vivre une grande tentation, à ne pas confondre avec les « nuits de la foi » vécues par de célèbres saints tels que Mère Teresa, Thérèse de Lisieux ou Jean de la Croix. Ces deux années d’obscurité intérieure ne semblent de fait pas avoir été une perte de foi pour le prédécesseur de Léon XIV, qui décrit plutôt avoir été tenté par une forme de « curiosité réductrice », soit la tentation d’exercer son pouvoir comme si on était Dieu. Le 24 janvier 2021, il écrit dans son journal : « C’est l’empreinte de Satan qui œuvre en moi de cette façon. […] Il m’a contaminé. » Tout lire… The post François a-t-il connu une nuit de la foi durant son pontificat ? appeared first on Aleteia .",
+      "content_zh": "这是11月24日（星期二）出版的《教宗方济各灵修日记》的主要内容之一：枢机主教维克托·曼努埃尔·费尔南德斯（Victor Manuel Fernández）汇编并评论了这位阿根廷教宗从1992年至2024年所撰写的日记，其中记录了方济各在2021年至2022年间，即其教宗任期内所经历的激烈灵修斗争。\n\n在这段时间里，他说自己经历了一次巨大的考验，但这与特蕾莎修女、小德兰或十字架若望等著名圣人所经历的“信仰之夜”不同。\n\n事实上，这两年的内心黑暗似乎并没有让利奥十四世的前任失去信仰，他反而描述自己受到了一种“狭隘的好奇心”的诱惑，即像上帝一样行使权力的诱惑。2021年1月24日，他在日记中写道：“是撒旦的印记以这种方式在我身上作工。……他玷污了我。\n\n”阅读全文……文章《方济各教宗在任期内是否经历过信仰之夜？》最初发表于Aleteia。",
+      "image": "https://aleteia.org/api/og-image/?locale=fr&slug=2026%2F11%2F24%2Ffrancois-a-t-il-connu-une-nuit-de-la-foi-durant-son-pontificat",
+      "author": "Cyriac Zeller",
+      "tags": [
+        "拉美",
+        "平凡人的见证",
+        "Actualités",
+        "Vertus chrétiennes",
+        "Pape François"
+      ],
+      "language": "fr",
+      "country": "FR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-25T03:23:54.602356",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 6,
+        "domain": "fr.aleteia.org"
+      },
+      "id": "9735ce59982c8555"
     },
     {
       "title": "Kasih Tuhan Tiada Taranya",
@@ -561,7 +631,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:36:53.748316",
+      "fetched_at": "2026-11-25T03:23:25.371564",
       "extra": {
         "provider": "google_news",
         "query": "Christian conversion testimony story",
@@ -1506,10 +1576,10 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-18T02:07:08.179655",
+      "fetched_at": "2026-11-25T03:23:46.169401",
       "extra": {
         "provider": "gdelt",
-        "query": "Christian testimony conversion",
+        "query": "Christian testimony conversion story",
         "domain": "infovaticana.com",
         "story_score": 7
       },
@@ -1791,7 +1861,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:36:53.147986",
+      "fetched_at": "2026-11-25T03:23:24.684143",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -1901,7 +1971,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:36:52.681346",
+      "fetched_at": "2026-11-25T03:23:24.119626",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -1938,7 +2008,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:36:53.622337",
+      "fetched_at": "2026-11-25T03:23:25.065788",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -2085,7 +2155,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:36:56.272399",
+      "fetched_at": "2026-11-25T03:23:24.684643",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2159,7 +2229,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:36:56.272886",
+      "fetched_at": "2026-11-25T03:23:24.684970",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2196,7 +2266,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:36:53.749834",
+      "fetched_at": "2026-11-25T03:23:25.372430",
       "extra": {
         "provider": "google_news",
         "query": "Christian conversion testimony story",
@@ -2269,7 +2339,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:36:57.014755",
+      "fetched_at": "2026-11-25T03:23:25.692914",
       "extra": {
         "provider": "google_news",
         "query": "orphan rescued missionary story",
@@ -2306,7 +2376,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-17T02:46:57.511183",
+      "fetched_at": "2026-11-25T03:23:25.372911",
       "extra": {
         "provider": "google_news",
         "query": "Christian conversion testimony story",
@@ -2381,7 +2451,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:36:52.681184",
+      "fetched_at": "2026-11-25T03:23:24.119460",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -2418,7 +2488,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:36:56.662817",
+      "fetched_at": "2026-11-25T03:23:25.066143",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -2491,7 +2561,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:36:52.864786",
+      "fetched_at": "2026-11-25T03:23:24.163372",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2528,7 +2598,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:36:56.273227",
+      "fetched_at": "2026-11-25T03:23:24.685317",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2601,7 +2671,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-23T00:36:56.272565",
+      "fetched_at": "2026-11-25T03:23:24.684753",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2673,7 +2743,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:36:52.864915",
+      "fetched_at": "2026-11-25T03:23:24.163489",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2746,7 +2816,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:36:52.681895",
+      "fetched_at": "2026-11-25T03:23:24.120169",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
