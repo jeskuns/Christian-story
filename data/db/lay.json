@@ -1,8 +1,8 @@
 {
   "category": "lay",
   "label": "平凡人的见证",
-  "count": 80,
-  "updated_at": "2026-11-25T11:28:13.955904+08:00",
+  "count": 84,
+  "updated_at": "2026-11-26T10:44:28.751892+08:00",
   "articles": [
     {
       "title": "He was taught Christians do not pray. Then he watched his uncle pray before a meal",
@@ -10,7 +10,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-25",
+      "published": "2026-11-26",
       "summary": "🇲🇱Lere· 1981",
       "summary_zh": "🇲🇱莱雷·1981年",
       "title_zh": "他被教导说基督徒不祷告。然后，他看到叔叔在饭前祷告。",
@@ -30,7 +30,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-25T03:23:26.505410",
+      "fetched_at": "2026-11-26T02:39:27.120729",
       "extra": {
         "story_score": 8,
         "domain": "doxa.app"
@@ -43,7 +43,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-25",
+      "published": "2026-11-26",
       "summary": "Laos· 2022",
       "summary_zh": "老挝·2022年",
       "title_zh": "一位寡妇从一位推销员那里听到了好消息，从此念念不忘。",
@@ -61,7 +61,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-25T03:23:26.505495",
+      "fetched_at": "2026-11-26T02:39:27.120853",
       "extra": {
         "story_score": 17,
         "domain": "doxa.app"
@@ -74,7 +74,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-25",
+      "published": "2026-11-26",
       "summary": "🇱🇰North Central Province· 2021",
       "summary_zh": "北中央省",
       "title_zh": "35位神父都无法帮助她。在教堂里，她看到耶稣粉碎了正在扼住她喉咙的东西。",
@@ -94,7 +94,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-25T03:23:26.505658",
+      "fetched_at": "2026-11-26T02:39:27.121097",
       "extra": {
         "story_score": 18,
         "domain": "doxa.app"
@@ -107,7 +107,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-25",
+      "published": "2026-11-26",
       "summary": "Rakiraki· 1990s",
       "summary_zh": "拉基拉基·1990年代",
       "title_zh": "因果报应说他必须修功德才能上天堂。17岁时，他听说自己可以得到宽恕。",
@@ -126,7 +126,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-25T03:23:26.505818",
+      "fetched_at": "2026-11-26T02:39:27.121364",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -139,7 +139,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-25",
+      "published": "2026-11-26",
       "summary": "🇲🇲Myanmar· 2010s",
       "summary_zh": "🇲🇲缅甸·2010年代",
       "title_zh": "一名本应死于战斗的士兵走进了恶魔的神殿",
@@ -159,7 +159,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-25T03:23:26.505897",
+      "fetched_at": "2026-11-26T02:39:27.121484",
       "extra": {
         "story_score": 13,
         "domain": "doxa.app"
@@ -172,7 +172,7 @@
       "category": "lay",
       "source": "Doxa · Grace Record 见证库",
       "source_url": "https://doxa.app/grace/all",
-      "published": "2026-11-25",
+      "published": "2026-11-26",
       "summary": "🇺🇸United States· 2020s",
       "summary_zh": "🇺🇸美国·2020年代",
       "title_zh": "她的教会奉献金刚好等于她的电费，一分不差。",
@@ -191,7 +191,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-25T03:23:26.506064",
+      "fetched_at": "2026-11-26T02:39:27.121718",
       "extra": {
         "story_score": 9,
         "domain": "doxa.app"
@@ -204,7 +204,7 @@
       "category": "lay",
       "source": "SABDA · Kesaksian 见证",
       "source_url": "https://kesaksian.sabda.org/",
-      "published": "2026-11-25",
+      "published": "2026-11-26",
       "summary": "",
       "summary_zh": "我是来自古利内的西门。 我的名字表明我住在非洲大陆。",
       "title_zh": "我是古利奈人西门。",
@@ -223,12 +223,146 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-25T03:23:32.400493",
+      "fetched_at": "2026-11-26T02:39:31.082488",
       "extra": {
         "story_score": 4,
         "domain": "kesaksian.sabda.org"
       },
       "id": "bff2e768ba9fd07b"
+    },
+    {
+      "title": "Kasih Tuhan Tiada Taranya",
+      "url": "https://kesaksian.sabda.org/kasih_tuhan_tiada_taranya",
+      "category": "lay",
+      "source": "SABDA · Kesaksian 见证",
+      "source_url": "https://kesaksian.sabda.org/",
+      "published": "2026-11-26",
+      "summary": "",
+      "summary_zh": "p style=\"margin-bottom:1em; \">作者：Romauli br Marpaung Shalom，我叫 Romauli br Marpaung。",
+      "title_zh": "上帝的爱是无与伦比的",
+      "content": "p style=\"margin-bottom:1em;\">Oleh: Romauli br Marpaung Shalom, Nama saya Romauli br Marpaung. Saat ini, saya berusia 23 tahun. Saya berasal dari keluarga Kristen. Saya anak pertama dari lima bersaudara. Keluarga saya, dahulunya, bukan keluarga yang harmonis. Orang tua saya sering bertengkar. Namun, saat kelas IV SD, bapak saya bertobat sungguh-sungguh dan menyerahkan dirinya untuk diperlengkapi di Sekolah Alkitab Purbasari Pematang Siantar. Setelah selesai sekolah, beliau akhirnya diangkat menjadi seorang Pendeta, dan saya mulai pelayanan sejak kelas V SD di Gereja Kemuliaan Sion sebagai pemain musik tunggal. Pada 2013, saat saya lulus SMA, saya berharap bisa kuliah di Universitas Sumatera Utara (USU) Medan. Namun, saat mengikuti SBMPTN, saya gagal karena tidak lulus seleksi. Akhirnya, bapak saya mengusulkan supaya saya kuliah di Solo karena dia punya rekan pendeta yang anaknya kuliah di Solo juga. Saya mengikuti keinginan bapak saya karena beliau rindu saya bisa menjadi seorang hamba Tuhan. Akhirnya, saya kuliah di STT Berita Hidup, Solo, dan mengikuti semua kegiatan, aturan yang ada di kampus tersebut. Saya dibaptis saat duduk di bangku SMA kelas XI. Awalnya, saya kuliah di Berita Hidup karena orang tua dan pelarian, tetapi pada akhirnya saya bertobat dan percaya sungguh-sungguh kepada Tuhan Yesus saat kuliah semester 2. Pelayanan-pelayanan yang Tuhan percayakan kepada saya itu tidak mudah. Ada banyak masalah yang saya hadapi, baik itu dari asrama, tempat pelayanan, maupun kampus. Kalau bukan karena kekuatan Tuhan, mungkin saya tidak mampu. Namun, Tuhan Yesus baik, Dia memberi pertolongan saat saya benar-benar tidak mampu menjalaninya. Saya pelayanan di Gereja Bethel Tabernakel, Karanganyar. Saya mulai melayani di sana sejak Agustus 2014 sampai saat ini. Saya dipercaya untuk melayani di beberapa bagian, seperti melayani anak-anak sekolah minggu, pemuda/remaja, jemaat dewasa, maupun yang sudah lanjut usia. Selain itu, saya juga ambil bagian dalam musik, yaitu melatih anak-anak sekolah minggu belajar musik. Selain itu, saya juga diberi kesempatan oleh pendeta saya untuk membuka Bimbingan Belajar di Bibis Luhur Solo. Sewaktu kuliah, saya ditempatkan praktik tahunan di Gereja Kristus Rahmani Indonesia (GKRI), Jimbaran Bali. Tantangan yang saya hadapi adalah saya melayani orang-orang Kristen yang sudah berkeluarga, tetapi belum terikat dalam pernikahan. Saya juga membantu mengajar di PAUD Shinam, Jimbaran, milik gereja tersebut. Saya bersyukur untuk semua pelayanan yang telah dipercayakan gereja kepada saya. Saya bisa menjalani semua ini dengan pertolongan Tuhan. Yang saya rindukan dalam pelayanan adalah saya bisa memberikan yang terbaik untuk Tuhan dan gereja, menjadi berkat bagi banyak orang, dan tetap setia terhadap panggilan Tuhan. Saya juga rindu suatu saat saya bisa membuka pelayanan sendiri. Saya tahu itu tidak mudah, tetapi saya percaya kuasa pertolongan Tuhan nyata bagi saya. Kiranya kesaksian ini bisa menjadi berkat bagi semua orang, dan saya rindu kita tetap percaya bahwa segala sesuatu yang kita lakukan untuk Tuhan tidak akan kembali dengan sia-sia, melainkan Dia akan memberkati kita senantiasa (Kolose 3:23). Mulailah mengatakan bahwa pelayanan itu adalah sebuah kehormatan, bukan beban. Tuhan Yesus memberkati. \"Dan, Maria berkata, \"Sesungguhnya, aku ini hamba Tuhan. Terjadilah padaku seperti yang engkau katakan itu.\" Kemudian, malaikat itu pergi meninggalkannya.\"(Lukas 1:38, AYT)",
+      "content_zh": "p style=\"margin-bottom:1em;\">作者：Romauli br Marpaung Shalom，我叫 Romauli br Marpaung。我今年 23 岁。我来自一个基督徒家庭。我是五个兄弟姐妹中的老大。我的家庭以前并不和谐。我的父母经常吵架。\n\n然而，当我上小学四年级时，我父亲真心悔改，并前往位于Pematang Siantar的Purbasari圣经学校接受装备。毕业后，他最终被任命为牧师，而我从小学五年级开始就在锡安荣耀教会担任独奏乐手。\n\n2013 年，当我高中毕业时，我希望能在棉兰的北苏门答腊大学 (USU) 上大学。然而，在参加全国统一高考（SBMPTN）时，我因为没有通过选拔而落榜了。最后，我父亲建议我去梭罗上大学，因为他有一位牧师朋友，他的孩子也在梭罗上大学。我听从了父亲的意愿，因为他希望我能成为神的仆人。\n\n最后，我在梭罗的生命福音神学院（STT Berita Hidup）上学，并参加了该校的所有活动，遵守了该校的所有规定。我在读高一的时候受洗。起初，我因为父母和逃避现实的原因而就读于生命信息神学院，但最终我在第二学期时悔改并真心信靠主耶稣。\n\n神托付给我的服侍并不容易。我面临着很多问题，无论是来自宿舍、事工场所还是校园。如果不是因为上帝的力量，我可能无法做到。然而，主耶稣是良善的，当我已经实在无法承受时，祂会伸出援手。我在卡朗亚尔的伯特利会幕教会（Gereja Bethel Tabernakel）服侍。\n\n我从 2014 年 8 月开始在那里服侍，至今仍在继续。我受托在几个部门服侍，例如服侍主日学儿童、青年/青少年、成年会众以及老年人。此外，我还参与音乐方面的工作，即指导主日学儿童学习音乐。\n\n此外，我的牧师还给了我机会，在梭罗的Bibis Luhur开设学习辅导班。在大学期间，我被安排在巴厘岛金巴兰的印度尼西亚基督慈悲教会（GKRI）进行年度实习。我面临的挑战是我要服侍那些已经有家庭但尚未缔结婚姻的基督徒。\n\n我还协助在属于该教会的金巴兰 Shinam 幼儿教育中心（PAUD Shinam）进行教学。我感谢教会将所有这些事工托付给我。在神的帮助下，我能够做到这一切。我在侍奉中渴望的是，我能够为上帝和教会尽我所能，成为许多人的祝福，并始终忠于上帝的呼召。\n\n我也希望有一天我能自己开办一间教会。我知道这并不容易，但我相信上帝的帮助对我来说是真实的。愿这个见证能成为所有人的祝福，我希望我们能继续相信，我们为神所做的一切都不会徒劳无功，祂必会永远赐福于我们（歌罗西书 3:23）。\n\n开始说服自己，服侍是一种荣誉，而不是一种负担。愿主耶稣赐福。 “马利亚说：‘我是主的使女。愿照你的话成就在我身上。” 天使就离开她去了。”（路加福音 1:38，AYT）",
+      "image": "https://kesaksian.sabda.org/sites/default/files/kesaksian_icon_1.png",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "平凡人的见证",
+        "家庭"
+      ],
+      "language": "id",
+      "country": "ID",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-26T02:39:31.082564",
+      "extra": {
+        "story_score": 5,
+        "domain": "kesaksian.sabda.org"
+      },
+      "id": "d64a56dfe4c4beae"
+    },
+    {
+      "title": "« Vive le Christ-Roi ! » : les adieux de Miss Univers",
+      "url": "https://fr.aleteia.org/2026/11/25/fatima-bosch-clot-son-regne-de-miss-univers-en-brandissant-litteralement-sa-foi/",
+      "category": "lay",
+      "source": "Aleteia · témoignages（法）",
+      "source_url": "https://fr.aleteia.org/feed/",
+      "published": "2026-11-26",
+      "summary": "Au moment de tirer sa révérence, elle n’a pas oublié l’essentiel. Lors de son dernier passage sur scène, lundi 24 novembre, à San Juan, capitale de Porto Rico, Fátima Bosch a offert une dernière image marquante. Couronnée Miss Univers 2025, la Mexicaine a porté haut une écharpe blanche sur laquelle était inscrit « Viva Cristo Rey » (Vive le Christ-Roi), au terme de son année de règne. Une manière de prolonger un témoignage de foi qu’elle n’a jamais cherché à dissimuler. Ce dernier défilé s’est d",
+      "summary_zh": "在告别之际，她没有忘记最重要的东西。11 月 24 日星期一，在波多黎各首都圣胡安的最后一次登台亮相中，法蒂玛·博施（Fátima Bosch）留下了令人难忘的最后一幕。这位墨西哥佳丽在2025年环球小姐加冕典礼上高举一条白色绶带，上面写着“Viva Cristo Rey”（基督为王万岁），结束了她为期一年的任期。这是她延续自己从未中断的信仰见证的一种方式。",
+      "title_zh": "“基督为王万岁！”：环球小姐的告别",
+      "content": "Au moment de tirer sa révérence, elle n’a pas oublié l’essentiel. Lors de son dernier passage sur scène, lundi 24 novembre, à San Juan, capitale de Porto Rico, Fátima Bosch a offert une dernière image marquante. Couronnée Miss Univers 2025, la Mexicaine a porté haut une écharpe blanche sur laquelle était inscrit « Viva Cristo Rey » (Vive le Christ-Roi), au terme de son année de règne. Une manière de prolonger un témoignage de foi qu’elle n’a jamais cherché à dissimuler. Ce dernier défilé s’est déroulé lors de la 75e édition du concours Miss Univers. Vêtue d’une robe bleu ciel scintillante, coiffée de sa couronne et visiblement émue, la jeune femme a tenu la bande au-dessus d’elle, laissant apparaître ces trois mots qui l’accompagnent depuis son sacre. Une façon de refermer cette parenthèse internationale en rendant hommage à Celui qui, selon elle, a guidé son parcours. Au moment de faire ses adieux, Fátima Bosch a également livré quelques mots sur le sens Tout lire… The post « Vive le Christ-Roi ! » : les adieux de Miss Univers appeared first on Aleteia .",
+      "content_zh": "在告别之际，她没有忘记最重要的东西。11 月 24 日星期一，在波多黎各首都圣胡安的最后一次登台亮相中，法蒂玛·博什（Fátima Bosch）留下了令人难忘的最后一幕。这位墨西哥佳丽在2025年环球小姐加冕典礼上高举一条白色绶带，上面写着“Viva Cristo Rey”（基督为王万岁），结束了她为期一年的任期。\n\n这是她延续自己信仰见证的一种方式，她从未试图掩饰这种见证。这场最后的走秀是在第 75 届环球小姐大赛上进行的。这位年轻的女士身着闪耀的天蓝色礼服，头戴皇冠，神情激动，她将绶带举过头顶，露出了自她加冕以来一直伴随她的这三个字。\n\n这是结束这段国际插曲的一种方式，她借此向她认为指引自己人生道路的那位致敬。在告别之际，法蒂玛·博施还就其意义发表了一些看法。阅读全文……文章《基督为王万岁！：环球小姐的告别》最初发表于Aleteia网站。",
+      "image": "https://aleteia.org/api/og-image/?locale=fr&slug=2026%2F11%2F25%2Ffatima-bosch-clot-son-regne-de-miss-univers-en-brandissant-litteralement-sa-foi",
+      "author": "Laura Marchais",
+      "tags": [
+        "拉美",
+        "平凡人的见证",
+        "见证",
+        "Actualités",
+        "Monde",
+        "Société"
+      ],
+      "language": "fr",
+      "country": "FR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:40:03.682096",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 14,
+        "domain": "fr.aleteia.org"
+      },
+      "id": "c75cdbd8d2d7bafa"
+    },
+    {
+      "title": "군포제일교회, 추수감사예배 및 제25회 시와 찬미의 밤",
+      "url": "https://www.christiantoday.co.kr/news/378882",
+      "category": "lay",
+      "source": "크리스천투데이 · 간증（韩）",
+      "source_url": "https://www.christiantoday.co.kr/rss",
+      "published": "2026-11-26",
+      "summary": "“성령 충만으로 다시 감사하자, 다시 사랑, 더욱 기도, 더욱 부흥” 군포제일교회(담임 권태진 목사)는 지난 11월 15일 추수감사주일을 맞아 감사예배를 드리고, 저녁에는 ‘제25회 시와 찬미의 밤’을 열었다. 어린이부터 장년에 이르기까지 온 세대가 함께한 이날 행사에서 성도들은 한 해 동안 베푸신 하나님의 은혜를 시와 찬양으로 고백했다. 학습·세례식이 거행된 이날 낮예배에서 권태진 담임목사는 ‘범사에 감사하라(살전 5:15-24)’는 제목으로 말씀을 전했다. 그는 하나님께서 이스라엘 백성을 광야에서 가나안으로 인도하시고 이른 비와 늦은 비를 내려 풍성한 수확을 거두게 하신 일을 대대로 기념하며 감사했던 것처럼, 추수감사절을 맞아 오늘에 이르기까지 베푸신 은혜를 돌아보며 모든 영광을 하나님께 돌렸다. 권태진 목사는 왕의 금령이 내려진 뒤에도 전에 하던 대로 하루 세 번 무릎을 꿇고 하나님께 감사한 다니엘의 믿음을 소개하며 “고난이 영광으로 가는 것을 믿을 때 감사할 수 있다”고 전했",
+      "summary_zh": "“让我们再次充满圣灵地感恩，再次充满圣灵地去爱，更多地祷告，更多地复兴。”11月15日感恩节当天，军浦第一教会（主任牧师权泰振）举行了感恩礼拜，并在晚间举办了“第25届诗歌与赞美之夜”活动。在这一天举行的活动中，从儿童到中老年，所有年龄段的会众齐聚一堂，通过诗歌和赞美来感恩上帝在过去一年里所赐予的恩典。在当天举行了受教礼和洗礼的午间礼拜中，权泰振主任牧师以“凡事感恩（帖前5:15-24）”为题证道。正如以色列人世代纪念并感谢神带领他们从旷野进入迦南，降下早雨和晚雨，使他们获得丰收一样，在感恩节之际，权牧师回顾了神迄今所赐的恩典，将一切荣耀归于神。权泰振牧师提到，即使在国王下达禁令之后，但以理仍像以前一样，每天三次跪下向神感恩。",
+      "title_zh": "君浦第一教会，感恩节礼拜暨第25届诗歌与赞美之夜",
+      "content": "“성령 충만으로 다시 감사하자, 다시 사랑, 더욱 기도, 더욱 부흥”\n\n군포제일교회(담임 권태진 목사)는 지난 11월 15일 추수감사주일을 맞아 감사예배를 드리고, 저녁에는 ‘제25회 시와 찬미의 밤’을 열었다.\n\n어린이부터 장년에 이르기까지 온 세대가 함께한 이날 행사에서 성도들은 한 해 동안 베푸신 하나님의 은혜를 시와 찬양으로 고백했다.\n\n학습·세례식이 거행된 이날 낮예배에서 권태진 담임목사는 ‘범사에 감사하라(살전 5:15-24)’는 제목으로 말씀을 전했다. 그는 하나님께서 이스라엘 백성을 광야에서 가나안으로 인도하시고 이른 비와 늦은 비를 내려 풍성한 수확을 거두게 하신 일을 대대로 기념하며 감사했던 것처럼, 추수감사절을 맞아 오늘에 이르기까지 베푸신 은혜를 돌아보며 모든 영광을 하나님께 돌렸다.\n\n권태진 목사는 왕의 금령이 내려진 뒤에도 전에 하던 대로 하루 세 번 무릎을 꿇고 하나님께 감사한 다니엘의 믿음을 소개하며 “고난이 영광으로 가는 것을 믿을 때 감사할 수 있다”고 전했다. 마지막으로 성도들이 어떤 형편에서도 선을 따르고 민족 복음화와 교회 부흥을 위해 쉬지 말고 기도하기를 당부했다.\n\n저녁에는 데살로니가전서 5장 18-28절을 본문으로 예배를 드린 후 ‘제25회 시와 찬미의 밤’을 진행했다. 어린이찬양단 홀리엔젤스가 밝고 힘찬 찬양과 율동으로 첫 무대를 열었고, 엘리사 교구는 ‘다시 감사하자’, 사랑·엘리야 교구는 ‘다시 사랑하자’라는 주제로 무대를 꾸몄다. 학생부 워십 특별 순서에 이어 믿음·여호수아 교구는 ‘더욱 기도하자’, 다윗·요셉 교구는 ‘더욱 부흥하자’라는 주제로 찬양했다.\n\n교구별로 색을 맞춘 의상과 소품을 갖춘 성도들은 교회 안에서 담임목사 부부에게 받은 사랑과 은혜를, 기도 가운데 받은 응답과 저마다의 신앙 체험을 짧은 스킷드라마와 찬양으로 풀어냈다.\n\n교구별 중창단은 권 목사가 작사한 찬양으로 하나님께 영광을 돌렸다. 시 낭송 시간에는 권 목사 시집 『사랑의 불씨를 살리라』 개정판에 실린 시를 낭송하며 부부가 교회 안에서 믿음의 가정을 이루고 자녀들과 함께 신앙생활을 이어온 데 대한 감사를 표현했다.\n\n특히 교회 창립 48주년을 기념해 열린 ‘제1회 송암 백일장’ 참가자들의 자작시 낭송은 성도들에게 깊은 감동을 선사했다. 시인인 권태진 목사 작품에서 영감을 얻은 참가자들은 교회와 담임목사를 향한 감사와 사랑을 저마다의 언어로 표현했다.\n\n장로와 권사들의 시는 군포제일교회의 역사와 전통을 잇는 진솔한 신앙고백이었다. 천막교회 시절부터 오늘의 부흥에 이르기까지 교회를 붙들어 주신 하나님을 향한 감사에 성도들은 눈시울을 붉혔다.\n\n학생부는 경쾌한 워십으로 특별 무대를 꾸몄고 이어 학생과 청년으로 구성된 다윗·요셉 연합 교구는 가수 존박의 ‘맥도날드 랩’을 패러디한 전도 랩을 선보였다. 힘찬 리듬에 복음을 전하고 다음 세대 부흥을 이루겠다는 다짐을 담은 무대에서는 패기와 열정이 전해졌다.\n\n성도들은 앞선 세대가 시로 고백한 믿음의 발자취와 다음 세대가 찬양으로 고백한 부흥의 소망을 함께 나누며 추수감사의 기쁨을 더했다.\n\n군포제일교회 ‘시와 찬미의 밤’은 1995년 추수감사절 첫 개최된 이후 25년 동안 이어져 온 전통으로, 교회학교·중고등부·청년부 등 다음 세대가 함께 참여해 기독교 문화 확산과 영성 함양의 장으로 자리잡고 있다.",
+      "content_zh": "“让我们被圣灵充满，再次感恩，再次相爱，更多祷告，更多复兴。”\n\n军浦第一教会（权泰镇牧师）于11月15日周日举行了感恩节感恩礼拜，并于当晚举办了“第25届诗歌赞美之夜”。在这个从儿童到成人各代人都参加的活动中，信徒们通过诗歌忏悔并赞美上帝全年所赐予的恩典。在举行学习和洗礼仪式的日间崇拜中，主任牧师权泰镇发表了题为“凡事谢恩”的讲道（帖撒罗尼迦前书5:15-24）。正当他世世代代纪念和感谢神带领以色列人从旷野来到迦南地，赐下早雨和晚雨，使他们获得丰收时，他回顾了自己所赐予的恩典。感恩节，将一切荣耀归给神。\n\n权泰镇牧师介绍了但以理的信仰，即使在国王颁布禁令后，他仍然每天跪下三次感谢神，并说：“当你相信苦难会带来荣耀时，你就可以感恩。”最后，他勉励信徒无论在什么情况下都要行善，为全国福传和教会复兴不断祈祷。晚上，在根据帖撒罗尼迦前书 5:18-28 举行的敬拜仪式之后，举行了“第 25 届诗篇与赞美之夜”。儿童合唱团圣天使以明亮而有力的赞美和舞蹈拉开了第一舞台的序幕，以利沙教区以“让我们再次感恩”为主题装饰了舞台，爱与以利亚教区以“让我们再次相爱”为主题装饰了舞台。继学生部特别敬拜活动之后，信仰和约书亚教区以“让我们多祈祷”为主题进行了赞美，大卫和约瑟夫教区以“让我们再次祈祷”为主题进行了赞美。主题“让我们有更多的复兴。”\n\n信徒们身着各教区特制的服装和道具，通过短剧和赞美，表达了在教堂里从主任牧师夫妇那里得到的爱与恩典，在祈祷中得到的回应，以及自己的宗教经历。每个教区唱诗班都用权牧师写的赞美诗将荣耀归给上帝。诗歌朗诵中，夫妇俩背诵了权牧师诗集修订版《让爱的火花永存》中的一首诗，对夫妇俩在教会组建信仰家庭、与孩子继续宗教生活表示感谢。尤其是纪念教会成立48周年举办的“第一届松岩大赛”，参赛者们朗诵自写诗歌，令会众深受感动。受到诗人权泰真牧师的作品启发的与会者用自己的语言表达了对教会和主任牧师的感激和热爱。\n\n长老和执事的诗歌是诚实的信仰告白，延续了军浦第一教会的历史和传统。会众眼里充满了泪水，他们感谢上帝支持教会从帐篷教会的日子到今天的复兴。学生部特设舞台，敬拜热闹，随后由学生和青少年组成的大卫约瑟夫联合堂区表演了模仿歌手约翰·帕克《麦当劳说唱》的传福音说唱，舞台上以强有力的节奏传递着激情与热情，并承诺为下一代传播福音、实现复兴。信徒们分享着上一代人在诗歌中所诉说的信仰脚步，以及下一代人在赞美中所诉说的复兴希望，为感恩节增添了欢乐。\n\n军浦第一教会的“诗歌赞美之夜”自1995年感恩节首次举办以来，已持续25年，已成为教会学校、初高中、青少年团体等下一代共同参与的传播基督教文化、培育灵性的场所。",
+      "image": "https://images.christiantoday.co.kr/data/images/full/392924/image.jpg",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "平凡人的见证",
+        "祷告",
+        "复兴"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:39:45.802327",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 19,
+        "domain": "christiantoday.co.kr"
+      },
+      "id": "1a07dade022008ab"
+    },
+    {
+      "title": "김재탁 목사 “동성애 논쟁, 본질은 성경관”",
+      "url": "https://www.christiantoday.co.kr/news/378876",
+      "category": "lay",
+      "source": "크리스천투데이 · 간증（韩）",
+      "source_url": "https://www.christiantoday.co.kr/rss",
+      "published": "2026-11-26",
+      "summary": "말씀 기준으로 영적 분별 깨워야 성경 무오성과 계시록 영적 전쟁 美 연합감리회 분열 교훈도 전해 진리 전쟁 그리고 동성애 김재탁 | 생각나눔 | 224쪽 | 13,000원 복음 진리가 흔들리고 시대의 기준이 흐려지는 오늘날, ‘동성애’ 문제와 그 이면에 자리한 영적 흐름을 성경적으로 짚어내며 성경 무오성과 영적 분별력을 다시금 일깨우는 책이 출간됐다. 감리회동성애대책통합위원회와 건강한사회를위한목회자모임에서 차별금지법 제정 반대와 성경 수호를 위해 힘써 온 김재탁 목사(인천 시냇가의교회)는 최근 신간 『진리 전쟁 그리고 동성애(생각나눔, 224쪽, 1만 3,000원)』를 펴냈다. 저자는 ‘진리란 무엇인가’라는 근본 질문에서 출발해 복음을 수호하려는 세력과 훼손하려는 세력 간의 영적 전쟁을 조명하고, 동성애 문제에 대한 성경적 분별과 교회의 실천적 역할을 제시했다. 저자인 김재탁 목사는 “동성애 문제의 핵심은 단순한 사회적 찬반 논쟁이나 윤리적 갈등을 넘어, ‘성경을 하나님 말씀으로 믿",
+      "summary_zh": "",
+      "title_zh": "金在卓牧师：“同性恋争论的本质在于对圣经的看法”",
+      "content": "말씀 기준으로 영적 분별 깨워야 성경 무오성과 계시록 영적 전쟁 美 연합감리회 분열 교훈도 전해\n\n진리 전쟁 그리고 동성애 김재탁 | 생각나눔 | 224쪽 | 13,000원\n\n복음 진리가 흔들리고 시대의 기준이 흐려지는 오늘날, ‘동성애’ 문제와 그 이면에 자리한 영적 흐름을 성경적으로 짚어내며 성경 무오성과 영적 분별력을 다시금 일깨우는 책이 출간됐다.\n\n감리회동성애대책통합위원회와 건강한사회를위한목회자모임에서 차별금지법 제정 반대와 성경 수호를 위해 힘써 온 김재탁 목사(인천 시냇가의교회)는 최근 신간 『진리 전쟁 그리고 동성애(생각나눔, 224쪽, 1만 3,000원)』를 펴냈다.\n\n저자는 ‘진리란 무엇인가’라는 근본 질문에서 출발해 복음을 수호하려는 세력과 훼손하려는 세력 간의 영적 전쟁을 조명하고, 동성애 문제에 대한 성경적 분별과 교회의 실천적 역할을 제시했다.\n\n저자인 김재탁 목사는 “동성애 문제의 핵심은 단순한 사회적 찬반 논쟁이나 윤리적 갈등을 넘어, ‘성경을 하나님 말씀으로 믿는가’라는 성경관의 문제에 있다”고 진단했다. ‘성경을 향하여 하나님 말씀이 아니라고 하는 이들은 누구인가’라는 부제 역시 이러한 문제의식을 드러낸다.\n\n책은 △1부 ‘진리’: 성경의 무오성, 구원자·하나님이신 예수님, 이사야가 예언한 예수님 △2부 ‘진리 전쟁’: 계시하시는 하나님, 하늘에 거하는 자들, 악의 삼합일체, 땅에 거하는 자들 △3부 ‘진리 전쟁 결과’: 요한계시록 개요, 악의 삼합일체 심판, 참 교회와 천국의 영광 △4부 ‘동성애 문제와 교회의 역할’: 동성애 문제와 은혜, 동성애자 구원 문제와 교회, 교회의 역할, 미국 연합감리회(UMC) 분열과 교훈 등 총 4부로 구성됐다.\n\n김 목사는 요한계시록 13장 11절의 ‘땅에서 올라오는 짐승’인 거짓 선지자를 조명하며 “거짓 선지자는 교회 외부 타종교인이나 무속인이 아니라, 교회 내부에서 참 선지자로 가장해 복음의 바른 진리를 말살시키고 부패시키는 이들”이라고 경계했다. 아울러 동성애 이슈로 분열을 겪은 UMC 사례를 통해, 한국교회가 걸어가야 할 성경적 대처와 영혼 구원의 방향성을 제시했다.\n\n김재탁 목사는 “UMC는 동성애 문제로 분열됐고, 근래 한국 감리교회는 이단 사상 문제로 출교된 변선환을 기념하겠다는 움직임 등으로 교계가 어수선하다”며 “지금 우리는 다시 ‘한 책의 사람’, ‘성경의 사람’이었던 존 웨슬리의 심령으로 돌아가야 한다”고 역설했다. 이어 “이 책을 통해 성도들이 성경을 더욱 사랑하고, 영적 전쟁의 실체를 파악하며 믿음의 길을 정로(正路)로 걸어갈 수 있기를 소망한다”고 전했다.\n\n교계와 학계, 법조계, 문화계 인사들의 추천사도 이어졌다. 길원평 교수는 “영원한 기준이 되는 성경에 근거해 동성애의 문제점을 지적했기에, 성경적 기초가 필요한 기독교인들에게 좋은 가이드라인이 될 것”이라고 평했다. 김찬호 감독과 장학봉 감독은 “눈에 보이지 않는 영적 전쟁의 실재와 성경을 왜곡하는 시대의 위험성을 명확히 일깨워주는 책”이라고 추천했다.\n\n조영길 변호사 역시 “차별금지법 반대 운동을 넘어, 시종일관 성경의 신적 권위 앞에 순종하는 믿음의 중요성을 성령의 통찰로 저술한 점에 깊이 감동했다”고 밝혔다. 임성모 교수와 유은성 전도사·김정화 배우도 “기독교인은 물론 비기독교인에게도 명확한 성경적 가치관을 세워주는 책”이라고 권했다.",
+      "content_zh": "",
+      "image": "https://images.christiantoday.co.kr/data/images/full/392909/image.jpg",
+      "author": "",
+      "tags": [
+        "亚洲",
+        "平凡人的见证"
+      ],
+      "language": "ko",
+      "country": "KR",
+      "region": "亚洲",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:40:08.711052",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "christiantoday.co.kr"
+      },
+      "id": "b89b035ceb91a496"
     },
     {
       "title": "La foi, cette bataille",
@@ -299,38 +433,6 @@
         "domain": "fr.aleteia.org"
       },
       "id": "9735ce59982c8555"
-    },
-    {
-      "title": "Kasih Tuhan Tiada Taranya",
-      "url": "https://kesaksian.sabda.org/kasih_tuhan_tiada_taranya",
-      "category": "lay",
-      "source": "SABDA · Kesaksian 见证",
-      "source_url": "https://kesaksian.sabda.org/",
-      "published": "2026-11-24",
-      "summary": "",
-      "summary_zh": "p style=\"margin-bottom:1em; \">作者：Romauli br Marpaung Shalom，我叫 Romauli br Marpaung。",
-      "title_zh": "上帝的爱是无与伦比的",
-      "content": "p style=\"margin-bottom:1em;\">Oleh: Romauli br Marpaung Shalom, Nama saya Romauli br Marpaung. Saat ini, saya berusia 23 tahun. Saya berasal dari keluarga Kristen. Saya anak pertama dari lima bersaudara. Keluarga saya, dahulunya, bukan keluarga yang harmonis. Orang tua saya sering bertengkar. Namun, saat kelas IV SD, bapak saya bertobat sungguh-sungguh dan menyerahkan dirinya untuk diperlengkapi di Sekolah Alkitab Purbasari Pematang Siantar. Setelah selesai sekolah, beliau akhirnya diangkat menjadi seorang Pendeta, dan saya mulai pelayanan sejak kelas V SD di Gereja Kemuliaan Sion sebagai pemain musik tunggal. Pada 2013, saat saya lulus SMA, saya berharap bisa kuliah di Universitas Sumatera Utara (USU) Medan. Namun, saat mengikuti SBMPTN, saya gagal karena tidak lulus seleksi. Akhirnya, bapak saya mengusulkan supaya saya kuliah di Solo karena dia punya rekan pendeta yang anaknya kuliah di Solo juga. Saya mengikuti keinginan bapak saya karena beliau rindu saya bisa menjadi seorang hamba Tuhan. Akhirnya, saya kuliah di STT Berita Hidup, Solo, dan mengikuti semua kegiatan, aturan yang ada di kampus tersebut. Saya dibaptis saat duduk di bangku SMA kelas XI. Awalnya, saya kuliah di Berita Hidup karena orang tua dan pelarian, tetapi pada akhirnya saya bertobat dan percaya sungguh-sungguh kepada Tuhan Yesus saat kuliah semester 2. Pelayanan-pelayanan yang Tuhan percayakan kepada saya itu tidak mudah. Ada banyak masalah yang saya hadapi, baik itu dari asrama, tempat pelayanan, maupun kampus. Kalau bukan karena kekuatan Tuhan, mungkin saya tidak mampu. Namun, Tuhan Yesus baik, Dia memberi pertolongan saat saya benar-benar tidak mampu menjalaninya. Saya pelayanan di Gereja Bethel Tabernakel, Karanganyar. Saya mulai melayani di sana sejak Agustus 2014 sampai saat ini. Saya dipercaya untuk melayani di beberapa bagian, seperti melayani anak-anak sekolah minggu, pemuda/remaja, jemaat dewasa, maupun yang sudah lanjut usia. Selain itu, saya juga ambil bagian dalam musik, yaitu melatih anak-anak sekolah minggu belajar musik. Selain itu, saya juga diberi kesempatan oleh pendeta saya untuk membuka Bimbingan Belajar di Bibis Luhur Solo. Sewaktu kuliah, saya ditempatkan praktik tahunan di Gereja Kristus Rahmani Indonesia (GKRI), Jimbaran Bali. Tantangan yang saya hadapi adalah saya melayani orang-orang Kristen yang sudah berkeluarga, tetapi belum terikat dalam pernikahan. Saya juga membantu mengajar di PAUD Shinam, Jimbaran, milik gereja tersebut. Saya bersyukur untuk semua pelayanan yang telah dipercayakan gereja kepada saya. Saya bisa menjalani semua ini dengan pertolongan Tuhan. Yang saya rindukan dalam pelayanan adalah saya bisa memberikan yang terbaik untuk Tuhan dan gereja, menjadi berkat bagi banyak orang, dan tetap setia terhadap panggilan Tuhan. Saya juga rindu suatu saat saya bisa membuka pelayanan sendiri. Saya tahu itu tidak mudah, tetapi saya percaya kuasa pertolongan Tuhan nyata bagi saya. Kiranya kesaksian ini bisa menjadi berkat bagi semua orang, dan saya rindu kita tetap percaya bahwa segala sesuatu yang kita lakukan untuk Tuhan tidak akan kembali dengan sia-sia, melainkan Dia akan memberkati kita senantiasa (Kolose 3:23). Mulailah mengatakan bahwa pelayanan itu adalah sebuah kehormatan, bukan beban. Tuhan Yesus memberkati. \"Dan, Maria berkata, \"Sesungguhnya, aku ini hamba Tuhan. Terjadilah padaku seperti yang engkau katakan itu.\" Kemudian, malaikat itu pergi meninggalkannya.\"(Lukas 1:38, AYT)",
-      "content_zh": "p style=\"margin-bottom:1em;\">作者：Romauli br Marpaung Shalom，我叫 Romauli br Marpaung。我今年 23 岁。我来自一个基督徒家庭。我是五个兄弟姐妹中的老大。我的家庭以前并不和谐。我的父母经常吵架。\n\n然而，当我上小学四年级时，我父亲真心悔改，并前往位于Pematang Siantar的Purbasari圣经学校接受装备。毕业后，他最终被任命为牧师，而我从小学五年级开始就在锡安荣耀教会担任独奏乐手。\n\n2013 年，当我高中毕业时，我希望能在棉兰的北苏门答腊大学 (USU) 上大学。然而，在参加全国统一高考（SBMPTN）时，我因为没有通过选拔而落榜了。最后，我父亲建议我去梭罗上大学，因为他有一位牧师朋友，他的孩子也在梭罗上大学。我听从了父亲的意愿，因为他希望我能成为神的仆人。\n\n最后，我在梭罗的生命福音神学院（STT Berita Hidup）上学，并参加了该校的所有活动，遵守了该校的所有规定。我在读高一的时候受洗。起初，我因为父母和逃避现实的原因而就读于生命信息神学院，但最终我在第二学期时悔改并真心信靠主耶稣。\n\n神托付给我的服侍并不容易。我面临着很多问题，无论是来自宿舍、事工场所还是校园。如果不是因为上帝的力量，我可能无法做到。然而，主耶稣是良善的，当我已经实在无法承受时，祂会伸出援手。我在卡朗亚尔的伯特利会幕教会（Gereja Bethel Tabernakel）服侍。\n\n我从 2014 年 8 月开始在那里服侍，至今仍在继续。我受托在几个部门服侍，例如服侍主日学儿童、青年/青少年、成年会众以及老年人。此外，我还参与音乐方面的工作，即指导主日学儿童学习音乐。\n\n此外，我的牧师还给了我机会，在梭罗的Bibis Luhur开设学习辅导班。在大学期间，我被安排在巴厘岛金巴兰的印度尼西亚基督慈悲教会（GKRI）进行年度实习。我面临的挑战是我要服侍那些已经有家庭但尚未缔结婚姻的基督徒。\n\n我还协助在属于该教会的金巴兰 Shinam 幼儿教育中心（PAUD Shinam）进行教学。我感谢教会将所有这些事工托付给我。在神的帮助下，我能够做到这一切。我在侍奉中渴望的是，我能够为上帝和教会尽我所能，成为许多人的祝福，并始终忠于上帝的呼召。\n\n我也希望有一天我能自己开办一间教会。我知道这并不容易，但我相信上帝的帮助对我来说是真实的。愿这个见证能成为所有人的祝福，我希望我们能继续相信，我们为神所做的一切都不会徒劳无功，祂必会永远赐福于我们（歌罗西书 3:23）。\n\n开始说服自己，服侍是一种荣誉，而不是一种负担。愿主耶稣赐福。 “马利亚说：‘我是主的使女。愿照你的话成就在我身上。” 天使就离开她去了。”（路加福音 1:38，AYT）",
-      "image": "https://kesaksian.sabda.org/sites/default/files/kesaksian_icon_1.png",
-      "author": "",
-      "tags": [
-        "亚洲",
-        "平凡人的见证",
-        "家庭"
-      ],
-      "language": "id",
-      "country": "ID",
-      "region": "亚洲",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 3,
-      "fetched_at": "2026-11-24T04:36:58.527278",
-      "extra": {
-        "story_score": 5,
-        "domain": "kesaksian.sabda.org"
-      },
-      "id": "d64a56dfe4c4beae"
     },
     {
       "title": "[2026 다니엘기도회: 20일] 야쿠자에서 목회자로",
@@ -610,8 +712,8 @@
       "title": "Ex-LGBT Christians warn EU ban could criminalize pastoral counseling, personal testimony",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzV6NEd0cC1MbE9uWVA5MWhlNmxEQmJsa0hCazBwRzhfeWx2Z2V1eUdFTUVoS0x4UmxvR0tDVlJjdVlrTWtLbjJ4Mzhka0NURElWeEM3UXQxUlFzT2pwbTlERVBBQ09qRXdSbWRxck9zOGpqcUFvanB0UWdvMlppcUhRNEF4WVJtNFNCX2RNS2tlTkZ2UXpMS2x6YWtQSXZpaFE?oc=5",
       "category": "lay",
-      "source": "北美信主见证",
-      "source_url": "https://news.google.com/rss/search",
+      "source": "GDELT · 全球信主见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
       "published": "2026-11-21",
       "summary": "Ex-LGBT Christians warn EU ban could criminalize pastoral counseling, personal testimony Christian Post",
       "summary_zh": "曾为LGBT的基督徒警告称，欧盟的禁令可能将牧师辅导和个人见证定为犯罪行为《基督教邮报》",
@@ -621,20 +723,20 @@
       "image": "",
       "author": "Christian Post",
       "tags": [
-        "北美",
+        "全球",
         "平凡人的见证",
         "见证"
       ],
       "language": "en",
       "country": "US",
-      "region": "北美",
+      "region": "全球",
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:25.371564",
+      "fetched_at": "2026-11-26T02:40:24.365222",
       "extra": {
         "provider": "google_news",
-        "query": "Christian conversion testimony story",
+        "query": "Christian testimony conversion story",
         "publisher": "Christian Post",
         "google_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzV6NEd0cC1MbE9uWVA5MWhlNmxEQmJsa0hCazBwRzhfeWx2Z2V1eUdFTUVoS0x4UmxvR0tDVlJjdVlrTWtLbjJ4Mzhka0NURElWeEM3UXQxUlFzT2pwbTlERVBBQ09qRXdSbWRxck9zOGpqcUFvanB0UWdvMlppcUhRNEF4WVJtNFNCX2RNS2tlTkZ2UXpMS2x6YWtQSXZpaFE?oc=5",
         "resolved": false,
@@ -1788,7 +1890,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:37:50.952146",
+      "fetched_at": "2026-11-26T02:40:24.365599",
       "extra": {
         "provider": "google_news",
         "query": "Christian testimony conversion story",
@@ -1971,7 +2073,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:24.119626",
+      "fetched_at": "2026-11-26T02:39:24.781125",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -2008,7 +2110,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:25.065788",
+      "fetched_at": "2026-11-26T02:39:25.687922",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -2118,7 +2220,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-24T04:36:52.566571",
+      "fetched_at": "2026-11-26T02:39:24.962051",
       "extra": {
         "provider": "google_news",
         "query": "India Christian conversion testimony story",
@@ -2155,7 +2257,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:24.684643",
+      "fetched_at": "2026-11-26T02:39:25.386783",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2205,6 +2307,43 @@
       "id": "18e21850f2bb02c1"
     },
     {
+      "title": "Testemunhos de fé e superação marcam o amanhecer do dia 12 de outubro",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHIzUkxQaGpjMmt3T0VkMVJSeDdWd29FWFpIMDZmckV5cTM3ZGVSX240ektsREFSaDA2MU56Q01CNmtxLU50Q3RUclhNTDk3SUQ1ZjAzS3c0bnNZM1ZuV09hLWpEUlZMSFJSTUNkeDZORHg1ZnphbzZpX3c3MUZESnNjUDZZaV81YzIwM3B4azczMGpRb2dJQ19kcDdLZ3BfLWZkSERFZXNJeTlOQy02akY3OA?oc=5",
+      "category": "lay",
+      "source": "巴西信仰见证",
+      "source_url": "https://news.google.com/rss/search",
+      "published": "2024-10-12",
+      "summary": "Testemunhos de fé e superação marcam o amanhecer do dia 12 de outubro Portal A12",
+      "summary_zh": "信仰与超越的见证标志着 10 月 12 日的黎明 Portal A12",
+      "title_zh": "信仰与超越的见证标志着10月12日的黎明",
+      "content": "",
+      "content_zh": "",
+      "image": "",
+      "author": "Portal A12",
+      "tags": [
+        "拉美",
+        "平凡人的见证",
+        "见证"
+      ],
+      "language": "pt",
+      "country": "BR",
+      "region": "拉美",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-26T02:39:25.386949",
+      "extra": {
+        "provider": "google_news",
+        "query": "testemunho missionário Brasil história de fé",
+        "publisher": "Portal A12",
+        "google_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHIzUkxQaGpjMmt3T0VkMVJSeDdWd29FWFpIMDZmckV5cTM3ZGVSX240ektsREFSaDA2MU56Q01CNmtxLU50Q3RUclhNTDk3SUQ1ZjAzS3c0bnNZM1ZuV09hLWpEUlZMSFJSTUNkeDZORHg1ZnphbzZpX3c3MUZESnNjUDZZaV81YzIwM3B4azczMGpRb2dJQ19kcDdLZ3BfLWZkSERFZXNJeTlOQy02akY3OA?oc=5",
+        "resolved": false,
+        "story_score": 15,
+        "domain": "news.google.com"
+      },
+      "id": "e6552bdc35915db5"
+    },
+    {
       "title": "Novo filme cristão narra testemunho de superação e fé de pastora no Brasil",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQjZxcFFISXdVa283ODhTXzJsTENIWFlOT0Nxekg4NWZtcURjRFJwSDM1TW44REptRy1jUlRWVDVtQXZyQzIzdFhsUmdpblNIbTJ2MWNHVFVER1duMnNtSWV5RHoyb09ZQWs3RVZGSGtwdHdtNElybWlVSVhjU3pPVC1TUWl0SmpoYTZkU182aENOMG95QVl4VVEyaUZqendDRjZsc1JvSHVjWmVyWnV5aU85SGx0T3Jh0gG-AUFVX3lxTE1CNVNHc0J0dy1VQk5MUG1MTXo5bk93ZFVzV0RidUJ3TWtEM01hT1FvQ01FSFpyaUpPci1KbTA0Uzd6ckc3YXJsdzlPYzVJNVVLZzBoNmhXcERfLW0xbm1fUGk4V1paODRXTnFoY2tyeW5wOEw0LWxCcnNZOXlXWGRkTzMzR1JTZzUzOThNSnBGeHVHdzNCcmlyUVIycFljcXhGLTBQQmUyYlEzLWZaZVhqSGNMTEVlbWNEWFYwSGc?oc=5",
       "category": "lay",
@@ -2229,7 +2368,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:24.684970",
+      "fetched_at": "2026-11-26T02:39:25.387113",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2266,7 +2405,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:25.372430",
+      "fetched_at": "2026-11-26T02:39:25.770224",
       "extra": {
         "provider": "google_news",
         "query": "Christian conversion testimony story",
@@ -2339,7 +2478,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:25.692914",
+      "fetched_at": "2026-11-26T02:39:26.050724",
       "extra": {
         "provider": "google_news",
         "query": "orphan rescued missionary story",
@@ -2451,7 +2590,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:24.119460",
+      "fetched_at": "2026-11-26T02:39:24.780764",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",
@@ -2488,7 +2627,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:25.066143",
+      "fetched_at": "2026-11-26T02:39:25.688445",
       "extra": {
         "provider": "google_news",
         "query": "témoignage chrétien histoire de vie",
@@ -2561,7 +2700,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:24.163372",
+      "fetched_at": "2026-11-26T02:39:24.901520",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2598,7 +2737,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:24.685317",
+      "fetched_at": "2026-11-26T02:39:25.387481",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2671,7 +2810,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:24.684753",
+      "fetched_at": "2026-11-26T02:39:25.386428",
       "extra": {
         "provider": "google_news",
         "query": "testemunho missionário Brasil história de fé",
@@ -2743,7 +2882,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:24.163489",
+      "fetched_at": "2026-11-26T02:39:24.901692",
       "extra": {
         "provider": "google_news",
         "query": "kesaksian misionaris kisah",
@@ -2816,7 +2955,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 2,
-      "fetched_at": "2026-11-25T03:23:24.120169",
+      "fetched_at": "2026-11-26T02:39:24.781485",
       "extra": {
         "provider": "google_news",
         "query": "宣教師 証し",

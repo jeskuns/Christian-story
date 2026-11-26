@@ -2,7 +2,7 @@
   "category": "china",
   "label": "中国故事",
   "count": 17,
-  "updated_at": "2026-11-25T11:28:13.963758+08:00",
+  "updated_at": "2026-11-26T10:44:28.756514+08:00",
   "articles": [
     {
       "title": "Trump, Xi, and Putin Meet Amid Deteriorating Religious Freedom Conditions",
@@ -10,7 +10,7 @@
       "category": "china",
       "source": "Persecution.org · 受逼迫教会见证",
       "source_url": "https://www.persecution.org/feed/",
-      "published": "2026-11-25",
+      "published": "2026-11-26",
       "summary": "U.S. President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin met Thursday in Shenzhen, China, for an unprecedented trilateral summit, projecting an image of cooperation among three of the world’s most powerful nations but offering few concrete agreements on the conflicts and international issues facing them. The roughly 80-minute meeting produced a…   The post  Trump, Xi, and Putin Meet Amid Deteriorating Religious Freedom Conditions   first appeared on  Intern",
       "summary_zh": "美国总统唐纳德·特朗普,中国国家主席习近平,俄罗斯总统弗拉基米尔·普京星期四在中国深圳举行前所未有的三边峰会,展现出世界三大强国之间合作的形象,但对面临的冲突和国际问题却很少提出具体协议.\n\n大约80分钟的会议产生了一个. .",
       "title_zh": "特朗普、习近平和普京在宗教自由状况恶化之际会晤",
@@ -32,13 +32,48 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-25T03:23:19.655405",
+      "fetched_at": "2026-11-26T02:39:18.382670",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
         "domain": "persecution.org"
       },
       "id": "7bd9db44a6c1f2d4"
+    },
+    {
+      "title": "Kazakh Christian flees to Norway",
+      "url": "https://www.assistnews.net/kazakh-christian-flees-to-norway/",
+      "category": "china",
+      "source": "Assist News Service · 宣教通讯",
+      "source_url": "https://www.assistnews.net/feed/",
+      "published": "2026-11-26",
+      "summary": "By Gao Zhensai — A Kazakh Christian who campaigned for his father’s release from detention in northwestern China’s Xinjiang region has reached Norway with his wife and three young children after fleeing what he described as mounting pressure from authorities in Kazakhstan. Zhengis Nartay, in his 30s, said he learned after arriving in Norway that […]",
+      "summary_zh": "高振赛报道——一位哈萨克族基督徒曾为争取其父亲在中国西北部新疆地区获释而奔走呼吁，如今他已与妻子和三个年幼的孩子抵达挪威，此前他逃离了哈萨克斯坦当局对他所说的日益加大的压力。30多岁的Zhengis Nartay表示，他在抵达挪威后得知……",
+      "title_zh": "哈萨克基督徒逃往挪威",
+      "content": "By Gao Zhensai — A Kazakh Christian who campaigned for his father’s release from detention in northwestern China’s Xinjiang region has reached Norway with his wife and three young children after fleeing what he described as mounting pressure from authorities in Kazakhstan. Zhengis Nartay, in his 30s, said he learned after arriving in Norway that […]",
+      "content_zh": "高振赛报道——一位哈萨克族基督徒曾为争取其父亲在中国西北部新疆地区获释而奔走呼吁，如今他已与妻子和三个年幼的孩子抵达挪威，此前他逃离了哈萨克斯坦当局对他所说的日益加大的压力。30多岁的Zhengis Nartay表示，他在抵达挪威后得知……",
+      "image": "https://www.assistnews.net/wp-content/uploads/2024/02/assistnewslogo-350x92.png",
+      "author": "Mark Ellis",
+      "tags": [
+        "中国",
+        "中国故事",
+        "Persecution",
+        "persecution china",
+        "china persecution of christians"
+      ],
+      "language": "en",
+      "country": "US",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 3,
+      "fetched_at": "2026-11-26T02:39:17.568046",
+      "extra": {
+        "feed_type": "rss20",
+        "story_score": 4,
+        "domain": "assistnews.net"
+      },
+      "id": "0584cbe3ef0ab433"
     },
     {
       "title": "ASEAN Continues Exclusion of Myanmar’s Military Junta Amid Ongoing Conflict",
@@ -74,41 +109,6 @@
         "domain": "persecution.org"
       },
       "id": "96ec0f209f400b93"
-    },
-    {
-      "title": "Kazakh Christian flees to Norway",
-      "url": "https://www.assistnews.net/kazakh-christian-flees-to-norway/",
-      "category": "china",
-      "source": "Assist News Service · 宣教通讯",
-      "source_url": "https://www.assistnews.net/feed/",
-      "published": "2026-11-25",
-      "summary": "By Gao Zhensai — A Kazakh Christian who campaigned for his father’s release from detention in northwestern China’s Xinjiang region has reached Norway with his wife and three young children after fleeing what he described as mounting pressure from authorities in Kazakhstan. Zhengis Nartay, in his 30s, said he learned after arriving in Norway that […]",
-      "summary_zh": "高振赛报道——一位哈萨克族基督徒曾为争取其父亲在中国西北部新疆地区获释而奔走呼吁，如今他已与妻子和三个年幼的孩子抵达挪威，此前他逃离了哈萨克斯坦当局对他所说的日益加大的压力。30多岁的Zhengis Nartay表示，他在抵达挪威后得知……",
-      "title_zh": "哈萨克基督徒逃往挪威",
-      "content": "By Gao Zhensai — A Kazakh Christian who campaigned for his father’s release from detention in northwestern China’s Xinjiang region has reached Norway with his wife and three young children after fleeing what he described as mounting pressure from authorities in Kazakhstan. Zhengis Nartay, in his 30s, said he learned after arriving in Norway that […]",
-      "content_zh": "高振赛报道——一位哈萨克族基督徒曾为争取其父亲在中国西北部新疆地区获释而奔走呼吁，如今他已与妻子和三个年幼的孩子抵达挪威，此前他逃离了哈萨克斯坦当局对他所说的日益加大的压力。30多岁的Zhengis Nartay表示，他在抵达挪威后得知……",
-      "image": "https://www.assistnews.net/wp-content/uploads/2024/02/assistnewslogo-350x92.png",
-      "author": "Mark Ellis",
-      "tags": [
-        "中国",
-        "中国故事",
-        "Persecution",
-        "persecution china",
-        "china persecution of christians"
-      ],
-      "language": "en",
-      "country": "US",
-      "region": "中国",
-      "stance": "evangelical",
-      "flags": [],
-      "priority": 3,
-      "fetched_at": "2026-11-25T03:23:19.071190",
-      "extra": {
-        "feed_type": "rss20",
-        "story_score": 4,
-        "domain": "assistnews.net"
-      },
-      "id": "0584cbe3ef0ab433"
     },
     {
       "title": "Hong Kong Christian, pro-democracy activist sentenced",
