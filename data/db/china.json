@@ -1,8 +1,8 @@
 {
   "category": "china",
   "label": "中国故事",
-  "count": 17,
-  "updated_at": "2026-11-26T10:44:28.756514+08:00",
+  "count": 20,
+  "updated_at": "2026-11-27T10:45:09.698553+08:00",
   "articles": [
     {
       "title": "Trump, Xi, and Putin Meet Amid Deteriorating Religious Freedom Conditions",
@@ -10,7 +10,7 @@
       "category": "china",
       "source": "Persecution.org · 受逼迫教会见证",
       "source_url": "https://www.persecution.org/feed/",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "U.S. President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin met Thursday in Shenzhen, China, for an unprecedented trilateral summit, projecting an image of cooperation among three of the world’s most powerful nations but offering few concrete agreements on the conflicts and international issues facing them. The roughly 80-minute meeting produced a…   The post  Trump, Xi, and Putin Meet Amid Deteriorating Religious Freedom Conditions   first appeared on  Intern",
       "summary_zh": "美国总统唐纳德·特朗普,中国国家主席习近平,俄罗斯总统弗拉基米尔·普京星期四在中国深圳举行前所未有的三边峰会,展现出世界三大强国之间合作的形象,但对面临的冲突和国际问题却很少提出具体协议.\n\n大约80分钟的会议产生了一个. .",
       "title_zh": "特朗普、习近平和普京在宗教自由状况恶化之际会晤",
@@ -32,7 +32,7 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-26T02:39:18.382670",
+      "fetched_at": "2026-11-27T02:40:04.494149",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
@@ -46,7 +46,7 @@
       "category": "china",
       "source": "Assist News Service · 宣教通讯",
       "source_url": "https://www.assistnews.net/feed/",
-      "published": "2026-11-26",
+      "published": "2026-11-27",
       "summary": "By Gao Zhensai — A Kazakh Christian who campaigned for his father’s release from detention in northwestern China’s Xinjiang region has reached Norway with his wife and three young children after fleeing what he described as mounting pressure from authorities in Kazakhstan. Zhengis Nartay, in his 30s, said he learned after arriving in Norway that […]",
       "summary_zh": "高振赛报道——一位哈萨克族基督徒曾为争取其父亲在中国西北部新疆地区获释而奔走呼吁，如今他已与妻子和三个年幼的孩子抵达挪威，此前他逃离了哈萨克斯坦当局对他所说的日益加大的压力。30多岁的Zhengis Nartay表示，他在抵达挪威后得知……",
       "title_zh": "哈萨克基督徒逃往挪威",
@@ -67,13 +67,114 @@
       "stance": "evangelical",
       "flags": [],
       "priority": 3,
-      "fetched_at": "2026-11-26T02:39:17.568046",
+      "fetched_at": "2026-11-27T02:40:03.455769",
       "extra": {
         "feed_type": "rss20",
         "story_score": 4,
         "domain": "assistnews.net"
       },
       "id": "0584cbe3ef0ab433"
+    },
+    {
+      "title": "Cementerio judío de Mostar : huella sefardí en los Balcanes",
+      "url": "https://www.aurora-israel.co.il/cementerio-judio-de-mostar-huella-sefardi/",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-27",
+      "summary": "Por Ricardo Angoso El cementerio judío de Mostar, situado en el barrio de Sutina, es uno de los testimonios más interesantes de la presencia histórica de los judíos en Herzegovina y, fundamentalmente,",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "Por Ricardo Angoso El cementerio judío de Mostar, situado en el barrio de Sutina, es uno de los testimonios más interesantes de la presencia histórica de los judíos en Herzegovina y, fundamentalmente, de los sefardíes en los Balcanes. Tiene una particularidad: aunque la comunidad judía de Mostar se remonta al siglo XVI, el cementerio que hoy podemos visitar es bastante posterior. Sin embargo, existe cierta controversia sobre su antigüedad, ya que algunas fuentes locales hablan de un origen en el siglo XVII, mientras que los estudios patrimoniales documentan la existencia del cementerio actual a finales del siglo XIX. Como dato práctico para quienes quieran visitarlo, conviene señalar que se encuentra en la carretera M-17, frente a una gasolinera y muy cerca de la ciudad, en una zona que se asemeja a una especie de polígono industrial poco poblado. Es fácil pasar por alto su ubicación si se circula en coche. Los orígenes de la comunidad judía de Mostar La presencia judía en Mostar está documentada desde 1570, durante el dominio del Imperio otomano. Los primeros judíos conocidos fueron sefardíes, descendientes de aquellos que habían abandonado España después de la expulsión de 1492 y que encontraron refugio en los territorios otomanos. Se conocen dos antiguos sefardíes prominentes establecidos en Mostar: Daniel Rodríguez, comerciante que mantenía relaciones comerciales con Venecia, Dubrovnik y otros centros del Mediterráneo, y Moše Koen, también citado en algunas fuentes con variantes de su apellido. Los judíos contribuyeron al desarrollo comercial y artesanal de Mostar. La ciudad ocupaba una posición estratégica entre el interior de los Balcanes y la costa adriática, entre el mundo veneciano, el entonces Imperio otomano y los flujos comerciales procedentes de Occidente. Posteriormente, durante el siglo XIX, especialmente después de la ocupación austrohúngara de Bosnia en 1878, llegaron también judíos asquenazíes procedentes de Europa central. Ambas comunidades convivieron y terminaron constituyendo una comunidad judía organizada, aunque el elemento sefardí siempre fue predominante. Otro pequeño grupo de judíos asquenazíes había llegado a esta ciudad después de la caída de Budapest en manos cristianas, en 1686, cuando la ciudad, hasta entonces ocupada por los turcos, pasó a manos de los Habsburgo. Paradójicamente, el entorno otomano había resultado más tolerante hacia los judíos que el que ofrecieron posteriormente las autoridades cristianas. En lo que respecta a la evolución demográfica de la comunidad, hemos encontrado algunos datos de interés: en 1879 había aproximadamente 35 judíos; en 1885, unos 98; en 1895, 164; en 1910, 254; y en 1930, alrededor de 300. La población aumentó ligeramente durante los años posteriores, hasta 1939, cuando comenzó la Segunda Guerra Mundial y se puso en marcha la maquinaria criminal del Holocausto. Tras la contienda, ya en plena Yugoslavia socialista, quedaban algo menos de 70 judíos viviendo en Mostar. Hoy, seguramente, no quedan ni tres decenas de miembros de la comunidad judía en la ciudad. ¿Cuántos años tiene el cementerio? Existen dos versiones sobre su antigüedad. La primera sitúa su origen en el siglo XVII, aunque no quedan rastros materiales de aquel supuesto recinto. Al parecer, Zoran Mandlbaum, antiguo dirigente de la comunidad judía de Mostar, escribió que el cementerio se fundó entre 1630 y 1650, mediante la adquisición de unos 1.850 metros cuadrados de terreno. Según este testimonio, habría tumbas de más de 350 años de antigüedad. Sin embargo, no hay constancia material de las mismas y tampoco está claro que aquel camposanto estuviera situado en el mismo lugar que ocupa el actual. La segunda versión sitúa su fundación en el siglo XIX y resulta mucho más creíble, sobre todo en lo referente al recinto que hoy podemos visitar. El estudio patrimonial de Samuel D. Gruber, publicado en 2011 por la Comisión estadounidense para la Preservación del Patrimonio de Estados Unidos en el Extranje",
+      "content_zh": "",
+      "image": "https://www.aurora-israel.co.il/wp-content/uploads/2026/11/f87133ab-d1a9-4114-adea-538b49d586c6.webp",
+      "author": "aurora-israel.co.il",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:41:47.375649",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "aurora-israel.co.il",
+        "story_score": 7
+      },
+      "id": "194214c561991f7e"
+    },
+    {
+      "title": "Judge adjourns Kyra Backs so defense can review autopsy photos",
+      "url": "https://edmontonsun.com/grande-prairie/kyra-backs-trial-disclosure-baby-death",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-27",
+      "summary": "Article content The Kyra Renee Backs trial was adjourned following an argument from the defence that a lack of disclosure from the Crown could have a detrimental impact on the former day-home operator",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "Article content The Kyra Renee Backs trial was adjourned following an argument from the defence that a lack of disclosure from the Crown could have a detrimental impact on the former day-home operator’s trial. Missing from the disclosure were photos discussed on Nov. 13, defence lawyer Danielle Boisvert said. Recommended Videos “The reason being, sir, is that these photographs are first-party disclosure that are essential to this case as disclosure could possibly get.” Backs, now 33, ran an unlicensed day-home in High Prairie. She was charged with second-degree murder following the October 6, 2022, death of a child in her care — seven-month-old Oaklan Cunningham. The deceased as well as witnesses and any identifiable information were previously included in a publication ban at the beginning of the trial. Justice Peter B. Michalyshyn lifted the ban before hearing arguments for the adjournment. Her trial began in Peace River in January, and adjourned to review disclosure and resumed in July. The midsummer session included days of testimony from police, EMS and witnesses before the trial adjourned again. At that time the court would be setting dates for an Edmonton courtroom to accommodate expert witnesses and resumed in November. The photos given to the defence varied from those the Crown had. That the brain is reportedly the criminally injured organ, photos submitted into evidence that included the infant’s brain, eyes and spinal cord had not been provided to the defence, Boisvert said. “What came about in preparation for this case was a concern by defence, of the photographs that had not been provided of the dissection and cutting of the brain by the neurologist,” she added. Given that expert testimony would relate to those procedures, the defence’s strategy with the Crown witnesses could be compromised. Furthermore, Boisvert said previous questions to witnesses were based on the disclosure they had. Those witnesses may need to be recalled. Crown prosecutor Jeff Rudiak responded saying the Crown didn’t intend to use the photos. Instead, they would be presenting the testimony of the expert who took the photos. Michalyshyn found there was reason to grant the request. During the January voir dire, testimony by a Crown witness highlighted the importance of the photos, Michalyshyn said. The relevance and materiality of the photographs are still unknown, he added. The defence counsel very fairly said in her submission that she doesn’t yet know how material they are and requires more information. “I agree with the submissions of Ms. Boisvert, that I cannot be satisfied that the trial will be fair, if this early relevant and potentially material evidence is not available to the court through properly prepared expert witnesses.” Allowing the trial to continue as requested by the Crown has the potential to impact the expert testimony if interrupted, Michalyshyn said. The information should be presented and considered in a conventional rather than unconventional, truncated and piecemeal fashion. Moving the trial’s venue from Peace River was made because of the intricacy of the evidence. “It was likely that the expert evidence in this trial would be complex, closely contested, and critical with regard to the ultimate verdict in the case, and there’s no reason to think that that’s changed.” The trial is scheduled to resume Nov. 27 at Court of King’s Bench in Edmonton. Bookmark our website and support our journalism:Don’t miss the news you need to know — add EdmontonJournal.com and EdmontonSun.com to your bookmarks and sign up for our newsletters here. You can also support our journalism by becoming a digital subscriber. Subscribers gain unlimited access to The Edmonton Journal, Edmonton Sun, National Post and 13 other Canadian news sites. Support us by subscribing today: The Edmonton Journal | The Edmonton Sun.",
+      "content_zh": "",
+      "image": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2026/06/high-prairie_79046392.jpg",
+      "author": "edmontonsun.com",
+      "tags": [
+        "中国",
+        "中国故事",
+        "见证"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:41:47.717320",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "edmontonsun.com",
+        "story_score": 11
+      },
+      "id": "1f906260b1580a10"
+    },
+    {
+      "title": "The Real Thanksgiving Pilgrim Story , Bradford History of Plimoth Plantation Full Text & Audio – The Pine Tree",
+      "url": "https://new.thepinetree.net/?p=206850",
+      "category": "china",
+      "source": "GDELT · 中国与华人见证",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "published": "2026-11-27",
+      "summary": "Plymouth, MA…Much of the American Story of leaving oppression, seeking freedom, self government & pioneering a new life comes through the story of the Mayflower, Plimoth Plantation and Colony. From th",
+      "summary_zh": "",
+      "title_zh": "",
+      "content": "Plymouth, MA…Much of the American Story of leaving oppression, seeking freedom, self government & pioneering a new life comes through the story of the Mayflower, Plimoth Plantation and Colony. From the Mayflower Compact to working with and befriending the Native Americans our Thanksgiving Story starts here. Much of it stems from the account of William Bradford. This strips away what people say about what happened and takes it back to a first person account. On Thanksgiving we thought it would be a good time to post it in its entirety in both full text and audio format from project Gutenberg and Librivox. Thanksgiving at Plymouth, oil on canvas by Jennie Augusta Brownscombe, 1925 The Project Gutenberg eBook, Bradford’s History of ‘Plimoth Plantation’, by William Bradford This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org Title: Bradford’s History of ‘Plimoth Plantation’ From the Original Manuscript. With a Report of the Proceedings Incident to the Return of the Manuscript to Massachusetts Author: William Bradford Release Date: March 29, 2008 [eBook #24950] Language: English ***START OF THE PROJECT GUTENBERG EBOOK BRADFORD’S HISTORY OF ‘PLIMOTH PLANTATION’*** E-text prepared by Juliet Sutherland, Leonard Johnson, and the Project Gutenberg Online Distributed Proofreading Team (https://www.pgdp.net) Note: Project Gutenberg also has an HTML version of this file which includes the original illustrations. See 24950-h.htm or 24950-h.zip: (https://www.gutenberg.org/dirs/2/4/9/5/24950/24950-h/24950-h.htm) or (https://www.gutenberg.org/dirs/2/4/9/5/24950/24950-h.zip) Transcribers note: Numbers in square brackets, [29], represent original manuscript pages. Letters in Square brackets, [AB], represent a link to a footnote located at the end of the book. A caret ^ indicates that the following letter/s are superscripted. The letters are enclosed in curly brackets where it may not be clear about which letters are superscripted. A square bracket, like [~m] indicates a letter with a tilde above. A square bracket, like [p=] indicates a letter with a macron under the letter. [=m] and [=n] sometimes are used to represent a double letter. 16^li. represents 16 pounds in monetary terms. The original manuscript used a middle dot before and after the numbers, but this publisher used only a single period/stop after the number. The ‘li’ appears to mean libra and in this book the ‘l’ is crossed with a middle bar or stroke. It was very difficult to represent in a Latin-1 text, so ‘li’ must suffice. Most often y, such as y^e, represents a thorn and the word is ‘the’. Sometimes you will encounter the actual word ‘the’. This book is composed of many letters written by a number of authors and each writer uses their own spellings and abbreviations, which was common for the time in which they were written. Spelling is inconsistent and is left unchanged from the original printing of this book. BRADFORD’S HISTORY “OF PLIMOTH PLANTATION.” From the Original Manuscript. With a Report of the Proceedings Incident to the Return of the Manuscript to Massachusetts. Printed Under the Direction of the Secretary of the Commonwealth, by Order of the General Court. Boston: Wright & Potter Printing Co., State Printers, 18 Post Office Square. 1898. INTRODUCTION. To many people the return of the Bradford Manuscript is a fresh discovery of colonial history. By very many it has been called, incorrectly, the log of the “Mayflower.” Indeed, that is the title by which it is described in the decree of the Consistorial Court of London. The fact is, however, that Governor Bradford undertook its preparation long after the arrival of the Pilgrims, and it cannot be properly considered as in any sense a log or daily journal of the voyage of the “Mayflower.” It is, in point of fact, a history of the ",
+      "content_zh": "",
+      "image": "https://new.thepinetree.net/wp-content/uploads/2022/11/Plimoth.jpg",
+      "author": "new.thepinetree.net",
+      "tags": [
+        "中国",
+        "中国故事"
+      ],
+      "language": "zh",
+      "country": "CN",
+      "region": "中国",
+      "stance": "evangelical",
+      "flags": [],
+      "priority": 2,
+      "fetched_at": "2026-11-27T02:41:51.154763",
+      "extra": {
+        "provider": "gdelt",
+        "query": "Christian testimony",
+        "domain": "new.thepinetree.net",
+        "story_score": 8
+      },
+      "id": "49a77626b1b47e03"
     },
     {
       "title": "ASEAN Continues Exclusion of Myanmar’s Military Junta Amid Ongoing Conflict",
